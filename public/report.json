@@ -1,0 +1,447 @@
+{
+ "date": "2026-10-16",
+ "title": "Market Surf Report",
+ "edition": "Dawn Patrol Edition",
+ "is_sample": false,
+ "updated": "Oct 16, 6:55 AM CT",
+ "conditions": {
+  "rating": "Fair",
+  "headline": "Choppy sets as the Dow paddles and tech wobbles",
+  "summary": "Early futures are mixed, with Dow futures a touch higher and Nasdaq futures lower as the chip selloff lingers. Hot inflation data and a 10-year yield near 5% keep rate-cut hopes on hold."
+ },
+ "tape": [
+  {
+   "label": "S&P fut",
+   "value": "+0.1%",
+   "dir": "flat"
+  },
+  {
+   "label": "Nasdaq fut",
+   "value": "-0.3%",
+   "dir": "down"
+  },
+  {
+   "label": "Dow fut",
+   "value": "+0.3%",
+   "dir": "up"
+  },
+  {
+   "label": "Russell fut",
+   "value": "—",
+   "dir": "flat"
+  },
+  {
+   "label": "10-yr",
+   "value": "5.06%",
+   "dir": "down"
+  },
+  {
+   "label": "Dollar",
+   "value": "102.0",
+   "dir": "down"
+  },
+  {
+   "label": "Crude",
+   "value": "$95",
+   "dir": "flat"
+  },
+  {
+   "label": "Gold",
+   "value": "$4,155",
+   "dir": "up"
+  },
+  {
+   "label": "Bitcoin",
+   "value": "$82K",
+   "dir": "up"
+  },
+  {
+   "label": "VIX",
+   "value": "—",
+   "dir": "flat"
+  }
+ ],
+ "sections": [
+  {
+   "id": "swell",
+   "surf": "The Swell",
+   "title": "Futures & Overnight",
+   "items": [
+    "Early futures are mixed: Dow futures up about 0.3%, S&P 500 futures roughly flat, Nasdaq-100 futures down about 0.3%; quotes are early and thin.",
+    "Russell 2000 futures and the VIX had no reliable early reading in our sources.",
+    "Thursday the S&P 500 rose 0.3% to 7,744 and the Dow gained about 1.1% to 52,178, while the Nasdaq ended slightly higher.",
+    "The S&P 500 is down about 0.9% for the week and the Nasdaq about 2.4%, hit by the AI and chip selloff.",
+    "The 10-year Treasury yield closed Thursday near 5.06%, after its biggest one-day drop in over a year.",
+    "The dollar index eased to about 102, gold traded near $4,155, WTI crude was around $95, and bitcoin bounced to about $82,000.",
+    "Asia was mostly higher as tech steadied, though Indonesian stocks slumped on an MSCI reclassification proposal.",
+    "Europe was mixed Thursday, with the FTSE 100 up about 1% and the Euro Stoxx 50 down 0.3%."
+   ]
+  },
+  {
+   "id": "wind",
+   "surf": "Wind & Weather",
+   "title": "Macro & Economic Calendar",
+   "items": [
+    "September industrial production is due at 8:15 AM CT; one calendar shows a consensus of +0.4% after a flat August.",
+    "Fed Chair Kevin Warsh is on the calendar to speak today alongside other central bank heads; timing varies by source.",
+    "Hotter-than-expected September inflation data this week has pushed rate-cut hopes further out.",
+    "Shipping disruption in the Strait of Hormuz is keeping oil prices elevated."
+   ]
+  },
+  {
+   "id": "tide",
+   "surf": "Tide Chart",
+   "title": "Earnings",
+   "items": [
+    "Before the open: Travelers, Truist, Regions, M&T Bank, Citizens Financial and SLB are scheduled to report.",
+    "Travelers is expected to earn about $7.35 a share on roughly $11.3 billion in revenue.",
+    "Results were not yet out at writing time, so watch bank and insurer reactions at the open.",
+    "One calendar lists Interactive Brokers, J.B. Hunt and Alcoa after the close; timing should be confirmed."
+   ]
+  },
+  {
+   "id": "lineup",
+   "surf": "The Lineup",
+   "title": "Stocks in the News",
+   "items": [
+    "TSLA (Tesla): +5% — unveiled its new Roadster at a live event Thursday evening.",
+    "RKLB (Rocket Lab): -9% — said the first Neutron rocket launch has slipped into 2027.",
+    "CRCL (Circle Internet Group): +9% — bullish research on its USDC stablecoin leadership.",
+    "CRWV (CoreWeave): -6% — extends losses on worries about AI infrastructure debt.",
+    "MU (Micron): -4% — chip weakness continues; SK Hynix fell about 7% overseas.",
+    "RBLX (Roblox): +7.5% — among early pre-market gainers; no single catalyst cited."
+   ]
+  },
+  {
+   "id": "beach",
+   "surf": "Beach Talk",
+   "title": "Business News",
+   "items": [
+    "Chip stocks are on pace to lose about $1 trillion in value as the AI selloff grows; the semiconductor index fell six straight sessions.",
+    "Workday agreed to buy C1.ai, which governs access for people and AI agents; terms were not disclosed.",
+    "Tata Consultancy Services launched an industrial AI offering and closed a small acquisition in India.",
+    "MSCI is consulting on moving Indonesia out of emerging-market status, sending Indonesian stocks sharply lower.",
+    "Investors are rotating away from the AI trade toward Dow-style value names this week."
+   ]
+  },
+  {
+   "id": "watch",
+   "surf": "Sets to Watch",
+   "title": "What to Watch Today",
+   "items": [
+    "8:15 AM CT: September industrial production, consensus about +0.4%.",
+    "8:30 AM CT open: whether chips and the Nasdaq stabilize or the rotation into the Dow continues.",
+    "The 10-year yield near 5% and any comments from Fed Chair Warsh."
+   ]
+  }
+ ],
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, October sixteenth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the cabana deck is Gus the wonder dog, fresh off his morning beach patrol. Gus, give the crew a Friday hello! Here's the swell on this Dawn Patrol. Early futures are mixed and the quotes are thin. Dow futures are up about three tenths of a percent. S and P five hundred futures are close to flat. Nasdaq one hundred futures are down about three tenths of a percent. The Nasdaq is still down about two point four percent this week. That chip selloff has been gnarly. The ten year yield sits near five point zero six percent. Gold is near forty one hundred fifty dollars, crude is near ninety five, and bitcoin is about eighty two thousand. Asia was mostly higher, and Europe was mixed. Wind and weather. September industrial production lands at eight fifteen A M Central. Fed Chair Kevin Warsh also speaks today, and hot inflation data has pushed rate cut hopes further out. Tide chart. Travelers, Truist, Regions, M and T Bank, Citizens and S L B report before the open. The lineup. Tesla is up about five percent after unveiling its new Roadster. Rocket Lab is down about nine percent after delaying its first Neutron launch to twenty twenty-seven. CoreWeave is down six percent, and Micron is down four. Gus just eyed the snack jar when I said Micron. Not a chip, buddy. Beach talk. Chip stocks are on pace to lose about one trillion dollars in value. Workday agreed to buy C one dot A I, an A I security startup. Sets to watch. Industrial production at eight fifteen. The opening bell at eight thirty, to see if chips can find their footing. And that ten year yield near five percent. Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you. Soul surfers, stay patient out there. I just tossed Gus a biscuit, and he's stoked. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "sources": [
+  {
+   "title": "CNBC live updates Oct 15",
+   "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "Vantage: US futures Oct 16",
+   "url": "https://www.vantagemarkets.com/market-news/us-futures-today-nasdaq-100-sp500-lower-october-16-2026/"
+  },
+  {
+   "title": "Investrade morning preview",
+   "url": "https://investrade.com/morning-preview-october-16-2026/"
+  },
+  {
+   "title": "Goodreturns US outlook Oct 16",
+   "url": "https://www.goodreturns.in/news/us-stock-market-outlook-for-friday-oct-16-will-dow-jones-nasdaq-s-p-500-extend-rally-futures-mixed-1541913.html"
+  },
+  {
+   "title": "Investing.com: 10-year yield",
+   "url": "https://investing.com/news/economy-news/us-treasury-yields-slide-after-cpidriven-spike-4950530"
+  },
+  {
+   "title": "FXStreet: Gold",
+   "url": "https://fxstreet.com/news/gold-rebounds-as-global-equity-sell-off-weigh-on-treasury-yields-202610151104"
+  },
+  {
+   "title": "Schwab market update",
+   "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+  },
+  {
+   "title": "XTB daily summary",
+   "url": "https://xtb.com/cy/market-analysis/news-and-research/daily-summary-precious-metals-and-stock-indices-rebound-as-treasury-yields-fall"
+  },
+  {
+   "title": "Newsquawk European open",
+   "url": "https://newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---16th-october-2026"
+  },
+  {
+   "title": "investingLive: Warsh calendar",
+   "url": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-friday-october-16-2026-federal-reserve-chair-warsh-speaking/"
+  },
+  {
+   "title": "Finance Calendar: industrial production",
+   "url": "https://www.financecalendar.com/us-industrial-production/"
+  },
+  {
+   "title": "Benzinga earnings Oct 16",
+   "url": "https://www.benzinga.com/news/earnings/26/10/62406332/earnings-scheduled-october-16-2026"
+  },
+  {
+   "title": "TheStreet earnings Oct 16",
+   "url": "https://pro.thestreet.com/earnings/2026-10-16"
+  },
+  {
+   "title": "Investing.com premarket movers",
+   "url": "https://ca.investing.com/news/stock-market-news/premarket-movers-chip-stocks-slide-as-inflation-fears-hit-ai-trade-4882731"
+  },
+  {
+   "title": "Quartz: chip stocks selloff",
+   "url": "https://qz.com/chip-stocks-trillion-ai-selloff-semiconductor-index-101426"
+  },
+  {
+   "title": "Verdict: Workday C1.ai",
+   "url": "https://www.verdict.co.uk/workday-c1-ai-acquisition/"
+  },
+  {
+   "title": "BusinessToday: TCS",
+   "url": "https://businesstoday.in/amp/markets/stocks/story/tcs-launches-industrial-intelligence-foundry-for-industrial-ai-completes-bby-services-india-llp-acquisition-561846-2026-10-15"
+  }
+ ],
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, October sixteenth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the cabana deck is Gus the wonder dog, fresh off his morning beach patrol. Gus, give the crew a Friday hello! [BARK] Here's the swell on this Dawn Patrol. Early futures are mixed and the quotes are thin. Dow futures are up about three tenths of a percent. S and P five hundred futures are close to flat. Nasdaq one hundred futures are down about three tenths of a percent. The Nasdaq is still down about two point four percent this week. That chip selloff has been gnarly. The ten year yield sits near five point zero six percent. Gold is near forty one hundred fifty dollars, crude is near ninety five, and bitcoin is about eighty two thousand. Asia was mostly higher, and Europe was mixed. Wind and weather. September industrial production lands at eight fifteen A M Central. Fed Chair Kevin Warsh also speaks today, and hot inflation data has pushed rate cut hopes further out. Tide chart. Travelers, Truist, Regions, M and T Bank, Citizens and S L B report before the open. The lineup. Tesla is up about five percent after unveiling its new Roadster. Rocket Lab is down about nine percent after delaying its first Neutron launch to twenty twenty-seven. CoreWeave is down six percent, and Micron is down four. Gus just eyed the snack jar when I said Micron. Not a chip, buddy. Beach talk. Chip stocks are on pace to lose about one trillion dollars in value. Workday agreed to buy C one dot A I, an A I security startup. Sets to watch. Industrial production at eight fifteen. The opening bell at eight thirty, to see if chips can find their footing. And that ten year yield near five percent. Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you. Soul surfers, stay patient out there. I just tossed Gus a biscuit, and he's stoked. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "audio": "report.mp3",
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 1.17,
+   "text": "Cowabunga!",
+   "speaker": "surf"
+  },
+  {
+   "start": 1.45,
+   "end": 11.29,
+   "text": "This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore.",
+   "speaker": "surf"
+  },
+  {
+   "start": 11.57,
+   "end": 18.01,
+   "text": "It's Friday, October sixteenth, twenty twenty-six, and this is your Market Surf Report.",
+   "speaker": "surf"
+  },
+  {
+   "start": 18.29,
+   "end": 25.05,
+   "text": "Riding shotgun on the cabana deck is Gus the wonder dog, fresh off his morning beach patrol.",
+   "speaker": "surf"
+  },
+  {
+   "start": 25.33,
+   "end": 27.62,
+   "text": "Gus, give the crew a Friday hello!",
+   "speaker": "surf"
+  },
+  {
+   "start": 27.9,
+   "end": 28.45,
+   "text": "Woof! Woof!",
+   "speaker": "gus"
+  },
+  {
+   "start": 28.73,
+   "end": 31.29,
+   "text": "Here's the swell on this Dawn Patrol.",
+   "speaker": "surf"
+  },
+  {
+   "start": 31.57,
+   "end": 34.81,
+   "text": "Early futures are mixed and the quotes are thin.",
+   "speaker": "surf"
+  },
+  {
+   "start": 35.09,
+   "end": 38.57,
+   "text": "Dow futures are up about three tenths of a percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 38.85,
+   "end": 42.86,
+   "text": "S and P five hundred futures are close to flat.",
+   "speaker": "surf"
+  },
+  {
+   "start": 43.14,
+   "end": 48.0,
+   "text": "Nasdaq one hundred futures are down about three tenths of a percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 48.28,
+   "end": 52.57,
+   "text": "The Nasdaq is still down about two point four percent this week.",
+   "speaker": "surf"
+  },
+  {
+   "start": 52.85,
+   "end": 55.13,
+   "text": "That chip selloff has been gnarly.",
+   "speaker": "surf"
+  },
+  {
+   "start": 55.41,
+   "end": 59.42,
+   "text": "The ten year yield sits near five point zero six percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 59.7,
+   "end": 68.41,
+   "text": "Gold is near forty one hundred fifty dollars, crude is near ninety five, and bitcoin is about eighty two thousand.",
+   "speaker": "surf"
+  },
+  {
+   "start": 68.69,
+   "end": 72.01,
+   "text": "Asia was mostly higher, and Europe was mixed.",
+   "speaker": "surf"
+  },
+  {
+   "start": 72.29,
+   "end": 73.74,
+   "text": "Wind and weather.",
+   "speaker": "surf"
+  },
+  {
+   "start": 74.02,
+   "end": 78.8,
+   "text": "September industrial production lands at eight fifteen A M Central.",
+   "speaker": "surf"
+  },
+  {
+   "start": 79.08,
+   "end": 86.59,
+   "text": "Fed Chair Kevin Warsh also speaks today, and hot inflation data has pushed rate cut hopes further out.",
+   "speaker": "surf"
+  },
+  {
+   "start": 86.87,
+   "end": 88.11,
+   "text": "Tide chart.",
+   "speaker": "surf"
+  },
+  {
+   "start": 88.39,
+   "end": 95.84,
+   "text": "Travelers, Truist, Regions, M and T Bank, Citizens and S L B report before the open.",
+   "speaker": "surf"
+  },
+  {
+   "start": 96.12,
+   "end": 97.16,
+   "text": "The lineup.",
+   "speaker": "surf"
+  },
+  {
+   "start": 97.44,
+   "end": 102.13,
+   "text": "Tesla is up about five percent after unveiling its new Roadster.",
+   "speaker": "surf"
+  },
+  {
+   "start": 102.41,
+   "end": 109.58,
+   "text": "Rocket Lab is down about nine percent after delaying its first Neutron launch to twenty twenty-seven.",
+   "speaker": "surf"
+  },
+  {
+   "start": 109.86,
+   "end": 114.21,
+   "text": "CoreWeave is down six percent, and Micron is down four.",
+   "speaker": "surf"
+  },
+  {
+   "start": 114.49,
+   "end": 117.89,
+   "text": "Gus just eyed the snack jar when I said Micron.",
+   "speaker": "surf"
+  },
+  {
+   "start": 118.17,
+   "end": 119.72,
+   "text": "Not a chip, buddy.",
+   "speaker": "surf"
+  },
+  {
+   "start": 120.0,
+   "end": 121.18,
+   "text": "Beach talk.",
+   "speaker": "surf"
+  },
+  {
+   "start": 121.46,
+   "end": 126.28,
+   "text": "Chip stocks are on pace to lose about one trillion dollars in value.",
+   "speaker": "surf"
+  },
+  {
+   "start": 126.56,
+   "end": 131.64,
+   "text": "Workday agreed to buy C one dot A I, an A I security startup.",
+   "speaker": "surf"
+  },
+  {
+   "start": 131.92,
+   "end": 133.22,
+   "text": "Sets to watch.",
+   "speaker": "surf"
+  },
+  {
+   "start": 133.5,
+   "end": 136.12,
+   "text": "Industrial production at eight fifteen.",
+   "speaker": "surf"
+  },
+  {
+   "start": 136.4,
+   "end": 141.05,
+   "text": "The opening bell at eight thirty, to see if chips can find their footing.",
+   "speaker": "surf"
+  },
+  {
+   "start": 141.33,
+   "end": 143.93,
+   "text": "And that ten year yield near five percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 144.21,
+   "end": 153.73,
+   "text": "Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "speaker": "surf"
+  },
+  {
+   "start": 154.01,
+   "end": 156.72,
+   "text": "Soul surfers, stay patient out there.",
+   "speaker": "surf"
+  },
+  {
+   "start": 157.0,
+   "end": 159.98,
+   "text": "I just tossed Gus a biscuit, and he's stoked.",
+   "speaker": "surf"
+  },
+  {
+   "start": 160.26,
+   "end": 162.87,
+   "text": "This is information, not advice.",
+   "speaker": "surf"
+  },
+  {
+   "start": 163.15,
+   "end": 168.35,
+   "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+   "speaker": "surf"
+  }
+ ]
+}
