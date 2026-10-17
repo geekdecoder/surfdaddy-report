@@ -45,6 +45,33 @@ model_dir = d if os.path.exists(os.path.join(d, "kokoro.onnx")) else here
 rp = os.path.join(d, "report.json")
 r = json.load(open(rp))
 k = Kokoro(os.path.join(model_dir, "kokoro.onnx"), os.path.join(model_dir, "voices.bin"))
+
+def _phoneme_len(text):
+    try: return len(k.tokenizer.phonemize(text, "en-us"))
+    except Exception: return int(len(text) * 1.1)
+
+def _split_long(text, limit=380):
+    """The voice model reads at most 510 phonemes at once, so long sentences are split at commas, then words."""
+    text = text.strip()
+    if _phoneme_len(text) <= limit: return [text]
+    segs = re.split(r"(?<=[,;:])\s+", text)
+    if len(segs) < 2: segs = text.split()
+    if len(segs) < 2: return [text]
+    mid = len(segs) // 2
+    return _split_long(" ".join(segs[:mid]), limit) + _split_long(" ".join(segs[mid:]), limit)
+
+def speak(text):
+    parts = []
+    for p in _split_long(text):
+        try:
+            a, _ = k.create(p, voice=VOICE, speed=SPEED, lang="en-us")
+        except Exception:
+            w = p.split()
+            if len(w) < 2: raise
+            a = np.concatenate([speak(" ".join(w[:len(w) // 2])), speak(" ".join(w[len(w) // 2:]))])
+        parts += [a.astype(np.float32), np.zeros(int(0.08 * SR), dtype=np.float32)]
+    return np.concatenate(parts[:-1]) if parts else np.zeros(int(0.1 * SR), dtype=np.float32)
+
 SENT = r"[^.!?]+[.!?]+[\"')\]]*|\S[^.!?]*$"
 
 chunks, caps, t = [], [], 0.0
@@ -63,7 +90,7 @@ for part in re.split(r"(\[BARK\]|\[SNACK\])", source):
         add(gus_snack(), "Woof! Crunch, crunch, crunch.", "snack")
     else:
         for line in [s.strip() for s in re.findall(SENT, part) if s.strip()]:
-            a, _ = k.create(line, voice=VOICE, speed=SPEED, lang="en-us")
+            a = speak(line)
             add(a, line)
 
 audio = np.concatenate(chunks) if chunks else np.zeros(SR, dtype=np.float32)
