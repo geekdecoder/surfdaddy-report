@@ -1,0 +1,432 @@
+{
+ "date": "2026-10-20",
+ "title": "Market Surf Report",
+ "edition": "Dawn Patrol Edition",
+ "is_sample": false,
+ "updated": "Oct 20, 6:00 AM CT",
+ "conditions": {
+  "rating": "Fair",
+  "headline": "Choppy sets: oil swell builds as tech drifts",
+  "summary": "Futures are mixed, with the Dow slightly higher and Nasdaq futures lower as crude climbs back above $100 on Middle East tensions. Strong industrial earnings from GE Aerospace and 3M help offset the tech chop."
+ },
+ "tape": [
+  {
+   "label": "S&P fut",
+   "value": "-0.1%",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq fut",
+   "value": "-0.4%",
+   "dir": "down"
+  },
+  {
+   "label": "Dow fut",
+   "value": "+0.2%",
+   "dir": "up"
+  },
+  {
+   "label": "Russell fut",
+   "value": "0.0%",
+   "dir": "flat"
+  },
+  {
+   "label": "10-yr",
+   "value": "5.11%",
+   "dir": "flat"
+  },
+  {
+   "label": "Dollar",
+   "value": "-0.2%",
+   "dir": "down"
+  },
+  {
+   "label": "Crude",
+   "value": "+2.3%",
+   "dir": "up"
+  },
+  {
+   "label": "Gold",
+   "value": "-0.7%",
+   "dir": "down"
+  },
+  {
+   "label": "Bitcoin",
+   "value": "-1.6%",
+   "dir": "down"
+  },
+  {
+   "label": "VIX",
+   "value": "—",
+   "dir": "flat"
+  }
+ ],
+ "sections": [
+  {
+   "id": "swell",
+   "surf": "The Swell",
+   "title": "Futures & Overnight",
+   "items": [
+    "Dow futures are up about 0.2%, S&P 500 futures are about flat to down 0.1%, and Nasdaq-100 futures are down 0.4% to 0.5% in early, thin trading.",
+    "The 10-year Treasury yield is near 5.11% and the 2-year near 4.76%; the dollar index is down 0.2% at about 101.8.",
+    "WTI crude is up about 2.3% near $100.80 and Brent is around $110, a five-month high, after Houthi attacks on Saudi targets and Iran's threat to undersea cables in the Strait of Hormuz.",
+    "Gold is down about 0.5% to 0.7% near $4,115; bitcoin is down about 1.6% near $81,500.",
+    "Asia closed lower across the Nikkei, Hang Seng, Kospi and ASX; the yen firmed after record demand at a long-dated Japanese bond auction.",
+    "Europe's STOXX 600 is down about 0.6%, with chip stocks ASML and ASMI off more than 3%.",
+    "Monday's close: S&P 500 +0.4% to 7,690.73, Nasdaq Composite +1.1%, Dow -0.1%, as tech bounced after last week's selloff."
+   ]
+  },
+  {
+   "id": "wind",
+   "surf": "Wind & Weather",
+   "title": "Macro & Economic Calendar",
+   "items": [
+    "7:30 AM CT: September housing starts, forecast about 1.30 million (prior 1.275 million).",
+    "9:00 AM CT: September pending home sales.",
+    "No Fed speakers on today's calendar; CME FedWatch shows about an 83% chance the Fed holds at its October meeting.",
+    "Main macro story: oil's geopolitical premium and 5%-plus 10-year yields are pressuring AI and tech financing costs."
+   ]
+  },
+  {
+   "id": "tide",
+   "surf": "Tide Chart",
+   "title": "Earnings",
+   "items": [
+    "GE Aerospace (GE): beat with $2.25 adjusted EPS vs. $2.00 expected on $13.29B revenue; raised 2026 EPS outlook to $8.00–$8.10.",
+    "3M (MMM): beat with $2.50 adjusted EPS on $6.6B revenue and raised 2026 EPS guidance to $9.10–$9.15; shares up about 4% pre-market, also on an expanded Amazon data center deal.",
+    "General Motors (GM): $3.70 adjusted EPS on $50.0B revenue; narrowed 2026 outlook and approved a new $20B buyback.",
+    "Halliburton (HAL): $0.60 adjusted EPS on $5.7B revenue; sees 2027 margins near 15%.",
+    "Steel Dynamics (STLD): missed Q3 estimates; shares down about 6% pre-market.",
+    "Still due before the open: RTX and Northrop Grumman. After the close: SpaceX, Netflix and United Airlines."
+   ]
+  },
+  {
+   "id": "lineup",
+   "surf": "The Lineup",
+   "title": "Stocks in the News",
+   "items": [
+    "MMM (3M): +4.4% — Amazon expanded its data center partnership and received a warrant for about $521M of 3M stock; Q3 beat and raise.",
+    "STLD (Steel Dynamics): -6% — third-quarter results missed estimates.",
+    "CRWV (CoreWeave): -3.1% — lingering worries over its debt load and AI financing costs.",
+    "NBIS (Nebius Group): -2.9% — falling with other AI infrastructure names.",
+    "AAPL (Apple): -1% — tech weakness in early trading.",
+    "SPCX (SpaceX): -0.6% — Elon Musk defended his share distribution plan ahead of tonight's Q3 report.",
+    "NFLX (Netflix): +0.4% — ahead of Q3 results after the close; options imply a roughly 9% move.",
+    "RAIL (FreightCar America): -19% — cut its full-year outlook after removing railcars from its backlog."
+   ]
+  },
+  {
+   "id": "beach",
+   "surf": "Beach Talk",
+   "title": "Business News",
+   "items": [
+    "Tradeweb agreed to buy bond trading platform Trumid for about $1.97 billion in cash and stock.",
+    "Maximus is buying Agile Defense for $660 million in cash to expand government IT and defense work.",
+    "South Korean AI infrastructure firm Elice Group fell nearly 30% below its IPO price in its market debut.",
+    "The Canadian dollar firmed after Alberta voters chose to remain in Canada.",
+    "Bank of Japan may raise its inflation forecast but hold rates, according to sources."
+   ]
+  },
+  {
+   "id": "watch",
+   "surf": "Sets to Watch",
+   "title": "What to Watch Today",
+   "items": [
+    "7:30 AM CT housing starts, then 9:00 AM CT pending home sales.",
+    "Whether WTI holds above $100 and the 10-year yield above 5%.",
+    "SpaceX and Netflix earnings after the 3:00 PM CT close; Meta and Tesla follow Wednesday."
+   ]
+  }
+ ],
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Tuesday, October twentieth, twenty twenty-six, and this is your Market Surf Report. Stretched out on the cabana deck, nose full of sea breeze, is my co-anchor Gus the wonder dog. Give the Trade Wind surfers a hello, Gus! Here's the swell on this Dawn Patrol, and it's choppy, with early quotes still thin. Dow futures are up about two tenths of a percent. S and P five hundred futures are flat, and Nasdaq one hundred futures are down about half a percent. The ten year yield sits near five point one one percent. The gnarly wave is oil. West Texas crude is up more than two percent, to about one hundred dollars, after Houthi attacks on Saudi targets and an Iranian threat against undersea cables near Hormuz. Gold and bitcoin are lower. Asia closed down, and Europe is off about six tenths of a percent. Wind and weather. September housing starts land at seven thirty A M Central, with pending home sales at nine. No Fed speakers today, and markets see better than an eighty percent chance the Fed holds rates this month. On the tide chart, the industrials paddled out first. GE Aerospace beat and raised its full year profit forecast. Three M beat, raised guidance, and is up more than four percent on a bigger data center deal with Amazon. That calls for a treat, Gus! Here you go, buddy! General Motors beat and approved a new twenty billion dollar buyback. Steel Dynamics missed and is down about six percent. After the close, SpaceX and Netflix report. In the lineup, CoreWeave and Nebius are down about three percent on AI debt worries, and Apple is off about one percent. And a grom wipeout: Korean AI firm Elice Group fell nearly thirty percent in its debut. Beach talk. Tradeweb is buying bond platform Trumid for about two billion dollars, and Maximus is buying Agile Defense for six hundred sixty million. Sets to watch: housing starts at seven thirty, crude near one hundred dollars with the ten year above five percent, and SpaceX and Netflix after three P M Central. Soul surfers, ride the long swell, not the chop. Got a stock, an E T F or a futures contract in mind? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "sources": [
+  {
+   "title": "Benzinga: Stock Market Today (Oct 20)",
+   "url": "https://www.benzinga.com/markets/equities/26/10/62460028/stock-market-today-dow-jones-futures-rise-nasdaq-100-falls-as-iran-threatens-to-target-undersea-cables-spcx-nflx-stld-in-focus"
+  },
+  {
+   "title": "Reuters via WBOW: Nasdaq futures dip as oil climbs",
+   "url": "https://1027wbow.com/2026/10/20/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom/"
+  },
+  {
+   "title": "Reuters via Yerepouni: Shares slide as oil stays high",
+   "url": "https://www.yerepouni-news.com/shares-slide-again-as-oil-stays-high-ai-earnings-in-focus/"
+  },
+  {
+   "title": "Benzinga: 3M and premarket movers",
+   "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62458770/why-3m-shares-are-trading-higher-here-are-20-stocks-moving-premarket"
+  },
+  {
+   "title": "Investing.com: GE Aerospace raises 2026 forecast",
+   "url": "https://www.investing.com/news/stock-market-news/ge-aerospace-raises-2026-profit-forecast-as-services-strength-drives-growth-4959480"
+  },
+  {
+   "title": "Investing.com: GE Aerospace beat",
+   "url": "https://in.investing.com/news/earnings/ge-aerospace-earnings-beat-by-025-revenue-topped-estimates-5642273"
+  },
+  {
+   "title": "3M Q3 2026 results",
+   "url": "https://news.3m.com/2026-10-20-3M-Reports-Third-Quarter-2026-Results-Raises-Full-Year-EPS-Guidance"
+  },
+  {
+   "title": "Stock Titan: GM Q3 results",
+   "url": "https://www.stocktitan.net/news/GM/gm-releases-2026-third-quarter-results-and-updates-full-year-2026-1xg7p86v0zda.html"
+  },
+  {
+   "title": "Halliburton Q3 2026 results",
+   "url": "https://www.financialcontent.com/article/bizwire-2026-10-20-halliburton-announces-third-quarter-2026-results"
+  },
+  {
+   "title": "Benzinga: SpaceX, GE Aerospace on deck",
+   "url": "https://www.benzinga.com/news/26/10/62452286/spacex-ge-aerospace-on-deck-tuesday-as-growth-aerospace-demand-face-test"
+  },
+  {
+   "title": "Gotrade: Netflix reports tonight",
+   "url": "https://www.heygotrade.com/en/news/netflix-reports-tonight-industrials-up-first/"
+  },
+  {
+   "title": "Investing.com: US economic calendar Oct 19–23",
+   "url": "https://uk.investing.com/news/stock-market-news/us-economic-calendar-preview-key-releases-for-the-week-of-oct-1923-2026-93CH-4918228"
+  },
+  {
+   "title": "Benzinga: Iran undersea cable threat",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62457366/iran-tehran-undersea-cables-digital-infrastructure-war"
+  },
+  {
+   "title": "StreetInsider: Moderna ahead of vaccine data",
+   "url": "https://www.streetinsider.com/Investing/Moderna+shares+rise+ahead+of+cancer+vaccine+trial+results/27202005.html"
+  },
+  {
+   "title": "Benzinga: Intel Monday",
+   "url": "https://www.benzinga.com/markets/tech/26/10/62432246/whats-going-on-with-intel-stock-monday-8"
+  },
+  {
+   "title": "MarketBeat: Danaher earnings preview",
+   "url": "https://www.marketbeat.com/instant-alerts/upcoming-danaher-dhr-projected-to-release-quarterly-earnings-on-wednesday-2026-10-14/"
+  },
+  {
+   "title": "EverHint: Global business news Oct 19",
+   "url": "https://www.everhint.com/global-business-news-october-19-2026-evening-update-last-12-hours-pacific-time/"
+  }
+ ],
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Tuesday, October twentieth, twenty twenty-six, and this is your Market Surf Report. Stretched out on the cabana deck, nose full of sea breeze, is my co-anchor Gus the wonder dog. Give the Trade Wind surfers a hello, Gus! [BARK] Here's the swell on this Dawn Patrol, and it's choppy, with early quotes still thin. Dow futures are up about two tenths of a percent. S and P five hundred futures are flat, and Nasdaq one hundred futures are down about half a percent. The ten year yield sits near five point one one percent. The gnarly wave is oil. West Texas crude is up more than two percent, to about one hundred dollars, after Houthi attacks on Saudi targets and an Iranian threat against undersea cables near Hormuz. Gold and bitcoin are lower. Asia closed down, and Europe is off about six tenths of a percent. Wind and weather. September housing starts land at seven thirty A M Central, with pending home sales at nine. No Fed speakers today, and markets see better than an eighty percent chance the Fed holds rates this month. On the tide chart, the industrials paddled out first. GE Aerospace beat and raised its full year profit forecast. Three M beat, raised guidance, and is up more than four percent on a bigger data center deal with Amazon. That calls for a treat, Gus! Here you go, buddy! [SNACK] General Motors beat and approved a new twenty billion dollar buyback. Steel Dynamics missed and is down about six percent. After the close, SpaceX and Netflix report. In the lineup, CoreWeave and Nebius are down about three percent on AI debt worries, and Apple is off about one percent. And a grom wipeout: Korean AI firm Elice Group fell nearly thirty percent in its debut. Beach talk. Tradeweb is buying bond platform Trumid for about two billion dollars, and Maximus is buying Agile Defense for six hundred sixty million. Sets to watch: housing starts at seven thirty, crude near one hundred dollars with the ten year above five percent, and SpaceX and Netflix after three P M Central. Soul surfers, ride the long swell, not the chop. Got a stock, an E T F or a futures contract in mind? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "audio": "report.mp3",
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 1.17,
+   "text": "Cowabunga!",
+   "speaker": "surf"
+  },
+  {
+   "start": 1.45,
+   "end": 11.29,
+   "text": "This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore.",
+   "speaker": "surf"
+  },
+  {
+   "start": 11.57,
+   "end": 18.05,
+   "text": "It's Tuesday, October twentieth, twenty twenty-six, and this is your Market Surf Report.",
+   "speaker": "surf"
+  },
+  {
+   "start": 18.33,
+   "end": 24.84,
+   "text": "Stretched out on the cabana deck, nose full of sea breeze, is my co-anchor Gus the wonder dog.",
+   "speaker": "surf"
+  },
+  {
+   "start": 25.12,
+   "end": 27.87,
+   "text": "Give the Trade Wind surfers a hello, Gus!",
+   "speaker": "surf"
+  },
+  {
+   "start": 28.15,
+   "end": 28.7,
+   "text": "Woof! Woof!",
+   "speaker": "gus"
+  },
+  {
+   "start": 28.98,
+   "end": 34.51,
+   "text": "Here's the swell on this Dawn Patrol, and it's choppy, with early quotes still thin.",
+   "speaker": "surf"
+  },
+  {
+   "start": 34.79,
+   "end": 38.26,
+   "text": "Dow futures are up about two tenths of a percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 38.54,
+   "end": 46.42,
+   "text": "S and P five hundred futures are flat, and Nasdaq one hundred futures are down about half a percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 46.7,
+   "end": 50.47,
+   "text": "The ten year yield sits near five point one one percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 50.75,
+   "end": 52.74,
+   "text": "The gnarly wave is oil.",
+   "speaker": "surf"
+  },
+  {
+   "start": 53.02,
+   "end": 66.09,
+   "text": "West Texas crude is up more than two percent, to about one hundred dollars, after Houthi attacks on Saudi targets and an Iranian threat against undersea cables near Hormuz.",
+   "speaker": "surf"
+  },
+  {
+   "start": 66.37,
+   "end": 68.32,
+   "text": "Gold and bitcoin are lower.",
+   "speaker": "surf"
+  },
+  {
+   "start": 68.6,
+   "end": 73.52,
+   "text": "Asia closed down, and Europe is off about six tenths of a percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 73.8,
+   "end": 75.25,
+   "text": "Wind and weather.",
+   "speaker": "surf"
+  },
+  {
+   "start": 75.53,
+   "end": 82.02,
+   "text": "September housing starts land at seven thirty A M Central, with pending home sales at nine.",
+   "speaker": "surf"
+  },
+  {
+   "start": 82.3,
+   "end": 90.0,
+   "text": "No Fed speakers today, and markets see better than an eighty percent chance the Fed holds rates this month.",
+   "speaker": "surf"
+  },
+  {
+   "start": 90.28,
+   "end": 94.04,
+   "text": "On the tide chart, the industrials paddled out first.",
+   "speaker": "surf"
+  },
+  {
+   "start": 94.32,
+   "end": 99.03,
+   "text": "GE Aerospace beat and raised its full year profit forecast.",
+   "speaker": "surf"
+  },
+  {
+   "start": 99.31,
+   "end": 106.86,
+   "text": "Three M beat, raised guidance, and is up more than four percent on a bigger data center deal with Amazon.",
+   "speaker": "surf"
+  },
+  {
+   "start": 107.14,
+   "end": 109.08,
+   "text": "That calls for a treat, Gus!",
+   "speaker": "surf"
+  },
+  {
+   "start": 109.36,
+   "end": 110.81,
+   "text": "Here you go, buddy!",
+   "speaker": "surf"
+  },
+  {
+   "start": 111.09,
+   "end": 113.06,
+   "text": "Woof! Crunch, crunch, crunch.",
+   "speaker": "snack"
+  },
+  {
+   "start": 113.34,
+   "end": 118.02,
+   "text": "General Motors beat and approved a new twenty billion dollar buyback.",
+   "speaker": "surf"
+  },
+  {
+   "start": 118.3,
+   "end": 122.29,
+   "text": "Steel Dynamics missed and is down about six percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 122.57,
+   "end": 126.13,
+   "text": "After the close, SpaceX and Netflix report.",
+   "speaker": "surf"
+  },
+  {
+   "start": 126.41,
+   "end": 135.2,
+   "text": "In the lineup, CoreWeave and Nebius are down about three percent on AI debt worries, and Apple is off about one percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 135.48,
+   "end": 142.26,
+   "text": "And a grom wipeout: Korean AI firm Elice Group fell nearly thirty percent in its debut.",
+   "speaker": "surf"
+  },
+  {
+   "start": 142.54,
+   "end": 143.71,
+   "text": "Beach talk.",
+   "speaker": "surf"
+  },
+  {
+   "start": 143.99,
+   "end": 154.26,
+   "text": "Tradeweb is buying bond platform Trumid for about two billion dollars, and Maximus is buying Agile Defense for six hundred sixty million.",
+   "speaker": "surf"
+  },
+  {
+   "start": 154.54,
+   "end": 166.63,
+   "text": "Sets to watch: housing starts at seven thirty, crude near one hundred dollars with the ten year above five percent, and SpaceX and Netflix after three P M Central.",
+   "speaker": "surf"
+  },
+  {
+   "start": 166.91,
+   "end": 170.5,
+   "text": "Soul surfers, ride the long swell, not the chop.",
+   "speaker": "surf"
+  },
+  {
+   "start": 170.78,
+   "end": 175.0,
+   "text": "Got a stock, an E T F or a futures contract in mind?",
+   "speaker": "surf"
+  },
+  {
+   "start": 175.28,
+   "end": 180.87,
+   "text": "Type it in the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "speaker": "surf"
+  },
+  {
+   "start": 181.15,
+   "end": 183.75,
+   "text": "This is information, not advice.",
+   "speaker": "surf"
+  },
+  {
+   "start": 184.03,
+   "end": 189.24,
+   "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+   "speaker": "surf"
+  }
+ ]
+}
