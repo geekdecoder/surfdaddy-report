@@ -1,114 +1,116 @@
 {
- "date": "2026-10-20",
- "slot": "evening",
- "title": "Sunset Session",
- "edition": "Sunset Session",
+ "date": "2026-10-21",
+ "title": "Market Surf Report",
+ "edition": "Dawn Patrol Edition",
  "is_sample": false,
- "updated": "Oct 20, 5:05 PM CT",
+ "updated": "Oct 21, 5:55 AM CT",
  "conditions": {
   "rating": "Fair",
-  "headline": "Split Peak: Dow Rides, Tech Paddles in Place",
-  "summary": "The Dow and small caps rallied as money rotated into health care and other defensive groups, while the Nasdaq finished flat. Oil eased and the 10-year yield dipped but held above 5.1%."
+  "headline": "SpaceX swell lifts the Nasdaq while oil churns near $100",
+  "summary": "Nasdaq futures edge higher on SpaceX and Super Micro, while the Dow and small caps sit flat to lower. Crude near $100 and a 5.1% 10-year yield keep a lid on the mood."
  },
  "tape": [
   {
-   "label": "S&P 500",
-   "value": "+0.29%",
+   "label": "S&P fut",
+   "value": "+0.1%",
    "dir": "up"
   },
   {
-   "label": "Nasdaq",
-   "value": "-0.02%",
+   "label": "Nasdaq fut",
+   "value": "+0.3%",
+   "dir": "up"
+  },
+  {
+   "label": "Dow fut",
+   "value": "-0.1%",
    "dir": "flat"
   },
   {
-   "label": "Dow",
-   "value": "+1.02%",
-   "dir": "up"
-  },
-  {
-   "label": "Russell 2000",
-   "value": "+1.65%",
-   "dir": "up"
+   "label": "Russell fut",
+   "value": "-0.2%",
+   "dir": "down"
   },
   {
    "label": "10-yr",
    "value": "5.12%",
-   "dir": "down"
+   "dir": "flat"
   },
   {
    "label": "Dollar",
-   "value": "-0.27%",
-   "dir": "down"
+   "value": "101.8",
+   "dir": "flat"
   },
   {
    "label": "Crude",
-   "value": "-1.8%",
-   "dir": "down"
+   "value": "$99.87 +2.1%",
+   "dir": "up"
   },
   {
    "label": "Gold",
-   "value": "-0.4%",
+   "value": "$4,134 -0.2%",
    "dir": "down"
   },
   {
    "label": "Bitcoin",
-   "value": "+1.0% (midday)",
+   "value": "$83,180 +2.1%",
    "dir": "up"
   },
   {
    "label": "VIX",
-   "value": "n/a",
-   "dir": "flat"
+   "value": "17.5",
+   "dir": "up"
   }
  ],
  "sections": [
   {
-   "id": "close",
-   "surf": "The Final Set",
-   "title": "Closing Bell",
+   "id": "swell",
+   "surf": "The Swell",
+   "title": "Futures & Overnight",
    "items": [
-    "Dow rose 531 points (+1.02%) to about 52,497; S&P 500 +0.29% to 7,712; Nasdaq -0.02% to 26,424; Russell 2000 +1.65% to 2,773.",
-    "Money rotated from tech into health care, utilities, staples and REITs; health care hit an all-time high led by Eli Lilly (about +5%).",
-    "An early tech bounce faded as AI spending, debt worries and 5%-plus yields weighed; the S&P ranged from 7,668 to 7,748.",
-    "Best sectors: health care, utilities, consumer staples, real estate. Laggard: technology."
+    "S&P 500 futures are up about 0.1% and Nasdaq-100 futures about 0.3% in early, thin trading; Dow futures are near flat and Russell 2000 futures down about 0.2%.",
+    "The 10-year Treasury yield is about 5.12% and the 2-year about 4.8%; the dollar index is steady near 101.8.",
+    "December WTI crude is up about 2% near $99.90; Brent is around $110. Gold is down 0.2% near $4,134.",
+    "Bitcoin is up about 2% near $83,200; the VIX is near 17.5.",
+    "Asia was mixed: Japan, South Korea and Australia rose while China and Hong Kong slipped.",
+    "Europe is mixed and mostly slightly lower, with the Stoxx 600 and DAX down about 0.1% and the FTSE 100 down about 0.3%."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Fed",
+   "title": "Macro & Economic Calendar",
    "items": [
-    "September housing starts were 1.221 million, below the 1.305 million expected; permits were 1.400 million, slightly above forecasts.",
-    "September pending home sales fell 7.3% versus no change expected, pressuring homebuilders and real estate.",
-    "The 10-year yield slipped about 2 basis points to 5.12%; the dollar index fell 0.27% to 101.70.",
-    "WTI crude fell 1.8% to about $101.79 on hopes for Middle East diplomacy; gold eased 0.4% to $4,142.60.",
-    "The Fed is in its pre-meeting blackout; traders expect rates to hold at next week's meeting."
-   ]
-  },
-  {
-   "id": "lineup",
-   "surf": "The Lineup",
-   "title": "Biggest Movers",
-   "items": [
-    "LLY (Eli Lilly): about +5% — metabolic drug pipeline progress; hit a 52-week high.",
-    "MRNA (Moderna): +6.1% — 52-week high ahead of melanoma vaccine data due Oct 24.",
-    "MMM (3M): about +4% — earnings beat, higher guidance and a data-center deal with Amazon.",
-    "NOC (Northrop Grumman) and RTX: higher — earnings beats and backlog growth.",
-    "GM (General Motors): -7.5% — beat estimates and added a $20B buyback, but guidance implies a weaker Q4.",
-    "GE (GE Aerospace): -3.8% — fell despite a beat and raised guidance.",
-    "META (Meta Platforms): about -2% — fifth straight decline ahead of Wednesday's report.",
-    "NFLX (Netflix): -1.7% in the session, then about -5% after hours on soft guidance."
+    "No major US economic data today. MBA mortgage applications at 6:00 AM CT, EIA crude inventories at 9:30 AM CT and a 20-year bond auction at 12:00 PM CT.",
+    "No Fed speakers are scheduled; CME FedWatch shows about an 85% chance the Fed holds at its October meeting.",
+    "Main story: oil near $100 WTI and $110 Brent on Strait of Hormuz tensions as US-Iran talks drag on, keeping the 10-year yield above 5%.",
+    "France's unrest has pushed its 10-year yield to the highest since 2002, adding to global bond jitters."
    ]
   },
   {
    "id": "tide",
    "surf": "Tide Chart",
-   "title": "Earnings Today & Tonight",
+   "title": "Earnings",
    "items": [
-    "Before the open: GM, GE Aerospace, 3M, RTX, Northrop Grumman, Hasbro, Halliburton and Equifax reported; Hasbro and RTX raised full-year outlooks, Equifax trimmed its guidance midpoint.",
-    "After the close: SpaceX beat with revenue up 161% to $14.6B and EPS of $0.35 vs about $0.13 expected, its first profit since the IPO; shares rose about 2% after hours.",
-    "After the close: Netflix revenue rose 12% to $12.9B with EPS of $0.87, but a muted Q4 outlook sent shares down about 5% after hours."
+    "SpaceX beat after Tuesday's close (EPS $0.35, revenue $14.6B vs $12.7B expected); shares up roughly 8% to 10% premarket.",
+    "Netflix beat on EPS but missed slightly on revenue and cut ad revenue and free cash flow guidance; shares down about 6%.",
+    "Capital One beat on EPS ($6.69 vs $5.50) and revenue; shares up about 3%.",
+    "Danaher beat this morning (adjusted EPS $2.11 vs $1.92) and raised its full-year EPS outlook; shares higher premarket.",
+    "Also before the open: AT&T, Thermo Fisher, Abbott, Philip Morris and NextEra Energy.",
+    "After the close: Tesla, Meta, IBM, Lam Research and Texas Instruments."
+   ]
+  },
+  {
+   "id": "lineup",
+   "surf": "The Lineup",
+   "title": "Stocks in the News",
+   "items": [
+    "SMCI (Super Micro Computer): +12% to +16% — raised Q1 revenue guidance to $18.5B–$19.5B.",
+    "SPCX (SpaceX): about +10% — Q3 beat and first quarterly profit since its IPO; Tesla merger talks.",
+    "NFLX (Netflix): about -6% — weak Q4 revenue outlook and lower ad revenue guidance.",
+    "COF (Capital One): about +3% — Q3 earnings beat.",
+    "TSLA (Tesla): about +2% to +3% — ahead of earnings and possible SpaceX merger talks.",
+    "LITE (Lumentum): about +4% — Jefferies raised its price target to $1,250.",
+    "CRWV, NVDA, INTC (CoreWeave, Nvidia, Intel): +2% to +4% — Musk dismissed fears of an AI compute glut."
    ]
   },
   {
@@ -116,391 +118,81 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Salesforce agreed to buy Braze for $47.50 a share in cash, about $5.66 billion in enterprise value.",
-    "Qiagen rose on a report that EQT is in advanced talks to acquire it.",
-    "DaVita and Fresenius Medical Care fell on reports of a new Trump administration kidney-care plan.",
-    "Loop Capital cut Apple to Hold and lowered its target to $330, citing reduced iPhone shipments.",
-    "Micron will fund Indium Corp.'s critical-minerals processing expansion in Rome, New York, under a long-term supply deal."
+    "Salesforce agreed to buy Braze for about $5.66 billion, or $47.50 a share in cash.",
+    "Nvidia signed a physical-AI declaration of intent with Germany and named German startups it will back.",
+    "France imposed curfews in major cities after rioting; its 10-year yield hit the highest since 2002.",
+    "Saudi Arabia canceled its Future Investment Initiative conference after attacks near Riyadh.",
+    "Schneider Electric is raising about €6 billion in new equity to help fund its $22.6 billion PTC deal."
    ]
   },
   {
-   "id": "tomorrow",
-   "surf": "Tomorrow's Forecast",
-   "title": "On Deck",
+   "id": "watch",
+   "surf": "Sets to Watch",
+   "title": "What to Watch Today",
    "items": [
-    "No major U.S. economic reports are scheduled for Wednesday, Oct 21.",
-    "Fed officials remain in their blackout period through Oct 29, so no Fed speakers.",
-    "Morning earnings include Danaher, Thermo Fisher, Abbott, AT&T and Philip Morris.",
-    "Later reports include Tesla, Meta, IBM, Lam Research and Texas Instruments.",
-    "Thursday, Oct 22: up to 1.3 billion SpaceX shares become freely tradable as a lockup ends."
+    "8:30 AM CT open: whether the SpaceX and Super Micro rally holds and lifts the Nasdaq.",
+    "9:30 AM CT EIA crude report and the noon CT 20-year auction, with oil near $100 and the 10-year above 5%.",
+    "After the close: Tesla and Meta kick off Big Tech earnings."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Tuesday, October twentieth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding down over the water, and the last set of the day just rolled through. Gus the wonder dog spent the whole afternoon guarding the cooler like a lifeguard on duty. Say good evening to the crew, Gus! Here's the final set. It was a split lineup. The Dow rallied about five hundred thirty points, or one percent, to roughly fifty-two thousand five hundred. The S and P five hundred added about three tenths of a percent to seven thousand seven hundred twelve. The Nasdaq finished flat after an early tech bounce faded. Small caps starred, with the Russell two thousand up more than one and a half percent. Money rotated out of tech and into health care, utilities and staples. Health care hit an all-time high, led by Eli Lilly, up about five percent on drug pipeline progress. Eli Lilly rode that one all the way to the sand. Gus, that's worth a biscuit! Here you go, buddy! Wind and weather. Crude fell almost two percent to about one hundred one dollars on hopes for Middle East diplomacy. The ten year Treasury yield slipped two basis points to about five point one two percent. Housing data was soft. September housing starts missed forecasts, and pending home sales plunged seven percent. The Fed is in its quiet period before next week's meeting, and traders expect a hold. Now the lineup. General Motors wiped out, down about seven and a half percent, as its outlook pointed to a weaker fourth quarter. GE Aerospace fell almost four percent despite a beat. Three M climbed about four percent on a beat and an Amazon data center deal. Moderna jumped six percent to a fifty two week high. Meta slid for a fifth straight day before tomorrow's report. Gnarly stuff in big tech. On the tide chart, SpaceX posted its first profit since going public, with revenue up one hundred sixty one percent. It rose about two percent after hours. Netflix beat on profit but gave a soft outlook, and fell about five percent after hours. Beach talk. Salesforce agreed to buy Braze for about five point seven billion dollars. Qiagen rose on a report of buyout talks. Loop Capital cut Apple to hold. And in Seoul, a grommet called Elice sank more than thirty percent on its first day. Tough first wave, little grom. Tomorrow's forecast. No major economic reports, and no Fed speakers. In the morning, Danaher, Thermo Fisher, Abbott and A T and T report. Later, Tesla, Meta and I B M are on deck. So wax the board tonight. Want a read on a stock, E T F or futures contract? Type it into the Check a Wave box on the page, and Surf Daddy will call it for you. Catch the Dawn Patrol tomorrow morning. Remember, the soul surfer rides for the long haul, not the hype. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, October twenty-first, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog is out on the deck for Dawn Patrol, tail wagging at the sunrise. Give the Trade Wind surfers a hello, Gus! Conditions are fair. Here's the swell. In thin early trading, S and P 500 futures are up about a tenth of a percent, Nasdaq futures about three tenths. Dow futures are flat, and Russell futures dip two tenths. The ten year yield sits near five point one two percent, and the dollar is steady. Crude is up two percent, near one hundred dollars. Gold slips. Bitcoin is up two percent, near eighty three thousand. The VIX is near seventeen and a half. Asia was mixed, and Europe is a touch lower. Wind and weather. No major US economic reports today. Crude inventories land at nine thirty A M Central, and a twenty year bond auction hits at noon. No Fed speakers are scheduled. The big weather system is oil, with Brent near one hundred ten dollars on tension in the Strait of Hormuz. That's a gnarly crosscurrent. On the tide chart, SpaceX beat on earnings and revenue, posting its first quarterly profit since going public in June. Shares are up around ten percent. Cowabunga, that calls for a treat, Gus! Here you go, buddy! Danaher beat and raised its outlook. Netflix beat on profit but trimmed its outlook, and it's down six percent. Capital One beat and is up three percent. After the close, Tesla, Meta, I B M and Texas Instruments drop in. In the lineup, Super Micro is up twelve to sixteen percent after raising its revenue outlook. Tesla is up about two percent, with Musk saying Tesla and SpaceX committees are weighing a merger. Lumentum gains four percent on a higher price target. CoreWeave, Nvidia and Intel are up a couple percent as Musk waves off fears of an A I computing glut. Netflix is the wipeout. Beach talk. Salesforce is buying Braze for about five point seven billion dollars. France imposed curfews after rioting, and its bond yields hit a twenty four year high. Saudi Arabia canceled its big investment conference after attacks near Riyadh. Sets to watch. The opening bell at eight thirty Central. Oil and yields around the crude report. And Tesla and Meta after the close. Soul surfers, no need to chase every ripple. Got a wave on your mind? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Investrade Market Review, Oct 20",
-   "url": "https://investrade.com/market-review-october-20-2026"
+   "title": "Yahoo Finance live blog",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html"
   },
   {
-   "title": "Motley Fool: Market Midday, Oct 20",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/10/20/stock-market-midday-oct-20-blue-chips-rally-eli-lilly-gains-5/"
+   "title": "Benzinga premarket",
+   "url": "https://www.benzinga.com/markets/equities/26/10/62488591/stock-market-today-sp-500-nasdaq-100-futures-gains-as-iran-prolongs-us-talks-ahead-of-midterms-nflx-spcx-smci-in-focus"
   },
   {
-   "title": "Motley Fool: Netflix Q3",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/10/20/stock-market-today-oct-20-netflix-q3-revenue-rises-12-on-pricing-power/"
+   "title": "Stocktwits via Yahoo",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rise-premarket-spacex-084106939.html"
   },
   {
-   "title": "Schwab Market Update",
-   "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+   "title": "Benzinga stocks to watch",
+   "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62486761/att-spacex-and-3-stocks-to-watch-heading-into-wednesday"
   },
   {
-   "title": "24/7 Wall St.: Market close",
-   "url": "https://247wallst.com/cards/money-moved-out-of-tech-and-into-old-economy-names-today-th-gspc-market-bell-01m5dekq8fms2exrh55bf56qwp"
+   "title": "Saxo Quick Take",
+   "url": "https://www.home.saxo/en-sg/content/articles/macro/market-quick-take---spacex-and-tesla-merger-on-the-cards---21-october-2026-21102026"
   },
   {
-   "title": "24/7 Wall St.: Moderna jumps",
+   "title": "Investing.com economic calendar",
+   "url": "https://www.investing.com/news/stock-market-news/us-economic-calendar-preview-key-releases-for-the-week-of-oct-1923-2026-93CH-4958178"
+  },
+  {
+   "title": "Danaher Q3 (Investing.com)",
+   "url": "https://www.investing.com/news/earnings/danaher-shares-rise-in-premarket-trade-as-q3-earnings-beat-estimates-4962288"
+  },
+  {
+   "title": "Danaher Q3 (StockTitan)",
+   "url": "https://www.stocktitan.net/news/DHR/danaher-reports-third-quarter-2026-cv81eb1qpasx.html"
+  },
+  {
+   "title": "Moderna (24/7 Wall St.)",
    "url": "https://247wallst.com/investing/2026/10/20/moderna-jumps-7-while-melanoma-vaccine-data-looms-bristol-myers-squibb-rises-5-pfizer-inches-higher/"
   },
   {
-   "title": "Stocktwits: SpaceX after hours",
-   "url": "https://stocktwits.com/news-articles/markets/equity/spcx-rises-after-hours-on-ai-driven-revenue-surge-and-first-profit-since-ipo/cZxAIl0RBH9"
+   "title": "Moderna Q3 date",
+   "url": "https://www.newswire.com/news/moderna-to-report-third-quarter-2026-financial-results-on-friday-november-6-2026"
   },
   {
-   "title": "GuruFocus: SpaceX Q3 beat",
-   "url": "https://www.gurufocus.com/news/9132558/spacex-spcx-shares-rise-15-after-q3-earnings-beat-expectations"
+   "title": "Intel JPMorgan upgrade",
+   "url": "https://ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-upgrades-intel-stock-to-neutral-after-four-years/70382168"
   },
   {
-   "title": "FinanceFeeds: Intel upgrade",
-   "url": "https://financefeeds.com/intel-stock-reverses-premarket-drop-ahead-of-october-29-earnings-after-jpmorgan-upgrade/"
+   "title": "Salesforce-Braze (Reuters)",
+   "url": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937"
   },
   {
-   "title": "StockStory: Danaher preview",
-   "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-20-danaher-dhr-reports-q3-everything-you-need-to-know-ahead-of-earnings"
+   "title": "Fortune: France, Saudi",
+   "url": "https://fortune.com/2026/10/20/stocks-sell-off-globally-crisis-grips-france-saudi-arabia-cancels-davos-in-the-desert/"
   },
   {
-   "title": "Kiplinger: Economic calendar",
-   "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
-  },
-  {
-   "title": "StockTitan: Oct 20 news",
-   "url": "https://www.stocktitan.net/news/2026-10-20/"
-  }
- ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Tuesday, October twentieth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding down over the water, and the last set of the day just rolled through. Gus the wonder dog spent the whole afternoon guarding the cooler like a lifeguard on duty. Say good evening to the crew, Gus! [BARK] Here's the final set. It was a split lineup. The Dow rallied about five hundred thirty points, or one percent, to roughly fifty-two thousand five hundred. The S and P five hundred added about three tenths of a percent to seven thousand seven hundred twelve. The Nasdaq finished flat after an early tech bounce faded. Small caps starred, with the Russell two thousand up more than one and a half percent. Money rotated out of tech and into health care, utilities and staples. Health care hit an all-time high, led by Eli Lilly, up about five percent on drug pipeline progress. Eli Lilly rode that one all the way to the sand. Gus, that's worth a biscuit! Here you go, buddy! [SNACK] Wind and weather. Crude fell almost two percent to about one hundred one dollars on hopes for Middle East diplomacy. The ten year Treasury yield slipped two basis points to about five point one two percent. Housing data was soft. September housing starts missed forecasts, and pending home sales plunged seven percent. The Fed is in its quiet period before next week's meeting, and traders expect a hold. Now the lineup. General Motors wiped out, down about seven and a half percent, as its outlook pointed to a weaker fourth quarter. GE Aerospace fell almost four percent despite a beat. Three M climbed about four percent on a beat and an Amazon data center deal. Moderna jumped six percent to a fifty two week high. Meta slid for a fifth straight day before tomorrow's report. Gnarly stuff in big tech. On the tide chart, SpaceX posted its first profit since going public, with revenue up one hundred sixty one percent. It rose about two percent after hours. Netflix beat on profit but gave a soft outlook, and fell about five percent after hours. Beach talk. Salesforce agreed to buy Braze for about five point seven billion dollars. Qiagen rose on a report of buyout talks. Loop Capital cut Apple to hold. And in Seoul, a grommet called Elice sank more than thirty percent on its first day. Tough first wave, little grom. Tomorrow's forecast. No major economic reports, and no Fed speakers. In the morning, Danaher, Thermo Fisher, Abbott and A T and T report. Later, Tesla, Meta and I B M are on deck. So wax the board tonight. Want a read on a stock, E T F or futures contract? Type it into the Check a Wave box on the page, and Surf Daddy will call it for you. Catch the Dawn Patrol tomorrow morning. Remember, the soul surfer rides for the long haul, not the hype. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
- "audio": "report.mp3",
- "captions": [
-  {
-   "start": 0.0,
-   "end": 1.17,
-   "text": "Cowabunga!",
-   "speaker": "surf"
-  },
-  {
-   "start": 1.45,
-   "end": 11.29,
-   "text": "This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore.",
-   "speaker": "surf"
-  },
-  {
-   "start": 11.57,
-   "end": 19.91,
-   "text": "It's Tuesday, October twentieth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
-   "speaker": "surf"
-  },
-  {
-   "start": 20.19,
-   "end": 25.95,
-   "text": "The sun is sliding down over the water, and the last set of the day just rolled through.",
-   "speaker": "surf"
-  },
-  {
-   "start": 26.23,
-   "end": 32.5,
-   "text": "Gus the wonder dog spent the whole afternoon guarding the cooler like a lifeguard on duty.",
-   "speaker": "surf"
-  },
-  {
-   "start": 32.78,
-   "end": 34.94,
-   "text": "Say good evening to the crew, Gus!",
-   "speaker": "surf"
-  },
-  {
-   "start": 35.22,
-   "end": 35.77,
-   "text": "Woof! Woof!",
-   "speaker": "gus"
-  },
-  {
-   "start": 36.05,
-   "end": 37.75,
-   "text": "Here's the final set.",
-   "speaker": "surf"
-  },
-  {
-   "start": 38.03,
-   "end": 39.76,
-   "text": "It was a split lineup.",
-   "speaker": "surf"
-  },
-  {
-   "start": 40.04,
-   "end": 47.76,
-   "text": "The Dow rallied about five hundred thirty points, or one percent, to roughly fifty-two thousand five hundred.",
-   "speaker": "surf"
-  },
-  {
-   "start": 48.04,
-   "end": 55.55,
-   "text": "The S and P five hundred added about three tenths of a percent to seven thousand seven hundred twelve.",
-   "speaker": "surf"
-  },
-  {
-   "start": 55.83,
-   "end": 59.74,
-   "text": "The Nasdaq finished flat after an early tech bounce faded.",
-   "speaker": "surf"
-  },
-  {
-   "start": 60.02,
-   "end": 65.46,
-   "text": "Small caps starred, with the Russell two thousand up more than one and a half percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 65.74,
-   "end": 70.77,
-   "text": "Money rotated out of tech and into health care, utilities and staples.",
-   "speaker": "surf"
-  },
-  {
-   "start": 71.05,
-   "end": 78.82,
-   "text": "Health care hit an all-time high, led by Eli Lilly, up about five percent on drug pipeline progress.",
-   "speaker": "surf"
-  },
-  {
-   "start": 79.1,
-   "end": 82.3,
-   "text": "Eli Lilly rode that one all the way to the sand.",
-   "speaker": "surf"
-  },
-  {
-   "start": 82.58,
-   "end": 84.33,
-   "text": "Gus, that's worth a biscuit!",
-   "speaker": "surf"
-  },
-  {
-   "start": 84.61,
-   "end": 86.06,
-   "text": "Here you go, buddy!",
-   "speaker": "surf"
-  },
-  {
-   "start": 86.34,
-   "end": 88.31,
-   "text": "Woof! Crunch, crunch, crunch.",
-   "speaker": "snack"
-  },
-  {
-   "start": 88.59,
-   "end": 90.04,
-   "text": "Wind and weather.",
-   "speaker": "surf"
-  },
-  {
-   "start": 90.32,
-   "end": 97.08,
-   "text": "Crude fell almost two percent to about one hundred one dollars on hopes for Middle East diplomacy.",
-   "speaker": "surf"
-  },
-  {
-   "start": 97.36,
-   "end": 103.31,
-   "text": "The ten year Treasury yield slipped two basis points to about five point one two percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 103.59,
-   "end": 105.55,
-   "text": "Housing data was soft.",
-   "speaker": "surf"
-  },
-  {
-   "start": 105.83,
-   "end": 111.85,
-   "text": "September housing starts missed forecasts, and pending home sales plunged seven percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 112.13,
-   "end": 118.08,
-   "text": "The Fed is in its quiet period before next week's meeting, and traders expect a hold.",
-   "speaker": "surf"
-  },
-  {
-   "start": 118.36,
-   "end": 119.73,
-   "text": "Now the lineup.",
-   "speaker": "surf"
-  },
-  {
-   "start": 120.01,
-   "end": 127.6,
-   "text": "General Motors wiped out, down about seven and a half percent, as its outlook pointed to a weaker fourth quarter.",
-   "speaker": "surf"
-  },
-  {
-   "start": 127.88,
-   "end": 131.89,
-   "text": "GE Aerospace fell almost four percent despite a beat.",
-   "speaker": "surf"
-  },
-  {
-   "start": 132.17,
-   "end": 137.76,
-   "text": "Three M climbed about four percent on a beat and an Amazon data center deal.",
-   "speaker": "surf"
-  },
-  {
-   "start": 138.04,
-   "end": 141.46,
-   "text": "Moderna jumped six percent to a fifty two week high.",
-   "speaker": "surf"
-  },
-  {
-   "start": 141.74,
-   "end": 145.83,
-   "text": "Meta slid for a fifth straight day before tomorrow's report.",
-   "speaker": "surf"
-  },
-  {
-   "start": 146.11,
-   "end": 148.1,
-   "text": "Gnarly stuff in big tech.",
-   "speaker": "surf"
-  },
-  {
-   "start": 148.38,
-   "end": 156.87,
-   "text": "On the tide chart, SpaceX posted its first profit since going public, with revenue up one hundred sixty one percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 157.15,
-   "end": 159.83,
-   "text": "It rose about two percent after hours.",
-   "speaker": "surf"
-  },
-  {
-   "start": 160.11,
-   "end": 166.62,
-   "text": "Netflix beat on profit but gave a soft outlook, and fell about five percent after hours.",
-   "speaker": "surf"
-  },
-  {
-   "start": 166.9,
-   "end": 168.07,
-   "text": "Beach talk.",
-   "speaker": "surf"
-  },
-  {
-   "start": 168.35,
-   "end": 173.73,
-   "text": "Salesforce agreed to buy Braze for about five point seven billion dollars.",
-   "speaker": "surf"
-  },
-  {
-   "start": 174.01,
-   "end": 177.1,
-   "text": "Qiagen rose on a report of buyout talks.",
-   "speaker": "surf"
-  },
-  {
-   "start": 177.38,
-   "end": 179.73,
-   "text": "Loop Capital cut Apple to hold.",
-   "speaker": "surf"
-  },
-  {
-   "start": 180.01,
-   "end": 185.3,
-   "text": "And in Seoul, a grommet called Elice sank more than thirty percent on its first day.",
-   "speaker": "surf"
-  },
-  {
-   "start": 185.58,
-   "end": 187.59,
-   "text": "Tough first wave, little grom.",
-   "speaker": "surf"
-  },
-  {
-   "start": 187.87,
-   "end": 189.57,
-   "text": "Tomorrow's forecast.",
-   "speaker": "surf"
-  },
-  {
-   "start": 189.85,
-   "end": 193.86,
-   "text": "No major economic reports, and no Fed speakers.",
-   "speaker": "surf"
-  },
-  {
-   "start": 194.14,
-   "end": 198.9,
-   "text": "In the morning, Danaher, Thermo Fisher, Abbott and A T and T report.",
-   "speaker": "surf"
-  },
-  {
-   "start": 199.18,
-   "end": 202.62,
-   "text": "Later, Tesla, Meta and I B M are on deck.",
-   "speaker": "surf"
-  },
-  {
-   "start": 202.9,
-   "end": 204.79,
-   "text": "So wax the board tonight.",
-   "speaker": "surf"
-  },
-  {
-   "start": 205.07,
-   "end": 209.23,
-   "text": "Want a read on a stock, E T F or futures contract?",
-   "speaker": "surf"
-  },
-  {
-   "start": 209.51,
-   "end": 215.42,
-   "text": "Type it into the Check a Wave box on the page, and Surf Daddy will call it for you.",
-   "speaker": "surf"
-  },
-  {
-   "start": 215.7,
-   "end": 218.43,
-   "text": "Catch the Dawn Patrol tomorrow morning.",
-   "speaker": "surf"
-  },
-  {
-   "start": 218.71,
-   "end": 223.13,
-   "text": "Remember, the soul surfer rides for the long haul, not the hype.",
-   "speaker": "surf"
-  },
-  {
-   "start": 223.41,
-   "end": 226.01,
-   "text": "This is information, not advice.",
-   "speaker": "surf"
-  },
-  {
-   "start": 226.29,
-   "end": 231.5,
-   "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
-   "speaker": "surf"
+   "title": "Market News, Oct 21",
+   "url": "https://hervecuviliez.substack.com/p/market-news-wednesday-21-october"
   }
  ]
 }
