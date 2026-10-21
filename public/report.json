@@ -194,5 +194,303 @@
    "title": "Market News, Oct 21",
    "url": "https://hervecuviliez.substack.com/p/market-news-wednesday-21-october"
   }
+ ],
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, October twenty-first, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog is out on the deck for Dawn Patrol, tail wagging at the sunrise. Give the Trade Wind surfers a hello, Gus! [BARK] Conditions are fair. Here's the swell. In thin early trading, S and P 500 futures are up about a tenth of a percent, Nasdaq futures about three tenths. Dow futures are flat, and Russell futures dip two tenths. The ten year yield sits near five point one two percent, and the dollar is steady. Crude is up two percent, near one hundred dollars. Gold slips. Bitcoin is up two percent, near eighty three thousand. The VIX is near seventeen and a half. Asia was mixed, and Europe is a touch lower. Wind and weather. No major US economic reports today. Crude inventories land at nine thirty A M Central, and a twenty year bond auction hits at noon. No Fed speakers are scheduled. The big weather system is oil, with Brent near one hundred ten dollars on tension in the Strait of Hormuz. That's a gnarly crosscurrent. On the tide chart, SpaceX beat on earnings and revenue, posting its first quarterly profit since going public in June. Shares are up around ten percent. Cowabunga, that calls for a treat, Gus! Here you go, buddy! [SNACK] Danaher beat and raised its outlook. Netflix beat on profit but trimmed its outlook, and it's down six percent. Capital One beat and is up three percent. After the close, Tesla, Meta, I B M and Texas Instruments drop in. In the lineup, Super Micro is up twelve to sixteen percent after raising its revenue outlook. Tesla is up about two percent, with Musk saying Tesla and SpaceX committees are weighing a merger. Lumentum gains four percent on a higher price target. CoreWeave, Nvidia and Intel are up a couple percent as Musk waves off fears of an A I computing glut. Netflix is the wipeout. Beach talk. Salesforce is buying Braze for about five point seven billion dollars. France imposed curfews after rioting, and its bond yields hit a twenty four year high. Saudi Arabia canceled its big investment conference after attacks near Riyadh. Sets to watch. The opening bell at eight thirty Central. Oil and yields around the crude report. And Tesla and Meta after the close. Soul surfers, no need to chase every ripple. Got a wave on your mind? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "audio": "report.mp3",
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 1.17,
+   "text": "Cowabunga!",
+   "speaker": "surf"
+  },
+  {
+   "start": 1.45,
+   "end": 11.29,
+   "text": "This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore.",
+   "speaker": "surf"
+  },
+  {
+   "start": 11.57,
+   "end": 18.2,
+   "text": "It's Wednesday, October twenty-first, twenty twenty-six, and this is your Market Surf Report.",
+   "speaker": "surf"
+  },
+  {
+   "start": 18.48,
+   "end": 24.39,
+   "text": "Gus the wonder dog is out on the deck for Dawn Patrol, tail wagging at the sunrise.",
+   "speaker": "surf"
+  },
+  {
+   "start": 24.67,
+   "end": 27.42,
+   "text": "Give the Trade Wind surfers a hello, Gus!",
+   "speaker": "surf"
+  },
+  {
+   "start": 27.7,
+   "end": 28.25,
+   "text": "Woof! Woof!",
+   "speaker": "gus"
+  },
+  {
+   "start": 28.53,
+   "end": 30.09,
+   "text": "Conditions are fair.",
+   "speaker": "surf"
+  },
+  {
+   "start": 30.37,
+   "end": 31.69,
+   "text": "Here's the swell.",
+   "speaker": "surf"
+  },
+  {
+   "start": 31.97,
+   "end": 41.72,
+   "text": "In thin early trading, S and P 500 futures are up about a tenth of a percent, Nasdaq futures about three tenths.",
+   "speaker": "surf"
+  },
+  {
+   "start": 42.0,
+   "end": 46.21,
+   "text": "Dow futures are flat, and Russell futures dip two tenths.",
+   "speaker": "surf"
+  },
+  {
+   "start": 46.49,
+   "end": 51.84,
+   "text": "The ten year yield sits near five point one two percent, and the dollar is steady.",
+   "speaker": "surf"
+  },
+  {
+   "start": 52.12,
+   "end": 55.64,
+   "text": "Crude is up two percent, near one hundred dollars.",
+   "speaker": "surf"
+  },
+  {
+   "start": 55.92,
+   "end": 57.18,
+   "text": "Gold slips.",
+   "speaker": "surf"
+  },
+  {
+   "start": 57.46,
+   "end": 61.11,
+   "text": "Bitcoin is up two percent, near eighty three thousand.",
+   "speaker": "surf"
+  },
+  {
+   "start": 61.39,
+   "end": 64.44,
+   "text": "The VIX is near seventeen and a half.",
+   "speaker": "surf"
+  },
+  {
+   "start": 64.72,
+   "end": 67.9,
+   "text": "Asia was mixed, and Europe is a touch lower.",
+   "speaker": "surf"
+  },
+  {
+   "start": 68.18,
+   "end": 69.63,
+   "text": "Wind and weather.",
+   "speaker": "surf"
+  },
+  {
+   "start": 69.91,
+   "end": 73.45,
+   "text": "No major US economic reports today.",
+   "speaker": "surf"
+  },
+  {
+   "start": 73.73,
+   "end": 80.64,
+   "text": "Crude inventories land at nine thirty A M Central, and a twenty year bond auction hits at noon.",
+   "speaker": "surf"
+  },
+  {
+   "start": 80.92,
+   "end": 83.05,
+   "text": "No Fed speakers are scheduled.",
+   "speaker": "surf"
+  },
+  {
+   "start": 83.33,
+   "end": 90.46,
+   "text": "The big weather system is oil, with Brent near one hundred ten dollars on tension in the Strait of Hormuz.",
+   "speaker": "surf"
+  },
+  {
+   "start": 90.74,
+   "end": 92.74,
+   "text": "That's a gnarly crosscurrent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 93.02,
+   "end": 101.81,
+   "text": "On the tide chart, SpaceX beat on earnings and revenue, posting its first quarterly profit since going public in June.",
+   "speaker": "surf"
+  },
+  {
+   "start": 102.09,
+   "end": 104.33,
+   "text": "Shares are up around ten percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 104.61,
+   "end": 107.45,
+   "text": "Cowabunga, that calls for a treat, Gus!",
+   "speaker": "surf"
+  },
+  {
+   "start": 107.73,
+   "end": 109.18,
+   "text": "Here you go, buddy!",
+   "speaker": "surf"
+  },
+  {
+   "start": 109.46,
+   "end": 111.43,
+   "text": "Woof! Crunch, crunch, crunch.",
+   "speaker": "snack"
+  },
+  {
+   "start": 111.71,
+   "end": 114.49,
+   "text": "Danaher beat and raised its outlook.",
+   "speaker": "surf"
+  },
+  {
+   "start": 114.77,
+   "end": 119.86,
+   "text": "Netflix beat on profit but trimmed its outlook, and it's down six percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 120.14,
+   "end": 123.11,
+   "text": "Capital One beat and is up three percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 123.39,
+   "end": 128.74,
+   "text": "After the close, Tesla, Meta, I B M and Texas Instruments drop in.",
+   "speaker": "surf"
+  },
+  {
+   "start": 129.02,
+   "end": 135.89,
+   "text": "In the lineup, Super Micro is up twelve to sixteen percent after raising its revenue outlook.",
+   "speaker": "surf"
+  },
+  {
+   "start": 136.17,
+   "end": 143.19,
+   "text": "Tesla is up about two percent, with Musk saying Tesla and SpaceX committees are weighing a merger.",
+   "speaker": "surf"
+  },
+  {
+   "start": 143.47,
+   "end": 147.14,
+   "text": "Lumentum gains four percent on a higher price target.",
+   "speaker": "surf"
+  },
+  {
+   "start": 147.42,
+   "end": 155.27,
+   "text": "CoreWeave, Nvidia and Intel are up a couple percent as Musk waves off fears of an A I computing glut.",
+   "speaker": "surf"
+  },
+  {
+   "start": 155.55,
+   "end": 157.34,
+   "text": "Netflix is the wipeout.",
+   "speaker": "surf"
+  },
+  {
+   "start": 157.62,
+   "end": 158.8,
+   "text": "Beach talk.",
+   "speaker": "surf"
+  },
+  {
+   "start": 159.08,
+   "end": 163.92,
+   "text": "Salesforce is buying Braze for about five point seven billion dollars.",
+   "speaker": "surf"
+  },
+  {
+   "start": 164.2,
+   "end": 170.32,
+   "text": "France imposed curfews after rioting, and its bond yields hit a twenty four year high.",
+   "speaker": "surf"
+  },
+  {
+   "start": 170.6,
+   "end": 176.17,
+   "text": "Saudi Arabia canceled its big investment conference after attacks near Riyadh.",
+   "speaker": "surf"
+  },
+  {
+   "start": 176.45,
+   "end": 177.75,
+   "text": "Sets to watch.",
+   "speaker": "surf"
+  },
+  {
+   "start": 178.03,
+   "end": 180.68,
+   "text": "The opening bell at eight thirty Central.",
+   "speaker": "surf"
+  },
+  {
+   "start": 180.96,
+   "end": 183.73,
+   "text": "Oil and yields around the crude report.",
+   "speaker": "surf"
+  },
+  {
+   "start": 184.01,
+   "end": 186.7,
+   "text": "And Tesla and Meta after the close.",
+   "speaker": "surf"
+  },
+  {
+   "start": 186.98,
+   "end": 190.41,
+   "text": "Soul surfers, no need to chase every ripple.",
+   "speaker": "surf"
+  },
+  {
+   "start": 190.69,
+   "end": 192.49,
+   "text": "Got a wave on your mind?",
+   "speaker": "surf"
+  },
+  {
+   "start": 192.77,
+   "end": 202.32,
+   "text": "Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "speaker": "surf"
+  },
+  {
+   "start": 202.6,
+   "end": 205.21,
+   "text": "This is information, not advice.",
+   "speaker": "surf"
+  },
+  {
+   "start": 205.49,
+   "end": 210.69,
+   "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+   "speaker": "surf"
+  }
  ]
 }
