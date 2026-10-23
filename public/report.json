@@ -1,117 +1,117 @@
 {
  "date": "2026-10-23",
- "title": "Market Surf Report",
- "edition": "Dawn Patrol Edition",
+ "slot": "evening",
+ "title": "Sunset Session",
+ "edition": "Sunset Session",
  "is_sample": false,
- "updated": "Oct 23, 5:55 AM CT",
+ "updated": "Oct 23, 5:05 PM CT",
  "conditions": {
   "rating": "Poor",
-  "headline": "Choppy Water After the Chip Wipeout",
-  "summary": "Futures are modestly lower after Thursday's steep tech and chip selloff, with oil near $101 on Iran tensions. Bonds rallied, pulling the 10-year yield below 5%."
+  "headline": "Oil Swell Swamps the Dow",
+  "summary": "Stocks fell for a second day as crude jumped about 4% to a six-month high on Middle East tensions. The Dow lost 1.2%, while a chip bounce kept the Nasdaq's loss small."
  },
  "tape": [
   {
-   "label": "S&P fut",
-   "value": "-0.2%",
-   "dir": "down"
-  },
-  {
-   "label": "Nasdaq fut",
-   "value": "0.0%",
-   "dir": "flat"
-  },
-  {
-   "label": "Dow fut",
-   "value": "-0.6%",
-   "dir": "down"
-  },
-  {
-   "label": "Russell fut",
+   "label": "S&P 500",
    "value": "-0.5%",
    "dir": "down"
   },
   {
-   "label": "10-yr",
-   "value": "4.95%",
+   "label": "Nasdaq",
+   "value": "-0.2%",
    "dir": "down"
   },
   {
+   "label": "Dow",
+   "value": "-1.2%",
+   "dir": "down"
+  },
+  {
+   "label": "Russell 2000",
+   "value": "-0.3%",
+   "dir": "down"
+  },
+  {
+   "label": "10-yr",
+   "value": "4.99%",
+   "dir": "up"
+  },
+  {
    "label": "Dollar",
-   "value": "~101.8",
-   "dir": "flat"
+   "value": "Firmer",
+   "dir": "up"
   },
   {
    "label": "Crude",
-   "value": "$101.06 +1.6%",
+   "value": "+4.0%",
    "dir": "up"
   },
   {
    "label": "Gold",
-   "value": "$4,039 -0.5%",
+   "value": "-1.2%",
    "dir": "down"
   },
   {
    "label": "Bitcoin",
-   "value": "$81,705 -0.3%",
-   "dir": "down"
+   "value": "-0.1%",
+   "dir": "flat"
   },
   {
    "label": "VIX",
-   "value": "19.7",
+   "value": "19.45",
    "dir": "up"
   }
  ],
  "sections": [
   {
-   "id": "swell",
-   "surf": "The Swell",
-   "title": "Futures & Overnight",
+   "id": "close",
+   "surf": "The Final Set",
+   "title": "Closing Bell",
    "items": [
-    "S&P 500 futures -0.2%, Nasdaq-100 futures about flat, Dow futures -0.6%, Russell 2000 futures -0.5% (early quotes, around 6 AM ET).",
-    "Thursday: S&P 500 -1.2%, Nasdaq-100 -2.9%, Dow flat; the Philadelphia chip index fell 6.7%, its worst day since June, after Meta raised AI spending plans.",
-    "WTI crude +1.6% near $101 and Brent near $113–114 on reports of more US and Israeli strikes on Iran.",
-    "The 10-year Treasury yield fell to about 4.95%, its first close below 5% in a month, as investors sought safety in bonds.",
-    "Gold slipped below $4,000; bitcoin near $81,700; VIX up near 19.7.",
-    "Asia: Nikkei slipped, Kospi recovered from a near-4% drop to about flat, China's CSI 300 rose; Taiwan was closed for a typhoon.",
-    "Europe: Stoxx 600 lower as French 10-year yields hit a 24-year high above 5.1% on budget worries."
+    "The Dow fell 653 points (1.2%) to 52,215, the S&P 500 lost 0.5% to 7,624 and the Nasdaq slipped 0.2% to 25,955.",
+    "The Russell 2000 fell 0.3% to 2,776.",
+    "Crude oil's jump to a six-month high on Middle East tensions and a tanker strike near Hormuz weighed on stocks.",
+    "Chipmakers bounced after Thursday's steep sell-off, but selling spread to staples, industrials and consumer stocks.",
+    "Energy led the sectors; consumer staples, industrials and consumer discretionary lagged, and decliners outnumbered advancers.",
+    "For the week, the S&P 500 fell 0.5% and the Nasdaq 0.7%, while the Dow rose 0.4%."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Economic Calendar",
+   "title": "Macro & Fed",
    "items": [
-    "8:45 AM CT: S&P Global flash PMIs for October — services forecast 57.9 (prior 58.8), manufacturing 55.4 (prior 55.9).",
-    "9:00 AM CT: University of Michigan final October sentiment — forecast 46.3 (prior 48.1); 1-year inflation expectations forecast 4.7%.",
-    "The Fed's next decision is Wednesday, Oct 28; traders price roughly an 80% chance of a hike by December as oil feeds inflation worries.",
-    "Thursday's jobless claims fell to 194,000, a historically low level."
-   ]
-  },
-  {
-   "id": "tide",
-   "surf": "Tide Chart",
-   "title": "Earnings",
-   "items": [
-    "Western Digital beat fiscal Q1 estimates and gave an upbeat outlook, but shares are down about 2% pre-market.",
-    "Bloom Energy is down about 2% more after a nearly 9% drop Thursday on capex and cash flow concerns.",
-    "RingCentral +15% pre-market after beating Q3 estimates and raising full-year guidance; MaxLinear +10% on upbeat results.",
-    "Deckers Outdoor -9% after mixed results and a fiscal 2027 sales outlook below estimates.",
-    "American Express and SLB report before today's open; a light after-the-close slate. Alphabet and Microsoft report next Wednesday."
+    "The 10-year Treasury yield rose about 3.5 basis points to 4.99%, but fell about 11 basis points for the week.",
+    "WTI crude rose about 4% to roughly $103 and Brent settled near $116.72; gold fell about 1.2% to near $4,010.",
+    "University of Michigan sentiment finished at 48.0, above the 46.3 forecast but near record lows; 1-year inflation expectations rose to 4.7%.",
+    "October flash PMIs: manufacturing 56.0 beat the 55.5 forecast, services 57.9 was close to the 58.0 forecast.",
+    "The Fed meets Oct. 27-28 and is widely expected to hold rates, though futures lean toward a December hike."
    ]
   },
   {
    "id": "lineup",
    "surf": "The Lineup",
-   "title": "Stocks in the News",
+   "title": "Biggest Movers",
    "items": [
-    "RNG (RingCentral): +15% — Q3 beat and raised guidance.",
-    "CCI (Crown Castle): +7% — Bloomberg says SpaceX is in talks to secure 80,000+ US cell sites; American Tower (AMT) +6%.",
-    "VZ, T, TMUS (Verizon, AT&T, T-Mobile): -3%+ — the SpaceX wireless-carrier report weighs on carriers.",
-    "MRNA (Moderna): -4% — extends Thursday's ~18% slide after its melanoma vaccine data leaked early.",
-    "DECK (Deckers Outdoor): -9% — cut fiscal 2027 sales guidance below estimates.",
-    "SKHY (SK Hynix): +5% — halted its review of a pre-IPO raise for its US unit Solidigm.",
-    "CRWV (CoreWeave): +2% — bouncing after a 10% drop to a 17-month low on debt worries.",
-    "META (Meta Platforms): -0.6% — extends a 7% drop on higher AI spending and a planned share sale."
+    "RHI (Robert Half): +13% — beat third-quarter estimates.",
+    "CCI (Crown Castle): +12% — reports SpaceX wants to lease about 80,000 U.S. cell sites; SBAC rose nearly 8%.",
+    "PANW (Palo Alto Networks): +7% — Evercore ISI survey pointed to stronger security budgets; Cloudflare also gained over 7%.",
+    "BE (Bloom Energy): -11% — cash-flow and capex worries despite a beat and raise.",
+    "FIX (Comfort Systems USA): -11% — margins below hopes and CFO retirement.",
+    "DECK (Deckers): -6% — mixed results, guidance cut and a Piper downgrade.",
+    "VZ, T, TMUS (telecoms): lower — worries about SpaceX moving into cell sites."
+   ]
+  },
+  {
+   "id": "tide",
+   "surf": "Tide Chart",
+   "title": "Earnings Today & Tonight",
+   "items": [
+    "American Express beat on profit, missed slightly on revenue and plans about 3,500 job cuts; shares fell about 3%.",
+    "Sallie Mae fell about 5% after an unexpected quarterly loss and weak guidance.",
+    "RingCentral rose about 7% after beating and raising its full-year outlook.",
+    "SLB beat estimates; LKQ fell sharply after withdrawing its full-year guidance.",
+    "No major reports after Friday's close."
    ]
   },
   {
@@ -119,84 +119,49 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "SpaceX and Tesla have each formed special committees of independent directors to study a combination; reports point to a 2027 announcement target.",
-    "Reports say investors pushed OpenAI to trim its fundraising valuation target to $1.25 trillion from $1.4 trillion.",
-    "Meta plans to issue new shares to help fund AI spending after guiding 2026 capex to $135–145 billion.",
-    "Oil near five-month highs after reports the US is prepared for a long fight with Iran.",
-    "London Stock Exchange Group jumped about 8% after raising its revenue outlook."
+    "Apple briefly overtook Nvidia as the most valuable U.S. company, both near $5.1 trillion, before Nvidia retook the lead.",
+    "Apple launched its foldable iPhone at about $2,000.",
+    "SK Hynix shelved a planned U.S. listing for its Solidigm unit, citing market conditions.",
+    "Volvo Cars plans to cut 2,500 jobs after a China-driven quarterly operating loss.",
+    "Hedge funds had their worst day since the COVID-era rout on Thursday, according to Reuters."
    ]
   },
   {
-   "id": "watch",
-   "surf": "Sets to Watch",
-   "title": "What to Watch Today",
+   "id": "tomorrow",
+   "surf": "Tomorrow's Forecast",
+   "title": "On Deck",
    "items": [
-    "9:00 AM CT: Michigan sentiment and inflation expectations.",
-    "Oil around $100 WTI and the 10-year near 4.95%.",
-    "Whether chip stocks stabilize after Thursday's 6.7% index drop."
+    "Next session is Monday, Oct. 26: Chicago Fed National Activity Index at 7:30 AM CT and Dallas Fed manufacturing at 9:30 AM CT.",
+    "$69 billion 2-year note auction at 12:00 PM CT Monday.",
+    "Earnings Monday: Verizon before the open; Cadence Design, Nucor, Celestica and Amkor after the close.",
+    "Later in the week: Fed decision Wednesday at 1:00 PM CT, Q3 GDP and PCE inflation Thursday, plus Microsoft, Alphabet and Amazon earnings."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, October twenty-third, twenty twenty-six, and this is your Market Surf Report. Riding shotgun in the cabana this morning, with sand on his paws and his ears up, is Gus the wonder dog. Gus, give the Dawn Patrol a howdy! Let's check the swell. After Thursday's gnarly tech wipeout, futures are choppy. S and P futures are down two tenths of a percent, Nasdaq futures are flat, the Dow is off six tenths, and the Russell is down half a percent. These are early quotes. Thursday the chip index sank almost seven percent, its worst day since June, after Meta raised its AI spending plans. Oil is the big current. West Texas crude is up one and a half percent, near one hundred and one dollars, on reports of more strikes on Iran. The ten year yield slid to about four point nine five percent as traders paddled to bonds. Gold is just under four thousand dollars, bitcoin is near eighty one thousand seven hundred, and the VIX is near nineteen and a half. Overseas, Tokyo slipped and Seoul recovered to flat. Europe is lower, with French yields at a twenty four year high. Wind and weather. Flash readings on manufacturing and services land at eight forty five A M Central. Michigan consumer sentiment follows at nine A M Central, expected near forty six. The Fed meets next Wednesday, and traders lean toward a hike by December. On the tide chart, Western Digital beat and guided higher, but it is still down two percent. American Express and S L B report before the bell. In the lineup, RingCentral is up fifteen percent after a beat and a raised outlook. Stoked! That calls for a treat, Gus! Here you go, buddy! Crown Castle and American Tower are up six to seven percent on a report that SpaceX wants tens of thousands of cell sites to become a wireless carrier. Verizon, AT and T, and T Mobile drop three percent. Moderna is down four percent after leaked melanoma vaccine data sparked an eighteen percent drop Thursday. Deckers is down nine percent on a weak outlook. Beach talk. SpaceX and Tesla formed committees to study combining. Reports say OpenAI's valuation target was trimmed, and Meta plans new shares to fund its AI build. Sets to watch: sentiment at nine Central, oil near one hundred dollars, and whether chips find their footing. No need to drop in on the first choppy wave. Soul Surfers wait for a clean set. Want a read on a wave of your own? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, October twenty-third, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sinking into the water and I'm waxing the board for Monday. Gus the wonder dog spent the afternoon guarding the cooler. Say good evening, Gus! Here's the final set. Choppy water, and a gnarly day for the Dow. The Dow dropped six hundred fifty-three points, or one point two percent, to fifty-two thousand two hundred fifteen. The S and P five hundred slipped one half of one percent to seven thousand six hundred twenty-four. The Nasdaq dipped two tenths of a percent, and the Russell two thousand fell three tenths. Oil was the big swell, jumping about four percent to a six month high on Middle East tensions. Chip stocks bounced after Thursday's wipeout, but staples, industrials and consumer names sank. Energy led, and decliners beat advancers. For the week, the S and P and Nasdaq fell, while the Dow eked out a gain. Wind and weather. The ten year yield rose about three and a half basis points to just under five percent. The dollar firmed, gold slid about one percent, and bitcoin was flat near eighty-one thousand. The VIX rose to about nineteen and a half. Consumer sentiment came in at forty-eight, better than forecast, but near record lows, with inflation expectations rising. The Fed meets next week and is expected to hold rates. Over in the lineup. Robert Half hung ten, up about thirteen percent on a third quarter beat. Gus, that one earned a treat! Here you go, buddy! Crown Castle jumped nearly twelve percent on reports SpaceX wants to lease about eighty thousand cell sites, while the big phone carriers slipped. Palo Alto Networks and Cloudflare gained more than seven percent on an upbeat security survey. On the wipeout side, Bloom Energy and Comfort Systems each fell about eleven percent, and Deckers dropped six percent after a guidance cut. Tide chart. American Express beat on profit but missed slightly on revenue and plans job cuts. The stock fell about three percent. Sallie Mae slid on a surprise loss, while RingCentral rose on a beat and raise. After the bell, a quiet Friday. Beach talk. Apple briefly passed Nvidia as the most valuable U S company, before Nvidia took the Kahuna crown back. Apple also launched a foldable iPhone at about two thousand dollars. And Volvo Cars plans to cut twenty-five hundred jobs. Tomorrow's forecast is really Monday's. The national activity index lands at seven thirty A M Central, and the Dallas Fed survey at nine thirty. Verizon reports before the open, and Cadence Design and Nucor after the close. Then a big week, with the Fed decision Wednesday at one P M Central, plus Microsoft, Alphabet and Amazon. Got a stock, an E T F or a futures contract on your mind? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you. That's the last wave of the week. Catch the Dawn Patrol Monday morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Stocktwits: futures drop premarket",
-   "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-dow-s-and-p-500-futures-drop-premarket-nvda-amd-meta-crwv-mrna-wdc-be-in-focus/cZxyfNARBxI"
-  },
-  {
-   "title": "Yahoo Finance: stock market today",
+   "title": "Yahoo Finance live market coverage",
    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
   },
   {
-   "title": "FXStreet: Dow futures fall",
-   "url": "https://www.fxstreet.com/news/dow-jones-futures-fall-following-tech-selloff-middle-east-tensions-202610230745"
+   "title": "TheStreet: Stock Market Today Oct. 23",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
   },
   {
-   "title": "Saxo Market Quick Take",
-   "url": "https://www.home.saxo/en-sg/content/articles/macro/market-quick-take---chipmakers-tumble-and-the-ten-year-drops-below-5---23-october-2026-23102026"
+   "title": "Investrade Market Review Oct. 23",
+   "url": "https://investrade.com/market-review-october-23-2026/"
   },
   {
-   "title": "Fortune: AI, oil and the French",
-   "url": "https://fortune.com/2026/10/23/another-horrible-day-markets-ai-oil-the-french/"
+   "title": "Investrade Weekly Event Calendar",
+   "url": "https://investrade.com/weekly-event-calendar-10-26-2026-10-30-2026/"
   },
   {
-   "title": "Investing.com: Friday economic releases",
-   "url": "https://www.investing.com/news/stock-market-news/pmi-data-and-consumer-sentiment-among-economic-releases-due-friday-93CH-4967147"
-  },
-  {
-   "title": "Benzinga: 20 stocks moving premarket",
-   "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62552145/why-ringcentral-shares-are-trading-higher-by-15-here-are-20-stocks-moving-premarket"
-  },
-  {
-   "title": "Investing.com: SpaceX cell-site ambitions",
-   "url": "https://www.investing.com/news/stock-market-news/spacex-cellsite-ambitions-lift-tower-stocks-and-weigh-on-carriers-4968593"
-  },
-  {
-   "title": "Yahoo Finance: SpaceX stock slides",
-   "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-slides-as-tech-trade-tumbles-191751177.html"
-  },
-  {
-   "title": "Yahoo Finance: Moderna sell-the-news",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/moderna-stock-17-slump-sell-001835145.html"
-  },
-  {
-   "title": "Moderna Q3 earnings date",
-   "url": "https://www.newswire.com/news/moderna-to-report-third-quarter-2026-financial-results-on-friday-november-6-2026"
-  },
-  {
-   "title": "Benzinga: Intel earnings preview",
-   "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62524716/intel-earnings-are-around-the-corner-heres-what-to-expect"
-  },
-  {
-   "title": "StockTitan: Danaher Q3 2026",
-   "url": "https://www.stocktitan.net/news/DHR/danaher-reports-third-quarter-2026-cv81eb1qpasx.html"
-  },
-  {
-   "title": "Schwab: market update",
+   "title": "Schwab market update",
    "url": "https://www.schwab.com/learn/story/stock-market-update-open"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, October twenty-third, twenty twenty-six, and this is your Market Surf Report. Riding shotgun in the cabana this morning, with sand on his paws and his ears up, is Gus the wonder dog. Gus, give the Dawn Patrol a howdy! [BARK] Let's check the swell. After Thursday's gnarly tech wipeout, futures are choppy. S and P futures are down two tenths of a percent, Nasdaq futures are flat, the Dow is off six tenths, and the Russell is down half a percent. These are early quotes. Thursday the chip index sank almost seven percent, its worst day since June, after Meta raised its AI spending plans. Oil is the big current. West Texas crude is up one and a half percent, near one hundred and one dollars, on reports of more strikes on Iran. The ten year yield slid to about four point nine five percent as traders paddled to bonds. Gold is just under four thousand dollars, bitcoin is near eighty one thousand seven hundred, and the VIX is near nineteen and a half. Overseas, Tokyo slipped and Seoul recovered to flat. Europe is lower, with French yields at a twenty four year high. Wind and weather. Flash readings on manufacturing and services land at eight forty five A M Central. Michigan consumer sentiment follows at nine A M Central, expected near forty six. The Fed meets next Wednesday, and traders lean toward a hike by December. On the tide chart, Western Digital beat and guided higher, but it is still down two percent. American Express and S L B report before the bell. In the lineup, RingCentral is up fifteen percent after a beat and a raised outlook. Stoked! That calls for a treat, Gus! Here you go, buddy! [SNACK] Crown Castle and American Tower are up six to seven percent on a report that SpaceX wants tens of thousands of cell sites to become a wireless carrier. Verizon, AT and T, and T Mobile drop three percent. Moderna is down four percent after leaked melanoma vaccine data sparked an eighteen percent drop Thursday. Deckers is down nine percent on a weak outlook. Beach talk. SpaceX and Tesla formed committees to study combining. Reports say OpenAI's valuation target was trimmed, and Meta plans new shares to fund its AI build. Sets to watch: sentiment at nine Central, oil near one hundred dollars, and whether chips find their footing. No need to drop in on the first choppy wave. Soul Surfers wait for a clean set. Want a read on a wave of your own? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, October twenty-third, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sinking into the water and I'm waxing the board for Monday. Gus the wonder dog spent the afternoon guarding the cooler. Say good evening, Gus! [BARK] Here's the final set. Choppy water, and a gnarly day for the Dow. The Dow dropped six hundred fifty-three points, or one point two percent, to fifty-two thousand two hundred fifteen. The S and P five hundred slipped one half of one percent to seven thousand six hundred twenty-four. The Nasdaq dipped two tenths of a percent, and the Russell two thousand fell three tenths. Oil was the big swell, jumping about four percent to a six month high on Middle East tensions. Chip stocks bounced after Thursday's wipeout, but staples, industrials and consumer names sank. Energy led, and decliners beat advancers. For the week, the S and P and Nasdaq fell, while the Dow eked out a gain. Wind and weather. The ten year yield rose about three and a half basis points to just under five percent. The dollar firmed, gold slid about one percent, and bitcoin was flat near eighty-one thousand. The VIX rose to about nineteen and a half. Consumer sentiment came in at forty-eight, better than forecast, but near record lows, with inflation expectations rising. The Fed meets next week and is expected to hold rates. Over in the lineup. Robert Half hung ten, up about thirteen percent on a third quarter beat. Gus, that one earned a treat! Here you go, buddy! [SNACK] Crown Castle jumped nearly twelve percent on reports SpaceX wants to lease about eighty thousand cell sites, while the big phone carriers slipped. Palo Alto Networks and Cloudflare gained more than seven percent on an upbeat security survey. On the wipeout side, Bloom Energy and Comfort Systems each fell about eleven percent, and Deckers dropped six percent after a guidance cut. Tide chart. American Express beat on profit but missed slightly on revenue and plans job cuts. The stock fell about three percent. Sallie Mae slid on a surprise loss, while RingCentral rose on a beat and raise. After the bell, a quiet Friday. Beach talk. Apple briefly passed Nvidia as the most valuable U S company, before Nvidia took the Kahuna crown back. Apple also launched a foldable iPhone at about two thousand dollars. And Volvo Cars plans to cut twenty-five hundred jobs. Tomorrow's forecast is really Monday's. The national activity index lands at seven thirty A M Central, and the Dallas Fed survey at nine thirty. Verizon reports before the open, and Cadence Design and Nucor after the close. Then a big week, with the Fed decision Wednesday at one P M Central, plus Microsoft, Alphabet and Amazon. Got a stock, an E T F or a futures contract on your mind? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you. That's the last wave of the week. Catch the Dawn Patrol Monday morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -213,241 +178,283 @@
   },
   {
    "start": 11.57,
-   "end": 18.01,
-   "text": "It's Friday, October twenty-third, twenty twenty-six, and this is your Market Surf Report.",
+   "end": 19.91,
+   "text": "It's Friday, October twenty-third, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
    "speaker": "surf"
   },
   {
-   "start": 18.29,
-   "end": 26.08,
-   "text": "Riding shotgun in the cabana this morning, with sand on his paws and his ears up, is Gus the wonder dog.",
+   "start": 20.19,
+   "end": 24.75,
+   "text": "The sun is sinking into the water and I'm waxing the board for Monday.",
    "speaker": "surf"
   },
   {
-   "start": 26.36,
-   "end": 28.83,
-   "text": "Gus, give the Dawn Patrol a howdy!",
+   "start": 25.03,
+   "end": 28.81,
+   "text": "Gus the wonder dog spent the afternoon guarding the cooler.",
    "speaker": "surf"
   },
   {
-   "start": 29.11,
-   "end": 29.66,
+   "start": 29.09,
+   "end": 30.75,
+   "text": "Say good evening, Gus!",
+   "speaker": "surf"
+  },
+  {
+   "start": 31.03,
+   "end": 31.58,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 29.94,
-   "end": 31.52,
-   "text": "Let's check the swell.",
+   "start": 31.86,
+   "end": 33.57,
+   "text": "Here's the final set.",
    "speaker": "surf"
   },
   {
-   "start": 31.8,
-   "end": 36.09,
-   "text": "After Thursday's gnarly tech wipeout, futures are choppy.",
+   "start": 33.85,
+   "end": 36.92,
+   "text": "Choppy water, and a gnarly day for the Dow.",
    "speaker": "surf"
   },
   {
-   "start": 36.37,
-   "end": 47.16,
-   "text": "S and P futures are down two tenths of a percent, Nasdaq futures are flat, the Dow is off six tenths, and the Russell is down half a percent.",
+   "start": 37.2,
+   "end": 45.2,
+   "text": "The Dow dropped six hundred fifty-three points, or one point two percent, to fifty-two thousand two hundred fifteen.",
    "speaker": "surf"
   },
   {
-   "start": 47.44,
-   "end": 49.24,
-   "text": "These are early quotes.",
+   "start": 45.48,
+   "end": 52.54,
+   "text": "The S and P five hundred slipped one half of one percent to seven thousand six hundred twenty-four.",
    "speaker": "surf"
   },
   {
-   "start": 49.52,
-   "end": 58.52,
-   "text": "Thursday the chip index sank almost seven percent, its worst day since June, after Meta raised its AI spending plans.",
+   "start": 52.82,
+   "end": 58.48,
+   "text": "The Nasdaq dipped two tenths of a percent, and the Russell two thousand fell three tenths.",
    "speaker": "surf"
   },
   {
-   "start": 58.8,
-   "end": 60.53,
-   "text": "Oil is the big current.",
+   "start": 58.76,
+   "end": 65.26,
+   "text": "Oil was the big swell, jumping about four percent to a six month high on Middle East tensions.",
    "speaker": "surf"
   },
   {
-   "start": 60.81,
-   "end": 69.17,
-   "text": "West Texas crude is up one and a half percent, near one hundred and one dollars, on reports of more strikes on Iran.",
+   "start": 65.54,
+   "end": 72.54,
+   "text": "Chip stocks bounced after Thursday's wipeout, but staples, industrials and consumer names sank.",
    "speaker": "surf"
   },
   {
-   "start": 69.45,
-   "end": 75.91,
-   "text": "The ten year yield slid to about four point nine five percent as traders paddled to bonds.",
+   "start": 72.82,
+   "end": 76.13,
+   "text": "Energy led, and decliners beat advancers.",
    "speaker": "surf"
   },
   {
-   "start": 76.19,
-   "end": 85.9,
-   "text": "Gold is just under four thousand dollars, bitcoin is near eighty one thousand seven hundred, and the VIX is near nineteen and a half.",
+   "start": 76.41,
+   "end": 81.44,
+   "text": "For the week, the S and P and Nasdaq fell, while the Dow eked out a gain.",
    "speaker": "surf"
   },
   {
-   "start": 86.18,
-   "end": 89.96,
-   "text": "Overseas, Tokyo slipped and Seoul recovered to flat.",
-   "speaker": "surf"
-  },
-  {
-   "start": 90.24,
-   "end": 94.59,
-   "text": "Europe is lower, with French yields at a twenty four year high.",
-   "speaker": "surf"
-  },
-  {
-   "start": 94.87,
-   "end": 96.32,
+   "start": 81.72,
+   "end": 83.17,
    "text": "Wind and weather.",
    "speaker": "surf"
   },
   {
-   "start": 96.6,
-   "end": 102.83,
-   "text": "Flash readings on manufacturing and services land at eight forty five A M Central.",
+   "start": 83.45,
+   "end": 89.3,
+   "text": "The ten year yield rose about three and a half basis points to just under five percent.",
    "speaker": "surf"
   },
   {
-   "start": 103.11,
-   "end": 109.29,
-   "text": "Michigan consumer sentiment follows at nine A M Central, expected near forty six.",
+   "start": 89.58,
+   "end": 95.96,
+   "text": "The dollar firmed, gold slid about one percent, and bitcoin was flat near eighty-one thousand.",
    "speaker": "surf"
   },
   {
-   "start": 109.57,
-   "end": 114.4,
-   "text": "The Fed meets next Wednesday, and traders lean toward a hike by December.",
+   "start": 96.24,
+   "end": 99.5,
+   "text": "The VIX rose to about nineteen and a half.",
    "speaker": "surf"
   },
   {
-   "start": 114.68,
-   "end": 121.4,
-   "text": "On the tide chart, Western Digital beat and guided higher, but it is still down two percent.",
+   "start": 99.78,
+   "end": 108.89,
+   "text": "Consumer sentiment came in at forty-eight, better than forecast, but near record lows, with inflation expectations rising.",
    "speaker": "surf"
   },
   {
-   "start": 121.68,
-   "end": 125.86,
-   "text": "American Express and S L B report before the bell.",
+   "start": 109.17,
+   "end": 112.95,
+   "text": "The Fed meets next week and is expected to hold rates.",
    "speaker": "surf"
   },
   {
-   "start": 126.14,
-   "end": 132.2,
-   "text": "In the lineup, RingCentral is up fifteen percent after a beat and a raised outlook.",
+   "start": 113.23,
+   "end": 114.68,
+   "text": "Over in the lineup.",
    "speaker": "surf"
   },
   {
-   "start": 132.48,
-   "end": 133.39,
-   "text": "Stoked!",
+   "start": 114.96,
+   "end": 119.99,
+   "text": "Robert Half hung ten, up about thirteen percent on a third quarter beat.",
    "speaker": "surf"
   },
   {
-   "start": 133.67,
-   "end": 135.61,
-   "text": "That calls for a treat, Gus!",
+   "start": 120.27,
+   "end": 122.15,
+   "text": "Gus, that one earned a treat!",
    "speaker": "surf"
   },
   {
-   "start": 135.89,
-   "end": 137.34,
+   "start": 122.43,
+   "end": 123.88,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 137.62,
-   "end": 139.59,
+   "start": 124.16,
+   "end": 126.13,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 139.87,
-   "end": 150.97,
-   "text": "Crown Castle and American Tower are up six to seven percent on a report that SpaceX wants tens of thousands of cell sites to become a wireless carrier.",
+   "start": 126.41,
+   "end": 136.52,
+   "text": "Crown Castle jumped nearly twelve percent on reports SpaceX wants to lease about eighty thousand cell sites, while the big phone carriers slipped.",
    "speaker": "surf"
   },
   {
-   "start": 151.25,
-   "end": 155.34,
-   "text": "Verizon, AT and T, and T Mobile drop three percent.",
+   "start": 136.8,
+   "end": 143.76,
+   "text": "Palo Alto Networks and Cloudflare gained more than seven percent on an upbeat security survey.",
    "speaker": "surf"
   },
   {
-   "start": 155.62,
-   "end": 163.47,
-   "text": "Moderna is down four percent after leaked melanoma vaccine data sparked an eighteen percent drop Thursday.",
+   "start": 144.04,
+   "end": 154.06,
+   "text": "On the wipeout side, Bloom Energy and Comfort Systems each fell about eleven percent, and Deckers dropped six percent after a guidance cut.",
    "speaker": "surf"
   },
   {
-   "start": 163.75,
-   "end": 166.89,
-   "text": "Deckers is down nine percent on a weak outlook.",
+   "start": 154.34,
+   "end": 155.58,
+   "text": "Tide chart.",
    "speaker": "surf"
   },
   {
-   "start": 167.17,
-   "end": 168.34,
+   "start": 155.86,
+   "end": 161.86,
+   "text": "American Express beat on profit but missed slightly on revenue and plans job cuts.",
+   "speaker": "surf"
+  },
+  {
+   "start": 162.14,
+   "end": 164.33,
+   "text": "The stock fell about three percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 164.61,
+   "end": 170.14,
+   "text": "Sallie Mae slid on a surprise loss, while RingCentral rose on a beat and raise.",
+   "speaker": "surf"
+  },
+  {
+   "start": 170.42,
+   "end": 172.85,
+   "text": "After the bell, a quiet Friday.",
+   "speaker": "surf"
+  },
+  {
+   "start": 173.13,
+   "end": 174.3,
    "text": "Beach talk.",
    "speaker": "surf"
   },
   {
-   "start": 168.62,
-   "end": 172.7,
-   "text": "SpaceX and Tesla formed committees to study combining.",
+   "start": 174.58,
+   "end": 182.65,
+   "text": "Apple briefly passed Nvidia as the most valuable U S company, before Nvidia took the Kahuna crown back.",
    "speaker": "surf"
   },
   {
-   "start": 172.98,
-   "end": 181.15,
-   "text": "Reports say OpenAI's valuation target was trimmed, and Meta plans new shares to fund its AI build.",
+   "start": 182.93,
+   "end": 188.18,
+   "text": "Apple also launched a foldable iPhone at about two thousand dollars.",
    "speaker": "surf"
   },
   {
-   "start": 181.43,
-   "end": 189.11,
-   "text": "Sets to watch: sentiment at nine Central, oil near one hundred dollars, and whether chips find their footing.",
+   "start": 188.46,
+   "end": 192.68,
+   "text": "And Volvo Cars plans to cut twenty-five hundred jobs.",
    "speaker": "surf"
   },
   {
-   "start": 189.39,
-   "end": 192.46,
-   "text": "No need to drop in on the first choppy wave.",
+   "start": 192.96,
+   "end": 195.8,
+   "text": "Tomorrow's forecast is really Monday's.",
    "speaker": "surf"
   },
   {
-   "start": 192.74,
-   "end": 195.11,
-   "text": "Soul Surfers wait for a clean set.",
+   "start": 196.08,
+   "end": 203.76,
+   "text": "The national activity index lands at seven thirty A M Central, and the Dallas Fed survey at nine thirty.",
    "speaker": "surf"
   },
   {
-   "start": 195.39,
-   "end": 197.74,
-   "text": "Want a read on a wave of your own?",
+   "start": 204.04,
+   "end": 209.78,
+   "text": "Verizon reports before the open, and Cadence Design and Nucor after the close.",
    "speaker": "surf"
   },
   {
-   "start": 198.02,
-   "end": 207.57,
-   "text": "Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "start": 210.06,
+   "end": 218.38,
+   "text": "Then a big week, with the Fed decision Wednesday at one P M Central, plus Microsoft, Alphabet and Amazon.",
    "speaker": "surf"
   },
   {
-   "start": 207.85,
-   "end": 210.46,
+   "start": 218.66,
+   "end": 223.16,
+   "text": "Got a stock, an E T F or a futures contract on your mind?",
+   "speaker": "surf"
+  },
+  {
+   "start": 223.44,
+   "end": 229.03,
+   "text": "Type it in the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "speaker": "surf"
+  },
+  {
+   "start": 229.31,
+   "end": 231.29,
+   "text": "That's the last wave of the week.",
+   "speaker": "surf"
+  },
+  {
+   "start": 231.57,
+   "end": 234.26,
+   "text": "Catch the Dawn Patrol Monday morning.",
+   "speaker": "surf"
+  },
+  {
+   "start": 234.54,
+   "end": 237.14,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 210.74,
-   "end": 215.94,
+   "start": 237.42,
+   "end": 242.63,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
