@@ -1,116 +1,118 @@
 {
- "date": "2026-10-27",
- "slot": "evening",
- "title": "Sunset Session",
- "edition": "Sunset Session",
+ "date": "2026-10-28",
+ "title": "Market Surf Report",
+ "edition": "Dawn Patrol Edition",
  "is_sample": false,
- "updated": "Oct 27, 5:05 PM CT",
+ "updated": "Oct 28, 5:55 AM CT",
  "conditions": {
-  "rating": "Good",
-  "headline": "Chip swell lifts the Nasdaq as the Fed paddles out",
-  "summary": "Chip stocks and AI names drove the Nasdaq up 1.2% and the S&P 500 up 0.6%, while the Dow was flat. Strong consumer confidence and lower oil helped ahead of Wednesday's Fed decision."
+  "rating": "Fair",
+  "headline": "Chip swell builds as the Fed wave looms",
+  "summary": "Nasdaq futures edge higher on a memory-chip rally while the Dow lags. Traders are waiting for the Fed at 1 PM CT and Microsoft and Alphabet earnings after the close."
  },
  "tape": [
   {
-   "label": "S&P 500",
-   "value": "+0.60%",
+   "label": "S&P fut",
+   "value": "+0.1%",
    "dir": "up"
   },
   {
-   "label": "Nasdaq",
-   "value": "+1.18%",
+   "label": "Nasdaq fut",
+   "value": "+0.4%",
    "dir": "up"
   },
   {
-   "label": "Dow",
-   "value": "+0.03%",
+   "label": "Dow fut",
+   "value": "-0.2%",
+   "dir": "down"
+  },
+  {
+   "label": "Russell fut",
+   "value": "—",
    "dir": "flat"
   },
   {
-   "label": "Russell 2000",
-   "value": "+1.16%",
-   "dir": "up"
-  },
-  {
    "label": "10-yr",
-   "value": "4.99%",
+   "value": "5.02%",
    "dir": "flat"
   },
   {
    "label": "Dollar",
-   "value": "Above 102",
+   "value": "~102.5",
    "dir": "up"
   },
   {
    "label": "Crude",
-   "value": "-1.7%",
-   "dir": "down"
-  },
-  {
-   "label": "Gold",
-   "value": "+0.9%",
+   "value": "$101.4 +1.5%",
    "dir": "up"
   },
   {
+   "label": "Gold",
+   "value": "$4,055 -0.5%",
+   "dir": "down"
+  },
+  {
    "label": "Bitcoin",
-   "value": "+0.6%",
+   "value": "$80.9K +1.2%",
    "dir": "up"
   },
   {
    "label": "VIX",
-   "value": "-4.8%",
-   "dir": "down"
+   "value": "17.5",
+   "dir": "flat"
   }
  ],
  "sections": [
   {
-   "id": "close",
-   "surf": "The Final Set",
-   "title": "Closing Bell",
+   "id": "swell",
+   "surf": "The Swell",
+   "title": "Futures & Overnight",
    "items": [
-    "S&P 500 rose 0.60% to 7,722.60; Nasdaq gained 1.18% to 26,477.81.",
-    "Dow edged up 0.03% to 52,377.57; Russell 2000 rose 1.16% to 2,818.87.",
-    "Chips led: the Philadelphia Semiconductor Index jumped about 3.6%, with all 30 members higher.",
-    "AI enthusiasm got a lift from Anthropic's IPO filing, and falling oil helped sentiment.",
-    "Technology and materials led sectors; energy, consumer staples and real estate lagged."
+    "Around 4:50 AM ET, Nasdaq-100 futures were up 0.4%, S&P 500 futures up 0.1% and Dow futures down 0.2%; Russell 2000 futures were not available in sources checked.",
+    "The 10-year Treasury yield is near 5.02%, and the dollar index firmed toward 102.5.",
+    "WTI crude is about $101.40, up 1.5%; gold is about $4,055, down 0.5%.",
+    "Bitcoin is near $80,900, up about 1% over 24 hours; the VIX closed Tuesday near 17.5.",
+    "Asia: Korea's Kospi surged about 6.6% on SK Hynix, and the Nikkei rose about 1%.",
+    "Europe: major indexes opened about 0.1% to 0.3% lower ahead of the Fed and Big Tech earnings; Spain's IBEX fell about 1%."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Fed",
+   "title": "Macro & Economic Calendar",
    "items": [
-    "Conference Board consumer confidence rose to 91.7 in October, well above the roughly 81 expected.",
-    "September new home sales came in at a 676,000 annual pace, down 0.6% from August.",
-    "The Fed began its two-day meeting; markets price about 90% odds of a hold at 3.75% to 4%, with focus on a possible December hike.",
-    "The 10-year yield held near 4.99%, about unchanged; the dollar index firmed above 102.",
-    "WTI crude fell about 1.7% to near $100; gold rose about 0.9% to about $4,074; bitcoin was near $80,500; the VIX fell to about 17.5."
-   ]
-  },
-  {
-   "id": "lineup",
-   "surf": "The Lineup",
-   "title": "Biggest Movers",
-   "items": [
-    "PNR (Pentair): +11.8% — beat third-quarter estimates and signaled a turnaround.",
-    "SOFI (SoFi Technologies): +11.3% — earnings beat and upbeat long-term growth outlook.",
-    "BE (Bloom Energy): +7.8% — beat and raised its 2026 revenue forecast.",
-    "CRWV (CoreWeave): +7.9% — AI cloud stocks rebounded with the chip rally.",
-    "BA (Boeing): about -10% — missed estimates and cut its full-year delivery target.",
-    "XYL (Xylem): about -8.9% — missed estimates and cut full-year guidance.",
-    "CTAS (Cintas): -7.1% — reports the FTC plans to block its $5.5 billion UniFirst deal.",
-    "VLO (Valero): -6.6% — refiners slid as crude prices pulled back."
+    "FOMC decision at 1:00 PM CT; markets widely expect a hold at 3.75%–4.00% after September's hike.",
+    "Chair Kevin Warsh's press conference is expected around 1:30 PM CT; there is no new dot plot at this meeting.",
+    "Futures traders price a strong chance of a December hike as energy-driven inflation stays elevated.",
+    "Bank of Canada rate decision at 8:45 AM CT; UK budget also out today, and the ECB decides Thursday.",
+    "September PCE inflation is due Thursday, and Q3 GDP (expected around 3.2%) is due this week."
    ]
   },
   {
    "id": "tide",
    "surf": "Tide Chart",
-   "title": "Earnings Today & Tonight",
+   "title": "Earnings",
    "items": [
-    "Before the open: Coca-Cola beat on earnings and revenue but slipped 1.6% on flat North American volume.",
-    "Before the open: UPS beat and raised its full-year revenue outlook to about $92.6 billion; Royal Caribbean beat and raised guidance.",
-    "After the close: Visa beat on EPS ($3.48 vs $3.44) but slipped about 2% after hours; Robinhood fell about 5% on a revenue miss.",
-    "After the close: Seagate beat but fell about 7%; Enphase missed and dropped about 10%; PPG beat and rose about 7.5%."
+    "GE Vernova: organic orders up 96% to $29.3B and revenue of $12.6B beat estimates; raised guidance, doubled its buyback and agreed to buy Trench Group for $9B.",
+    "Boston Scientific: Q3 sales up 1.5% to $5.14B, adjusted EPS $0.73; it expects Q4 sales to fall 1%–3%.",
+    "Seagate: beat on EPS and revenue and guided above consensus, but shares fell about 4% premarket after a big run.",
+    "Robinhood: revenue of $1.42B and adjusted EPS of $0.60 missed as crypto revenue fell 55%; shares down about 8%.",
+    "Visa: shares off about 1.7% after fiscal Q4 results and a softer EPS growth outlook.",
+    "After today's close: Microsoft and Alphabet, with cloud growth and AI capex in focus. Biogen also reports today."
+   ]
+  },
+  {
+   "id": "lineup",
+   "surf": "The Lineup",
+   "title": "Stocks in the News",
+   "items": [
+    "SKHY (SK Hynix): +7.8% — quarterly profit jumped more than sevenfold.",
+    "MU (Micron): +4% — memory-chip read-through from SK Hynix.",
+    "WDC (Western Digital): +4.5% — storage stocks lifted by the memory rally.",
+    "GOOGL (Alphabet): +1.2% — report that OpenAI plans to buy Google's AI chips; earnings after the close.",
+    "AMD (Advanced Micro Devices): +1.5% — chip sector strength.",
+    "HOOD (Robinhood): -8% — Q3 profit missed on weaker crypto trading.",
+    "STX (Seagate): -3.7% — sell-the-news despite a beat and raise.",
+    "V (Visa): -1.7% — fiscal Q4 results and a softer growth outlook."
    ]
   },
   {
@@ -118,70 +120,100 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Anthropic filed for an IPO on the Nasdaq, reporting $16.29 billion in revenue for the six months ended June.",
-    "Anthropic agreed to pay SpaceX up to $120.5 billion for computing infrastructure through 2029.",
-    "Meta upsized its common stock offering to $25 billion at $625 a share; Nvidia plans to invest $3 billion in Meta.",
-    "General Motors said it will move its listing from the NYSE to Nasdaq.",
-    "The US government offered Constellation Energy up to $5 billion in conditional financing for nuclear upgrades."
+    "EQT agreed to buy Range Resources in an all-stock deal valued near $12.8B, creating the largest US natural gas producer.",
+    "A banking consortium lined up $63B in financing for hardware destined for Anthropic, which filed for a US IPO on Monday.",
+    "Intel signed a deal to acquire quantum software company Classiq, reportedly for about $2.2B.",
+    "Nvidia is investing $3B in Meta's $97.5B equity offering.",
+    "Guidewire agreed to buy London insurance-software firm hyperexponential for $1.7B in cash."
    ]
   },
   {
-   "id": "tomorrow",
-   "surf": "Tomorrow's Forecast",
-   "title": "On Deck",
+   "id": "watch",
+   "surf": "Sets to Watch",
+   "title": "What to Watch Today",
    "items": [
-    "ADP employment report before the open.",
-    "Fed rate decision at 1:00 PM CT; Chair Warsh press conference at 1:30 PM CT.",
-    "Before the open: GE Vernova and Phillips 66 report earnings.",
-    "After the close: Microsoft, Alphabet and Chipotle report.",
-    "Thursday: September PCE inflation; Amazon, Intel and Coinbase report after the close."
+    "1:00 PM CT Fed decision and 1:30 PM CT Warsh press conference — watch for December hike signals.",
+    "Microsoft and Alphabet after the close — cloud growth and AI spending plans.",
+    "WTI near $100 and the 10-year near 5% — energy and rates remain the key pressure points."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Tuesday, October twenty-seventh, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sinking into the Gulf, and I'm waxing the board for tomorrow. Gus the wonder dog chased sandpipers down by the pier all afternoon. Say good evening, Gus! Here's the final set. The S and P 500 rose six tenths of a percent to about seven thousand seven hundred twenty-three. The Nasdaq hung ten, up one point two percent to about twenty-six thousand four hundred seventy-eight. The Dow was flat near fifty-two thousand three hundred seventy-eight. The Russell 2000 gained one point two percent. Chips made the big swell. The semiconductor index jumped about three and a half percent. AI buzz helped after Anthropic filed to go public. Tech led, while energy and staples lagged. Wind and weather. Consumer confidence rose to ninety-one point seven, far above the roughly eighty-one expected. New home sales dipped slightly. The Fed began its two-day meeting, and markets see about a ninety percent chance of a hold. The ten-year yield sat near four point nine nine percent, barely changed. The dollar firmed above one hundred two. Crude slid about one point seven percent to near one hundred dollars. Gold rose almost one percent. Bitcoin was near eighty thousand five hundred, and the VIX fell to about seventeen and a half. The lineup. Pentair surged almost twelve percent on a strong quarter. SoFi Technologies rode a beat and an upbeat outlook to an eleven percent gain. Gus, that's worth a biscuit! Here you go, buddy! Bloom Energy and CoreWeave each rose almost eight percent. Boeing took a gnarly wipeout, down about ten percent after a miss and a delivery target cut. Xylem fell about nine percent, Cintas about seven on merger trouble, and Valero six and a half as oil eased. Tide chart. Coca-Cola beat but slipped about one and a half percent. UPS beat and raised its outlook. After the bell, Visa beat but dipped about two percent. Robinhood fell about five percent and Seagate about seven. P P G jumped about seven and a half percent. Beach talk. Anthropic, the newest grom paddling toward the public lineup, reported more than sixteen billion dollars in first half revenue. Meta upsized its stock offering to twenty-five billion dollars. General Motors will move its listing to the Nasdaq. Tomorrow's forecast. The A D P jobs report comes before the open. The Fed decision hits at one P M Central, with Chair Warsh at one thirty. Microsoft and Alphabet report after the close. Want a read on any stock, E T F or futures contract? Type it into the Check a Wave box on the page, and Surf Daddy will call it for you. Soul surfers ride every tide. Catch Dawn Patrol tomorrow morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, October twenty-eighth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the board this morning is my co-anchor, Gus the wonder dog, freshly toweled off from the dawn patrol. Give the lineup a howdy, Gus! It's Fed day, and the water is choppy but surfable. Early this morning, Nasdaq one hundred futures were up about four tenths of a percent, S and P 500 futures were up about a tenth, and Dow futures were down about two tenths. The ten year Treasury yield sits right around five percent. Crude oil is back above one hundred dollars a barrel, and gold slipped about half a percent. Korea's Kospi exploded more than six percent on chip stocks, and Europe opened a touch lower. The big wave today is the Federal Reserve. The decision lands at one P M Central, with Chair Kevin Warsh's press conference expected at one thirty. Markets expect a hold at three point seven five to four percent after last month's hike, but traders see a good chance of another hike in December. High energy prices keep inflation sticky. On the tide chart, GE Vernova crushed it, with orders nearly doubling, revenue topping estimates, a raised outlook, and a nine billion dollar deal for Trench Group. That's a Kahuna wave of power demand from A I data centers. That calls for a treat, Gus! Here you go, buddy! Boston Scientific grew sales just one and a half percent and sees fourth quarter sales slipping. After today's close, Microsoft and Alphabet report, and the whole beach is watching their A I spending. In the lineup, S K Hynix's American shares jumped nearly eight percent after profit soared more than sevenfold. Micron rode that swell up four percent. Robinhood wiped out about eight percent after missing on profit, and Seagate slipped despite beating. Beach talk: E Q T agreed to buy Range Resources in an all stock deal worth about thirteen billion dollars, creating the biggest U S natural gas producer. And a banking group lined up sixty three billion dollars in financing for hardware headed to Anthropic, which just filed for its I P O. Sets to watch: the Fed at one P M Central, the Warsh press conference at one thirty, and Microsoft and Alphabet after the bell. Gnarly swings are possible, so don't be a kook chasing ripples. Want my call on a wave of your own? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "TheStreet: Stock Market Today Oct. 27",
-   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026"
+   "title": "Reuters via SRN News: Nasdaq futures rise as SK Hynix boosts chips",
+   "url": "https://srnnews.com/nasdaq-futures-rise-as-sk-hynix-boosts-chips-before-fed-decision-earnings/"
   },
   {
-   "title": "VistaP Global: Market Summary Oct. 27",
-   "url": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups/"
+   "title": "IC Markets: US futures mixed ahead of Fed",
+   "url": "https://www.icmarkets.com.au/blog/wednesday-28th-oct-2026-u-s-stock-futures-mixed-ahead-of-fed-decision-and-big-tech-earnings/"
   },
   {
-   "title": "TradingKey: US Stocks Close",
-   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262243619-us-stock-market-close-nasdaq-rise-chips-rally-coreweave-tradingkey"
+   "title": "Kiplinger: October Fed meeting live",
+   "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026"
   },
   {
-   "title": "Motley Fool: Stock Market Midday Oct. 27",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-midday-oct-27-tech-stocks-lead-as-nasdaq-climbs-on-market-momentum/"
+   "title": "investingLive: European stock market open",
+   "url": "https://investinglive.com/stocks/european-stock-market-open-stocks-edge-lower-ahead-of-fed-decision-and-big-tech-earnings/"
   },
   {
-   "title": "Cestrian Daily Market Review",
-   "url": "https://www.cestriancapitalresearch.com/cestrian-daily-market-review-tuesday-27-october-2026/"
+   "title": "FXStreet: Dollar index near 102.50",
+   "url": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-to-near-10250-fed-rate-decision-looms-202610280516"
   },
   {
-   "title": "Yahoo Finance: Fed meeting live updates",
-   "url": "https://finance.yahoo.com/economy/policy/live/fed-meeting-live-updates-federal-reserve-october-meeting-kevin-warsh-161129201.html"
+   "title": "CoinCodex: Daily market update Oct 28",
+   "url": "https://coincodex.com/article/94442/daily-market-update-for-october-28-2026"
   },
   {
-   "title": "FX Leaders: Dollar climbs above 102",
-   "url": "https://www.fxleaders.com/news/2026/10/27/dollar-climbs-above-102-as-investors-turn-cautious-ahead-of-fed-meeting/"
+   "title": "USMacro: VIX",
+   "url": "https://usmacro.com/indicator/vix"
   },
   {
-   "title": "Investing.com: After-hours movers",
-   "url": "https://investing.com/news/stock-market-news/afterhours-movers-stx-enph-hood-v-csgp-boom-cake-ppg-oi-ter-432SI-4976906"
+   "title": "HuggingNews: GE Vernova raises outlook",
+   "url": "https://huggingnews.com/earnings/ge-vernova-hikes-2026-outlook-following-surge-in-third-quarter-orders-f9a15b32"
   },
   {
-   "title": "CoinCentral: Anthropic IPO filing",
-   "url": "https://coincentral.com/stock-market-today-dow-sp-500-and-nasdaq-close-higher-after-anthropic-ipo-filing"
+   "title": "StockTitan: Boston Scientific Q3 results",
+   "url": "https://www.stocktitan.net/news/BSX/boston-scientific-announces-results-for-third-quarter-qgqjrigjbftb.html"
   },
   {
-   "title": "investingLive: Week ahead",
-   "url": "https://investinglive.com/stocks/earnings-macro-week-ahead-the-fed-and-big-tech-report-on-the-same-day/"
+   "title": "TipRanks: Robinhood and Seagate after hours",
+   "url": "https://www.tipranks.com/news/whats-driving-the-selloff-in-robinhood-and-seagate-stocks-after-hours-and-what-wall-street-sees-next"
+  },
+  {
+   "title": "Stocktwits: Premarket focus (Meta, Broadcom)",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-gain-premarket-while-oil-rebounds-cls-nvda-skhy-crwv-sofi-in-focus/cZUe5Q4RBz6"
+  },
+  {
+   "title": "The Daily Buyout: EQT, Intel deals",
+   "url": "https://www.thedailybuyout.com/issues/2026-10-27"
+  },
+  {
+   "title": "Stocktwits: SPCX and $40B GPU financing",
+   "url": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-retail-elon-musk-snap-up-cerebras-chipmaker-slump/cZUduq4RBy9"
+  },
+  {
+   "title": "Yahoo Finance: Wall Street weighs SpaceX",
+   "url": "https://finance.yahoo.com/markets/stocks/article/the-worlds-super-company-wall-street-weighs-spacex-earnings-companys-likely-tesla-tie-up-173949705.html"
+  },
+  {
+   "title": "Tradingpedia: Moderna downgrade",
+   "url": "https://www.tradingpedia.com/2026/10/27/moderna-drops-after-analyst-downgrade-trial-letdown/"
+  },
+  {
+   "title": "Newswire: Moderna Q3 date",
+   "url": "https://www.newswire.com/news/moderna-to-report-third-quarter-2026-financial-results-on-friday-november-6-2026"
+  },
+  {
+   "title": "MarketBeat: Intel earnings preview",
+   "url": "https://www.marketbeat.com/instant-alerts/upcoming-intel-intc-expected-to-announce-earnings-on-thursday-2026-10-22/"
+  },
+  {
+   "title": "StockAnalysis: Danaher",
+   "url": "https://stockanalysis.com/stocks/dhr/"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Tuesday, October twenty-seventh, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sinking into the Gulf, and I'm waxing the board for tomorrow. Gus the wonder dog chased sandpipers down by the pier all afternoon. Say good evening, Gus! [BARK] Here's the final set. The S and P 500 rose six tenths of a percent to about seven thousand seven hundred twenty-three. The Nasdaq hung ten, up one point two percent to about twenty-six thousand four hundred seventy-eight. The Dow was flat near fifty-two thousand three hundred seventy-eight. The Russell 2000 gained one point two percent. Chips made the big swell. The semiconductor index jumped about three and a half percent. AI buzz helped after Anthropic filed to go public. Tech led, while energy and staples lagged. Wind and weather. Consumer confidence rose to ninety-one point seven, far above the roughly eighty-one expected. New home sales dipped slightly. The Fed began its two-day meeting, and markets see about a ninety percent chance of a hold. The ten-year yield sat near four point nine nine percent, barely changed. The dollar firmed above one hundred two. Crude slid about one point seven percent to near one hundred dollars. Gold rose almost one percent. Bitcoin was near eighty thousand five hundred, and the VIX fell to about seventeen and a half. The lineup. Pentair surged almost twelve percent on a strong quarter. SoFi Technologies rode a beat and an upbeat outlook to an eleven percent gain. Gus, that's worth a biscuit! Here you go, buddy! [SNACK] Bloom Energy and CoreWeave each rose almost eight percent. Boeing took a gnarly wipeout, down about ten percent after a miss and a delivery target cut. Xylem fell about nine percent, Cintas about seven on merger trouble, and Valero six and a half as oil eased. Tide chart. Coca-Cola beat but slipped about one and a half percent. UPS beat and raised its outlook. After the bell, Visa beat but dipped about two percent. Robinhood fell about five percent and Seagate about seven. P P G jumped about seven and a half percent. Beach talk. Anthropic, the newest grom paddling toward the public lineup, reported more than sixteen billion dollars in first half revenue. Meta upsized its stock offering to twenty-five billion dollars. General Motors will move its listing to the Nasdaq. Tomorrow's forecast. The A D P jobs report comes before the open. The Fed decision hits at one P M Central, with Chair Warsh at one thirty. Microsoft and Alphabet report after the close. Want a read on any stock, E T F or futures contract? Type it into the Check a Wave box on the page, and Surf Daddy will call it for you. Soul surfers ride every tide. Catch Dawn Patrol tomorrow morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, October twenty-eighth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the board this morning is my co-anchor, Gus the wonder dog, freshly toweled off from the dawn patrol. Give the lineup a howdy, Gus! [BARK] It's Fed day, and the water is choppy but surfable. Early this morning, Nasdaq one hundred futures were up about four tenths of a percent, S and P 500 futures were up about a tenth, and Dow futures were down about two tenths. The ten year Treasury yield sits right around five percent. Crude oil is back above one hundred dollars a barrel, and gold slipped about half a percent. Korea's Kospi exploded more than six percent on chip stocks, and Europe opened a touch lower. The big wave today is the Federal Reserve. The decision lands at one P M Central, with Chair Kevin Warsh's press conference expected at one thirty. Markets expect a hold at three point seven five to four percent after last month's hike, but traders see a good chance of another hike in December. High energy prices keep inflation sticky. On the tide chart, GE Vernova crushed it, with orders nearly doubling, revenue topping estimates, a raised outlook, and a nine billion dollar deal for Trench Group. That's a Kahuna wave of power demand from A I data centers. That calls for a treat, Gus! Here you go, buddy! [SNACK] Boston Scientific grew sales just one and a half percent and sees fourth quarter sales slipping. After today's close, Microsoft and Alphabet report, and the whole beach is watching their A I spending. In the lineup, S K Hynix's American shares jumped nearly eight percent after profit soared more than sevenfold. Micron rode that swell up four percent. Robinhood wiped out about eight percent after missing on profit, and Seagate slipped despite beating. Beach talk: E Q T agreed to buy Range Resources in an all stock deal worth about thirteen billion dollars, creating the biggest U S natural gas producer. And a banking group lined up sixty three billion dollars in financing for hardware headed to Anthropic, which just filed for its I P O. Sets to watch: the Fed at one P M Central, the Warsh press conference at one thirty, and Microsoft and Alphabet after the bell. Gnarly swings are possible, so don't be a kook chasing ripples. Want my call on a wave of your own? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -198,313 +230,187 @@
   },
   {
    "start": 11.57,
-   "end": 20.27,
-   "text": "It's Tuesday, October twenty-seventh, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
+   "end": 18.16,
+   "text": "It's Wednesday, October twenty-eighth, twenty twenty-six, and this is your Market Surf Report.",
    "speaker": "surf"
   },
   {
-   "start": 20.55,
-   "end": 25.37,
-   "text": "The sun is sinking into the Gulf, and I'm waxing the board for tomorrow.",
+   "start": 18.44,
+   "end": 26.89,
+   "text": "Riding shotgun on the board this morning is my co-anchor, Gus the wonder dog, freshly toweled off from the dawn patrol.",
    "speaker": "surf"
   },
   {
-   "start": 25.65,
-   "end": 30.39,
-   "text": "Gus the wonder dog chased sandpipers down by the pier all afternoon.",
+   "start": 27.17,
+   "end": 29.22,
+   "text": "Give the lineup a howdy, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 30.67,
-   "end": 32.33,
-   "text": "Say good evening, Gus!",
-   "speaker": "surf"
-  },
-  {
-   "start": 32.61,
-   "end": 33.16,
+   "start": 29.5,
+   "end": 30.05,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 33.44,
-   "end": 35.15,
-   "text": "Here's the final set.",
+   "start": 30.33,
+   "end": 33.85,
+   "text": "It's Fed day, and the water is choppy but surfable.",
    "speaker": "surf"
   },
   {
-   "start": 35.43,
-   "end": 42.98,
-   "text": "The S and P 500 rose six tenths of a percent to about seven thousand seven hundred twenty-three.",
+   "start": 34.13,
+   "end": 47.82,
+   "text": "Early this morning, Nasdaq one hundred futures were up about four tenths of a percent, S and P 500 futures were up about a tenth, and Dow futures were down about two tenths.",
    "speaker": "surf"
   },
   {
-   "start": 43.26,
-   "end": 50.34,
-   "text": "The Nasdaq hung ten, up one point two percent to about twenty-six thousand four hundred seventy-eight.",
+   "start": 48.1,
+   "end": 52.07,
+   "text": "The ten year Treasury yield sits right around five percent.",
    "speaker": "surf"
   },
   {
-   "start": 50.62,
-   "end": 54.98,
-   "text": "The Dow was flat near fifty-two thousand three hundred seventy-eight.",
+   "start": 52.35,
+   "end": 58.47,
+   "text": "Crude oil is back above one hundred dollars a barrel, and gold slipped about half a percent.",
    "speaker": "surf"
   },
   {
-   "start": 55.26,
-   "end": 58.73,
-   "text": "The Russell 2000 gained one point two percent.",
+   "start": 58.75,
+   "end": 65.37,
+   "text": "Korea's Kospi exploded more than six percent on chip stocks, and Europe opened a touch lower.",
    "speaker": "surf"
   },
   {
-   "start": 59.01,
-   "end": 60.74,
-   "text": "Chips made the big swell.",
+   "start": 65.65,
+   "end": 68.72,
+   "text": "The big wave today is the Federal Reserve.",
    "speaker": "surf"
   },
   {
-   "start": 61.02,
-   "end": 65.08,
-   "text": "The semiconductor index jumped about three and a half percent.",
+   "start": 69.0,
+   "end": 76.38,
+   "text": "The decision lands at one P M Central, with Chair Kevin Warsh's press conference expected at one thirty.",
    "speaker": "surf"
   },
   {
-   "start": 65.36,
-   "end": 69.24,
-   "text": "AI buzz helped after Anthropic filed to go public.",
+   "start": 76.66,
+   "end": 86.54,
+   "text": "Markets expect a hold at three point seven five to four percent after last month's hike, but traders see a good chance of another hike in December.",
    "speaker": "surf"
   },
   {
-   "start": 69.52,
-   "end": 72.36,
-   "text": "Tech led, while energy and staples lagged.",
+   "start": 86.82,
+   "end": 89.87,
+   "text": "High energy prices keep inflation sticky.",
    "speaker": "surf"
   },
   {
-   "start": 72.64,
-   "end": 74.09,
-   "text": "Wind and weather.",
+   "start": 90.15,
+   "end": 102.44,
+   "text": "On the tide chart, GE Vernova crushed it, with orders nearly doubling, revenue topping estimates, a raised outlook, and a nine billion dollar deal for Trench Group.",
    "speaker": "surf"
   },
   {
-   "start": 74.37,
-   "end": 81.51,
-   "text": "Consumer confidence rose to ninety-one point seven, far above the roughly eighty-one expected.",
+   "start": 102.72,
+   "end": 106.9,
+   "text": "That's a Kahuna wave of power demand from A I data centers.",
    "speaker": "surf"
   },
   {
-   "start": 81.79,
-   "end": 83.9,
-   "text": "New home sales dipped slightly.",
+   "start": 107.18,
+   "end": 109.12,
+   "text": "That calls for a treat, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 84.18,
-   "end": 90.24,
-   "text": "The Fed began its two-day meeting, and markets see about a ninety percent chance of a hold.",
-   "speaker": "surf"
-  },
-  {
-   "start": 90.52,
-   "end": 95.45,
-   "text": "The ten-year yield sat near four point nine nine percent, barely changed.",
-   "speaker": "surf"
-  },
-  {
-   "start": 95.73,
-   "end": 98.25,
-   "text": "The dollar firmed above one hundred two.",
-   "speaker": "surf"
-  },
-  {
-   "start": 98.53,
-   "end": 103.18,
-   "text": "Crude slid about one point seven percent to near one hundred dollars.",
-   "speaker": "surf"
-  },
-  {
-   "start": 103.46,
-   "end": 105.74,
-   "text": "Gold rose almost one percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 106.02,
-   "end": 112.61,
-   "text": "Bitcoin was near eighty thousand five hundred, and the VIX fell to about seventeen and a half.",
-   "speaker": "surf"
-  },
-  {
-   "start": 112.89,
-   "end": 113.94,
-   "text": "The lineup.",
-   "speaker": "surf"
-  },
-  {
-   "start": 114.22,
-   "end": 117.93,
-   "text": "Pentair surged almost twelve percent on a strong quarter.",
-   "speaker": "surf"
-  },
-  {
-   "start": 118.21,
-   "end": 124.16,
-   "text": "SoFi Technologies rode a beat and an upbeat outlook to an eleven percent gain.",
-   "speaker": "surf"
-  },
-  {
-   "start": 124.44,
-   "end": 126.19,
-   "text": "Gus, that's worth a biscuit!",
-   "speaker": "surf"
-  },
-  {
-   "start": 126.47,
-   "end": 127.92,
+   "start": 109.4,
+   "end": 110.85,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 128.2,
-   "end": 130.17,
+   "start": 111.13,
+   "end": 113.1,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 130.45,
-   "end": 134.87,
-   "text": "Bloom Energy and CoreWeave each rose almost eight percent.",
+   "start": 113.38,
+   "end": 119.89,
+   "text": "Boston Scientific grew sales just one and a half percent and sees fourth quarter sales slipping.",
    "speaker": "surf"
   },
   {
-   "start": 135.15,
-   "end": 141.68,
-   "text": "Boeing took a gnarly wipeout, down about ten percent after a miss and a delivery target cut.",
+   "start": 120.17,
+   "end": 127.95,
+   "text": "After today's close, Microsoft and Alphabet report, and the whole beach is watching their A I spending.",
    "speaker": "surf"
   },
   {
-   "start": 141.96,
-   "end": 150.19,
-   "text": "Xylem fell about nine percent, Cintas about seven on merger trouble, and Valero six and a half as oil eased.",
+   "start": 128.23,
+   "end": 136.45,
+   "text": "In the lineup, S K Hynix's American shares jumped nearly eight percent after profit soared more than sevenfold.",
    "speaker": "surf"
   },
   {
-   "start": 150.47,
-   "end": 151.71,
-   "text": "Tide chart.",
+   "start": 136.73,
+   "end": 139.5,
+   "text": "Micron rode that swell up four percent.",
    "speaker": "surf"
   },
   {
-   "start": 151.99,
-   "end": 155.72,
-   "text": "Coca-Cola beat but slipped about one and a half percent.",
+   "start": 139.78,
+   "end": 146.48,
+   "text": "Robinhood wiped out about eight percent after missing on profit, and Seagate slipped despite beating.",
    "speaker": "surf"
   },
   {
-   "start": 156.0,
-   "end": 158.95,
-   "text": "UPS beat and raised its outlook.",
+   "start": 146.76,
+   "end": 159.19,
+   "text": "Beach talk: E Q T agreed to buy Range Resources in an all stock deal worth about thirteen billion dollars, creating the biggest U S natural gas producer.",
    "speaker": "surf"
   },
   {
-   "start": 159.23,
-   "end": 163.02,
-   "text": "After the bell, Visa beat but dipped about two percent.",
+   "start": 159.47,
+   "end": 169.63,
+   "text": "And a banking group lined up sixty three billion dollars in financing for hardware headed to Anthropic, which just filed for its I P O.",
    "speaker": "surf"
   },
   {
-   "start": 163.3,
-   "end": 167.46,
-   "text": "Robinhood fell about five percent and Seagate about seven.",
+   "start": 169.91,
+   "end": 179.72,
+   "text": "Sets to watch: the Fed at one P M Central, the Warsh press conference at one thirty, and Microsoft and Alphabet after the bell.",
    "speaker": "surf"
   },
   {
-   "start": 167.74,
-   "end": 171.26,
-   "text": "P P G jumped about seven and a half percent.",
+   "start": 180.0,
+   "end": 184.38,
+   "text": "Gnarly swings are possible, so don't be a kook chasing ripples.",
    "speaker": "surf"
   },
   {
-   "start": 171.54,
-   "end": 172.72,
-   "text": "Beach talk.",
+   "start": 184.66,
+   "end": 187.17,
+   "text": "Want my call on a wave of your own?",
    "speaker": "surf"
   },
   {
-   "start": 173.0,
-   "end": 182.06,
-   "text": "Anthropic, the newest grom paddling toward the public lineup, reported more than sixteen billion dollars in first half revenue.",
+   "start": 187.45,
+   "end": 196.97,
+   "text": "Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you.",
    "speaker": "surf"
   },
   {
-   "start": 182.34,
-   "end": 186.59,
-   "text": "Meta upsized its stock offering to twenty-five billion dollars.",
-   "speaker": "surf"
-  },
-  {
-   "start": 186.87,
-   "end": 190.43,
-   "text": "General Motors will move its listing to the Nasdaq.",
-   "speaker": "surf"
-  },
-  {
-   "start": 190.71,
-   "end": 192.42,
-   "text": "Tomorrow's forecast.",
-   "speaker": "surf"
-  },
-  {
-   "start": 192.7,
-   "end": 196.11,
-   "text": "The A D P jobs report comes before the open.",
-   "speaker": "surf"
-  },
-  {
-   "start": 196.39,
-   "end": 201.51,
-   "text": "The Fed decision hits at one P M Central, with Chair Warsh at one thirty.",
-   "speaker": "surf"
-  },
-  {
-   "start": 201.79,
-   "end": 205.4,
-   "text": "Microsoft and Alphabet report after the close.",
-   "speaker": "surf"
-  },
-  {
-   "start": 205.68,
-   "end": 209.97,
-   "text": "Want a read on any stock, E T F or futures contract?",
-   "speaker": "surf"
-  },
-  {
-   "start": 210.25,
-   "end": 216.15,
-   "text": "Type it into the Check a Wave box on the page, and Surf Daddy will call it for you.",
-   "speaker": "surf"
-  },
-  {
-   "start": 216.43,
-   "end": 218.78,
-   "text": "Soul surfers ride every tide.",
-   "speaker": "surf"
-  },
-  {
-   "start": 219.06,
-   "end": 221.56,
-   "text": "Catch Dawn Patrol tomorrow morning.",
-   "speaker": "surf"
-  },
-  {
-   "start": 221.84,
-   "end": 224.44,
+   "start": 197.25,
+   "end": 199.85,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 224.72,
-   "end": 229.93,
+   "start": 200.13,
+   "end": 205.34,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
