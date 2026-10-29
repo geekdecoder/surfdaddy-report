@@ -1,53 +1,54 @@
 {
  "date": "2026-10-29",
- "title": "Market Surf Report",
- "edition": "Dawn Patrol Edition",
+ "slot": "evening",
+ "title": "Sunset Session",
+ "edition": "Sunset Session",
  "is_sample": false,
- "updated": "Oct 29, 5:55 AM CT",
+ "updated": "Oct 29, 5:05 PM CT",
  "conditions": {
   "rating": "Fair",
-  "headline": "Split swell: Microsoft rides, Alphabet wipes out",
-  "summary": "Nasdaq futures are down about 1% after Alphabet's sales miss, while Dow and small-cap futures rise. GDP, PCE inflation and the ECB decision land this morning."
+  "headline": "Alphabet Wipeout Chops Up Tech, Small Caps Ride It In",
+  "summary": "Alphabet's worst day since its 2004 debut dragged the Nasdaq down about 1.4 percent, while the S&P 500 and Dow slipped only modestly. Small caps, health care and financials caught a bid as money rotated out of software."
  },
  "tape": [
   {
-   "label": "S&P fut",
-   "value": "-0.2%",
+   "label": "S&P 500",
+   "value": "-0.3%",
    "dir": "down"
   },
   {
-   "label": "Nasdaq fut",
-   "value": "-1.0%",
+   "label": "Nasdaq",
+   "value": "-1.4%",
    "dir": "down"
   },
   {
-   "label": "Dow fut",
-   "value": "+0.5%",
-   "dir": "up"
+   "label": "Dow",
+   "value": "-0.3%",
+   "dir": "down"
   },
   {
-   "label": "Russell fut",
-   "value": "+0.6%",
+   "label": "Russell 2000",
+   "value": "+1.0%",
    "dir": "up"
   },
   {
    "label": "10-yr",
-   "value": "5.05%",
-   "dir": "up"
-  },
-  {
-   "label": "Dollar",
-   "value": "Firmer",
-   "dir": "up"
-  },
-  {
-   "label": "Crude",
-   "value": "-1.1%",
+   "value": "4.99%",
    "dir": "down"
   },
   {
+   "label": "Dollar",
+   "value": "~102.2",
+   "dir": "flat"
+  },
+  {
+   "label": "Crude",
+   "value": "$102.91",
+   "dir": "flat"
+  },
+  {
    "label": "Gold",
-   "value": "-0.2%",
+   "value": "-0.3%",
    "dir": "down"
   },
   {
@@ -57,61 +58,60 @@
   },
   {
    "label": "VIX",
-   "value": "17.2",
+   "value": "17.20",
    "dir": "up"
   }
  ],
  "sections": [
   {
-   "id": "swell",
-   "surf": "The Swell",
-   "title": "Futures & Overnight",
+   "id": "close",
+   "surf": "The Final Set",
+   "title": "Closing Bell",
    "items": [
-    "Early quotes: S&P 500 futures -0.2%, Nasdaq-100 futures -1.0%, Dow futures +0.5%, Russell 2000 futures +0.6%.",
-    "The 10-year Treasury yield is near 5.05%, up about 5 basis points.",
-    "WTI crude is down about 1.1%, near $101.6; gold is slightly lower, near $4,044.",
-    "Bitcoin is down about 1.8%, near $79,900; the VIX is near 17.2.",
-    "Asia was mixed: the Nikkei rose about 1% while Korea's Kospi fell about 1% and Shanghai slipped.",
-    "Europe: the STOXX 600 is about flat ahead of the ECB; Shell +2.6% and Airbus +3.2% on results."
+    "The S&P 500 fell 0.3% to about 7,720, ending a three-day winning streak.",
+    "The Nasdaq Composite dropped 1.4% to about 26,185, hit hardest by Alphabet and software stocks.",
+    "The Dow slipped 0.25% to about 52,343 after opening down nearly 400 points, while the Russell 2000 rose 1.0% to about 2,859.",
+    "Stocks spent most of the day in the red, then recovered part of their losses in the final hour.",
+    "Software was the weakest corner, with the IGV software fund down about 4%; health care hit a record high and financials and real estate also drew buyers."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Economic Calendar",
+   "title": "Macro & Fed",
    "items": [
-    "The Fed held rates at 3.75%–4% on Wednesday in a 10-2 vote; Cook and Hammack wanted a hike.",
-    "CME FedWatch shows over an 80% chance of a December rate hike.",
-    "7:30 AM CT: Q3 GDP (consensus +3.2% annualized), September PCE (headline +0.5% m/m, core +0.3% m/m, core +3.1% y/y) and jobless claims (about 199,000).",
-    "8:15 AM CT: ECB rate decision, expected to hold at 2.5%; press conference follows."
-   ]
-  },
-  {
-   "id": "tide",
-   "surf": "Tide Chart",
-   "title": "Earnings",
-   "items": [
-    "Microsoft beat on revenue and earnings, helped by Azure; shares up about 3.6% pre-market.",
-    "Alphabet missed on sales and showed negative free cash flow from AI spending; shares down about 10% pre-market.",
-    "ServiceNow fell about 18% on a small earnings miss; Fortinet fell about 25% after its report.",
-    "Carvana rose about 8% on record unit sales; Chipotle rose about 7% as traffic held up.",
-    "Before the open today: Eli Lilly, Mastercard, Merck, Caterpillar, Bristol Myers Squibb, Linde, Altria.",
-    "After the close today: Amazon, Intel, Starbucks, Coinbase, Sandisk, Gilead, Stryker, Mondelez."
+    "Third-quarter GDP grew at a 3.4% annual pace, up from 2.2% in the second quarter and above forecasts.",
+    "PCE inflation rose to 3.6% from a year earlier, up from 3.4%; core PCE rose 0.3% for the month, as expected.",
+    "Weekly jobless claims fell to 194,000, below the 198,000 expected.",
+    "The Fed held rates at 3.75% to 4.00% on Wednesday in a 10-2 vote, with two officials wanting a hike; markets price roughly an 80% chance of a December hike.",
+    "The 10-year Treasury yield ended near 4.99%, down about 5 basis points; gold slipped to about $4,038 and bitcoin fell below $80,000."
    ]
   },
   {
    "id": "lineup",
    "surf": "The Lineup",
-   "title": "Stocks in the News",
+   "title": "Biggest Movers",
    "items": [
-    "FTNT (Fortinet): -25% — sharp drop after its quarterly report.",
-    "NOW (ServiceNow): -18% — slight earnings miss.",
-    "GOOGL (Alphabet): -10% — sales miss and heavy AI spending.",
-    "MRVL (Marvell Technology): -10% — chip selloff on AI-spending jitters.",
-    "CVNA (Carvana): +8% — record car sales.",
-    "CMG (Chipotle): +7% — restaurant traffic held up.",
-    "MSFT (Microsoft): +3.6% — earnings and cloud beat.",
-    "MU (Micron): -3% — chipmakers lower in sympathy."
+    "GOOGL (Alphabet): -12.6% — sales fell short and heavy AI spending outran cash flow, erasing roughly $500 billion in market value.",
+    "NOW (ServiceNow): -26.5% — its results sparked a broad selloff in software stocks.",
+    "FTNT (Fortinet): -20.1% — it cut its service revenue forecast even as it raised its overall 2026 revenue outlook.",
+    "MRVL (Marvell): -13.2% — reports said it is in advanced talks to buy Lumentum.",
+    "LLY (Eli Lilly): +6.4% — third-quarter revenue jumped 39% to $24.4 billion and it raised its full-year forecast.",
+    "ADT (ADT): +33.4% — agreed to be bought by Thrive Holdings for $10 a share in cash.",
+    "CROX (Crocs): +25.5% — raised its 2026 outlook.",
+    "XRX (Xerox): -40.3% — cut its full-year forecasts."
+   ]
+  },
+  {
+   "id": "tide",
+   "surf": "Tide Chart",
+   "title": "Earnings Today & Tonight",
+   "items": [
+    "Caterpillar beat third-quarter estimates but fell as much as 12% intraday on a disappointing fourth-quarter outlook.",
+    "Amazon fell about 7% after hours: AWS sales grew 39%, but heavy AI spending pushed trailing free cash flow below zero.",
+    "Intel sank about 18% after hours as its fourth-quarter revenue guide of $15 billion to $16 billion came in below the roughly $17 billion expected.",
+    "Rivian jumped after hours on revenue of $2.16 billion, above estimates, and a raised full-year outlook.",
+    "Sandisk rose about 2% after hours on $11 billion in quarterly revenue and an eight-for-one stock split."
    ]
   },
   {
@@ -119,64 +119,57 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "GE Vernova agreed to buy grid-equipment maker Trench Group from Triton for $9 billion and raised its revenue outlook again.",
-    "An investor group including Nelson Peltz offered $1.4 billion to take Wendy's private.",
-    "MGM Resorts says acquisition talks with People Inc. have ended.",
-    "Shell posted its biggest quarterly profit since 2022 and increased its buyback.",
-    "Law firm Weil, Gotshal & Manges plans to wind down after a wave of partner departures."
+    "DoorDash agreed to buy Instacart for $65 a share, mostly in cash, a deal valued around $17 billion; DoorDash shares rose about 5.6%.",
+    "Thrive Holdings agreed to buy home-security company ADT for $10 a share in cash.",
+    "Alphabet's drop ranks as the second-largest one-day loss of market value for a US-listed company, behind Nvidia's in January 2025.",
+    "The European Central Bank held its deposit rate at 2.50%, as expected.",
+    "The average 30-year fixed mortgage rate eased to 7.24%."
    ]
   },
   {
-   "id": "watch",
-   "surf": "Sets to Watch",
-   "title": "What to Watch Today",
+   "id": "tomorrow",
+   "surf": "Tomorrow's Forecast",
+   "title": "On Deck",
    "items": [
-    "7:30 AM CT: GDP and PCE inflation — a hot core reading would add to December hike bets with the 10-year near 5%.",
-    "8:15 AM CT: ECB decision, then Lagarde's comments on French bonds.",
-    "After the close: Amazon and Intel results test the AI trade after Alphabet's slide."
+    "7:30 AM CT: Employment Cost Index for the third quarter.",
+    "Before the open: ExxonMobil and Chevron report third-quarter results.",
+    "Before the open: AbbVie reports, with its call at 8:00 AM CT.",
+    "Markets digest the after-hours moves in Amazon and Intel."
    ]
   }
  ],
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Thursday, October twenty-ninth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sinking low over the water, the sky is going orange, and we are paddling out for the last set of the day. Gus the wonder dog spent the afternoon chasing sandpipers down the beach, and now he's back in the cabana, all sandy and proud. Say good evening to the crew, Gus! Alright, let's ride. Today's conditions were choppy, so I'm calling it a fair session. The S and P five hundred slipped three tenths of a percent to about seven thousand seven hundred twenty, ending a three day winning streak. The Nasdaq took a gnarly hit, down about one point four percent to roughly twenty-six thousand one hundred eighty-five. The Dow eased a quarter percent to about fifty-two thousand three hundred forty-three, after opening down nearly four hundred points. But the small caps found their own little break, with the Russell two thousand up one percent. The big wipeout was Alphabet. The stock fell about twelve and a half percent, its worst day since it went public in two thousand four. Sales came up short, and all that A I spending outran its cash. That knocked out roughly five hundred billion dollars in market value. Software got pulled under too. ServiceNow sank about twenty-six percent, and Fortinet dropped about twenty percent. Money paddled over to health care, which hit a record high, plus financials and real estate. Eli Lilly caught a beautiful wave, up more than six percent after revenue jumped thirty-nine percent and it raised its forecast. Gus, that one earns a biscuit! Here you go, buddy! Now the wind and weather. The economy grew at a three point four percent pace last quarter, stronger than expected. But PCE inflation climbed to three point six percent from a year ago. Jobless claims dropped to one hundred ninety-four thousand. After yesterday's Fed hold, traders still see good odds of a rate hike in December. The ten year Treasury yield finished near four point nine nine percent, down about five basis points. Oil sat near one hundred three dollars, gold slipped to about four thousand thirty-eight, and bitcoin fell under eighty thousand. The fear gauge, the VIX, ticked up to about seventeen. In the lineup, A D T jumped thirty-three percent on a buyout from Thrive Holdings. Crocs rose about twenty-five percent on a better outlook. Xerox wiped out, down forty percent after cutting its forecast. On the tide chart tonight, Amazon fell about seven percent after hours. Cloud sales grew thirty-nine percent, but heavy A I spending drained its cash flow. Intel sank about eighteen percent on a soft revenue guide. Rivian jumped after a revenue beat and a raised outlook. In beach talk, DoorDash agreed to buy Instacart for sixty-five dollars a share, about seventeen billion dollars. Tomorrow's forecast: the Employment Cost Index lands at seven thirty A M Central, and ExxonMobil, Chevron and AbbVie report before the open. Catch the Dawn Patrol in the morning for the opening swell. Remember, the soul surfers who stay patient through choppy days are the ones still standing on their boards. Got a stock, an E T F or a futures contract on your mind? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you. Wax that board for tomorrow. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Yahoo Finance live: stocks Oct 29",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html"
+   "title": "Yahoo Finance live: Oct 29 market close",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html"
   },
   {
-   "title": "Yahoo Finance: Nasdaq futures slide",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html"
+   "title": "StockTitan: Stock Market Today Oct 29, 2026",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
   },
   {
-   "title": "IC Markets: Oct 29 futures",
-   "url": "https://www.icmarkets.com.au/blog/thursday-29th-oct-2026-u-s-futures-fall-as-microsoft-alphabet-earnings-put-ai-trade-in-focus/"
+   "title": "EconCurrents: Oct 29 market close",
+   "url": "https://econcurrents.substack.com/p/29-october-2026-market-close-and"
   },
   {
-   "title": "StockTitan: Fed holds Oct 28",
-   "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026"
+   "title": "24/7 Wall St.: S&P 500 market bell",
+   "url": "https://247wallst.com/cards/the-nasdaq-s-1-57-drop-was-triple-the-dow-s-concentrating-gspc-market-bell-01m64m5jtya3f2cehqh2qnm9az"
   },
   {
-   "title": "StockTitan: earnings week of Oct 26",
-   "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026"
+   "title": "Nexo: Markets Today Oct 29",
+   "url": "https://nexo.com/blog/markets-today-october-29"
   },
   {
-   "title": "Business Recorder: European shares",
-   "url": "https://www.brecorder.com/news/40446494/european-shares-inch-up-ahead-of-ecb-as-earnings-remain-in-focus"
+   "title": "IndexBox: Gold slips on strong GDP",
+   "url": "https://www.indexbox.io/blog/gold-slips-to-4020-4030-as-strong-gdp-keeps-fed-on-hold/"
   },
   {
-   "title": "NordFX Market Pulse",
-   "url": "https://nordfx.com/market-news/market-pulse-october-29-2026"
-  },
-  {
-   "title": "WSJ summary (rallies.ai)",
-   "url": "https://rallies.ai/news/wall-street-journal-october-29-072549aa3c1b7118"
-  },
-  {
-   "title": "24/7 Wall St: Carvana, Chipotle, ServiceNow",
-   "url": "https://247wallst.com/videos/carvana-and-chipotle-soar-after-earnings-while-ford-and-servicenow-sink/?.tsrc=rss"
+   "title": "MarketBeat: Chevron earnings Friday",
+   "url": "https://www.marketbeat.com/instant-alerts/upcoming-chevron-cvx-set-to-announce-quarterly-earnings-on-friday-2026-10-23/"
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Thursday, October twenty-ninth, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog is on his beach towel, ready for dawn patrol. Give the crew a big hello, Gus! Conditions are fair, with a split swell from Big Tech earnings. Early quotes show S and P five hundred futures down about two tenths of a percent, and Nasdaq one hundred futures down about one percent. Dow futures are up about half a percent, and Russell two thousand futures are up about six tenths of a percent. The ten year Treasury yield is near five point zero five percent. Crude oil is down about one percent, near one hundred and one dollars. Bitcoin is down almost two percent, near eighty thousand dollars. Tokyo gained overnight, Korea slipped, and Europe is flat. Now, wind and weather. The Fed held rates steady yesterday, but two officials voted for a hike. Futures traders now see better than an eighty percent chance of a December hike. At seven thirty A M Central we get third quarter G D P, expected near three point two percent. We also get September P C E inflation and jobless claims. The European Central Bank decides at eight fifteen. On the tide chart, Microsoft beat on earnings and cloud growth, and the stock is up about three and a half percent before the bell. Now that is a Kahuna catching a clean wave. That calls for a treat, Gus! Here you go, buddy! Alphabet wiped out, down about ten percent after a sales miss and heavy A I spending. ServiceNow and Fortinet took gnarly spills too. Carvana and Chipotle are hanging ten. After the close, Amazon, Intel, Starbucks and Coinbase report. In the lineup, chip stocks are soft,, with Marvell down near ten percent. Beach talk. G E Vernova plans to buy grid equipment maker Trench Group for nine billion dollars. An investor group led by Nelson Peltz offered one point four billion dollars for Wendy's. Sets to watch: the seven thirty data, the European Central Bank, and Amazon and Intel tonight. Stay stoked, but don't be a kook chasing the first set. Want my read on a wave of your own? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Thursday, October twenty-ninth, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog is on his beach towel, ready for dawn patrol. Give the crew a big hello, Gus! [BARK] Conditions are fair, with a split swell from Big Tech earnings. Early quotes show S and P five hundred futures down about two tenths of a percent, and Nasdaq one hundred futures down about one percent. Dow futures are up about half a percent, and Russell two thousand futures are up about six tenths of a percent. The ten year Treasury yield is near five point zero five percent. Crude oil is down about one percent, near one hundred and one dollars. Bitcoin is down almost two percent, near eighty thousand dollars. Tokyo gained overnight, Korea slipped, and Europe is flat. Now, wind and weather. The Fed held rates steady yesterday, but two officials voted for a hike. Futures traders now see better than an eighty percent chance of a December hike. At seven thirty A M Central we get third quarter G D P, expected near three point two percent. We also get September P C E inflation and jobless claims. The European Central Bank decides at eight fifteen. On the tide chart, Microsoft beat on earnings and cloud growth, and the stock is up about three and a half percent before the bell. Now that is a Kahuna catching a clean wave. That calls for a treat, Gus! Here you go, buddy! [SNACK] Alphabet wiped out, down about ten percent after a sales miss and heavy A I spending. ServiceNow and Fortinet took gnarly spills too. Carvana and Chipotle are hanging ten. After the close, Amazon, Intel, Starbucks and Coinbase report. In the lineup, chip stocks are soft,, with Marvell down near ten percent. Beach talk. G E Vernova plans to buy grid equipment maker Trench Group for nine billion dollars. An investor group led by Nelson Peltz offered one point four billion dollars for Wendy's. Sets to watch: the seven thirty data, the European Central Bank, and Amazon and Intel tonight. Stay stoked, but don't be a kook chasing the first set. Want my read on a wave of your own? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Thursday, October twenty-ninth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sinking low over the water, the sky is going orange, and we are paddling out for the last set of the day. Gus the wonder dog spent the afternoon chasing sandpipers down the beach, and now he's back in the cabana, all sandy and proud. Say good evening to the crew, Gus! [BARK] Alright, let's ride. Today's conditions were choppy, so I'm calling it a fair session. The S and P five hundred slipped three tenths of a percent to about seven thousand seven hundred twenty, ending a three day winning streak. The Nasdaq took a gnarly hit, down about one point four percent to roughly twenty-six thousand one hundred eighty-five. The Dow eased a quarter percent to about fifty-two thousand three hundred forty-three, after opening down nearly four hundred points. But the small caps found their own little break, with the Russell two thousand up one percent. The big wipeout was Alphabet. The stock fell about twelve and a half percent, its worst day since it went public in two thousand four. Sales came up short, and all that A I spending outran its cash. That knocked out roughly five hundred billion dollars in market value. Software got pulled under too. ServiceNow sank about twenty-six percent, and Fortinet dropped about twenty percent. Money paddled over to health care, which hit a record high, plus financials and real estate. Eli Lilly caught a beautiful wave, up more than six percent after revenue jumped thirty-nine percent and it raised its forecast. Gus, that one earns a biscuit! Here you go, buddy! [SNACK] Now the wind and weather. The economy grew at a three point four percent pace last quarter, stronger than expected. But PCE inflation climbed to three point six percent from a year ago. Jobless claims dropped to one hundred ninety-four thousand. After yesterday's Fed hold, traders still see good odds of a rate hike in December. The ten year Treasury yield finished near four point nine nine percent, down about five basis points. Oil sat near one hundred three dollars, gold slipped to about four thousand thirty-eight, and bitcoin fell under eighty thousand. The fear gauge, the VIX, ticked up to about seventeen. In the lineup, A D T jumped thirty-three percent on a buyout from Thrive Holdings. Crocs rose about twenty-five percent on a better outlook. Xerox wiped out, down forty percent after cutting its forecast. On the tide chart tonight, Amazon fell about seven percent after hours. Cloud sales grew thirty-nine percent, but heavy A I spending drained its cash flow. Intel sank about eighteen percent on a soft revenue guide. Rivian jumped after a revenue beat and a raised outlook. In beach talk, DoorDash agreed to buy Instacart for sixty-five dollars a share, about seventeen billion dollars. Tomorrow's forecast: the Employment Cost Index lands at seven thirty A M Central, and ExxonMobil, Chevron and AbbVie report before the open. Catch the Dawn Patrol in the morning for the opening swell. Remember, the soul surfers who stay patient through choppy days are the ones still standing on their boards. Got a stock, an E T F or a futures contract on your mind? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you. Wax that board for tomorrow. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -193,217 +186,277 @@
   },
   {
    "start": 11.57,
-   "end": 18.14,
-   "text": "It's Thursday, October twenty-ninth, twenty twenty-six, and this is your Market Surf Report.",
+   "end": 20.04,
+   "text": "It's Thursday, October twenty-ninth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
    "speaker": "surf"
   },
   {
-   "start": 18.42,
-   "end": 23.11,
-   "text": "Gus the wonder dog is on his beach towel, ready for dawn patrol.",
+   "start": 20.32,
+   "end": 28.47,
+   "text": "The sun is sinking low over the water, the sky is going orange, and we are paddling out for the last set of the day.",
    "speaker": "surf"
   },
   {
-   "start": 23.39,
-   "end": 25.5,
-   "text": "Give the crew a big hello, Gus!",
+   "start": 28.75,
+   "end": 38.01,
+   "text": "Gus the wonder dog spent the afternoon chasing sandpipers down the beach, and now he's back in the cabana, all sandy and proud.",
    "speaker": "surf"
   },
   {
-   "start": 25.78,
-   "end": 26.33,
+   "start": 38.29,
+   "end": 40.44,
+   "text": "Say good evening to the crew, Gus!",
+   "speaker": "surf"
+  },
+  {
+   "start": 40.72,
+   "end": 41.27,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 26.61,
-   "end": 30.86,
-   "text": "Conditions are fair, with a split swell from Big Tech earnings.",
+   "start": 41.55,
+   "end": 43.17,
+   "text": "Alright, let's ride.",
    "speaker": "surf"
   },
   {
-   "start": 31.14,
-   "end": 42.0,
-   "text": "Early quotes show S and P five hundred futures down about two tenths of a percent, and Nasdaq one hundred futures down about one percent.",
+   "start": 43.45,
+   "end": 47.53,
+   "text": "Today's conditions were choppy, so I'm calling it a fair session.",
    "speaker": "surf"
   },
   {
-   "start": 42.28,
-   "end": 49.98,
-   "text": "Dow futures are up about half a percent, and Russell two thousand futures are up about six tenths of a percent.",
+   "start": 47.81,
+   "end": 57.19,
+   "text": "The S and P five hundred slipped three tenths of a percent to about seven thousand seven hundred twenty, ending a three day winning streak.",
    "speaker": "surf"
   },
   {
-   "start": 50.26,
-   "end": 54.91,
-   "text": "The ten year Treasury yield is near five point zero five percent.",
+   "start": 57.47,
+   "end": 65.81,
+   "text": "The Nasdaq took a gnarly hit, down about one point four percent to roughly twenty-six thousand one hundred eighty-five.",
    "speaker": "surf"
   },
   {
-   "start": 55.19,
-   "end": 59.93,
-   "text": "Crude oil is down about one percent, near one hundred and one dollars.",
+   "start": 66.09,
+   "end": 75.18,
+   "text": "The Dow eased a quarter percent to about fifty-two thousand three hundred forty-three, after opening down nearly four hundred points.",
    "speaker": "surf"
   },
   {
-   "start": 60.21,
-   "end": 64.71,
-   "text": "Bitcoin is down almost two percent, near eighty thousand dollars.",
+   "start": 75.46,
+   "end": 81.35,
+   "text": "But the small caps found their own little break, with the Russell two thousand up one percent.",
    "speaker": "surf"
   },
   {
-   "start": 64.99,
-   "end": 69.02,
-   "text": "Tokyo gained overnight, Korea slipped, and Europe is flat.",
+   "start": 81.63,
+   "end": 83.68,
+   "text": "The big wipeout was Alphabet.",
    "speaker": "surf"
   },
   {
-   "start": 69.3,
-   "end": 71.03,
-   "text": "Now, wind and weather.",
+   "start": 83.96,
+   "end": 90.42,
+   "text": "The stock fell about twelve and a half percent, its worst day since it went public in two thousand four.",
    "speaker": "surf"
   },
   {
-   "start": 71.31,
-   "end": 76.06,
-   "text": "The Fed held rates steady yesterday, but two officials voted for a hike.",
+   "start": 90.7,
+   "end": 94.97,
+   "text": "Sales came up short, and all that A I spending outran its cash.",
    "speaker": "surf"
   },
   {
-   "start": 76.34,
-   "end": 82.1,
-   "text": "Futures traders now see better than an eighty percent chance of a December hike.",
+   "start": 95.25,
+   "end": 99.98,
+   "text": "That knocked out roughly five hundred billion dollars in market value.",
    "speaker": "surf"
   },
   {
-   "start": 82.38,
-   "end": 89.53,
-   "text": "At seven thirty A M Central we get third quarter G D P, expected near three point two percent.",
+   "start": 100.26,
+   "end": 102.21,
+   "text": "Software got pulled under too.",
    "speaker": "surf"
   },
   {
-   "start": 89.81,
-   "end": 94.63,
-   "text": "We also get September P C E inflation and jobless claims.",
+   "start": 102.49,
+   "end": 108.29,
+   "text": "ServiceNow sank about twenty-six percent, and Fortinet dropped about twenty percent.",
    "speaker": "surf"
   },
   {
-   "start": 94.91,
-   "end": 98.6,
-   "text": "The European Central Bank decides at eight fifteen.",
+   "start": 108.57,
+   "end": 115.2,
+   "text": "Money paddled over to health care, which hit a record high, plus financials and real estate.",
    "speaker": "surf"
   },
   {
-   "start": 98.88,
-   "end": 108.1,
-   "text": "On the tide chart, Microsoft beat on earnings and cloud growth, and the stock is up about three and a half percent before the bell.",
+   "start": 115.48,
+   "end": 124.51,
+   "text": "Eli Lilly caught a beautiful wave, up more than six percent after revenue jumped thirty-nine percent and it raised its forecast.",
    "speaker": "surf"
   },
   {
-   "start": 108.38,
-   "end": 111.37,
-   "text": "Now that is a Kahuna catching a clean wave.",
+   "start": 124.79,
+   "end": 126.88,
+   "text": "Gus, that one earns a biscuit!",
    "speaker": "surf"
   },
   {
-   "start": 111.65,
-   "end": 113.59,
-   "text": "That calls for a treat, Gus!",
-   "speaker": "surf"
-  },
-  {
-   "start": 113.87,
-   "end": 115.32,
+   "start": 127.16,
+   "end": 128.61,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 115.6,
-   "end": 117.57,
+   "start": 128.89,
+   "end": 130.86,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 117.85,
-   "end": 123.95,
-   "text": "Alphabet wiped out, down about ten percent after a sales miss and heavy A I spending.",
+   "start": 131.14,
+   "end": 132.91,
+   "text": "Now the wind and weather.",
    "speaker": "surf"
   },
   {
-   "start": 124.23,
-   "end": 127.43,
-   "text": "ServiceNow and Fortinet took gnarly spills too.",
+   "start": 133.19,
+   "end": 139.27,
+   "text": "The economy grew at a three point four percent pace last quarter, stronger than expected.",
    "speaker": "surf"
   },
   {
-   "start": 127.71,
-   "end": 130.38,
-   "text": "Carvana and Chipotle are hanging ten.",
+   "start": 139.55,
+   "end": 144.61,
+   "text": "But PCE inflation climbed to three point six percent from a year ago.",
    "speaker": "surf"
   },
   {
-   "start": 130.66,
-   "end": 135.58,
-   "text": "After the close, Amazon, Intel, Starbucks and Coinbase report.",
+   "start": 144.89,
+   "end": 148.6,
+   "text": "Jobless claims dropped to one hundred ninety-four thousand.",
    "speaker": "surf"
   },
   {
-   "start": 135.86,
-   "end": 140.86,
-   "text": "In the lineup, chip stocks are soft,, with Marvell down near ten percent.",
+   "start": 148.88,
+   "end": 154.47,
+   "text": "After yesterday's Fed hold, traders still see good odds of a rate hike in December.",
    "speaker": "surf"
   },
   {
-   "start": 141.14,
-   "end": 142.31,
-   "text": "Beach talk.",
+   "start": 154.75,
+   "end": 161.66,
+   "text": "The ten year Treasury yield finished near four point nine nine percent, down about five basis points.",
    "speaker": "surf"
   },
   {
-   "start": 142.59,
-   "end": 149.05,
-   "text": "G E Vernova plans to buy grid equipment maker Trench Group for nine billion dollars.",
+   "start": 161.94,
+   "end": 170.81,
+   "text": "Oil sat near one hundred three dollars, gold slipped to about four thousand thirty-eight, and bitcoin fell under eighty thousand.",
    "speaker": "surf"
   },
   {
-   "start": 149.33,
-   "end": 155.63,
-   "text": "An investor group led by Nelson Peltz offered one point four billion dollars for Wendy's.",
+   "start": 171.09,
+   "end": 174.91,
+   "text": "The fear gauge, the VIX, ticked up to about seventeen.",
    "speaker": "surf"
   },
   {
-   "start": 155.91,
-   "end": 163.1,
-   "text": "Sets to watch: the seven thirty data, the European Central Bank, and Amazon and Intel tonight.",
+   "start": 175.19,
+   "end": 180.91,
+   "text": "In the lineup, A D T jumped thirty-three percent on a buyout from Thrive Holdings.",
    "speaker": "surf"
   },
   {
-   "start": 163.38,
-   "end": 166.64,
-   "text": "Stay stoked, but don't be a kook chasing the first set.",
+   "start": 181.19,
+   "end": 184.97,
+   "text": "Crocs rose about twenty-five percent on a better outlook.",
    "speaker": "surf"
   },
   {
-   "start": 166.92,
-   "end": 169.42,
-   "text": "Want my read on a wave of your own?",
+   "start": 185.25,
+   "end": 189.9,
+   "text": "Xerox wiped out, down forty percent after cutting its forecast.",
    "speaker": "surf"
   },
   {
-   "start": 169.7,
-   "end": 179.25,
-   "text": "Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "start": 190.18,
+   "end": 195.42,
+   "text": "On the tide chart tonight, Amazon fell about seven percent after hours.",
    "speaker": "surf"
   },
   {
-   "start": 179.53,
-   "end": 182.14,
+   "start": 195.7,
+   "end": 201.42,
+   "text": "Cloud sales grew thirty-nine percent, but heavy A I spending drained its cash flow.",
+   "speaker": "surf"
+  },
+  {
+   "start": 201.7,
+   "end": 205.8,
+   "text": "Intel sank about eighteen percent on a soft revenue guide.",
+   "speaker": "surf"
+  },
+  {
+   "start": 206.08,
+   "end": 209.96,
+   "text": "Rivian jumped after a revenue beat and a raised outlook.",
+   "speaker": "surf"
+  },
+  {
+   "start": 210.24,
+   "end": 218.86,
+   "text": "In beach talk, DoorDash agreed to buy Instacart for sixty-five dollars a share, about seventeen billion dollars.",
+   "speaker": "surf"
+  },
+  {
+   "start": 219.14,
+   "end": 230.57,
+   "text": "Tomorrow's forecast: the Employment Cost Index lands at seven thirty A M Central, and ExxonMobil, Chevron and AbbVie report before the open.",
+   "speaker": "surf"
+  },
+  {
+   "start": 230.85,
+   "end": 234.54,
+   "text": "Catch the Dawn Patrol in the morning for the opening swell.",
+   "speaker": "surf"
+  },
+  {
+   "start": 234.82,
+   "end": 241.54,
+   "text": "Remember, the soul surfers who stay patient through choppy days are the ones still standing on their boards.",
+   "speaker": "surf"
+  },
+  {
+   "start": 241.82,
+   "end": 246.33,
+   "text": "Got a stock, an E T F or a futures contract on your mind?",
+   "speaker": "surf"
+  },
+  {
+   "start": 246.61,
+   "end": 252.19,
+   "text": "Type it in the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "speaker": "surf"
+  },
+  {
+   "start": 252.47,
+   "end": 254.63,
+   "text": "Wax that board for tomorrow.",
+   "speaker": "surf"
+  },
+  {
+   "start": 254.91,
+   "end": 257.51,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 182.42,
-   "end": 187.62,
+   "start": 257.79,
+   "end": 263.0,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
