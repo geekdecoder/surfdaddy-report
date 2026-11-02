@@ -1,115 +1,117 @@
 {
  "date": "2026-11-02",
- "title": "Market Surf Report",
- "edition": "Dawn Patrol Edition · Week Ahead",
+ "slot": "evening",
+ "title": "Sunset Session",
+ "edition": "Sunset Session",
  "is_sample": false,
- "updated": "Nov 2, 6:05 AM CT",
+ "updated": "Nov 2, 5:10 PM CT",
  "conditions": {
   "rating": "Fair",
-  "headline": "Swell rebuilds after an October wipeout",
-  "summary": "Futures are bouncing, led by the Nasdaq, after tech's worst month since March 2025, while crude slides on US-Iran talk hopes. Apple and Palantir report tonight, with midterms Tuesday and the jobs report Friday."
+  "headline": "Oil Wipes Out, Tech Rolls Over, Dow Rides the Rotation",
+  "summary": "Stocks rallied early and faded as investors rotated out of tech; the S&P 500 fell 0.5% and the Nasdaq 1.1% while the Dow gained 0.4%. Oil plunged about 7.5% on hopes for US-Iran diplomacy."
  },
  "tape": [
   {
-   "label": "S&P fut",
-   "value": "+0.5%",
+   "label": "S&P 500",
+   "value": "-0.5%",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq",
+   "value": "-1.1%",
+   "dir": "down"
+  },
+  {
+   "label": "Dow",
+   "value": "+0.4%",
    "dir": "up"
   },
   {
-   "label": "Nasdaq fut",
-   "value": "+0.9%",
-   "dir": "up"
-  },
-  {
-   "label": "Dow fut",
-   "value": "+0.5%",
-   "dir": "up"
-  },
-  {
-   "label": "Russell fut",
-   "value": "+0.8%",
-   "dir": "up"
+   "label": "Russell 2000",
+   "value": "-0.2%",
+   "dir": "down"
   },
   {
    "label": "10-yr",
-   "value": "4.93%",
+   "value": "4.89%",
    "dir": "down"
   },
   {
    "label": "Dollar",
-   "value": "n/a",
+   "value": "-0.1%",
    "dir": "flat"
   },
   {
    "label": "Crude",
-   "value": "$99.38 −4.5%",
+   "value": "-7.6%",
    "dir": "down"
   },
   {
    "label": "Gold",
-   "value": "$3,913 +0.4%",
+   "value": "+1.5%",
    "dir": "up"
   },
   {
    "label": "Bitcoin",
-   "value": "$77,791 −0.1%",
-   "dir": "flat"
+   "value": "-1.3%",
+   "dir": "down"
   },
   {
    "label": "VIX",
-   "value": "18.92 −2.6%",
-   "dir": "down"
+   "value": "+8.9%",
+   "dir": "up"
   }
  ],
  "sections": [
   {
-   "id": "swell",
-   "surf": "The Swell",
-   "title": "Futures & Overnight",
+   "id": "close",
+   "surf": "The Final Set",
+   "title": "Closing Bell",
    "items": [
-    "S&P 500 futures are up about 0.5% and Nasdaq-100 futures about 0.9% in early trading (quotes from roughly 5:15–5:40 AM ET).",
-    "Dow futures are up about 0.5% and Russell 2000 futures about 0.8%.",
-    "The 10-year Treasury yield fell about 6 basis points to 4.93%; no fresh dollar index reading was found this morning.",
-    "WTI crude slid about 4.5% to near $99 and Brent to near $109 on hopes for Qatar-mediated US-Iran talks.",
-    "Gold rose 0.4% to about $3,913; bitcoin is flat near $77,800 after a $6.3 billion hack at Binance; the VIX eased to about 18.9.",
-    "Asia was mixed: mainland China and Korea rallied while Japan's Topix slipped; Europe opened slightly higher, helped by firm UK factory data.",
-    "Backdrop: the Nasdaq Composite fell 5.2% in October, its worst month since March 2025, on worries about AI spending."
+    "S&P 500 closed at 7,541.40, down 0.51%; Nasdaq Composite at 25,164.32, down 1.07%.",
+    "Dow rose 0.41% to 51,983.98; Russell 2000 slipped 0.21% to 2,805.88.",
+    "Stocks rallied early (S&P up about 1% mid-morning, Nasdaq up as much as 1.4%) before fading to session lows near the close.",
+    "Money rotated out of tech and chips: technology was the weakest sector, down about 2.4% in the afternoon.",
+    "Consumer discretionary led, with financials, industrials and materials also higher; energy producers fell with oil."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Economic Calendar",
+   "title": "Macro & Fed",
    "items": [
-    "9:00 AM CT: ISM Manufacturing for October, consensus 54.7 vs 54.5 prior; prices paid seen at 77.5.",
-    "9:00 AM CT: Construction spending for September, consensus +0.5% m/m.",
-    "The S&P Global final October manufacturing PMI is also due; the flash reading was 56.0.",
-    "The Fed held rates at 3.75%–4.00% on Oct. 28 in a 10-2 vote; the next meeting is Dec. 9.",
-    "US midterm elections are Tuesday; the main macro story remains doubts about AI spending after big-tech earnings."
-   ]
-  },
-  {
-   "id": "tide",
-   "surf": "Tide Chart",
-   "title": "Earnings",
-   "items": [
-    "Last week Alphabet fell about 13% after a miss, Amazon sold off after a double miss, and Intel dropped more than 28% on a weak forecast.",
-    "Apple reports after today's close; consensus EPS is about $1.98, and the focus is iPhone sales, Services, margins and guidance.",
-    "Palantir reports after the close; consensus EPS is about $0.33, with watchers eyeing commercial and government growth.",
-    "Vertex, ON Semiconductor, Roku, Realty Income and Super Micro are also slated after the close."
+    "WTI crude fell about 7.6% to roughly $96 and Brent about 7.6% to near $105 on reports the US and Iran are seeking a diplomatic end to the war.",
+    "ISM manufacturing PMI rose to 55.5 in October versus 54.6 expected and 54.5 prior; prices paid eased to 75.2.",
+    "Construction spending fell 1.9% in September versus an expected 0.4% gain.",
+    "10-year Treasury yield dipped about 3.5 basis points to near 4.89%; gold rose 1.5% and the VIX jumped 8.9% to 21.15.",
+    "Fed funds futures leaned toward a December rate hike, according to market reports, after last week's FOMC hold at 3.75%-4.00%."
    ]
   },
   {
    "id": "lineup",
    "surf": "The Lineup",
-   "title": "Stocks in the News",
+   "title": "Biggest Movers",
    "items": [
-    "OKTA (Okta): +3.6% — set to join the S&P 500, replacing Kenvue.",
-    "AAPL (Apple): −0.4% — slipping ahead of tonight's earnings.",
-    "INTC (Intel): +0.2% — steadying after last week's 28% plunge.",
-    "SPCX (SpaceX): higher — among early gainers; reportedly in talks over Boost Mobile's network.",
-    "GOOGL (Alphabet): higher — rebounding after last week's 13% earnings drop.",
-    "Pre-market quotes are early and thin; percentages for several movers were not available."
+    "IDXX (IDEXX Laboratories): +21.9% — Q3 revenue rose 10% and the company raised its 2026 outlook.",
+    "EVGO (EVgo): +46.8% — controlling holder LS Power proposed buying the remaining shares for $2.00 each.",
+    "PERI (Perion): +31.2% — agreed to be acquired by Affle for $11.70 a share in cash.",
+    "TEM (Tempus AI): +8.7% — Q3 revenue up 23% and a raised full-year forecast.",
+    "LITE (Lumentum): -18.6% — agreed to an all-stock acquisition by Marvell valued around $115 billion.",
+    "MRVL (Marvell Technology): -12.7% — the acquirer in the Lumentum deal.",
+    "ORCL (Oracle): about -8.5% — announced a $20 billion raise in stock and bonds, stoking AI funding worries.",
+    "KOS (Kosmos Energy): -13.5% — Q3 loss, lighter Q4 production guidance and a sliding oil price."
+   ]
+  },
+  {
+   "id": "tide",
+   "surf": "Tide Chart",
+   "title": "Earnings Today & Tonight",
+   "items": [
+    "Apple (after close): revenue $114.48B vs $113.47B expected and EPS $2.10 vs $2.00; shares down about 1% after hours.",
+    "Palantir (after close): beat and raised guidance; shares down about 3% after hours.",
+    "IDEXX (before open): beat and raise sent shares up about 22%.",
+    "Check Point Software (before open): Q3 revenue fell 1% to $670M; stock closed down about 7%.",
+    "Kosmos Energy (before open): Q3 net loss and soft output guidance; stock down about 13.5%."
    ]
   },
   {
@@ -117,97 +119,58 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Anthropic has publicly filed for an IPO.",
-    "OpenAI reportedly cut the target for its latest funding round by $10 billion.",
-    "Binance was hit by a hack of about $6.3 billion, described as the biggest crypto theft yet.",
-    "Apollo launched a €10 billion European credit platform.",
-    "Washington Post reports SpaceX is in talks to buy Boost Mobile or use its network."
+    "Marvell agreed to buy Lumentum in an all-stock deal, 4.5 Marvell shares per Lumentum share, expected to close in the first half of 2028.",
+    "Oracle launched a $20 billion capital raise split between new stock and investment-grade bonds to fund AI buildout.",
+    "Crypto exchange Binance was hit by a reported hack of about $6.3 billion, weighing on bitcoin.",
+    "Perion agreed to be acquired by Affle at a 34.5% premium, with a go-shop period through December 11.",
+    "Anheuser-Busch CEO Brendan Whitworth will leave at the end of November to lead Equinox."
    ]
   },
   {
-   "id": "watch",
-   "surf": "Sets to Watch",
-   "title": "What to Watch Today",
+   "id": "tomorrow",
+   "surf": "Tomorrow's Forecast",
+   "title": "On Deck",
    "items": [
-    "9:00 AM CT ISM Manufacturing: a reading above 54.7 would point to firm factory demand.",
-    "Whether the Nasdaq bounce holds after October's AI-driven sell-off.",
-    "Apple and Palantir after the close, around 4:00 PM CT, ahead of Tuesday's midterms."
-   ]
-  },
-  {
-   "id": "week-earnings",
-   "surf": "This Week's Swell",
-   "title": "Earnings This Week",
-   "items": [
-    "Mon: Apple (AAPL), after close — iPhone sales, Services, margins, holiday guidance.",
-    "Mon: Palantir (PLTR), after close — US commercial and government revenue, AIP adoption.",
-    "Tue: Shopify (SHOP), before open — e-commerce volume and payments.",
-    "Tue: Pfizer (PFE), before open — drug sales and full-year guidance.",
-    "Tue: AMD (AMD), after close — data center and AI accelerator demand.",
-    "Tue: Arista (ANET), after close — AI networking demand.",
-    "Wed: Uber (UBER), before open — gross bookings and trip volumes.",
-    "Wed: McDonald's (MCD), before open — same-store sales and consumer spending.",
-    "Wed: Qualcomm (QCOM), after close — handsets, autos and AI PCs.",
-    "Wed: Arm (ARM), after close — licensing, royalties and data center adoption.",
-    "Thu: ConocoPhillips (COP), before open — production, costs and capex.",
-    "Thu: Airbnb (ABNB), after close — booking trends and Q4 outlook."
-   ]
-  },
-  {
-   "id": "week-economy",
-   "surf": "Weekly Forecast",
-   "title": "Economic Calendar This Week",
-   "items": [
-    "Mon 9:00 AM CT: ISM Manufacturing (Oct) — consensus 54.7.",
-    "Tue: US midterm elections; 9:00 AM CT JOLTS job openings and factory orders (Sep).",
-    "Wed 7:15 AM CT: ADP employment (Oct); 7:30 AM CT trade balance (Sep).",
-    "Wed 9:00 AM CT: ISM Services (Oct) — consensus 54.7; Treasury quarterly refunding announcement also Wednesday.",
-    "Thu 7:30 AM CT: Jobless claims and Q3 productivity and unit labor costs; Bank of England decision.",
-    "Fri 7:30 AM CT: October jobs report — consensus +55,000, unemployment 4.2%; UMich sentiment also due.",
-    "No FOMC meeting this week (next is Dec. 9); clocks moved back Nov. 1, so CT is now ET minus one hour."
+    "US midterm elections take place Tuesday.",
+    "JOLTS job openings for September at 9:00 AM CT.",
+    "Before the open: Marathon Petroleum, Archer-Daniels-Midland, Sysco, Bunge and Energy Transfer.",
+    "After the close: AMD and Super Micro Computer.",
+    "Six Fed officials are scheduled to speak this week; October jobs report due Friday at 7:30 AM CT."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Monday, November second, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog just trotted in from his morning beach run with sand on his nose. Give the crew a big hello, Gus! Welcome to Dawn Patrol, and this is our week ahead edition. October was a gnarly month. The Nasdaq Composite fell about five percent, its worst month since March of last year, as doubts about A I spending knocked big tech off its board. This morning the swell is rebuilding. In early trading, S and P 500 futures are up about half a percent. Nasdaq 100 futures are up nearly nine tenths of a percent. Dow futures are up about half a percent, and Russell 2000 futures are up about eight tenths. The ten year Treasury yield slipped about six basis points to four point nine three percent. Crude oil dropped about four and a half percent to around ninety-nine dollars, on hopes for talks between the U S and Iran. Gold is up a bit. Bitcoin is flat near seventy-eight thousand dollars after a huge hack at the Binance exchange. The VIX fear gauge eased below nineteen. Overseas, mainland China stocks rallied, and Europe opened a touch higher. On the weather map, the I S M manufacturing report lands at nine A M Central, with forecasts near fifty-four point seven. The Fed held rates steady last week, and its next meeting is December ninth. Tomorrow is Election Day for the midterms, so expect some choppy water. On the tide chart, Apple and Palantir report after today's close. Apple is the big Kahuna of this week. Traders want to see iPhone sales, services, profit margins and next quarter's outlook. For Palantir, the focus is growth in commercial and government deals. Vertex also reports tonight. In the lineup, Okta is up about three and a half percent before the bell after it was picked to join the S and P 500, replacing Kenvue. Now that's a stock catching a real wave. That calls for a treat, Gus! Here you go, buddy! Apple is down a little ahead of its numbers. Intel is steady after last week's wipeout, when it plunged more than twenty-eight percent. Early quotes are thin, so take them with a grain of sand. Beach talk. Anthropic has filed publicly for its I P O, the grom everyone is watching. OpenAI reportedly trimmed its latest funding target by ten billion dollars. And Binance was hit by a hack of about six point three billion dollars, called the biggest crypto hack ever. Now for the week's swell forecast. Tonight, Apple and Palantir. Tuesday, Shopify and Pfizer before the open, then A M D, Amgen, Arista and Booking Holdings after the close. Wednesday, Uber, McDonald's and C V S in the morning, with Qualcomm, Arm and AppLovin after the bell. Thursday, ConocoPhillips in the morning, then Airbnb and Cloudflare after the close. On the economy, job openings and factory orders arrive Tuesday at nine A M Central. Wednesday brings the A D P jobs report at seven fifteen A M Central, I S M services at nine, and the Treasury refunding announcement. Thursday has jobless claims at seven thirty. Friday at seven thirty A M Central brings the October jobs report, with forecasts near fifty-five thousand new jobs and a four point two percent unemployment rate. The two waves most likely to make a splash are the midterm results Tuesday night and Friday's jobs report. Soul surfers, stay patient through the chop. Got a stock, E T F or futures contract on your mind? Type it into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Monday, November second, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding into the water and the last set is rolling in. Gus the wonder dog spent the afternoon chasing sandpipers down the beach and he is still wagging. Give the crew a big hello, Gus! Here's the final set. The S and P 500 slipped about half a percent to seven thousand five hundred forty-one. The Nasdaq wiped out a little over one percent to twenty-five thousand one hundred sixty-four. But the Dow paddled the other way, up four tenths of a percent to fifty-one thousand nine hundred eighty-four. And it was a gnarly ride. Stocks rallied early, with the S and P up about one percent in the morning, then faded into the close. Money rotated out of tech and chips and into consumer names, financials and industrials. Technology was the worst sector, down more than two percent. Now the wind and weather. The big story was oil. Crude crashed about seven and a half percent to around ninety-six dollars, on reports the United States and Iran are looking for a diplomatic path to end the war in the Middle East. On the data side, the I S M manufacturing index rose to fifty-five point five, beating forecasts and showing the strongest factory growth in years. Construction spending fell almost two percent in September, though, when a small gain was expected. The ten year Treasury yield dipped about three basis points to near four point eight nine percent. Gold climbed one and a half percent, Bitcoin slipped about one percent, and the fear gauge, the VIX, jumped almost nine percent to twenty-one. Now the lineup. IDEXX Laboratories caught a monster wave, up nearly twenty-two percent after strong sales and a raised outlook. Gus, that one earned a biscuit! Here you go, buddy! E V go jumped forty-seven percent after its biggest owner offered to buy out the rest of the shares. On the wipeout side, Marvell agreed to buy Lumentum in an all stock deal valued around one hundred fifteen billion dollars. Lumentum fell about nineteen percent and Marvell sank about thirteen percent. Oracle dropped more than eight percent after announcing a twenty billion dollar capital raise, with worries about the cost of the A I build out. Check the tide chart. Apple reported after the bell and beat on both sales and profit, but the stock was down about one percent after hours. Palantir beat and raised its outlook, yet slipped about three percent late. Before the open, IDEXX hung ten, while Check Point Software fell about seven percent on a revenue dip. Beach talk. A reported six billion dollar hack at the crypto exchange Binance rattled digital assets. And Perion jumped thirty-one percent after agreeing to be bought by Affle. Tomorrow's forecast. It's Election Day, with the midterms on the ballot, so expect some wind. Job openings data drops at nine A M Central. Six Fed officials are scheduled to speak this week. Before the open we hear from Marathon Petroleum, Archer Daniels Midland and Sysco, and after the close it's A M D and Super Micro Computer. Want a read on a single wave? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. Wax your board, soul surfers, and catch the Dawn Patrol tomorrow morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Yahoo Finance live blog, Nov 2",
+   "title": "Yahoo Finance live: Stock market today, Nov. 2",
    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
   },
   {
-   "title": "TipRanks: Stock Market Today, Nov 2",
-   "url": "https://www.tipranks.com/news/stock-market-today-nov-2-futures-rise-ahead-of-earnings-and-midterm-elections-oil-prices-fall"
+   "title": "StockTitan: Stock Market Today Live, Nov. 2",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026"
   },
   {
-   "title": "Reuters via SRN News",
-   "url": "https://srnnews.com/wall-street-futures-rise-as-ai-stocks-catch-their-breath-midterms-in-focus/"
+   "title": "24/7 Wall St.: S&P 500 closes down 0.5%",
+   "url": "https://247wallst.com/cards/money-rotated-out-of-tech-today-the-dow-and-nasdaq-split-by-gspc-market-bell-01m6f16sjakb82rhj0p9s07n7a"
   },
   {
-   "title": "CoinCentral",
-   "url": "https://coincentral.com/stock-market-today-dow-sp-500-and-nasdaq-futures-rise-as-bitcoin-holds-near-78000"
+   "title": "MarketAlleys Closing Tape",
+   "url": "https://www.marketalleys.com/post/marketalleys-closing-tape-2026-11-02"
   },
   {
-   "title": "StockTitan earnings calendar",
-   "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-2-2026"
+   "title": "TheStreet: Apple falls after earnings",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
   },
   {
-   "title": "TipRanks: Major earnings this week",
-   "url": "https://www.tipranks.com/news/major-earnings-this-week-november-2-6-2026"
+   "title": "Verified Investing: ISM Manufacturing October 2026",
+   "url": "https://verifiedinvesting.com/blogs/us-economic-metrics/ism-manufacturing-october-2026"
   },
   {
-   "title": "HeyGoTrade week ahead",
-   "url": "https://heygotrade.com/en/news/weekly-economic-outlook-2026-11-02"
-  },
-  {
-   "title": "TradingKey week ahead",
-   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262262871-us-midterm-elections-october-jobs-report-apple-palantir-amd-earnings-tradingkey"
-  },
-  {
-   "title": "Newsquawk week in focus",
-   "url": "https://www.newsquawk.com/headlines/week-in-focus-2nd-6th-november-2026-highlights-include-us-midterm-election-nfp-ism-pmis-rba-boe-and-ez-cpi-"
+   "title": "Investing.com: Economic week ahead",
+   "url": "https://www.investing.com/analysis/economic-week-ahead-payrolls-fed-speakers-and-apple-earnings-to-watch-200690640"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Monday, November second, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog just trotted in from his morning beach run with sand on his nose. Give the crew a big hello, Gus! [BARK]\n\nWelcome to Dawn Patrol, and this is our week ahead edition. October was a gnarly month. The Nasdaq Composite fell about five percent, its worst month since March of last year, as doubts about A I spending knocked big tech off its board. This morning the swell is rebuilding. In early trading, S and P 500 futures are up about half a percent. Nasdaq 100 futures are up nearly nine tenths of a percent. Dow futures are up about half a percent, and Russell 2000 futures are up about eight tenths. The ten year Treasury yield slipped about six basis points to four point nine three percent. Crude oil dropped about four and a half percent to around ninety-nine dollars, on hopes for talks between the U S and Iran. Gold is up a bit. Bitcoin is flat near seventy-eight thousand dollars after a huge hack at the Binance exchange. The VIX fear gauge eased below nineteen. Overseas, mainland China stocks rallied, and Europe opened a touch higher.\n\nOn the weather map, the I S M manufacturing report lands at nine A M Central, with forecasts near fifty-four point seven. The Fed held rates steady last week, and its next meeting is December ninth. Tomorrow is Election Day for the midterms, so expect some choppy water.\n\nOn the tide chart, Apple and Palantir report after today's close. Apple is the big Kahuna of this week. Traders want to see iPhone sales, services, profit margins and next quarter's outlook. For Palantir, the focus is growth in commercial and government deals. Vertex also reports tonight.\n\nIn the lineup, Okta is up about three and a half percent before the bell after it was picked to join the S and P 500, replacing Kenvue. Now that's a stock catching a real wave. That calls for a treat, Gus! Here you go, buddy! [SNACK] Apple is down a little ahead of its numbers. Intel is steady after last week's wipeout, when it plunged more than twenty-eight percent. Early quotes are thin, so take them with a grain of sand.\n\nBeach talk. Anthropic has filed publicly for its I P O, the grom everyone is watching. OpenAI reportedly trimmed its latest funding target by ten billion dollars. And Binance was hit by a hack of about six point three billion dollars, called the biggest crypto hack ever.\n\nNow for the week's swell forecast. Tonight, Apple and Palantir. Tuesday, Shopify and Pfizer before the open, then A M D, Amgen, Arista and Booking Holdings after the close. Wednesday, Uber, McDonald's and C V S in the morning, with Qualcomm, Arm and AppLovin after the bell. Thursday, ConocoPhillips in the morning, then Airbnb and Cloudflare after the close. On the economy, job openings and factory orders arrive Tuesday at nine A M Central. Wednesday brings the A D P jobs report at seven fifteen A M Central, I S M services at nine, and the Treasury refunding announcement. Thursday has jobless claims at seven thirty. Friday at seven thirty A M Central brings the October jobs report, with forecasts near fifty-five thousand new jobs and a four point two percent unemployment rate. The two waves most likely to make a splash are the midterm results Tuesday night and Friday's jobs report. Soul surfers, stay patient through the chop.\n\nGot a stock, E T F or futures contract on your mind? Type it into the Check a Wave box on the page, and Surf Daddy will call it for you.\n\nThis is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Monday, November second, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding into the water and the last set is rolling in. Gus the wonder dog spent the afternoon chasing sandpipers down the beach and he is still wagging. Give the crew a big hello, Gus! [BARK] Here's the final set. The S and P 500 slipped about half a percent to seven thousand five hundred forty-one. The Nasdaq wiped out a little over one percent to twenty-five thousand one hundred sixty-four. But the Dow paddled the other way, up four tenths of a percent to fifty-one thousand nine hundred eighty-four. And it was a gnarly ride. Stocks rallied early, with the S and P up about one percent in the morning, then faded into the close. Money rotated out of tech and chips and into consumer names, financials and industrials. Technology was the worst sector, down more than two percent. Now the wind and weather. The big story was oil. Crude crashed about seven and a half percent to around ninety-six dollars, on reports the United States and Iran are looking for a diplomatic path to end the war in the Middle East. On the data side, the I S M manufacturing index rose to fifty-five point five, beating forecasts and showing the strongest factory growth in years. Construction spending fell almost two percent in September, though, when a small gain was expected. The ten year Treasury yield dipped about three basis points to near four point eight nine percent. Gold climbed one and a half percent, Bitcoin slipped about one percent, and the fear gauge, the VIX, jumped almost nine percent to twenty-one. Now the lineup. IDEXX Laboratories caught a monster wave, up nearly twenty-two percent after strong sales and a raised outlook. Gus, that one earned a biscuit! Here you go, buddy! [SNACK] E V go jumped forty-seven percent after its biggest owner offered to buy out the rest of the shares. On the wipeout side, Marvell agreed to buy Lumentum in an all stock deal valued around one hundred fifteen billion dollars. Lumentum fell about nineteen percent and Marvell sank about thirteen percent. Oracle dropped more than eight percent after announcing a twenty billion dollar capital raise, with worries about the cost of the A I build out. Check the tide chart. Apple reported after the bell and beat on both sales and profit, but the stock was down about one percent after hours. Palantir beat and raised its outlook, yet slipped about three percent late. Before the open, IDEXX hung ten, while Check Point Software fell about seven percent on a revenue dip. Beach talk. A reported six billion dollar hack at the crypto exchange Binance rattled digital assets. And Perion jumped thirty-one percent after agreeing to be bought by Affle. Tomorrow's forecast. It's Election Day, with the midterms on the ballot, so expect some wind. Job openings data drops at nine A M Central. Six Fed officials are scheduled to speak this week. Before the open we hear from Marathon Petroleum, Archer Daniels Midland and Sysco, and after the close it's A M D and Super Micro Computer. Want a read on a single wave? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. Wax your board, soul surfers, and catch the Dawn Patrol tomorrow morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -224,313 +187,277 @@
   },
   {
    "start": 11.57,
-   "end": 17.71,
-   "text": "It's Monday, November second, twenty twenty-six, and this is your Market Surf Report.",
+   "end": 19.59,
+   "text": "It's Monday, November second, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
    "speaker": "surf"
   },
   {
-   "start": 17.99,
-   "end": 23.73,
-   "text": "Gus the wonder dog just trotted in from his morning beach run with sand on his nose.",
+   "start": 19.87,
+   "end": 24.26,
+   "text": "The sun is sliding into the water and the last set is rolling in.",
    "speaker": "surf"
   },
   {
-   "start": 24.01,
-   "end": 26.12,
+   "start": 24.54,
+   "end": 30.86,
+   "text": "Gus the wonder dog spent the afternoon chasing sandpipers down the beach and he is still wagging.",
+   "speaker": "surf"
+  },
+  {
+   "start": 31.14,
+   "end": 33.25,
    "text": "Give the crew a big hello, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 26.4,
-   "end": 26.95,
+   "start": 33.53,
+   "end": 34.08,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 27.23,
-   "end": 31.54,
-   "text": "Welcome to Dawn Patrol, and this is our week ahead edition.",
+   "start": 34.36,
+   "end": 36.07,
+   "text": "Here's the final set.",
    "speaker": "surf"
   },
   {
-   "start": 31.82,
-   "end": 33.91,
-   "text": "October was a gnarly month.",
+   "start": 36.35,
+   "end": 42.9,
+   "text": "The S and P 500 slipped about half a percent to seven thousand five hundred forty-one.",
    "speaker": "surf"
   },
   {
-   "start": 34.19,
-   "end": 44.52,
-   "text": "The Nasdaq Composite fell about five percent, its worst month since March of last year, as doubts about A I spending knocked big tech off its board.",
+   "start": 43.18,
+   "end": 49.43,
+   "text": "The Nasdaq wiped out a little over one percent to twenty-five thousand one hundred sixty-four.",
    "speaker": "surf"
   },
   {
-   "start": 44.8,
-   "end": 47.04,
-   "text": "This morning the swell is rebuilding.",
+   "start": 49.71,
+   "end": 56.81,
+   "text": "But the Dow paddled the other way, up four tenths of a percent to fifty-one thousand nine hundred eighty-four.",
    "speaker": "surf"
   },
   {
-   "start": 47.32,
-   "end": 52.95,
-   "text": "In early trading, S and P 500 futures are up about half a percent.",
+   "start": 57.09,
+   "end": 59.12,
+   "text": "And it was a gnarly ride.",
    "speaker": "surf"
   },
   {
-   "start": 53.23,
-   "end": 58.14,
-   "text": "Nasdaq 100 futures are up nearly nine tenths of a percent.",
+   "start": 59.4,
+   "end": 66.74,
+   "text": "Stocks rallied early, with the S and P up about one percent in the morning, then faded into the close.",
    "speaker": "surf"
   },
   {
-   "start": 58.42,
-   "end": 65.35,
-   "text": "Dow futures are up about half a percent, and Russell 2000 futures are up about eight tenths.",
+   "start": 67.02,
+   "end": 73.5,
+   "text": "Money rotated out of tech and chips and into consumer names, financials and industrials.",
    "speaker": "surf"
   },
   {
-   "start": 65.63,
-   "end": 71.82,
-   "text": "The ten year Treasury yield slipped about six basis points to four point nine three percent.",
+   "start": 73.78,
+   "end": 77.79,
+   "text": "Technology was the worst sector, down more than two percent.",
    "speaker": "surf"
   },
   {
-   "start": 72.1,
-   "end": 80.61,
-   "text": "Crude oil dropped about four and a half percent to around ninety-nine dollars, on hopes for talks between the U S and Iran.",
+   "start": 78.07,
+   "end": 79.84,
+   "text": "Now the wind and weather.",
    "speaker": "surf"
   },
   {
-   "start": 80.89,
-   "end": 82.42,
-   "text": "Gold is up a bit.",
+   "start": 80.12,
+   "end": 81.92,
+   "text": "The big story was oil.",
    "speaker": "surf"
   },
   {
-   "start": 82.7,
-   "end": 89.6,
-   "text": "Bitcoin is flat near seventy-eight thousand dollars after a huge hack at the Binance exchange.",
+   "start": 82.2,
+   "end": 94.53,
+   "text": "Crude crashed about seven and a half percent to around ninety-six dollars, on reports the United States and Iran are looking for a diplomatic path to end the war in the Middle East.",
    "speaker": "surf"
   },
   {
-   "start": 89.88,
-   "end": 93.16,
-   "text": "The VIX fear gauge eased below nineteen.",
+   "start": 94.81,
+   "end": 106.52,
+   "text": "On the data side, the I S M manufacturing index rose to fifty-five point five, beating forecasts and showing the strongest factory growth in years.",
    "speaker": "surf"
   },
   {
-   "start": 93.44,
-   "end": 98.84,
-   "text": "Overseas, mainland China stocks rallied, and Europe opened a touch higher.",
+   "start": 106.8,
+   "end": 113.41,
+   "text": "Construction spending fell almost two percent in September, though, when a small gain was expected.",
    "speaker": "surf"
   },
   {
-   "start": 99.12,
-   "end": 108.55,
-   "text": "On the weather map, the I S M manufacturing report lands at nine A M Central, with forecasts near fifty-four point seven.",
+   "start": 113.69,
+   "end": 119.84,
+   "text": "The ten year Treasury yield dipped about three basis points to near four point eight nine percent.",
    "speaker": "surf"
   },
   {
-   "start": 108.83,
-   "end": 113.84,
-   "text": "The Fed held rates steady last week, and its next meeting is December ninth.",
+   "start": 120.12,
+   "end": 130.44,
+   "text": "Gold climbed one and a half percent, Bitcoin slipped about one percent, and the fear gauge, the VIX, jumped almost nine percent to twenty-one.",
    "speaker": "surf"
   },
   {
-   "start": 114.12,
-   "end": 118.96,
-   "text": "Tomorrow is Election Day for the midterms, so expect some choppy water.",
+   "start": 130.72,
+   "end": 132.09,
+   "text": "Now the lineup.",
    "speaker": "surf"
   },
   {
-   "start": 119.24,
-   "end": 124.15,
-   "text": "On the tide chart, Apple and Palantir report after today's close.",
+   "start": 132.37,
+   "end": 140.52,
+   "text": "IDEXX Laboratories caught a monster wave, up nearly twenty-two percent after strong sales and a raised outlook.",
    "speaker": "surf"
   },
   {
-   "start": 124.43,
-   "end": 126.99,
-   "text": "Apple is the big Kahuna of this week.",
+   "start": 140.8,
+   "end": 142.8,
+   "text": "Gus, that one earned a biscuit!",
    "speaker": "surf"
   },
   {
-   "start": 127.27,
-   "end": 133.86,
-   "text": "Traders want to see iPhone sales, services, profit margins and next quarter's outlook.",
-   "speaker": "surf"
-  },
-  {
-   "start": 134.14,
-   "end": 138.88,
-   "text": "For Palantir, the focus is growth in commercial and government deals.",
-   "speaker": "surf"
-  },
-  {
-   "start": 139.16,
-   "end": 141.44,
-   "text": "Vertex also reports tonight.",
-   "speaker": "surf"
-  },
-  {
-   "start": 141.72,
-   "end": 151.47,
-   "text": "In the lineup, Okta is up about three and a half percent before the bell after it was picked to join the S and P 500, replacing Kenvue.",
-   "speaker": "surf"
-  },
-  {
-   "start": 151.75,
-   "end": 154.54,
-   "text": "Now that's a stock catching a real wave.",
-   "speaker": "surf"
-  },
-  {
-   "start": 154.82,
-   "end": 156.77,
-   "text": "That calls for a treat, Gus!",
-   "speaker": "surf"
-  },
-  {
-   "start": 157.05,
-   "end": 158.5,
+   "start": 143.08,
+   "end": 144.53,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 158.78,
-   "end": 160.75,
+   "start": 144.81,
+   "end": 146.78,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 161.03,
-   "end": 164.01,
-   "text": "Apple is down a little ahead of its numbers.",
+   "start": 147.06,
+   "end": 154.23,
+   "text": "E V go jumped forty-seven percent after its biggest owner offered to buy out the rest of the shares.",
    "speaker": "surf"
   },
   {
-   "start": 164.29,
-   "end": 170.25,
-   "text": "Intel is steady after last week's wipeout, when it plunged more than twenty-eight percent.",
+   "start": 154.51,
+   "end": 163.45,
+   "text": "On the wipeout side, Marvell agreed to buy Lumentum in an all stock deal valued around one hundred fifteen billion dollars.",
    "speaker": "surf"
   },
   {
-   "start": 170.53,
-   "end": 174.58,
-   "text": "Early quotes are thin, so take them with a grain of sand.",
+   "start": 163.73,
+   "end": 169.23,
+   "text": "Lumentum fell about nineteen percent and Marvell sank about thirteen percent.",
    "speaker": "surf"
   },
   {
-   "start": 174.86,
-   "end": 176.03,
+   "start": 169.51,
+   "end": 179.28,
+   "text": "Oracle dropped more than eight percent after announcing a twenty billion dollar capital raise, with worries about the cost of the A I build out.",
+   "speaker": "surf"
+  },
+  {
+   "start": 179.56,
+   "end": 181.16,
+   "text": "Check the tide chart.",
+   "speaker": "surf"
+  },
+  {
+   "start": 181.44,
+   "end": 190.3,
+   "text": "Apple reported after the bell and beat on both sales and profit, but the stock was down about one percent after hours.",
+   "speaker": "surf"
+  },
+  {
+   "start": 190.58,
+   "end": 195.7,
+   "text": "Palantir beat and raised its outlook, yet slipped about three percent late.",
+   "speaker": "surf"
+  },
+  {
+   "start": 195.98,
+   "end": 203.06,
+   "text": "Before the open, IDEXX hung ten, while Check Point Software fell about seven percent on a revenue dip.",
+   "speaker": "surf"
+  },
+  {
+   "start": 203.34,
+   "end": 204.51,
    "text": "Beach talk.",
    "speaker": "surf"
   },
   {
-   "start": 176.31,
-   "end": 182.07,
-   "text": "Anthropic has filed publicly for its I P O, the grom everyone is watching.",
+   "start": 204.79,
+   "end": 211.51,
+   "text": "A reported six billion dollar hack at the crypto exchange Binance rattled digital assets.",
    "speaker": "surf"
   },
   {
-   "start": 182.35,
-   "end": 188.37,
-   "text": "OpenAI reportedly trimmed its latest funding target by ten billion dollars.",
+   "start": 211.79,
+   "end": 216.74,
+   "text": "And Perion jumped thirty-one percent after agreeing to be bought by Affle.",
    "speaker": "surf"
   },
   {
-   "start": 188.65,
-   "end": 195.84,
-   "text": "And Binance was hit by a hack of about six point three billion dollars, called the biggest crypto hack ever.",
+   "start": 217.02,
+   "end": 218.73,
+   "text": "Tomorrow's forecast.",
    "speaker": "surf"
   },
   {
-   "start": 196.12,
-   "end": 198.4,
-   "text": "Now for the week's swell forecast.",
+   "start": 219.01,
+   "end": 223.77,
+   "text": "It's Election Day, with the midterms on the ballot, so expect some wind.",
    "speaker": "surf"
   },
   {
-   "start": 198.68,
-   "end": 200.83,
-   "text": "Tonight, Apple and Palantir.",
+   "start": 224.05,
+   "end": 227.65,
+   "text": "Job openings data drops at nine A M Central.",
    "speaker": "surf"
   },
   {
-   "start": 201.11,
-   "end": 209.78,
-   "text": "Tuesday, Shopify and Pfizer before the open, then A M D, Amgen, Arista and Booking Holdings after the close.",
+   "start": 227.93,
+   "end": 231.32,
+   "text": "Six Fed officials are scheduled to speak this week.",
    "speaker": "surf"
   },
   {
-   "start": 210.06,
-   "end": 217.74,
-   "text": "Wednesday, Uber, McDonald's and C V S in the morning, with Qualcomm, Arm and AppLovin after the bell.",
+   "start": 231.6,
+   "end": 242.53,
+   "text": "Before the open we hear from Marathon Petroleum, Archer Daniels Midland and Sysco, and after the close it's A M D and Super Micro Computer.",
    "speaker": "surf"
   },
   {
-   "start": 218.02,
-   "end": 223.82,
-   "text": "Thursday, ConocoPhillips in the morning, then Airbnb and Cloudflare after the close.",
+   "start": 242.81,
+   "end": 244.98,
+   "text": "Want a read on a single wave?",
    "speaker": "surf"
   },
   {
-   "start": 224.1,
-   "end": 230.84,
-   "text": "On the economy, job openings and factory orders arrive Tuesday at nine A M Central.",
+   "start": 245.26,
+   "end": 254.82,
+   "text": "Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you.",
    "speaker": "surf"
   },
   {
-   "start": 231.12,
-   "end": 241.74,
-   "text": "Wednesday brings the A D P jobs report at seven fifteen A M Central, I S M services at nine, and the Treasury refunding announcement.",
+   "start": 255.1,
+   "end": 260.3,
+   "text": "Wax your board, soul surfers, and catch the Dawn Patrol tomorrow morning.",
    "speaker": "surf"
   },
   {
-   "start": 242.02,
-   "end": 245.03,
-   "text": "Thursday has jobless claims at seven thirty.",
-   "speaker": "surf"
-  },
-  {
-   "start": 245.31,
-   "end": 257.88,
-   "text": "Friday at seven thirty A M Central brings the October jobs report, with forecasts near fifty-five thousand new jobs and a four point two percent unemployment rate.",
-   "speaker": "surf"
-  },
-  {
-   "start": 258.16,
-   "end": 265.62,
-   "text": "The two waves most likely to make a splash are the midterm results Tuesday night and Friday's jobs report.",
-   "speaker": "surf"
-  },
-  {
-   "start": 265.9,
-   "end": 269.06,
-   "text": "Soul surfers, stay patient through the chop.",
-   "speaker": "surf"
-  },
-  {
-   "start": 269.34,
-   "end": 273.59,
-   "text": "Got a stock, E T F or futures contract on your mind?",
-   "speaker": "surf"
-  },
-  {
-   "start": 273.87,
-   "end": 279.78,
-   "text": "Type it into the Check a Wave box on the page, and Surf Daddy will call it for you.",
-   "speaker": "surf"
-  },
-  {
-   "start": 280.06,
-   "end": 282.66,
+   "start": 260.58,
+   "end": 263.19,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 282.94,
-   "end": 288.14,
+   "start": 263.47,
+   "end": 268.67,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
