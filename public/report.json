@@ -1,119 +1,116 @@
 {
  "date": "2026-11-06",
- "title": "Market Surf Report",
- "edition": "Dawn Patrol Edition",
+ "slot": "evening",
+ "title": "Sunset Session",
+ "edition": "Sunset Session",
  "is_sample": false,
- "updated": "Nov 6, 6:05 AM CT",
+ "updated": "Nov 6, 5:10 PM CT",
  "conditions": {
-  "rating": "Poor",
-  "headline": "Choppy shore break after Thursday's AI wipeout",
-  "summary": "Tech futures are bouncing after Thursday's steep AI-led selloff, but Dow futures, crypto and Asia are still under water. The October jobs report at 7:30 AM CT is the big set of the day."
+  "rating": "Fair",
+  "headline": "Chips Paddle Back Out, Dow Stays on the Sand",
+  "summary": "Nasdaq and the S&P 500 bounced as AI and chip stocks recovered part of Thursday's rout, while the Dow slipped. A strong October jobs report pushed yields and the dollar higher, and the S&P still logged its worst week since June."
  },
  "tape": [
   {
-   "label": "S&P fut",
-   "value": "+0.2%",
+   "label": "S&P 500",
+   "value": "+0.3%",
    "dir": "up"
   },
   {
-   "label": "Nasdaq fut",
-   "value": "+1.2%",
+   "label": "Nasdaq",
+   "value": "+1.1%",
    "dir": "up"
   },
   {
-   "label": "Dow fut",
+   "label": "Dow",
+   "value": "-0.5%",
+   "dir": "down"
+  },
+  {
+   "label": "Russell 2000",
+   "value": "+0.9%",
+   "dir": "up"
+  },
+  {
+   "label": "10-yr",
+   "value": "4.86%",
+   "dir": "up"
+  },
+  {
+   "label": "Dollar",
+   "value": "+0.8%",
+   "dir": "up"
+  },
+  {
+   "label": "Crude",
+   "value": "+0.3%",
+   "dir": "up"
+  },
+  {
+   "label": "Gold",
    "value": "-0.9%",
    "dir": "down"
   },
   {
-   "label": "Russell fut",
-   "value": "-0.1%",
-   "dir": "flat"
-  },
-  {
-   "label": "10-yr",
-   "value": "4.84%",
-   "dir": "down"
-  },
-  {
-   "label": "Dollar",
-   "value": "101.66",
-   "dir": "flat"
-  },
-  {
-   "label": "Crude",
-   "value": "-0.3%",
-   "dir": "down"
-  },
-  {
-   "label": "Gold",
-   "value": "-1.0%",
-   "dir": "down"
-  },
-  {
    "label": "Bitcoin",
-   "value": "-5.1%",
-   "dir": "down"
+   "value": "+0.1%",
+   "dir": "flat"
   },
   {
    "label": "VIX",
-   "value": "26.4",
+   "value": "-9.0%",
    "dir": "down"
   }
  ],
  "sections": [
   {
-   "id": "swell",
-   "surf": "The Swell",
-   "title": "Futures & Overnight",
+   "id": "close",
+   "surf": "The Final Set",
+   "title": "Closing Bell",
    "items": [
-    "Nasdaq-100 futures are up about 1.2% and S&P 500 futures about 0.2% in early trading, while Dow futures are down about 0.9% and Russell futures are flat; early quotes can shift.",
-    "Thursday was rough: the S&P 500 fell 4.4% and the Nasdaq 5.5%, its deepest one-day drop in about 19 months, pushing it into correction territory.",
-    "The selloff was blamed on fears that Democratic control of Congress after the midterms could bring tougher AI rules and slower data-center buildout, plus higher oil feeding rate-hike worries.",
-    "The VIX is easing to about 26 after Thursday's biggest one-day jump in roughly 19 months.",
-    "The 10-year Treasury yield slipped to about 4.84%; the dollar index sits near 101.7.",
-    "WTI crude is near $90, down slightly after jumping Thursday on tanker attacks and uncertain US-Iran talks; gold is down about 1% near $4,075.",
-    "Bitcoin is down about 5% near $76,000, hit by over $1 billion of leveraged liquidations and ETF outflows.",
-    "Asia: Japan's Nikkei and Korea's Kospi each fell about 6% in the latest session, with a circuit breaker halting Korean trading at the open.",
-    "Europe: early European figures were not available in our sources this morning."
+    "S&P 500 closed at 7,376.86, up 0.31%; Nasdaq Composite at 24,579.42, up 1.09%; Dow at 51,285.73, down 0.46%; Russell 2000 up about 0.9%.",
+    "AI and chip stocks rebounded after Thursday's selloff, when the S&P 500 fell more than 4% and the chip index dropped 12%.",
+    "The Dow opened down nearly 1% while the S&P 500 was up as much as about 1.5% around midday before fading.",
+    "Technology and communication services led; consumer staples, health care and financials lagged.",
+    "The S&P 500 still had its worst week since June, and tech stocks fell about 7% for the week."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Economic Calendar",
+   "title": "Macro & Fed",
    "items": [
-    "7:30 AM CT: October jobs report. Consensus is roughly +59,000 to +65,000 payrolls after +29,000 in September; unemployment seen steady at 4.2%; hourly wages seen +0.3% month over month.",
-    "9:00 AM CT: Preliminary November University of Michigan consumer sentiment.",
-    "Fed: futures price roughly a two-in-three chance of a rate hike in December, so a hot jobs number could add pressure.",
-    "Earlier this week, ADP showed 86,000 private jobs added in October, above expectations."
-   ]
-  },
-  {
-   "id": "tide",
-   "surf": "Tide Chart",
-   "title": "Earnings",
-   "items": [
-    "Airbnb raised its full-year revenue growth forecast after Thursday's close; shares are up about 12% pre-market.",
-    "Cloudflare reported after Thursday's close and is up around 15% pre-market.",
-    "Atlassian is down about 16% pre-market after its first-quarter results.",
-    "Monster Beverage also reported after Thursday's close.",
-    "This morning: Enbridge, Humana and Vistra are among the companies reporting before the open.",
-    "No major reports are scheduled after today's close; next week brings Constellation Energy, CoreWeave, Cisco and Applied Materials."
+    "October payrolls rose 165,000 versus about 65,000 expected; unemployment fell to 4.1% versus 4.2% expected.",
+    "Average hourly earnings rose 0.4% for the month and 3.1% from a year ago; August and September were revised up a combined 84,000.",
+    "The 10-year Treasury yield rose about 2 basis points to roughly 4.86%; the 2-year rose about 4.5 basis points to 4.52%.",
+    "The dollar index gained about 0.75% to 102.32, and bets on a December Fed rate hike increased after the report.",
+    "Investors weighed midterm results that could bring tighter rules on AI data-center construction."
    ]
   },
   {
    "id": "lineup",
    "surf": "The Lineup",
-   "title": "Stocks in the News",
+   "title": "Biggest Movers",
    "items": [
-    "ABNB (Airbnb): +12% — raised its full-year 2026 revenue growth forecast.",
-    "NET (Cloudflare): about +15% — rallying after quarterly results released Thursday evening.",
-    "TEAM (Atlassian): -16% — shares slide after first-quarter results.",
-    "NVDA (Nvidia): +3.6% — bouncing after its biggest one-day drop since January 2025.",
-    "AMD, INTC, AVGO, MU (AMD, Intel, Broadcom, Micron): +5% to +8% — chipmakers rebound after Thursday's AI rout.",
-    "CRWV, NBIS, IREN, APLD (CoreWeave, Nebius, IREN, Applied Digital): higher — AI data-center names recovering part of deep losses.",
-    "GEV, CEG (GE Vernova, Constellation Energy): higher — power-for-AI plays steadying after Thursday's selloff."
+    "AMD (Advanced Micro Devices): up roughly 8% to 10% — rebound after a 17% drop Thursday.",
+    "NVDA (Nvidia): higher — chip bounce after a 9% slide Thursday.",
+    "ABNB (Airbnb): about +12% midday — strong quarter, raised full-year outlook and new buyback.",
+    "NET (Cloudflare): about +13% early — strong third-quarter results and guidance.",
+    "HIMS (Hims & Hers): about +5% — Eli Lilly will let it sell Zepbound and Foundayo directly.",
+    "DKNG (DraftKings): about -28% early — third-quarter miss.",
+    "AXON (Axon Enterprise): about -18% midday — earnings miss and lower 2026 outlook.",
+    "TEAM (Atlassian): about -14% early — guidance pointed to a sharp growth slowdown."
+   ]
+  },
+  {
+   "id": "tide",
+   "surf": "Tide Chart",
+   "title": "Earnings Today & Tonight",
+   "items": [
+    "Airbnb, Cloudflare, Atlassian, DraftKings and Axon reported last night and set the tone for today's moves.",
+    "Microchip fell about 13% midday after analysts cut forecasts following its report.",
+    "Natera fell about 12% early on a wider loss and a CEO change.",
+    "About 440 S&P 500 companies have now reported this season; no major names reported after Friday's close."
    ]
   },
   {
@@ -121,64 +118,65 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Defense-tech firm Shield AI agreed to buy radar maker Echodyne in a deal valued at up to $5.3 billion and raised $2.5 billion in new funding at a $28.8 billion valuation.",
-    "Adani Ports agreed to buy Dutch liquid storage operator Evos for an enterprise value of €2.56 billion, its big push into European terminals.",
-    "Alfa Laval agreed to buy maritime software firm NAVTOR for about $700 million.",
-    "Washington's new balance of power after the midterms is now a market story, with investors weighing what it means for AI regulation and data-center spending.",
-    "Oil stays jumpy on tanker attacks and stop-start US-Iran talks, keeping energy inflation on the radar."
+    "Salesforce agreed to buy voice-AI company Cresta for a reported $2.7 billion.",
+    "Meta acquired AI agent startup Conductor; terms were not disclosed.",
+    "Eli Lilly will let Hims & Hers sell its weight-loss drugs Zepbound and Foundayo directly.",
+    "Tesla plans to wind down Cybertruck production in Texas around mid-2027 to make room for Cybercab.",
+    "Reports said Anthropic's IPO valuation could come in below earlier projections."
    ]
   },
   {
-   "id": "watch",
-   "surf": "Sets to Watch",
-   "title": "What to Watch Today",
+   "id": "tomorrow",
+   "surf": "Tomorrow's Forecast",
+   "title": "On Deck",
    "items": [
-    "7:30 AM CT jobs report: a hot number could feed December rate-hike bets; a soft one could ease yields.",
-    "Whether the pre-market chip bounce holds after the 8:30 AM CT open, or Thursday's AI selling resumes.",
-    "VIX near 26 and bitcoin near $76,000 as gauges of risk appetite into the weekend."
+    "Markets are closed for the weekend; next session is Monday, Nov 9.",
+    "Monday Fed speakers: Bowman 7:40 AM CT, Goolsbee 9:00 AM CT, Barkin 11:15 AM CT; wholesale inventories at 9:00 AM CT.",
+    "Monday before the open: KKR, Constellation Energy, Ferguson and Barrick; after the close: Take-Two Interactive and Rocket Lab.",
+    "Tuesday 7:30 AM CT: October CPI, the big data release of the week."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November sixth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the cabana deck is my co-anchor, Gus the wonder dog, nose up and sniffing the sea breeze. Give the crew a big Friday hello, Gus! Alright, the swell. Thursday was a gnarly wipeout. The S and P five hundred fell about four and a half percent, and the Nasdaq dropped five and a half percent, its worst day in about nineteen months, sliding into correction territory. The worry: tougher A I rules from the new Congress, plus higher oil. This Dawn Patrol, the water is mixed. Nasdaq one hundred futures are up about one point two percent, S and P futures up about two tenths of a percent, while Dow futures are down about nine tenths of a percent. The VIX eased to about twenty six, the ten year yield is about four point eight four percent, and bitcoin is down about five percent. Japan and Korea each fell about six percent. Now the wind and weather. The big set rolls in at seven thirty A M Central with the October jobs report. Forecasters expect around sixty thousand jobs, with unemployment at four point two percent. Consumer sentiment follows at nine A M Central. Traders see about a two in three chance of a Fed hike in December. On the tide chart, Airbnb raised its full year growth forecast and is up about twelve percent before the bell. Stoked to see it! That calls for a treat, Gus! Here you go, buddy! Cloudflare is hanging ten too, up around fifteen percent after its results. Atlassian took a wipeout, down about sixteen percent after its quarterly report. In the lineup, the chip crowd is paddling back out. Nvidia is up about three and a half percent, and A M D, Intel, Broadcom and Micron are up five to eight percent. Beach talk. Shield A I agreed to buy radar maker Echodyne in a deal worth up to five point three billion dollars. Adani Ports is buying European storage operator Evos. Sets to watch: the jobs report, and whether the chip bounce holds after the eight thirty open. Soul surfers, remember, one rough day does not make a season. Want a read on a wave of your own? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November sixth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding into the water for the last set of the week. Gus the wonder dog is curled up on his beach towel after a rough week. Gus, tell everybody we made it to Friday! Okay, the Final Set. After Thursday's gnarly wipeout in A I and chip stocks, the swell came back in, but not for everybody. The S and P five hundred rose about three tenths of a percent to seven thousand three hundred seventy six. The Nasdaq Composite gained about one point one percent to twenty four thousand five hundred seventy nine. The Dow slipped about half a percent to fifty one thousand two hundred eighty six. The Russell two thousand rose almost nine tenths of a percent. Tech and communication services led the way, while consumer staples, health care and financials pulled back. Still, the S and P had its worst week since June. Over in the bond lineup, the ten year Treasury yield rose about two basis points to roughly four point eight six percent. The dollar index climbed about three quarters of a percent. W T I crude settled near ninety one dollars. Gold fell about one percent to around four thousand seventy five dollars. The VIX fear gauge dropped about nine percent. Now the Wind and Weather. The October jobs report blew in strong. Employers added one hundred sixty five thousand jobs, way above forecasts near sixty five thousand. Unemployment slipped to four point one percent, and wages rose four tenths of a percent for the month. Yields jumped on the news, and traders raised their bets on a Fed rate hike in December. Investors also worry new rules after the midterms could slow A I data center building. Time for the Lineup. Advanced Micro Devices bounced roughly eight to ten percent after a seventeen percent drop on Thursday. Nvidia came back too. Airbnb was up about twelve percent at midday after a strong quarter, a raised outlook and a new buyback. Cloudflare surged on strong results and guidance. That's catching a clean wave and riding it all the way to the beach. Gus, that's worth a biscuit! Here you go, buddy! On the wipeout side, DraftKings sank more than twenty five percent after missing estimates. Axon fell about eighteen percent on a miss and a lower outlook. On the Tide Chart, this week's earnings parade is winding down, with about four hundred forty S and P companies already reported. Friday evening was quiet. Beach Talk. Salesforce agreed to buy voice A I company Cresta for about two point seven billion dollars. Meta picked up A I agent startup Conductor. Eli Lilly will let Hims and Hers sell its weight loss drugs Zepbound and Foundayo, and Hims stock hung ten on that news. Tomorrow's Forecast is really Monday. Fed speakers Bowman, Goolsbee and Barkin all take the mic. Before the open, we hear from K K R and Constellation Energy. After the close, Take-Two Interactive and Rocket Lab report. And Tuesday at seven thirty A M Central, the October consumer price report lands. That's the big wave of the week. Got a stock, E T F or futures contract on your mind? Look it up in the Check a Wave box on the page, and Surf Daddy will call it for you. Wax those boards this weekend and catch Dawn Patrol on Monday morning, Soul Surfers. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Reuters via Yahoo Finance: Nasdaq futures rise after steep AI selloff",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html"
+   "title": "Yahoo Finance live: Nov 6 market",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
   },
   {
-   "title": "NordFX Market Pulse, Nov 6",
-   "url": "https://nordfx.com/market-news/market-pulse-november-06-2026"
+   "title": "TheStreet: Stock Market Today Nov 6",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"
   },
   {
-   "title": "Kiplinger: October jobs report preview",
-   "url": "https://www.kiplinger.com/investing/economy/jobs-report-october-2026-what-to-expect"
+   "title": "Reuters via Yahoo: jobs report sends yields higher",
+   "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html"
   },
   {
-   "title": "Schwab market update",
-   "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+   "title": "Investrade: Market Review Nov 6",
+   "url": "https://investrade.com/market-review-november-06-2026/"
   },
   {
-   "title": "Benzinga: Cloudflare shares trading higher pre-market",
-   "url": "https://www.benzinga.com/trading-ideas/movers/26/11/62968476/why-cloudflare-shares-are-trading-higher-by-around-15-here-are-20-stocks-moving-premarket"
+   "title": "Investrade: Weekly Event Calendar",
+   "url": "https://investrade.com/weekly-event-calendar-11-09-2026-11-13-2026/"
   },
   {
-   "title": "Shield AI to buy Echodyne",
-   "url": "https://www.hereflorence.com/2026/11/06/shield-ai-echodyne-5-3-billion-series-h-raise/"
+   "title": "Finwire: Monday economic calendar",
+   "url": "https://finwire.io/news/stock-markets-news/fed-speakers-and-treasury-auctions-highlight-mondays-economic-calendar"
   },
   {
-   "title": "Business Today: Adani Ports to acquire Evos",
-   "url": "https://www.businesstoday.in/latest/corporate/story/adani-ports-to-acquire-europes-second-largest-liquid-storage-operator-evos-for-eu2-56-billion-566243-2026-11-06"
+   "title": "StockTitan: Earnings week of Nov 9",
+   "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-9-2026"
   },
   {
-   "title": "Alfa Laval to buy NAVTOR",
-   "url": "https://www.hereflorence.com/2026/11/06/alfa-laval-navtor-700-million-maritime-software/"
+   "title": "Deal Sheet Nov 6",
+   "url": "https://nonbindingthoughts.substack.com/p/please-advise-deal-sheet-nov-6-2026"
   },
   {
-   "title": "Sunday Guardian: Bitcoin price today",
-   "url": "https://sundayguardianlive.com/business/bitcoin-price-today-november-6-2026-btc-crashes-nearly-6-to-75496-why-is-bitcoin-falling-and-whats-next-check-market-metrics-key-drivers-318146/"
+   "title": "AI Daily Digest Nov 6",
+   "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-6-2026-openai-ships-gpt-6-cyber-meta-buys-conductor-anthropic-locks-1jij"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November sixth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the cabana deck is my co-anchor, Gus the wonder dog, nose up and sniffing the sea breeze. Give the crew a big Friday hello, Gus! [BARK] Alright, the swell. Thursday was a gnarly wipeout. The S and P five hundred fell about four and a half percent, and the Nasdaq dropped five and a half percent, its worst day in about nineteen months, sliding into correction territory. The worry: tougher A I rules from the new Congress, plus higher oil. This Dawn Patrol, the water is mixed. Nasdaq one hundred futures are up about one point two percent, S and P futures up about two tenths of a percent, while Dow futures are down about nine tenths of a percent. The VIX eased to about twenty six, the ten year yield is about four point eight four percent, and bitcoin is down about five percent. Japan and Korea each fell about six percent. Now the wind and weather. The big set rolls in at seven thirty A M Central with the October jobs report. Forecasters expect around sixty thousand jobs, with unemployment at four point two percent. Consumer sentiment follows at nine A M Central. Traders see about a two in three chance of a Fed hike in December. On the tide chart, Airbnb raised its full year growth forecast and is up about twelve percent before the bell. Stoked to see it! That calls for a treat, Gus! Here you go, buddy! [SNACK] Cloudflare is hanging ten too, up around fifteen percent after its results. Atlassian took a wipeout, down about sixteen percent after its quarterly report. In the lineup, the chip crowd is paddling back out. Nvidia is up about three and a half percent, and A M D, Intel, Broadcom and Micron are up five to eight percent. Beach talk. Shield A I agreed to buy radar maker Echodyne in a deal worth up to five point three billion dollars. Adani Ports is buying European storage operator Evos. Sets to watch: the jobs report, and whether the chip bounce holds after the eight thirty open. Soul surfers, remember, one rough day does not make a season. Want a read on a wave of your own? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November sixth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding into the water for the last set of the week.\n\nGus the wonder dog is curled up on his beach towel after a rough week. Gus, tell everybody we made it to Friday! [BARK]\n\nOkay, the Final Set. After Thursday's gnarly wipeout in A I and chip stocks, the swell came back in, but not for everybody. The S and P five hundred rose about three tenths of a percent to seven thousand three hundred seventy six. The Nasdaq Composite gained about one point one percent to twenty four thousand five hundred seventy nine. The Dow slipped about half a percent to fifty one thousand two hundred eighty six. The Russell two thousand rose almost nine tenths of a percent. Tech and communication services led the way, while consumer staples, health care and financials pulled back. Still, the S and P had its worst week since June.\n\nOver in the bond lineup, the ten year Treasury yield rose about two basis points to roughly four point eight six percent. The dollar index climbed about three quarters of a percent. W T I crude settled near ninety one dollars. Gold fell about one percent to around four thousand seventy five dollars. The VIX fear gauge dropped about nine percent.\n\nNow the Wind and Weather. The October jobs report blew in strong. Employers added one hundred sixty five thousand jobs, way above forecasts near sixty five thousand. Unemployment slipped to four point one percent, and wages rose four tenths of a percent for the month. Yields jumped on the news, and traders raised their bets on a Fed rate hike in December. Investors also worry new rules after the midterms could slow A I data center building.\n\nTime for the Lineup. Advanced Micro Devices bounced roughly eight to ten percent after a seventeen percent drop on Thursday. Nvidia came back too. Airbnb was up about twelve percent at midday after a strong quarter, a raised outlook and a new buyback. Cloudflare surged on strong results and guidance. That's catching a clean wave and riding it all the way to the beach. Gus, that's worth a biscuit! Here you go, buddy! [SNACK]\n\nOn the wipeout side, DraftKings sank more than twenty five percent after missing estimates. Axon fell about eighteen percent on a miss and a lower outlook.\n\nOn the Tide Chart, this week's earnings parade is winding down, with about four hundred forty S and P companies already reported. Friday evening was quiet.\n\nBeach Talk. Salesforce agreed to buy voice A I company Cresta for about two point seven billion dollars. Meta picked up A I agent startup Conductor. Eli Lilly will let Hims and Hers sell its weight loss drugs Zepbound and Foundayo, and Hims stock hung ten on that news.\n\nTomorrow's Forecast is really Monday. Fed speakers Bowman, Goolsbee and Barkin all take the mic. Before the open, we hear from K K R and Constellation Energy. After the close, Take-Two Interactive and Rocket Lab report. And Tuesday at seven thirty A M Central, the October consumer price report lands. That's the big wave of the week.\n\nGot a stock, E T F or futures contract on your mind? Look it up in the Check a Wave box on the page, and Surf Daddy will call it for you. Wax those boards this weekend and catch Dawn Patrol on Monday morning, Soul Surfers.\n\nThis is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -195,211 +193,313 @@
   },
   {
    "start": 11.57,
-   "end": 17.75,
-   "text": "It's Friday, November sixth, twenty twenty-six, and this is your Market Surf Report.",
+   "end": 19.61,
+   "text": "It's Friday, November sixth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
    "speaker": "surf"
   },
   {
-   "start": 18.03,
-   "end": 25.82,
-   "text": "Riding shotgun on the cabana deck is my co-anchor, Gus the wonder dog, nose up and sniffing the sea breeze.",
+   "start": 19.89,
+   "end": 23.79,
+   "text": "The sun is sliding into the water for the last set of the week.",
    "speaker": "surf"
   },
   {
-   "start": 26.1,
-   "end": 28.62,
-   "text": "Give the crew a big Friday hello, Gus!",
+   "start": 24.07,
+   "end": 28.87,
+   "text": "Gus the wonder dog is curled up on his beach towel after a rough week.",
    "speaker": "surf"
   },
   {
-   "start": 28.9,
-   "end": 29.45,
+   "start": 29.15,
+   "end": 32.08,
+   "text": "Gus, tell everybody we made it to Friday!",
+   "speaker": "surf"
+  },
+  {
+   "start": 32.36,
+   "end": 32.91,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 29.73,
-   "end": 31.24,
-   "text": "Alright, the swell.",
+   "start": 33.19,
+   "end": 34.96,
+   "text": "Okay, the Final Set.",
    "speaker": "surf"
   },
   {
-   "start": 31.52,
-   "end": 33.66,
-   "text": "Thursday was a gnarly wipeout.",
+   "start": 35.24,
+   "end": 42.85,
+   "text": "After Thursday's gnarly wipeout in A I and chip stocks, the swell came back in, but not for everybody.",
    "speaker": "surf"
   },
   {
-   "start": 33.94,
-   "end": 46.86,
-   "text": "The S and P five hundred fell about four and a half percent, and the Nasdaq dropped five and a half percent, its worst day in about nineteen months, sliding into correction territory.",
+   "start": 43.13,
+   "end": 50.88,
+   "text": "The S and P five hundred rose about three tenths of a percent to seven thousand three hundred seventy six.",
    "speaker": "surf"
   },
   {
-   "start": 47.14,
-   "end": 51.58,
-   "text": "The worry: tougher A I rules from the new Congress, plus higher oil.",
+   "start": 51.16,
+   "end": 58.62,
+   "text": "The Nasdaq Composite gained about one point one percent to twenty four thousand five hundred seventy nine.",
    "speaker": "surf"
   },
   {
-   "start": 51.86,
-   "end": 54.66,
-   "text": "This Dawn Patrol, the water is mixed.",
+   "start": 58.9,
+   "end": 63.88,
+   "text": "The Dow slipped about half a percent to fifty one thousand two hundred eighty six.",
    "speaker": "surf"
   },
   {
-   "start": 54.94,
-   "end": 68.1,
-   "text": "Nasdaq one hundred futures are up about one point two percent, S and P futures up about two tenths of a percent, while Dow futures are down about nine tenths of a percent.",
+   "start": 64.16,
+   "end": 68.66,
+   "text": "The Russell two thousand rose almost nine tenths of a percent.",
    "speaker": "surf"
   },
   {
-   "start": 68.38,
-   "end": 78.36,
-   "text": "The VIX eased to about twenty six, the ten year yield is about four point eight four percent, and bitcoin is down about five percent.",
+   "start": 68.94,
+   "end": 76.49,
+   "text": "Tech and communication services led the way, while consumer staples, health care and financials pulled back.",
    "speaker": "surf"
   },
   {
-   "start": 78.64,
-   "end": 82.12,
-   "text": "Japan and Korea each fell about six percent.",
+   "start": 76.77,
+   "end": 80.2,
+   "text": "Still, the S and P had its worst week since June.",
    "speaker": "surf"
   },
   {
-   "start": 82.4,
-   "end": 84.17,
-   "text": "Now the wind and weather.",
+   "start": 80.48,
+   "end": 88.89,
+   "text": "Over in the bond lineup, the ten year Treasury yield rose about two basis points to roughly four point eight six percent.",
    "speaker": "surf"
   },
   {
-   "start": 84.45,
-   "end": 90.21,
-   "text": "The big set rolls in at seven thirty A M Central with the October jobs report.",
+   "start": 89.17,
+   "end": 92.73,
+   "text": "The dollar index climbed about three quarters of a percent.",
    "speaker": "surf"
   },
   {
-   "start": 90.49,
-   "end": 97.23,
-   "text": "Forecasters expect around sixty thousand jobs, with unemployment at four point two percent.",
+   "start": 93.01,
+   "end": 96.74,
+   "text": "W T I crude settled near ninety one dollars.",
    "speaker": "surf"
   },
   {
-   "start": 97.51,
-   "end": 100.99,
-   "text": "Consumer sentiment follows at nine A M Central.",
+   "start": 97.02,
+   "end": 101.97,
+   "text": "Gold fell about one percent to around four thousand seventy five dollars.",
    "speaker": "surf"
   },
   {
-   "start": 101.27,
-   "end": 105.62,
-   "text": "Traders see about a two in three chance of a Fed hike in December.",
+   "start": 102.25,
+   "end": 105.73,
+   "text": "The VIX fear gauge dropped about nine percent.",
    "speaker": "surf"
   },
   {
-   "start": 105.9,
-   "end": 113.65,
-   "text": "On the tide chart, Airbnb raised its full year growth forecast and is up about twelve percent before the bell.",
+   "start": 106.01,
+   "end": 107.78,
+   "text": "Now the Wind and Weather.",
    "speaker": "surf"
   },
   {
-   "start": 113.93,
-   "end": 115.27,
-   "text": "Stoked to see it!",
+   "start": 108.06,
+   "end": 111.01,
+   "text": "The October jobs report blew in strong.",
    "speaker": "surf"
   },
   {
-   "start": 115.55,
-   "end": 117.49,
-   "text": "That calls for a treat, Gus!",
+   "start": 111.29,
+   "end": 118.88,
+   "text": "Employers added one hundred sixty five thousand jobs, way above forecasts near sixty five thousand.",
    "speaker": "surf"
   },
   {
-   "start": 117.77,
-   "end": 119.22,
+   "start": 119.16,
+   "end": 126.12,
+   "text": "Unemployment slipped to four point one percent, and wages rose four tenths of a percent for the month.",
+   "speaker": "surf"
+  },
+  {
+   "start": 126.4,
+   "end": 132.28,
+   "text": "Yields jumped on the news, and traders raised their bets on a Fed rate hike in December.",
+   "speaker": "surf"
+  },
+  {
+   "start": 132.56,
+   "end": 138.81,
+   "text": "Investors also worry new rules after the midterms could slow A I data center building.",
+   "speaker": "surf"
+  },
+  {
+   "start": 139.09,
+   "end": 140.63,
+   "text": "Time for the Lineup.",
+   "speaker": "surf"
+  },
+  {
+   "start": 140.91,
+   "end": 148.63,
+   "text": "Advanced Micro Devices bounced roughly eight to ten percent after a seventeen percent drop on Thursday.",
+   "speaker": "surf"
+  },
+  {
+   "start": 148.91,
+   "end": 150.81,
+   "text": "Nvidia came back too.",
+   "speaker": "surf"
+  },
+  {
+   "start": 151.09,
+   "end": 158.13,
+   "text": "Airbnb was up about twelve percent at midday after a strong quarter, a raised outlook and a new buyback.",
+   "speaker": "surf"
+  },
+  {
+   "start": 158.41,
+   "end": 161.74,
+   "text": "Cloudflare surged on strong results and guidance.",
+   "speaker": "surf"
+  },
+  {
+   "start": 162.02,
+   "end": 166.35,
+   "text": "That's catching a clean wave and riding it all the way to the beach.",
+   "speaker": "surf"
+  },
+  {
+   "start": 166.63,
+   "end": 168.38,
+   "text": "Gus, that's worth a biscuit!",
+   "speaker": "surf"
+  },
+  {
+   "start": 168.66,
+   "end": 170.11,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 119.5,
-   "end": 121.47,
+   "start": 170.39,
+   "end": 172.36,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 121.75,
-   "end": 127.15,
-   "text": "Cloudflare is hanging ten too, up around fifteen percent after its results.",
+   "start": 172.64,
+   "end": 178.66,
+   "text": "On the wipeout side, DraftKings sank more than twenty five percent after missing estimates.",
    "speaker": "surf"
   },
   {
-   "start": 127.43,
-   "end": 133.19,
-   "text": "Atlassian took a wipeout, down about sixteen percent after its quarterly report.",
-   "speaker": "surf"
-  },
-  {
-   "start": 133.47,
-   "end": 136.71,
-   "text": "In the lineup, the chip crowd is paddling back out.",
-   "speaker": "surf"
-  },
-  {
-   "start": 136.99,
-   "end": 145.82,
-   "text": "Nvidia is up about three and a half percent, and A M D, Intel, Broadcom and Micron are up five to eight percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 146.1,
-   "end": 147.28,
-   "text": "Beach talk.",
-   "speaker": "surf"
-  },
-  {
-   "start": 147.56,
-   "end": 155.15,
-   "text": "Shield A I agreed to buy radar maker Echodyne in a deal worth up to five point three billion dollars.",
-   "speaker": "surf"
-  },
-  {
-   "start": 155.43,
-   "end": 159.81,
-   "text": "Adani Ports is buying European storage operator Evos.",
-   "speaker": "surf"
-  },
-  {
-   "start": 160.09,
-   "end": 166.51,
-   "text": "Sets to watch: the jobs report, and whether the chip bounce holds after the eight thirty open.",
-   "speaker": "surf"
-  },
-  {
-   "start": 166.79,
-   "end": 171.05,
-   "text": "Soul surfers, remember, one rough day does not make a season.",
-   "speaker": "surf"
-  },
-  {
-   "start": 171.33,
-   "end": 173.68,
-   "text": "Want a read on a wave of your own?",
-   "speaker": "surf"
-  },
-  {
-   "start": 173.96,
+   "start": 178.94,
    "end": 183.52,
-   "text": "Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "text": "Axon fell about eighteen percent on a miss and a lower outlook.",
    "speaker": "surf"
   },
   {
    "start": 183.8,
-   "end": 186.4,
+   "end": 193.3,
+   "text": "On the Tide Chart, this week's earnings parade is winding down, with about four hundred forty S and P companies already reported.",
+   "speaker": "surf"
+  },
+  {
+   "start": 193.58,
+   "end": 195.54,
+   "text": "Friday evening was quiet.",
+   "speaker": "surf"
+  },
+  {
+   "start": 195.82,
+   "end": 196.99,
+   "text": "Beach Talk.",
+   "speaker": "surf"
+  },
+  {
+   "start": 197.27,
+   "end": 203.95,
+   "text": "Salesforce agreed to buy voice A I company Cresta for about two point seven billion dollars.",
+   "speaker": "surf"
+  },
+  {
+   "start": 204.23,
+   "end": 207.3,
+   "text": "Meta picked up A I agent startup Conductor.",
+   "speaker": "surf"
+  },
+  {
+   "start": 207.58,
+   "end": 216.11,
+   "text": "Eli Lilly will let Hims and Hers sell its weight loss drugs Zepbound and Foundayo, and Hims stock hung ten on that news.",
+   "speaker": "surf"
+  },
+  {
+   "start": 216.39,
+   "end": 219.17,
+   "text": "Tomorrow's Forecast is really Monday.",
+   "speaker": "surf"
+  },
+  {
+   "start": 219.45,
+   "end": 223.63,
+   "text": "Fed speakers Bowman, Goolsbee and Barkin all take the mic.",
+   "speaker": "surf"
+  },
+  {
+   "start": 223.91,
+   "end": 228.75,
+   "text": "Before the open, we hear from K K R and Constellation Energy.",
+   "speaker": "surf"
+  },
+  {
+   "start": 229.03,
+   "end": 233.41,
+   "text": "After the close, Take-Two Interactive and Rocket Lab report.",
+   "speaker": "surf"
+  },
+  {
+   "start": 233.69,
+   "end": 239.81,
+   "text": "And Tuesday at seven thirty A M Central, the October consumer price report lands.",
+   "speaker": "surf"
+  },
+  {
+   "start": 240.09,
+   "end": 242.05,
+   "text": "That's the big wave of the week.",
+   "speaker": "surf"
+  },
+  {
+   "start": 242.33,
+   "end": 246.58,
+   "text": "Got a stock, E T F or futures contract on your mind?",
+   "speaker": "surf"
+  },
+  {
+   "start": 246.86,
+   "end": 252.51,
+   "text": "Look it up in the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "speaker": "surf"
+  },
+  {
+   "start": 252.79,
+   "end": 259.19,
+   "text": "Wax those boards this weekend and catch Dawn Patrol on Monday morning, Soul Surfers.",
+   "speaker": "surf"
+  },
+  {
+   "start": 259.47,
+   "end": 262.07,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 186.68,
-   "end": 191.89,
+   "start": 262.35,
+   "end": 267.56,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
