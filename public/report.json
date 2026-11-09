@@ -1,34 +1,33 @@
 {
- "date": "2026-11-06",
- "slot": "evening",
- "title": "Sunset Session",
- "edition": "Sunset Session",
+ "date": "2026-11-09",
+ "title": "Market Surf Report",
+ "edition": "Dawn Patrol Edition · Week Ahead",
  "is_sample": false,
- "updated": "Nov 6, 5:10 PM CT",
+ "updated": "Nov 9, 6:00 AM CT",
  "conditions": {
   "rating": "Fair",
-  "headline": "Chips Paddle Back Out, Dow Stays on the Sand",
-  "summary": "Nasdaq and the S&P 500 bounced as AI and chip stocks recovered part of Thursday's rout, while the Dow slipped. A strong October jobs report pushed yields and the dollar higher, and the S&P still logged its worst week since June."
+  "headline": "Chop calms after a gnarly week, but the AI Kahuna wipes out",
+  "summary": "Futures are modestly higher after last week's tech-led selloff, led by the Dow and small caps. Nvidia's slide and a big CPI report Tuesday keep the mood cautious."
  },
  "tape": [
   {
-   "label": "S&P 500",
-   "value": "+0.3%",
+   "label": "S&P fut",
+   "value": "+0.4%",
    "dir": "up"
   },
   {
-   "label": "Nasdaq",
-   "value": "+1.1%",
+   "label": "Nasdaq fut",
+   "value": "+0.2%",
    "dir": "up"
   },
   {
-   "label": "Dow",
-   "value": "-0.5%",
-   "dir": "down"
+   "label": "Dow fut",
+   "value": "+0.7%",
+   "dir": "up"
   },
   {
-   "label": "Russell 2000",
-   "value": "+0.9%",
+   "label": "Russell fut",
+   "value": "+1.0%",
    "dir": "up"
   },
   {
@@ -38,79 +37,83 @@
   },
   {
    "label": "Dollar",
+   "value": "n/a",
+   "dir": "flat"
+  },
+  {
+   "label": "Crude",
+   "value": "-1.2%",
+   "dir": "down"
+  },
+  {
+   "label": "Gold",
    "value": "+0.8%",
    "dir": "up"
   },
   {
-   "label": "Crude",
-   "value": "+0.3%",
-   "dir": "up"
-  },
-  {
-   "label": "Gold",
-   "value": "-0.9%",
+   "label": "Bitcoin",
+   "value": "-1.8%",
    "dir": "down"
   },
   {
-   "label": "Bitcoin",
-   "value": "+0.1%",
-   "dir": "flat"
-  },
-  {
    "label": "VIX",
-   "value": "-9.0%",
+   "value": "24.3",
    "dir": "down"
   }
  ],
  "sections": [
   {
-   "id": "close",
-   "surf": "The Final Set",
-   "title": "Closing Bell",
+   "id": "swell",
+   "surf": "The Swell",
+   "title": "Futures & Overnight",
    "items": [
-    "S&P 500 closed at 7,376.86, up 0.31%; Nasdaq Composite at 24,579.42, up 1.09%; Dow at 51,285.73, down 0.46%; Russell 2000 up about 0.9%.",
-    "AI and chip stocks rebounded after Thursday's selloff, when the S&P 500 fell more than 4% and the chip index dropped 12%.",
-    "The Dow opened down nearly 1% while the S&P 500 was up as much as about 1.5% around midday before fading.",
-    "Technology and communication services led; consumer staples, health care and financials lagged.",
-    "The S&P 500 still had its worst week since June, and tech stocks fell about 7% for the week."
+    "As of about 4:10 AM CT, S&P 500 futures were up about 0.4%, Nasdaq-100 futures up about 0.2% and Dow futures up about 0.7%; early quotes, and sources varied.",
+    "Russell 2000 futures were up roughly 1%, with small caps leading the bounce.",
+    "The 10-year Treasury yield was near 4.86%, slightly higher.",
+    "WTI crude fell about 1.2% to near $89.70; gold rose about 0.8% to near $4,108.",
+    "Bitcoin fell about 1.8% to near $74,500; the VIX eased about 5% to about 24.3.",
+    "No fresh dollar index reading was found in this morning's sources.",
+    "Asia: Japan's Nikkei and South Korea's Kospi rose more than 1% as chip stocks rebounded; Hong Kong gained modestly.",
+    "Europe: London's FTSE 100 was up about 0.8% in early trade.",
+    "Context: last week the Nasdaq Composite fell about 3.4% and the S&P 500 about 2.7%, led by tech."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Fed",
+   "title": "Macro & Economic Calendar",
    "items": [
-    "October payrolls rose 165,000 versus about 65,000 expected; unemployment fell to 4.1% versus 4.2% expected.",
-    "Average hourly earnings rose 0.4% for the month and 3.1% from a year ago; August and September were revised up a combined 84,000.",
-    "The 10-year Treasury yield rose about 2 basis points to roughly 4.86%; the 2-year rose about 4.5 basis points to 4.52%.",
-    "The dollar index gained about 0.75% to 102.32, and bets on a December Fed rate hike increased after the report.",
-    "Investors weighed midterm results that could bring tighter rules on AI data-center construction."
-   ]
-  },
-  {
-   "id": "lineup",
-   "surf": "The Lineup",
-   "title": "Biggest Movers",
-   "items": [
-    "AMD (Advanced Micro Devices): up roughly 8% to 10% — rebound after a 17% drop Thursday.",
-    "NVDA (Nvidia): higher — chip bounce after a 9% slide Thursday.",
-    "ABNB (Airbnb): about +12% midday — strong quarter, raised full-year outlook and new buyback.",
-    "NET (Cloudflare): about +13% early — strong third-quarter results and guidance.",
-    "HIMS (Hims & Hers): about +5% — Eli Lilly will let it sell Zepbound and Foundayo directly.",
-    "DKNG (DraftKings): about -28% early — third-quarter miss.",
-    "AXON (Axon Enterprise): about -18% midday — earnings miss and lower 2026 outlook.",
-    "TEAM (Atlassian): about -14% early — guidance pointed to a sharp growth slowdown."
+    "9:00 AM CT: September wholesale inventories; no consensus found.",
+    "10:00 AM CT: New York Fed consumer inflation expectations for October; prior 1-year reading 3.9%.",
+    "Treasury sells 3- and 6-month bills at 10:30 AM CT and 3-year notes at 12:00 PM CT.",
+    "One calendar lists Fed speakers today including Chicago Fed President Goolsbee around 9:00 AM CT and Richmond Fed President Barkin around 11:15 AM CT.",
+    "Main story: the Fed held rates at 3.75% to 4.00% in October with two votes for a hike, and futures reportedly price high odds of a December hike."
    ]
   },
   {
    "id": "tide",
    "surf": "Tide Chart",
-   "title": "Earnings Today & Tonight",
+   "title": "Earnings",
    "items": [
-    "Airbnb, Cloudflare, Atlassian, DraftKings and Axon reported last night and set the tone for today's moves.",
-    "Microchip fell about 13% midday after analysts cut forecasts following its report.",
-    "Natera fell about 12% early on a wider loss and a CEO change.",
-    "About 440 S&P 500 companies have now reported this season; no major names reported after Friday's close."
+    "Berkshire Hathaway: Q3 operating earnings of about $12.7 billion, down about 6% on weaker insurance results; cash hit a record $377.4 billion. Shares slightly higher pre-market.",
+    "Before the open today: Constellation Energy (EPS estimate about $3.90) and KKR.",
+    "After the close today: Occidental Petroleum (EPS estimate about $1.43), Take-Two Interactive and Rocket Lab.",
+    "Also on today's calendar: The Trade Desk, Hims & Hers, Lucid, Archer Aviation and Plug Power.",
+    "About 82% of S&P 500 companies that have reported so far beat estimates, per LSEG data."
+   ]
+  },
+  {
+   "id": "lineup",
+   "surf": "The Lineup",
+   "title": "Stocks in the News",
+   "items": [
+    "NVDA (Nvidia): about -4.5% — the company opened an internal investigation tied to reports about CEO Jensen Huang; details are unconfirmed.",
+    "KKR (KKR & Co.): about +3.7% — rising ahead of its results this morning.",
+    "CRWV (CoreWeave): about -3% — slipping ahead of its earnings Tuesday after the close.",
+    "AMAT (Applied Materials): about +1.7% — chip equipment name firm ahead of Thursday's report.",
+    "INTC, MRVL, QCOM (Intel, Marvell, Qualcomm): down about 0.5% to 1.2% — chip stocks under pressure alongside Nvidia.",
+    "MSFT, GOOGL, META (Microsoft, Alphabet, Meta): up less than 1% — big tech steadier after last week's drop.",
+    "SKHY (SK Hynix US listing): about -3.5% overnight — even as its Seoul shares closed slightly higher."
    ]
   },
   {
@@ -118,65 +121,93 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Salesforce agreed to buy voice-AI company Cresta for a reported $2.7 billion.",
-    "Meta acquired AI agent startup Conductor; terms were not disclosed.",
-    "Eli Lilly will let Hims & Hers sell its weight-loss drugs Zepbound and Foundayo directly.",
-    "Tesla plans to wind down Cybertruck production in Texas around mid-2027 to make room for Cybercab.",
-    "Reports said Anthropic's IPO valuation could come in below earlier projections."
+    "Binance named Justin Yek as CFO, replacing Kaiser Ng in what it called a planned move, as it reimburses customers after a large crypto theft last month.",
+    "Democrats are reportedly drafting proposals on data center power costs, independent AI testing and AI liability; nothing has been enacted.",
+    "TSMC shares rose about 4.7% in Taipei as Asian chip stocks rebounded; its October sales are due Tuesday.",
+    "The Philadelphia Semiconductor Index posted its worst week since March 2025 last week."
    ]
   },
   {
-   "id": "tomorrow",
-   "surf": "Tomorrow's Forecast",
-   "title": "On Deck",
+   "id": "watch",
+   "surf": "Sets to Watch",
+   "title": "What to Watch Today",
    "items": [
-    "Markets are closed for the weekend; next session is Monday, Nov 9.",
-    "Monday Fed speakers: Bowman 7:40 AM CT, Goolsbee 9:00 AM CT, Barkin 11:15 AM CT; wholesale inventories at 9:00 AM CT.",
-    "Monday before the open: KKR, Constellation Energy, Ferguson and Barrick; after the close: Take-Two Interactive and Rocket Lab.",
-    "Tuesday 7:30 AM CT: October CPI, the big data release of the week."
+    "8:30 AM CT open: whether Nvidia's pre-market slide deepens or stabilizes, and how chip stocks follow.",
+    "10:00 AM CT: New York Fed inflation expectations, ahead of Tuesday's CPI.",
+    "After the close: Occidental Petroleum and Take-Two Interactive earnings."
+   ]
+  },
+  {
+   "id": "week-earnings",
+   "surf": "This Week's Swell",
+   "title": "Earnings This Week",
+   "items": [
+    "Mon: Constellation Energy (CEG), before open — data center power demand.",
+    "Mon: KKR (KKR), before open — fundraising and deal activity.",
+    "Mon: Occidental Petroleum (OXY), after close — production volumes and oil prices.",
+    "Mon: Take-Two Interactive (TTWO), after close — game release outlook.",
+    "Mon: Rocket Lab (RKLB), after close — launch cadence and backlog.",
+    "Tue: Sea Limited (SE), before open — e-commerce and gaming growth.",
+    "Tue: CoreWeave (CRWV), after close — contract backlog and data center spending plans.",
+    "Thu: Nebius (NBIS), before open — AI cloud capacity growth.",
+    "Thu: Cisco (CSCO), after close — networking orders tied to AI infrastructure.",
+    "Thu: Applied Materials (AMAT), after close — chip equipment demand from AI and memory."
+   ]
+  },
+  {
+   "id": "week-economy",
+   "surf": "Weekly Forecast",
+   "title": "Economic Calendar This Week",
+   "items": [
+    "Mon 9:00 AM CT: Wholesale inventories (Sept).",
+    "Mon 10:00 AM CT: NY Fed consumer inflation expectations (Oct) — prior 1-year 3.9%.",
+    "Tue 7:30 AM CT: CPI (Oct) — consensus +0.3% m/m headline, +0.2% m/m core.",
+    "Tue: Fed Governor Waller speaks on the economic outlook.",
+    "Wed: Veterans Day — bond market closed, stock market open.",
+    "Thu 7:30 AM CT: Weekly jobless claims.",
+    "Thu: Fed Governor Barr speaks on AI and inequality.",
+    "Fri 7:30 AM CT: PPI (Oct) — consensus +0.4% m/m.",
+    "Fri: Fed Vice Chair Jefferson speaks on productivity and new technology.",
+    "Backdrop: the next Fed meeting is Dec 8-9, with markets weighing the odds of a rate hike."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November sixth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding into the water for the last set of the week. Gus the wonder dog is curled up on his beach towel after a rough week. Gus, tell everybody we made it to Friday! Okay, the Final Set. After Thursday's gnarly wipeout in A I and chip stocks, the swell came back in, but not for everybody. The S and P five hundred rose about three tenths of a percent to seven thousand three hundred seventy six. The Nasdaq Composite gained about one point one percent to twenty four thousand five hundred seventy nine. The Dow slipped about half a percent to fifty one thousand two hundred eighty six. The Russell two thousand rose almost nine tenths of a percent. Tech and communication services led the way, while consumer staples, health care and financials pulled back. Still, the S and P had its worst week since June. Over in the bond lineup, the ten year Treasury yield rose about two basis points to roughly four point eight six percent. The dollar index climbed about three quarters of a percent. W T I crude settled near ninety one dollars. Gold fell about one percent to around four thousand seventy five dollars. The VIX fear gauge dropped about nine percent. Now the Wind and Weather. The October jobs report blew in strong. Employers added one hundred sixty five thousand jobs, way above forecasts near sixty five thousand. Unemployment slipped to four point one percent, and wages rose four tenths of a percent for the month. Yields jumped on the news, and traders raised their bets on a Fed rate hike in December. Investors also worry new rules after the midterms could slow A I data center building. Time for the Lineup. Advanced Micro Devices bounced roughly eight to ten percent after a seventeen percent drop on Thursday. Nvidia came back too. Airbnb was up about twelve percent at midday after a strong quarter, a raised outlook and a new buyback. Cloudflare surged on strong results and guidance. That's catching a clean wave and riding it all the way to the beach. Gus, that's worth a biscuit! Here you go, buddy! On the wipeout side, DraftKings sank more than twenty five percent after missing estimates. Axon fell about eighteen percent on a miss and a lower outlook. On the Tide Chart, this week's earnings parade is winding down, with about four hundred forty S and P companies already reported. Friday evening was quiet. Beach Talk. Salesforce agreed to buy voice A I company Cresta for about two point seven billion dollars. Meta picked up A I agent startup Conductor. Eli Lilly will let Hims and Hers sell its weight loss drugs Zepbound and Foundayo, and Hims stock hung ten on that news. Tomorrow's Forecast is really Monday. Fed speakers Bowman, Goolsbee and Barkin all take the mic. Before the open, we hear from K K R and Constellation Energy. After the close, Take-Two Interactive and Rocket Lab report. And Tuesday at seven thirty A M Central, the October consumer price report lands. That's the big wave of the week. Got a stock, E T F or futures contract on your mind? Look it up in the Check a Wave box on the page, and Surf Daddy will call it for you. Wax those boards this weekend and catch Dawn Patrol on Monday morning, Soul Surfers. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Monday, November ninth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the beach towel this morning is my co-anchor, Gus the wonder dog, fresh from chasing seagulls. Give the crew a howdy, Gus! Alright, let's check the swell. After a gnarly week that knocked the Nasdaq down more than three percent, the water is calming a bit on the Dawn Patrol. As of about four A M Central, S and P 500 futures were up about four tenths of a percent. Nasdaq 100 futures were up about two tenths. Dow futures were up about seven tenths, and Russell 2000 small cap futures were up roughly one percent. The ten year yield sits near four point eight six percent. Crude is down about one percent, gold is up nearly one percent, bitcoin slipped about two percent, and the VIX eased to around twenty four. Overseas, Asian chip stocks bounced, and London was higher. Wind and weather now. Today's calendar is light. Wholesale inventories come out at nine A M Central, and the New York Fed's consumer inflation expectations survey lands at ten A M Central. The big story is the Fed itself. Rates are being held, but traders are now betting on a possible hike in December. Tide chart. Berkshire Hathaway reported over the weekend. Operating earnings fell about six percent, mostly from weaker insurance results, but its cash pile hit a record of about three hundred seventy seven billion dollars. This morning, Constellation Energy and K K R report before the bell. After the close, watch Occidental Petroleum, Take-Two Interactive and Rocket Lab. Now the lineup. The Kahuna of A I chips, Nvidia, is wiping out, down about four and a half percent pre-market. The company opened an internal investigation tied to reports about C E O Jensen Huang, and the details are still unconfirmed. Other chip names like Intel, Marvell and Qualcomm are slightly lower. Microsoft, Alphabet and Meta are up less than one percent. And K K R is up nearly four percent ahead of its earnings this morning. That's a wave worth catching. Treat time, Gus! Here you go, buddy! Beach talk. Binance named a new chief financial officer in a planned handoff. In Washington, Democrats are preparing proposals on data center power costs and A I safety testing, though nothing has passed. Sets to watch today. Nvidia at the open, the inflation expectations survey at ten A M Central, and the evening earnings from Occidental and Take-Two. Now, it's Monday, so here's the week's swell forecast. Tuesday is the big one. The October consumer price index lands at seven thirty A M Central. Forecasters expect headline prices up three tenths of a percent and core up two tenths. Sea Limited reports before the open, and CoreWeave reports after the close. Wednesday is Veterans Day. The bond market is closed, but stocks are open. Thursday, weekly jobless claims come out at seven thirty A M Central. Nebius reports before the open. After the close, Cisco and Applied Materials report, a double check on A I spending. Friday, the producer price index arrives at seven thirty A M Central, with a forecast gain of four tenths of a percent. The two sets most likely to make waves are Tuesday's inflation report and Thursday night's Cisco and Applied Materials numbers. Soul surfers, stay patient, and skip the hodads. Got a stock, an E T F or a futures contract on your mind? Type it into the Check a Wave box on the page, and Surf Daddy will call the wave for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Yahoo Finance live: Nov 6 market",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+   "title": "Reuters via Finwire: Wall St futures rise after rough week",
+   "url": "https://finwire.io/news/stock-markets-news/wall-st-futures-rise-after-rough-week-but-nvidia-unsettles-investors"
   },
   {
-   "title": "TheStreet: Stock Market Today Nov 6",
-   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"
+   "title": "Yahoo Finance: Stock market today, Nov 9",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
   },
   {
-   "title": "Reuters via Yahoo: jobs report sends yields higher",
-   "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html"
+   "title": "Yahoo Finance: US futures mixed, Berkshire earnings",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-mixed-investors-095952467.html"
   },
   {
-   "title": "Investrade: Market Review Nov 6",
-   "url": "https://investrade.com/market-review-november-06-2026/"
+   "title": "Yahoo Finance: Asian chip stocks rise",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sk-hynix-samsung-asian-083520835.html"
   },
   {
-   "title": "Investrade: Weekly Event Calendar",
-   "url": "https://investrade.com/weekly-event-calendar-11-09-2026-11-13-2026/"
+   "title": "Gotrade: US market week ahead",
+   "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-09/"
   },
   {
-   "title": "Finwire: Monday economic calendar",
-   "url": "https://finwire.io/news/stock-markets-news/fed-speakers-and-treasury-auctions-highlight-mondays-economic-calendar"
+   "title": "Opening Bell Daily: Week ahead",
+   "url": "https://www.openingbelldailynews.com/p/stock-market-week-ahead-nov-9-2026"
   },
   {
-   "title": "StockTitan: Earnings week of Nov 9",
-   "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-9-2026"
+   "title": "TipRanks: Major earnings this week",
+   "url": "https://www.tipranks.com/news/major-earnings-this-week-nov-9-13-2026"
   },
   {
-   "title": "Deal Sheet Nov 6",
-   "url": "https://nonbindingthoughts.substack.com/p/please-advise-deal-sheet-nov-6-2026"
-  },
-  {
-   "title": "AI Daily Digest Nov 6",
-   "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-6-2026-openai-ships-gpt-6-cyber-meta-buys-conductor-anthropic-locks-1jij"
+   "title": "Finobird: Economic calendar Nov 9",
+   "url": "https://finobird.com/calendar/economic/analysis/fed-speakers-inflation-expectations-and-boe-bailey-what-to-watch-on-november-9-2026-2026-11-09/"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November sixth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding into the water for the last set of the week.\n\nGus the wonder dog is curled up on his beach towel after a rough week. Gus, tell everybody we made it to Friday! [BARK]\n\nOkay, the Final Set. After Thursday's gnarly wipeout in A I and chip stocks, the swell came back in, but not for everybody. The S and P five hundred rose about three tenths of a percent to seven thousand three hundred seventy six. The Nasdaq Composite gained about one point one percent to twenty four thousand five hundred seventy nine. The Dow slipped about half a percent to fifty one thousand two hundred eighty six. The Russell two thousand rose almost nine tenths of a percent. Tech and communication services led the way, while consumer staples, health care and financials pulled back. Still, the S and P had its worst week since June.\n\nOver in the bond lineup, the ten year Treasury yield rose about two basis points to roughly four point eight six percent. The dollar index climbed about three quarters of a percent. W T I crude settled near ninety one dollars. Gold fell about one percent to around four thousand seventy five dollars. The VIX fear gauge dropped about nine percent.\n\nNow the Wind and Weather. The October jobs report blew in strong. Employers added one hundred sixty five thousand jobs, way above forecasts near sixty five thousand. Unemployment slipped to four point one percent, and wages rose four tenths of a percent for the month. Yields jumped on the news, and traders raised their bets on a Fed rate hike in December. Investors also worry new rules after the midterms could slow A I data center building.\n\nTime for the Lineup. Advanced Micro Devices bounced roughly eight to ten percent after a seventeen percent drop on Thursday. Nvidia came back too. Airbnb was up about twelve percent at midday after a strong quarter, a raised outlook and a new buyback. Cloudflare surged on strong results and guidance. That's catching a clean wave and riding it all the way to the beach. Gus, that's worth a biscuit! Here you go, buddy! [SNACK]\n\nOn the wipeout side, DraftKings sank more than twenty five percent after missing estimates. Axon fell about eighteen percent on a miss and a lower outlook.\n\nOn the Tide Chart, this week's earnings parade is winding down, with about four hundred forty S and P companies already reported. Friday evening was quiet.\n\nBeach Talk. Salesforce agreed to buy voice A I company Cresta for about two point seven billion dollars. Meta picked up A I agent startup Conductor. Eli Lilly will let Hims and Hers sell its weight loss drugs Zepbound and Foundayo, and Hims stock hung ten on that news.\n\nTomorrow's Forecast is really Monday. Fed speakers Bowman, Goolsbee and Barkin all take the mic. Before the open, we hear from K K R and Constellation Energy. After the close, Take-Two Interactive and Rocket Lab report. And Tuesday at seven thirty A M Central, the October consumer price report lands. That's the big wave of the week.\n\nGot a stock, E T F or futures contract on your mind? Look it up in the Check a Wave box on the page, and Surf Daddy will call it for you. Wax those boards this weekend and catch Dawn Patrol on Monday morning, Soul Surfers.\n\nThis is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Monday, November ninth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the beach towel this morning is my co-anchor, Gus the wonder dog, fresh from chasing seagulls. Give the crew a howdy, Gus! [BARK] Alright, let's check the swell. After a gnarly week that knocked the Nasdaq down more than three percent, the water is calming a bit on the Dawn Patrol. As of about four A M Central, S and P 500 futures were up about four tenths of a percent. Nasdaq 100 futures were up about two tenths. Dow futures were up about seven tenths, and Russell 2000 small cap futures were up roughly one percent. The ten year yield sits near four point eight six percent. Crude is down about one percent, gold is up nearly one percent, bitcoin slipped about two percent, and the VIX eased to around twenty four. Overseas, Asian chip stocks bounced, and London was higher. Wind and weather now. Today's calendar is light. Wholesale inventories come out at nine A M Central, and the New York Fed's consumer inflation expectations survey lands at ten A M Central. The big story is the Fed itself. Rates are being held, but traders are now betting on a possible hike in December. Tide chart. Berkshire Hathaway reported over the weekend. Operating earnings fell about six percent, mostly from weaker insurance results, but its cash pile hit a record of about three hundred seventy seven billion dollars. This morning, Constellation Energy and K K R report before the bell. After the close, watch Occidental Petroleum, Take-Two Interactive and Rocket Lab. Now the lineup. The Kahuna of A I chips, Nvidia, is wiping out, down about four and a half percent pre-market. The company opened an internal investigation tied to reports about C E O Jensen Huang, and the details are still unconfirmed. Other chip names like Intel, Marvell and Qualcomm are slightly lower. Microsoft, Alphabet and Meta are up less than one percent. And K K R is up nearly four percent ahead of its earnings this morning. That's a wave worth catching. Treat time, Gus! Here you go, buddy! [SNACK] Beach talk. Binance named a new chief financial officer in a planned handoff. In Washington, Democrats are preparing proposals on data center power costs and A I safety testing, though nothing has passed. Sets to watch today. Nvidia at the open, the inflation expectations survey at ten A M Central, and the evening earnings from Occidental and Take-Two. Now, it's Monday, so here's the week's swell forecast. Tuesday is the big one. The October consumer price index lands at seven thirty A M Central. Forecasters expect headline prices up three tenths of a percent and core up two tenths. Sea Limited reports before the open, and CoreWeave reports after the close. Wednesday is Veterans Day. The bond market is closed, but stocks are open. Thursday, weekly jobless claims come out at seven thirty A M Central. Nebius reports before the open. After the close, Cisco and Applied Materials report, a double check on A I spending. Friday, the producer price index arrives at seven thirty A M Central, with a forecast gain of four tenths of a percent. The two sets most likely to make waves are Tuesday's inflation report and Thursday night's Cisco and Applied Materials numbers. Soul surfers, stay patient, and skip the hodads. Got a stock, an E T F or a futures contract on your mind? Type it into the Check a Wave box on the page, and Surf Daddy will call the wave for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -193,313 +224,325 @@
   },
   {
    "start": 11.57,
-   "end": 19.61,
-   "text": "It's Friday, November sixth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
+   "end": 17.65,
+   "text": "It's Monday, November ninth, twenty twenty-six, and this is your Market Surf Report.",
    "speaker": "surf"
   },
   {
-   "start": 19.89,
-   "end": 23.79,
-   "text": "The sun is sliding into the water for the last set of the week.",
+   "start": 17.93,
+   "end": 25.91,
+   "text": "Riding shotgun on the beach towel this morning is my co-anchor, Gus the wonder dog, fresh from chasing seagulls.",
    "speaker": "surf"
   },
   {
-   "start": 24.07,
+   "start": 26.19,
+   "end": 28.04,
+   "text": "Give the crew a howdy, Gus!",
+   "speaker": "surf"
+  },
+  {
+   "start": 28.32,
    "end": 28.87,
-   "text": "Gus the wonder dog is curled up on his beach towel after a rough week.",
-   "speaker": "surf"
-  },
-  {
-   "start": 29.15,
-   "end": 32.08,
-   "text": "Gus, tell everybody we made it to Friday!",
-   "speaker": "surf"
-  },
-  {
-   "start": 32.36,
-   "end": 32.91,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 33.19,
-   "end": 34.96,
-   "text": "Okay, the Final Set.",
+   "start": 29.15,
+   "end": 31.2,
+   "text": "Alright, let's check the swell.",
    "speaker": "surf"
   },
   {
-   "start": 35.24,
-   "end": 42.85,
-   "text": "After Thursday's gnarly wipeout in A I and chip stocks, the swell came back in, but not for everybody.",
+   "start": 31.48,
+   "end": 39.37,
+   "text": "After a gnarly week that knocked the Nasdaq down more than three percent, the water is calming a bit on the Dawn Patrol.",
    "speaker": "surf"
   },
   {
-   "start": 43.13,
-   "end": 50.88,
-   "text": "The S and P five hundred rose about three tenths of a percent to seven thousand three hundred seventy six.",
+   "start": 39.65,
+   "end": 47.46,
+   "text": "As of about four A M Central, S and P 500 futures were up about four tenths of a percent.",
    "speaker": "surf"
   },
   {
-   "start": 51.16,
-   "end": 58.62,
-   "text": "The Nasdaq Composite gained about one point one percent to twenty four thousand five hundred seventy nine.",
+   "start": 47.74,
+   "end": 51.75,
+   "text": "Nasdaq 100 futures were up about two tenths.",
    "speaker": "surf"
   },
   {
-   "start": 58.9,
-   "end": 63.88,
-   "text": "The Dow slipped about half a percent to fifty one thousand two hundred eighty six.",
+   "start": 52.03,
+   "end": 60.01,
+   "text": "Dow futures were up about seven tenths, and Russell 2000 small cap futures were up roughly one percent.",
    "speaker": "surf"
   },
   {
-   "start": 64.16,
-   "end": 68.66,
-   "text": "The Russell two thousand rose almost nine tenths of a percent.",
+   "start": 60.29,
+   "end": 64.11,
+   "text": "The ten year yield sits near four point eight six percent.",
    "speaker": "surf"
   },
   {
-   "start": 68.94,
-   "end": 76.49,
-   "text": "Tech and communication services led the way, while consumer staples, health care and financials pulled back.",
+   "start": 64.39,
+   "end": 74.74,
+   "text": "Crude is down about one percent, gold is up nearly one percent, bitcoin slipped about two percent, and the VIX eased to around twenty four.",
    "speaker": "surf"
   },
   {
-   "start": 76.77,
-   "end": 80.2,
-   "text": "Still, the S and P had its worst week since June.",
+   "start": 75.02,
+   "end": 79.28,
+   "text": "Overseas, Asian chip stocks bounced, and London was higher.",
    "speaker": "surf"
   },
   {
-   "start": 80.48,
-   "end": 88.89,
-   "text": "Over in the bond lineup, the ten year Treasury yield rose about two basis points to roughly four point eight six percent.",
+   "start": 79.56,
+   "end": 81.21,
+   "text": "Wind and weather now.",
    "speaker": "surf"
   },
   {
-   "start": 89.17,
-   "end": 92.73,
-   "text": "The dollar index climbed about three quarters of a percent.",
+   "start": 81.49,
+   "end": 83.3,
+   "text": "Today's calendar is light.",
    "speaker": "surf"
   },
   {
-   "start": 93.01,
-   "end": 96.74,
-   "text": "W T I crude settled near ninety one dollars.",
+   "start": 83.58,
+   "end": 94.25,
+   "text": "Wholesale inventories come out at nine A M Central, and the New York Fed's consumer inflation expectations survey lands at ten A M Central.",
    "speaker": "surf"
   },
   {
-   "start": 97.02,
-   "end": 101.97,
-   "text": "Gold fell about one percent to around four thousand seventy five dollars.",
+   "start": 94.53,
+   "end": 96.81,
+   "text": "The big story is the Fed itself.",
    "speaker": "surf"
   },
   {
-   "start": 102.25,
-   "end": 105.73,
-   "text": "The VIX fear gauge dropped about nine percent.",
+   "start": 97.09,
+   "end": 102.4,
+   "text": "Rates are being held, but traders are now betting on a possible hike in December.",
    "speaker": "surf"
   },
   {
-   "start": 106.01,
-   "end": 107.78,
-   "text": "Now the Wind and Weather.",
+   "start": 102.68,
+   "end": 103.92,
+   "text": "Tide chart.",
    "speaker": "surf"
   },
   {
-   "start": 108.06,
-   "end": 111.01,
-   "text": "The October jobs report blew in strong.",
+   "start": 104.2,
+   "end": 107.38,
+   "text": "Berkshire Hathaway reported over the weekend.",
    "speaker": "surf"
   },
   {
-   "start": 111.29,
-   "end": 118.88,
-   "text": "Employers added one hundred sixty five thousand jobs, way above forecasts near sixty five thousand.",
+   "start": 107.66,
+   "end": 119.18,
+   "text": "Operating earnings fell about six percent, mostly from weaker insurance results, but its cash pile hit a record of about three hundred seventy seven billion dollars.",
    "speaker": "surf"
   },
   {
-   "start": 119.16,
-   "end": 126.12,
-   "text": "Unemployment slipped to four point one percent, and wages rose four tenths of a percent for the month.",
+   "start": 119.46,
+   "end": 125.0,
+   "text": "This morning, Constellation Energy and K K R report before the bell.",
    "speaker": "surf"
   },
   {
-   "start": 126.4,
-   "end": 132.28,
-   "text": "Yields jumped on the news, and traders raised their bets on a Fed rate hike in December.",
+   "start": 125.28,
+   "end": 131.43,
+   "text": "After the close, watch Occidental Petroleum, Take-Two Interactive and Rocket Lab.",
    "speaker": "surf"
   },
   {
-   "start": 132.56,
-   "end": 138.81,
-   "text": "Investors also worry new rules after the midterms could slow A I data center building.",
+   "start": 131.71,
+   "end": 133.07,
+   "text": "Now the lineup.",
    "speaker": "surf"
   },
   {
-   "start": 139.09,
-   "end": 140.63,
-   "text": "Time for the Lineup.",
+   "start": 133.35,
+   "end": 140.48,
+   "text": "The Kahuna of A I chips, Nvidia, is wiping out, down about four and a half percent pre-market.",
    "speaker": "surf"
   },
   {
-   "start": 140.91,
-   "end": 148.63,
-   "text": "Advanced Micro Devices bounced roughly eight to ten percent after a seventeen percent drop on Thursday.",
+   "start": 140.76,
+   "end": 150.87,
+   "text": "The company opened an internal investigation tied to reports about C E O Jensen Huang, and the details are still unconfirmed.",
    "speaker": "surf"
   },
   {
-   "start": 148.91,
-   "end": 150.81,
-   "text": "Nvidia came back too.",
+   "start": 151.15,
+   "end": 156.08,
+   "text": "Other chip names like Intel, Marvell and Qualcomm are slightly lower.",
    "speaker": "surf"
   },
   {
-   "start": 151.09,
-   "end": 158.13,
-   "text": "Airbnb was up about twelve percent at midday after a strong quarter, a raised outlook and a new buyback.",
+   "start": 156.36,
+   "end": 160.65,
+   "text": "Microsoft, Alphabet and Meta are up less than one percent.",
    "speaker": "surf"
   },
   {
-   "start": 158.41,
-   "end": 161.74,
-   "text": "Cloudflare surged on strong results and guidance.",
+   "start": 160.93,
+   "end": 166.07,
+   "text": "And K K R is up nearly four percent ahead of its earnings this morning.",
    "speaker": "surf"
   },
   {
-   "start": 162.02,
-   "end": 166.35,
-   "text": "That's catching a clean wave and riding it all the way to the beach.",
+   "start": 166.35,
+   "end": 168.29,
+   "text": "That's a wave worth catching.",
    "speaker": "surf"
   },
   {
-   "start": 166.63,
-   "end": 168.38,
-   "text": "Gus, that's worth a biscuit!",
+   "start": 168.57,
+   "end": 170.06,
+   "text": "Treat time, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 168.66,
-   "end": 170.11,
+   "start": 170.34,
+   "end": 171.79,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 170.39,
-   "end": 172.36,
+   "start": 172.07,
+   "end": 174.04,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 172.64,
-   "end": 178.66,
-   "text": "On the wipeout side, DraftKings sank more than twenty five percent after missing estimates.",
+   "start": 174.32,
+   "end": 175.5,
+   "text": "Beach talk.",
    "speaker": "surf"
   },
   {
-   "start": 178.94,
-   "end": 183.52,
-   "text": "Axon fell about eighteen percent on a miss and a lower outlook.",
+   "start": 175.78,
+   "end": 180.49,
+   "text": "Binance named a new chief financial officer in a planned handoff.",
    "speaker": "surf"
   },
   {
-   "start": 183.8,
-   "end": 193.3,
-   "text": "On the Tide Chart, this week's earnings parade is winding down, with about four hundred forty S and P companies already reported.",
+   "start": 180.77,
+   "end": 190.16,
+   "text": "In Washington, Democrats are preparing proposals on data center power costs and A I safety testing, though nothing has passed.",
    "speaker": "surf"
   },
   {
-   "start": 193.58,
-   "end": 195.54,
-   "text": "Friday evening was quiet.",
+   "start": 190.44,
+   "end": 192.1,
+   "text": "Sets to watch today.",
    "speaker": "surf"
   },
   {
-   "start": 195.82,
-   "end": 196.99,
-   "text": "Beach Talk.",
+   "start": 192.38,
+   "end": 201.94,
+   "text": "Nvidia at the open, the inflation expectations survey at ten A M Central, and the evening earnings from Occidental and Take-Two.",
    "speaker": "surf"
   },
   {
-   "start": 197.27,
-   "end": 203.95,
-   "text": "Salesforce agreed to buy voice A I company Cresta for about two point seven billion dollars.",
+   "start": 202.22,
+   "end": 205.85,
+   "text": "Now, it's Monday, so here's the week's swell forecast.",
    "speaker": "surf"
   },
   {
-   "start": 204.23,
-   "end": 207.3,
-   "text": "Meta picked up A I agent startup Conductor.",
+   "start": 206.13,
+   "end": 207.87,
+   "text": "Tuesday is the big one.",
    "speaker": "surf"
   },
   {
-   "start": 207.58,
-   "end": 216.11,
-   "text": "Eli Lilly will let Hims and Hers sell its weight loss drugs Zepbound and Foundayo, and Hims stock hung ten on that news.",
+   "start": 208.15,
+   "end": 213.25,
+   "text": "The October consumer price index lands at seven thirty A M Central.",
    "speaker": "surf"
   },
   {
-   "start": 216.39,
-   "end": 219.17,
-   "text": "Tomorrow's Forecast is really Monday.",
+   "start": 213.53,
+   "end": 219.55,
+   "text": "Forecasters expect headline prices up three tenths of a percent and core up two tenths.",
    "speaker": "surf"
   },
   {
-   "start": 219.45,
-   "end": 223.63,
-   "text": "Fed speakers Bowman, Goolsbee and Barkin all take the mic.",
+   "start": 219.83,
+   "end": 225.21,
+   "text": "Sea Limited reports before the open, and CoreWeave reports after the close.",
    "speaker": "surf"
   },
   {
-   "start": 223.91,
-   "end": 228.75,
-   "text": "Before the open, we hear from K K R and Constellation Energy.",
+   "start": 225.49,
+   "end": 227.58,
+   "text": "Wednesday is Veterans Day.",
    "speaker": "surf"
   },
   {
-   "start": 229.03,
-   "end": 233.41,
-   "text": "After the close, Take-Two Interactive and Rocket Lab report.",
+   "start": 227.86,
+   "end": 231.35,
+   "text": "The bond market is closed, but stocks are open.",
    "speaker": "surf"
   },
   {
-   "start": 233.69,
-   "end": 239.81,
-   "text": "And Tuesday at seven thirty A M Central, the October consumer price report lands.",
+   "start": 231.63,
+   "end": 236.5,
+   "text": "Thursday, weekly jobless claims come out at seven thirty A M Central.",
    "speaker": "surf"
   },
   {
-   "start": 240.09,
-   "end": 242.05,
-   "text": "That's the big wave of the week.",
+   "start": 236.78,
+   "end": 239.17,
+   "text": "Nebius reports before the open.",
    "speaker": "surf"
   },
   {
-   "start": 242.33,
-   "end": 246.58,
-   "text": "Got a stock, E T F or futures contract on your mind?",
+   "start": 239.45,
+   "end": 246.04,
+   "text": "After the close, Cisco and Applied Materials report, a double check on A I spending.",
    "speaker": "surf"
   },
   {
-   "start": 246.86,
-   "end": 252.51,
-   "text": "Look it up in the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "start": 246.32,
+   "end": 254.85,
+   "text": "Friday, the producer price index arrives at seven thirty A M Central, with a forecast gain of four tenths of a percent.",
    "speaker": "surf"
   },
   {
-   "start": 252.79,
-   "end": 259.19,
-   "text": "Wax those boards this weekend and catch Dawn Patrol on Monday morning, Soul Surfers.",
+   "start": 255.13,
+   "end": 264.63,
+   "text": "The two sets most likely to make waves are Tuesday's inflation report and Thursday night's Cisco and Applied Materials numbers.",
    "speaker": "surf"
   },
   {
-   "start": 259.47,
-   "end": 262.07,
+   "start": 264.91,
+   "end": 268.49,
+   "text": "Soul surfers, stay patient, and skip the hodads.",
+   "speaker": "surf"
+  },
+  {
+   "start": 268.77,
+   "end": 273.27,
+   "text": "Got a stock, an E T F or a futures contract on your mind?",
+   "speaker": "surf"
+  },
+  {
+   "start": 273.55,
+   "end": 280.02,
+   "text": "Type it into the Check a Wave box on the page, and Surf Daddy will call the wave for you.",
+   "speaker": "surf"
+  },
+  {
+   "start": 280.3,
+   "end": 282.9,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 262.35,
-   "end": 267.56,
+   "start": 283.18,
+   "end": 288.38,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
