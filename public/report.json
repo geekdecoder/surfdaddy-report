@@ -1,117 +1,116 @@
 {
- "date": "2026-11-10",
- "slot": "evening",
- "title": "Sunset Session",
- "edition": "Sunset Session",
+ "date": "2026-11-11",
+ "title": "Market Surf Report",
+ "edition": "Dawn Patrol Edition",
  "is_sample": false,
- "updated": "Nov 10, 5:05 PM CT",
+ "updated": "Nov 11, 5:55 AM CT",
  "conditions": {
-  "rating": "Poor",
-  "headline": "Hot CPI Kicks Up an Onshore Wind, Nvidia Wipes Out",
-  "summary": "A hotter-than-expected October CPI pushed the 10-year yield toward 5% and boosted December rate-hike bets. All four major indexes closed lower, with Nvidia's 5.5% slide leading tech down."
+  "rating": "Good",
+  "headline": "Tech paddles back out after two choppy sessions",
+  "summary": "Nasdaq futures lead a rebound on CoreWeave's strong outlook and a chip-stock bounce. Hot October inflation and a likely December Fed hike keep a crosswind on the water."
  },
  "tape": [
   {
-   "label": "S&P 500",
-   "value": "-0.38%",
-   "dir": "down"
+   "label": "S&P fut",
+   "value": "+0.8%",
+   "dir": "up"
   },
   {
-   "label": "Nasdaq",
-   "value": "-0.74%",
-   "dir": "down"
+   "label": "Nasdaq fut",
+   "value": "+1.8%",
+   "dir": "up"
   },
   {
-   "label": "Dow",
-   "value": "-0.30%",
-   "dir": "down"
+   "label": "Dow fut",
+   "value": "+0.1%",
+   "dir": "up"
   },
   {
-   "label": "Russell 2000",
-   "value": "-0.68%",
-   "dir": "down"
+   "label": "Russell fut",
+   "value": "n/a",
+   "dir": "flat"
   },
   {
    "label": "10-yr",
-   "value": "4.98%",
-   "dir": "up"
+   "value": "~5.0% (closed)",
+   "dir": "flat"
   },
   {
    "label": "Dollar",
-   "value": "Firmer",
-   "dir": "up"
-  },
-  {
-   "label": "Crude",
-   "value": "-0.4%",
+   "value": "edging lower",
    "dir": "down"
   },
   {
+   "label": "Crude",
+   "value": "$86.69 +0.8%",
+   "dir": "up"
+  },
+  {
    "label": "Gold",
-   "value": "-1.9%",
+   "value": "$4,063 -0.8%",
    "dir": "down"
   },
   {
    "label": "Bitcoin",
-   "value": "-1.4%",
+   "value": "$73,948 -0.3%",
    "dir": "down"
   },
   {
    "label": "VIX",
-   "value": "19.46",
-   "dir": "down"
+   "value": "n/a",
+   "dir": "flat"
   }
  ],
  "sections": [
   {
-   "id": "close",
-   "surf": "The Final Set",
-   "title": "Closing Bell",
+   "id": "swell",
+   "surf": "The Swell",
+   "title": "Futures & Overnight",
    "items": [
-    "S&P 500 fell 0.38% to 7,520.93 and the Nasdaq Composite dropped 0.74% to 25,065.88.",
-    "The Dow slipped 0.30% to 52,231.89 and the Russell 2000 lost 0.68% to 2,821.38.",
-    "A hot October CPI revived December rate-hike bets and sent tech lower, led by Nvidia.",
-    "Stocks were down about 1% at midday for the S&P and 1.6% for the Nasdaq before trimming losses into the close.",
-    "Breadth was weak, with about 61% of US issues declining; consumer cyclicals and healthcare held up better than chips."
+    "S&P 500 futures are up about 0.8% and Nasdaq-100 futures about 1.8% in early, thin trading; sources disagree on size, but all point higher.",
+    "Dow futures are up about 0.1%; Russell 2000 futures and the VIX were not available in our sources.",
+    "Tuesday's close: S&P 500 -0.38% at 7,520.93, Nasdaq Composite -0.74%, Dow -0.30% at 52,231.89.",
+    "The bond market is closed for Veterans Day; the 10-year yield sits near 5.0% after rising on hot CPI.",
+    "WTI crude is near $86.69 (+0.8%), Brent near $92.6; gold is about $4,063 (-0.8%); bitcoin about $73,950 (-0.3%).",
+    "Asia: mostly higher, led by tech; Nikkei and Kospi up, Hang Seng down slightly.",
+    "Europe: index futures point to a higher open."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Fed",
+   "title": "Macro & Economic Calendar",
    "items": [
-    "October CPI rose 0.4% for the month versus 0.3% expected; core rose 0.3% versus 0.2% expected.",
-    "The 10-year Treasury yield jumped about 12 basis points to roughly 4.98%, briefly topping 5% midday.",
-    "Fed Governor Waller said he would back a December hike and that 50 basis points should be considered if core CPI ran 0.3% or more.",
-    "Dallas Fed President Lorie Logan said two more rate hikes may be needed; futures lean heavily toward a 25 basis point hike in December.",
-    "WTI crude eased to about $86.47 after President Trump said he would hold off on new strikes against Iran; gold fell about 1.9% to near $4,038."
-   ]
-  },
-  {
-   "id": "lineup",
-   "surf": "The Lineup",
-   "title": "Biggest Movers",
-   "items": [
-    "NVDA (Nvidia): -5.5% — board-led investigation tied to CEO Jensen Huang and reports of chips reaching Chinese firms weighed on shares.",
-    "ZIP (ZipRecruiter): +53.4% — third-quarter revenue and adjusted EBITDA topped its forecast range.",
-    "AAON (AAON): +19.3% — record quarterly sales up 84% and a raised 2026 growth outlook.",
-    "SE (Sea Limited): +8.1% — quarterly revenue came in stronger than expected.",
-    "APPS (Digital Turbine): -35.8% — shares sank despite a raised revenue forecast as the profit outlook was left unchanged.",
-    "HIMS (Hims & Hers): -16.5% — cut its 2026 adjusted EBITDA forecast and gross margin fell.",
-    "GFL (GFL Environmental): about -9% intraday — board rejected a $22 billion take-private offer.",
-    "GEV (GE Vernova): about -5% intraday — SoftBank disclosed a charge on modified AI data center power contracts."
+    "October CPI rose 0.4% vs. 0.3% expected; core rose 0.3% vs. 0.2%.",
+    "Futures pricing shows roughly an 86-90% chance of a 25 bp Fed hike in December, with some odds of 50 bp.",
+    "Fed Governor Waller said a larger December hike should be considered.",
+    "Today's US calendar is light: stocks open, bond market closed for Veterans Day.",
+    "Oil is swinging on talk of an end to the US-Iran conflict and a report of a tanker hitting a mine near Hormuz."
    ]
   },
   {
    "id": "tide",
    "surf": "Tide Chart",
-   "title": "Earnings Today & Tonight",
+   "title": "Earnings",
    "items": [
-    "Before the open: AAON, ZipRecruiter and Ameresco rallied, while Hims & Hers, Digital Turbine and Groupon slumped after their reports.",
-    "Ameresco rose 23% on a record $7.2 billion backlog; Groupon fell 23%.",
-    "After the close: CoreWeave posted revenue of about $3.66 billion, up 168%, and raised its full-year revenue outlook to $13 to $13.3 billion.",
-    "CoreWeave's backlog hit $132.5 billion; shares rose in after-hours trading after closing down 0.5% at $48.73.",
-    "Rigetti Computing and D-Wave also reported after the bell."
+    "CoreWeave: Q3 revenue $3.66B (+168%), ahead of estimates; 2026 revenue outlook raised to $13.0-13.3B. Stock up about 13% pre-market.",
+    "Rigetti Computing: revenue $1.4M vs. $3.5M expected; shares fell about 9% after hours.",
+    "Lightwave Logic: volume production pushed to 2028; shares fell about 28% after hours.",
+    "Mercury Systems beat on revenue and adjusted EPS and raised its outlook; Sonos also beat.",
+    "Before the open: CGI. After today's close: Corteva, Franco-Nevada and Tetra Tech. Thursday after the close: Cisco and Applied Materials."
+   ]
+  },
+  {
+   "id": "lineup",
+   "surf": "The Lineup",
+   "title": "Stocks in the News",
+   "items": [
+    "CRWV (CoreWeave): about +13% — strong revenue and raised 2026 outlook.",
+    "NVDA (Nvidia): about +3% — rebounding after a two-day 9.5% drop tied to a board inquiry into the CEO.",
+    "INTC (Intel): about +5% — joining a broad chip-stock bounce.",
+    "MU (Micron): about +1.5% — chip rebound; tied in headlines to Anthropic's IPO.",
+    "RGTI (Rigetti Computing): about -9% after hours — revenue miss.",
+    "LWLG (Lightwave Logic): about -28% after hours — production timeline delayed to 2028."
    ]
   },
   {
@@ -119,62 +118,56 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Anthropic began its IPO roadshow, seeking $70 to $78 a share for 825 million shares, with trading expected around Nov. 19 or 20.",
-    "Microsoft fell about 3% at midday after Anthropic unveiled workplace tools for Claude that could compete with Office.",
-    "Costco declared a $30 special dividend with a Nov. 24 record date.",
-    "AAA said the national average gasoline price slipped below $4 a gallon for the first time since July.",
-    "Take-Two jumped about 6% intraday as GTA VI pre-orders tracked well above expectations."
+    "Anthropic launched its IPO roadshow, marketing shares at $70-$78 at a valuation near $1.4 trillion.",
+    "TSMC said October revenue rose about 60% from a year ago.",
+    "OpenAI's quarterly revenue reportedly topped $10 billion for the first time.",
+    "Strategy (the bitcoin holder) could be dropped from MSCI indexes; MSCI's final list is due after today's close.",
+    "GE Vernova fell Tuesday after SoftBank revised its US data-center power plans."
    ]
   },
   {
-   "id": "tomorrow",
-   "surf": "Tomorrow's Forecast",
-   "title": "On Deck",
+   "id": "watch",
+   "surf": "Sets to Watch",
+   "title": "What to Watch Today",
    "items": [
-    "Wednesday is Veterans Day: stocks trade normal hours, while SIFMA recommends a full bond market close.",
-    "6:00 AM CT: MBA mortgage applications.",
-    "Fed speakers: Governor Bowman and Philadelphia Fed President Paulson are on the calendar.",
-    "Earnings: Rumble and Sigma Lithium before the open; Corteva, Franco-Nevada and CAE after the close.",
-    "Thursday 7:30 AM CT jobless claims, with the weekly EIA oil report moved to Thursday; October PPI arrives Friday at 7:30 AM CT."
+    "8:30 AM CT open: does the tech rebound hold after the hot CPI print?",
+    "Chip stocks: Nvidia's bounce after its two-day slide.",
+    "After the close: Corteva and Franco-Nevada earnings, plus MSCI's decision list affecting Strategy."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Tuesday, November tenth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding down into the water, and it was a choppy one out there. Gus the wonder dog spent the afternoon chasing sand crabs and keeping one eye on the ticker. Give the folks a howdy, Gus! Alright, let's paddle through the final set. An onshore wind kicked up this morning and knocked the swell down. The S and P five hundred fell about four tenths of a percent to seven thousand five hundred twenty. The Nasdaq dropped about seven tenths of a percent to twenty-five thousand sixty-six. The Dow slipped three tenths of a percent to fifty-two thousand two hundred thirty-two. And the Russell two thousand gave up about seven tenths of a percent. At the low point around midday, the Nasdaq was down more than one and a half percent, so the buyers did paddle back some. Now the wind and weather. The October consumer price report came in hot. Prices rose four tenths of a percent for the month, versus three tenths expected. Core prices rose three tenths, versus two tenths expected. That sent the ten-year Treasury yield up about twelve basis points to near four point nine eight percent, and it poked above five percent midday. That's gnarly surf for rates. Fed Governor Waller said he'd back a rate hike in December, and maybe a bigger one. Dallas Fed President Lorie Logan said two more hikes may be needed. Crude oil eased to about eighty-six dollars, gold fell almost two percent, and bitcoin slipped about one and a half percent. The fear gauge, the VIX, actually dipped to about nineteen and a half. Over in the lineup, Nvidia, the big Kahuna of chips, wiped out, down five and a half percent on a board investigation tied to its CEO and reports about chips reaching China. Hims and Hers fell sixteen percent after cutting its profit outlook, and Digital Turbine sank thirty-six percent. On the bright side, ZipRecruiter jumped fifty-three percent on a strong quarter. And A A O N, the heating and cooling maker, rode a record quarter all the way to the beach, up nineteen percent. Gus, that's worth a biscuit! Here you go, buddy! Sea Limited also caught a nice wave, up about eight percent. Now the tide chart. After the bell, CoreWeave reported revenue of about three point seven billion dollars, up one hundred sixty-eight percent, and raised its full-year outlook. Its backlog hit one hundred thirty-two billion dollars, and the stock rose after hours. Some stoked surfers out there tonight. On the beach, Anthropic kicked off its I P O roadshow, aiming for seventy to seventy-eight dollars a share. Costco declared a thirty dollar special dividend. And gas prices dipped below four dollars a gallon for the first time since July. Tomorrow is Veterans Day. Stocks are open, but the bond market is expected to close. Mortgage applications come out at six A M Central, and Fed Governor Bowman and Philadelphia Fed President Paulson are on the calendar. Corteva and Franco-Nevada report after the close. Producer prices land Friday at seven thirty A M Central. So wax that board, Soul Surfers, and catch the Dawn Patrol tomorrow morning. And hey, want me to call a wave for you? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will tell you how it's breaking. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, November eleventh, twenty twenty-six, and this is your Market Surf Report. Happy Veterans Day to everyone who served. My co-anchor Gus the wonder dog is on the deck with his paws up on the rail, watching the sets roll in. Gus, give the Dawn Patrol a good morning hello! Let's check the swell. After two choppy sessions, the futures are paddling back out. In early and thin trading, S and P 500 futures are up about eight tenths of a percent, Nasdaq 100 futures are up close to two percent, and Dow futures are up about a tenth of a percent. Asia was mostly green, led by tech, and Europe is set to open higher. The bond market is closed today for Veterans Day, so the ten-year Treasury yield sits near five percent from Tuesday. Crude oil is up almost one percent, near eighty-seven dollars. Gold slipped almost one percent. Bitcoin is flat near seventy-four thousand dollars. Now the wind and weather. Tuesday's October inflation report ran hot. Headline prices rose four tenths of a percent, a tenth above forecast. Traders now see close to a ninety percent chance the Fed raises rates by a quarter point in December. That's a gnarly crosswind. On the tide chart, CoreWeave posted revenue up one hundred sixty-eight percent and raised its outlook. The stock is up around thirteen percent before the bell. Now that's a clean barrel. That calls for a treat, Gus! Here you go, buddy! Rigetti Computing missed on revenue and fell about nine percent after hours. That's a wipeout. After today's close, we hear from Corteva, Franco-Nevada and Tetra Tech. In the lineup, Nvidia is bouncing about three percent after a two-day slide tied to its board looking into the chief executive. Intel is up about five percent, and Micron is up about one and a half percent. Beach talk. Anthropic launched its I P O roadshow, marketing shares between seventy and seventy-eight dollars at a valuation near one point four trillion dollars. That's no grommet. And oil traders are watching talk of an end to the Iran conflict, plus a tanker hit by a mine near the Strait of Hormuz. Sets to watch today. Can tech hang ten all day after the hot inflation print? Watch the opening bell at eight thirty A M Central. Want me to call a wave for you? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "TheStreet: Stock Market Today Nov. 10, 2026",
-   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+   "title": "XTB morning wrap, Nov 11",
+   "url": "https://www.xtb.com/int/market-analysis/news-and-research/morning-wrap-equity-indices-extend-rebound-coreweave-outlook-supports-nasdaq-11-11-2026"
   },
   {
-   "title": "Yahoo Finance live: Stocks slip on hot CPI",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+   "title": "Upstox: US futures Nov 11",
+   "url": "https://upstox.com/news/market-news/us-stocks/dow-jones-s-and-p-500-nasdaq-futures-hint-positive-opening-on-nov-11-core-weave-tech-stocks-in-focus/article-203309/"
   },
   {
-   "title": "StockTitan: The Stock Market Today, Nov. 10",
-   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+   "title": "IC Markets: Stock futures rise",
+   "url": "https://www.icmarkets-vno.com/blog/stock-futures-rise-as-inflation-and-nvidia-weigh-11-november-ic/"
   },
   {
-   "title": "Motley Fool: Rally hits a roadblock on hot inflation",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-wall-street-s-rally-hits-a-roadblock-as-hot-inflation-raises-the-stakes-for-the-fed/"
+   "title": "KuCoin: Nasdaq futures up",
+   "url": "https://www.kucoin.com/news/flash/us-major-stock-index-futures-rise-nasdaq-futures-up-1-67"
   },
   {
-   "title": "Motley Fool: CoreWeave earnings",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-coreweave-stock-edges-lower-as-a-multibillion-dollar-question-looms-over-earnings/"
+   "title": "After-hours tech earnings, Nov 10",
+   "url": "https://analysisofficial.substack.com/p/after-hours-technology-earnings-tuesday"
   },
   {
-   "title": "TradingKey: CoreWeave Q3 results",
-   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262299527-coreweave-earnings-report-q3-revenue-growth-backlog-capital-expenditures-net-loss-tradingkey"
+   "title": "Closing Look, Nov 10",
+   "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-10"
   },
   {
-   "title": "Investrade: Weekly event calendar Nov 9-13",
-   "url": "https://investrade.com/weekly-event-calendar-11-09-2026-11-13-2026/"
-  },
-  {
-   "title": "investingLive: Wednesday calendar, two Fed speakers",
-   "url": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-november-11-2026-two-fed-speakers/"
+   "title": "Crypto & Finance report, Nov 11",
+   "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-fd3"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Tuesday, November tenth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding down into the water, and it was a choppy one out there. Gus the wonder dog spent the afternoon chasing sand crabs and keeping one eye on the ticker. Give the folks a howdy, Gus! [BARK] Alright, let's paddle through the final set. An onshore wind kicked up this morning and knocked the swell down. The S and P five hundred fell about four tenths of a percent to seven thousand five hundred twenty. The Nasdaq dropped about seven tenths of a percent to twenty-five thousand sixty-six. The Dow slipped three tenths of a percent to fifty-two thousand two hundred thirty-two. And the Russell two thousand gave up about seven tenths of a percent. At the low point around midday, the Nasdaq was down more than one and a half percent, so the buyers did paddle back some. Now the wind and weather. The October consumer price report came in hot. Prices rose four tenths of a percent for the month, versus three tenths expected. Core prices rose three tenths, versus two tenths expected. That sent the ten-year Treasury yield up about twelve basis points to near four point nine eight percent, and it poked above five percent midday. That's gnarly surf for rates. Fed Governor Waller said he'd back a rate hike in December, and maybe a bigger one. Dallas Fed President Lorie Logan said two more hikes may be needed. Crude oil eased to about eighty-six dollars, gold fell almost two percent, and bitcoin slipped about one and a half percent. The fear gauge, the VIX, actually dipped to about nineteen and a half. Over in the lineup, Nvidia, the big Kahuna of chips, wiped out, down five and a half percent on a board investigation tied to its CEO and reports about chips reaching China. Hims and Hers fell sixteen percent after cutting its profit outlook, and Digital Turbine sank thirty-six percent. On the bright side, ZipRecruiter jumped fifty-three percent on a strong quarter. And A A O N, the heating and cooling maker, rode a record quarter all the way to the beach, up nineteen percent. Gus, that's worth a biscuit! Here you go, buddy! [SNACK] Sea Limited also caught a nice wave, up about eight percent. Now the tide chart. After the bell, CoreWeave reported revenue of about three point seven billion dollars, up one hundred sixty-eight percent, and raised its full-year outlook. Its backlog hit one hundred thirty-two billion dollars, and the stock rose after hours. Some stoked surfers out there tonight. On the beach, Anthropic kicked off its I P O roadshow, aiming for seventy to seventy-eight dollars a share. Costco declared a thirty dollar special dividend. And gas prices dipped below four dollars a gallon for the first time since July. Tomorrow is Veterans Day. Stocks are open, but the bond market is expected to close. Mortgage applications come out at six A M Central, and Fed Governor Bowman and Philadelphia Fed President Paulson are on the calendar. Corteva and Franco-Nevada report after the close. Producer prices land Friday at seven thirty A M Central. So wax that board, Soul Surfers, and catch the Dawn Patrol tomorrow morning. And hey, want me to call a wave for you? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will tell you how it's breaking. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, November eleventh, twenty twenty-six, and this is your Market Surf Report. Happy Veterans Day to everyone who served. My co-anchor Gus the wonder dog is on the deck with his paws up on the rail, watching the sets roll in. Gus, give the Dawn Patrol a good morning hello! [BARK]\n\nLet's check the swell. After two choppy sessions, the futures are paddling back out. In early and thin trading, S and P 500 futures are up about eight tenths of a percent, Nasdaq 100 futures are up close to two percent, and Dow futures are up about a tenth of a percent. Asia was mostly green, led by tech, and Europe is set to open higher.\n\nThe bond market is closed today for Veterans Day, so the ten-year Treasury yield sits near five percent from Tuesday. Crude oil is up almost one percent, near eighty-seven dollars. Gold slipped almost one percent. Bitcoin is flat near seventy-four thousand dollars.\n\nNow the wind and weather. Tuesday's October inflation report ran hot. Headline prices rose four tenths of a percent, a tenth above forecast. Traders now see close to a ninety percent chance the Fed raises rates by a quarter point in December. That's a gnarly crosswind.\n\nOn the tide chart, CoreWeave posted revenue up one hundred sixty-eight percent and raised its outlook. The stock is up around thirteen percent before the bell. Now that's a clean barrel. That calls for a treat, Gus! Here you go, buddy! [SNACK]\n\nRigetti Computing missed on revenue and fell about nine percent after hours. That's a wipeout. After today's close, we hear from Corteva, Franco-Nevada and Tetra Tech.\n\nIn the lineup, Nvidia is bouncing about three percent after a two-day slide tied to its board looking into the chief executive. Intel is up about five percent, and Micron is up about one and a half percent.\n\nBeach talk. Anthropic launched its I P O roadshow, marketing shares between seventy and seventy-eight dollars at a valuation near one point four trillion dollars. That's no grommet. And oil traders are watching talk of an end to the Iran conflict, plus a tanker hit by a mine near the Strait of Hormuz.\n\nSets to watch today. Can tech hang ten all day after the hot inflation print? Watch the opening bell at eight thirty A M Central.\n\nWant me to call a wave for you? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you.\n\nThis is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -191,283 +184,241 @@
   },
   {
    "start": 11.57,
-   "end": 19.55,
-   "text": "It's Tuesday, November tenth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
+   "end": 17.82,
+   "text": "It's Wednesday, November eleventh, twenty twenty-six, and this is your Market Surf Report.",
    "speaker": "surf"
   },
   {
-   "start": 19.83,
-   "end": 24.71,
-   "text": "The sun is sliding down into the water, and it was a choppy one out there.",
+   "start": 18.1,
+   "end": 20.89,
+   "text": "Happy Veterans Day to everyone who served.",
    "speaker": "surf"
   },
   {
-   "start": 24.99,
-   "end": 31.31,
-   "text": "Gus the wonder dog spent the afternoon chasing sand crabs and keeping one eye on the ticker.",
+   "start": 21.17,
+   "end": 28.17,
+   "text": "My co-anchor Gus the wonder dog is on the deck with his paws up on the rail, watching the sets roll in.",
    "speaker": "surf"
   },
   {
-   "start": 31.59,
-   "end": 33.46,
-   "text": "Give the folks a howdy, Gus!",
+   "start": 28.45,
+   "end": 31.69,
+   "text": "Gus, give the Dawn Patrol a good morning hello!",
    "speaker": "surf"
   },
   {
-   "start": 33.74,
-   "end": 34.29,
+   "start": 31.97,
+   "end": 32.52,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 34.57,
-   "end": 37.39,
-   "text": "Alright, let's paddle through the final set.",
+   "start": 32.8,
+   "end": 34.38,
+   "text": "Let's check the swell.",
    "speaker": "surf"
   },
   {
-   "start": 37.67,
-   "end": 42.21,
-   "text": "An onshore wind kicked up this morning and knocked the swell down.",
+   "start": 34.66,
+   "end": 38.99,
+   "text": "After two choppy sessions, the futures are paddling back out.",
    "speaker": "surf"
   },
   {
-   "start": 42.49,
-   "end": 49.6,
-   "text": "The S and P five hundred fell about four tenths of a percent to seven thousand five hundred twenty.",
+   "start": 39.27,
+   "end": 54.55,
+   "text": "In early and thin trading, S and P 500 futures are up about eight tenths of a percent, Nasdaq 100 futures are up close to two percent, and Dow futures are up about a tenth of a percent.",
    "speaker": "surf"
   },
   {
-   "start": 49.88,
-   "end": 55.81,
-   "text": "The Nasdaq dropped about seven tenths of a percent to twenty-five thousand sixty-six.",
+   "start": 54.83,
+   "end": 60.05,
+   "text": "Asia was mostly green, led by tech, and Europe is set to open higher.",
    "speaker": "surf"
   },
   {
-   "start": 56.09,
-   "end": 61.53,
-   "text": "The Dow slipped three tenths of a percent to fifty-two thousand two hundred thirty-two.",
+   "start": 60.33,
+   "end": 68.42,
+   "text": "The bond market is closed today for Veterans Day, so the ten-year Treasury yield sits near five percent from Tuesday.",
    "speaker": "surf"
   },
   {
-   "start": 61.81,
-   "end": 66.29,
-   "text": "And the Russell two thousand gave up about seven tenths of a percent.",
+   "start": 68.7,
+   "end": 73.16,
+   "text": "Crude oil is up almost one percent, near eighty-seven dollars.",
    "speaker": "surf"
   },
   {
-   "start": 66.57,
-   "end": 74.78,
-   "text": "At the low point around midday, the Nasdaq was down more than one and a half percent, so the buyers did paddle back some.",
+   "start": 73.44,
+   "end": 75.72,
+   "text": "Gold slipped almost one percent.",
    "speaker": "surf"
   },
   {
-   "start": 75.06,
-   "end": 76.83,
+   "start": 76.0,
+   "end": 79.56,
+   "text": "Bitcoin is flat near seventy-four thousand dollars.",
+   "speaker": "surf"
+  },
+  {
+   "start": 79.84,
+   "end": 81.61,
    "text": "Now the wind and weather.",
    "speaker": "surf"
   },
   {
-   "start": 77.11,
-   "end": 80.5,
-   "text": "The October consumer price report came in hot.",
+   "start": 81.89,
+   "end": 85.39,
+   "text": "Tuesday's October inflation report ran hot.",
    "speaker": "surf"
   },
   {
-   "start": 80.78,
-   "end": 86.33,
-   "text": "Prices rose four tenths of a percent for the month, versus three tenths expected.",
+   "start": 85.67,
+   "end": 90.81,
+   "text": "Headline prices rose four tenths of a percent, a tenth above forecast.",
    "speaker": "surf"
   },
   {
-   "start": 86.61,
-   "end": 91.01,
-   "text": "Core prices rose three tenths, versus two tenths expected.",
+   "start": 91.09,
+   "end": 98.24,
+   "text": "Traders now see close to a ninety percent chance the Fed raises rates by a quarter point in December.",
    "speaker": "surf"
   },
   {
-   "start": 91.29,
-   "end": 101.14,
-   "text": "That sent the ten-year Treasury yield up about twelve basis points to near four point nine eight percent, and it poked above five percent midday.",
+   "start": 98.52,
+   "end": 100.38,
+   "text": "That's a gnarly crosswind.",
    "speaker": "surf"
   },
   {
-   "start": 101.42,
-   "end": 103.43,
-   "text": "That's gnarly surf for rates.",
+   "start": 100.66,
+   "end": 108.12,
+   "text": "On the tide chart, CoreWeave posted revenue up one hundred sixty-eight percent and raised its outlook.",
    "speaker": "surf"
   },
   {
-   "start": 103.71,
-   "end": 109.06,
-   "text": "Fed Governor Waller said he'd back a rate hike in December, and maybe a bigger one.",
+   "start": 108.4,
+   "end": 111.88,
+   "text": "The stock is up around thirteen percent before the bell.",
    "speaker": "surf"
   },
   {
-   "start": 109.34,
-   "end": 113.74,
-   "text": "Dallas Fed President Lorie Logan said two more hikes may be needed.",
+   "start": 112.16,
+   "end": 114.1,
+   "text": "Now that's a clean barrel.",
    "speaker": "surf"
   },
   {
-   "start": 114.02,
-   "end": 122.7,
-   "text": "Crude oil eased to about eighty-six dollars, gold fell almost two percent, and bitcoin slipped about one and a half percent.",
+   "start": 114.38,
+   "end": 116.32,
+   "text": "That calls for a treat, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 122.98,
-   "end": 127.59,
-   "text": "The fear gauge, the VIX, actually dipped to about nineteen and a half.",
-   "speaker": "surf"
-  },
-  {
-   "start": 127.87,
-   "end": 141.44,
-   "text": "Over in the lineup, Nvidia, the big Kahuna of chips, wiped out, down five and a half percent on a board investigation tied to its CEO and reports about chips reaching China.",
-   "speaker": "surf"
-  },
-  {
-   "start": 141.72,
-   "end": 149.82,
-   "text": "Hims and Hers fell sixteen percent after cutting its profit outlook, and Digital Turbine sank thirty-six percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 150.1,
-   "end": 155.33,
-   "text": "On the bright side, ZipRecruiter jumped fifty-three percent on a strong quarter.",
-   "speaker": "surf"
-  },
-  {
-   "start": 155.61,
-   "end": 163.67,
-   "text": "And A A O N, the heating and cooling maker, rode a record quarter all the way to the beach, up nineteen percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 163.95,
-   "end": 165.7,
-   "text": "Gus, that's worth a biscuit!",
-   "speaker": "surf"
-  },
-  {
-   "start": 165.98,
-   "end": 167.43,
+   "start": 116.6,
+   "end": 118.05,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 167.71,
-   "end": 169.68,
+   "start": 118.33,
+   "end": 120.3,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 169.96,
-   "end": 174.38,
-   "text": "Sea Limited also caught a nice wave, up about eight percent.",
+   "start": 120.58,
+   "end": 126.09,
+   "text": "Rigetti Computing missed on revenue and fell about nine percent after hours.",
    "speaker": "surf"
   },
   {
-   "start": 174.66,
-   "end": 176.37,
-   "text": "Now the tide chart.",
+   "start": 126.37,
+   "end": 127.8,
+   "text": "That's a wipeout.",
    "speaker": "surf"
   },
   {
-   "start": 176.65,
-   "end": 187.72,
-   "text": "After the bell, CoreWeave reported revenue of about three point seven billion dollars, up one hundred sixty-eight percent, and raised its full-year outlook.",
+   "start": 128.08,
+   "end": 133.35,
+   "text": "After today's close, we hear from Corteva, Franco-Nevada and Tetra Tech.",
    "speaker": "surf"
   },
   {
-   "start": 188.0,
-   "end": 194.33,
-   "text": "Its backlog hit one hundred thirty-two billion dollars, and the stock rose after hours.",
+   "start": 133.63,
+   "end": 142.8,
+   "text": "In the lineup, Nvidia is bouncing about three percent after a two-day slide tied to its board looking into the chief executive.",
    "speaker": "surf"
   },
   {
-   "start": 194.61,
-   "end": 196.94,
-   "text": "Some stoked surfers out there tonight.",
+   "start": 143.08,
+   "end": 148.99,
+   "text": "Intel is up about five percent, and Micron is up about one and a half percent.",
    "speaker": "surf"
   },
   {
-   "start": 197.22,
-   "end": 205.07,
-   "text": "On the beach, Anthropic kicked off its I P O roadshow, aiming for seventy to seventy-eight dollars a share.",
+   "start": 149.27,
+   "end": 150.44,
+   "text": "Beach talk.",
    "speaker": "surf"
   },
   {
-   "start": 205.35,
-   "end": 208.83,
-   "text": "Costco declared a thirty dollar special dividend.",
+   "start": 150.72,
+   "end": 162.5,
+   "text": "Anthropic launched its I P O roadshow, marketing shares between seventy and seventy-eight dollars at a valuation near one point four trillion dollars.",
    "speaker": "surf"
   },
   {
-   "start": 209.11,
-   "end": 214.85,
-   "text": "And gas prices dipped below four dollars a gallon for the first time since July.",
+   "start": 162.78,
+   "end": 164.34,
+   "text": "That's no grommet.",
    "speaker": "surf"
   },
   {
-   "start": 215.13,
-   "end": 217.22,
-   "text": "Tomorrow is Veterans Day.",
+   "start": 164.62,
+   "end": 173.34,
+   "text": "And oil traders are watching talk of an end to the Iran conflict, plus a tanker hit by a mine near the Strait of Hormuz.",
    "speaker": "surf"
   },
   {
-   "start": 217.5,
-   "end": 221.89,
-   "text": "Stocks are open, but the bond market is expected to close.",
+   "start": 173.62,
+   "end": 175.29,
+   "text": "Sets to watch today.",
    "speaker": "surf"
   },
   {
-   "start": 222.17,
-   "end": 231.73,
-   "text": "Mortgage applications come out at six A M Central, and Fed Governor Bowman and Philadelphia Fed President Paulson are on the calendar.",
+   "start": 175.57,
+   "end": 179.53,
+   "text": "Can tech hang ten all day after the hot inflation print?",
    "speaker": "surf"
   },
   {
-   "start": 232.01,
-   "end": 235.78,
-   "text": "Corteva and Franco-Nevada report after the close.",
+   "start": 179.81,
+   "end": 183.33,
+   "text": "Watch the opening bell at eight thirty A M Central.",
    "speaker": "surf"
   },
   {
-   "start": 236.06,
-   "end": 240.35,
-   "text": "Producer prices land Friday at seven thirty A M Central.",
+   "start": 183.61,
+   "end": 185.62,
+   "text": "Want me to call a wave for you?",
    "speaker": "surf"
   },
   {
-   "start": 240.63,
-   "end": 246.22,
-   "text": "So wax that board, Soul Surfers, and catch the Dawn Patrol tomorrow morning.",
+   "start": 185.9,
+   "end": 195.46,
+   "text": "Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you.",
    "speaker": "surf"
   },
   {
-   "start": 246.5,
-   "end": 249.1,
-   "text": "And hey, want me to call a wave for you?",
-   "speaker": "surf"
-  },
-  {
-   "start": 249.38,
-   "end": 259.6,
-   "text": "Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will tell you how it's breaking.",
-   "speaker": "surf"
-  },
-  {
-   "start": 259.88,
-   "end": 262.49,
+   "start": 195.74,
+   "end": 198.34,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 262.77,
-   "end": 267.97,
+   "start": 198.62,
+   "end": 203.82,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
