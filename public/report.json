@@ -1,117 +1,119 @@
 {
- "date": "2026-11-11",
- "slot": "evening",
- "title": "Sunset Session",
- "edition": "Sunset Session",
+ "date": "2026-11-12",
+ "title": "Market Surf Report",
+ "edition": "Dawn Patrol Edition",
  "is_sample": false,
- "updated": "Nov 11, 5:10 PM CT",
+ "updated": "Nov 12, 5:55 AM CT",
  "conditions": {
-  "rating": "Good",
-  "headline": "AI Swell Rolls Back In",
-  "summary": "Stocks bounced back from Tuesday's slide as AI and chip names rallied behind CoreWeave's strong results. The Nasdaq led with a 1.6% gain and Apple hit a record."
+  "rating": "Poor",
+  "headline": "Choppy tech break as Nvidia leadership reports roil the lineup",
+  "summary": "Nasdaq futures are lower after reports that Nvidia's board is weighing CEO Jensen Huang's future, while Dow futures hold near flat. Yields sit near 5% after Wednesday's hotter-than-expected inflation data."
  },
  "tape": [
   {
-   "label": "S&P 500",
-   "value": "+1.3%",
+   "label": "S&P fut",
+   "value": "-0.3%",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq fut",
+   "value": "-0.7%",
+   "dir": "down"
+  },
+  {
+   "label": "Dow fut",
+   "value": "+0.1%",
    "dir": "up"
   },
   {
-   "label": "Nasdaq",
-   "value": "+1.6%",
-   "dir": "up"
-  },
-  {
-   "label": "Dow",
-   "value": "+0.5%",
-   "dir": "up"
-  },
-  {
-   "label": "Russell 2000",
-   "value": "+0.9%",
-   "dir": "up"
-  },
-  {
-   "label": "10-yr",
-   "value": "4.99% (closed)",
+   "label": "Russell fut",
+   "value": "0.0%",
    "dir": "flat"
   },
   {
+   "label": "10-yr",
+   "value": "4.99%",
+   "dir": "up"
+  },
+  {
    "label": "Dollar",
-   "value": "n/a",
+   "value": "102.82",
    "dir": "flat"
   },
   {
    "label": "Crude",
-   "value": "~$87",
-   "dir": "up"
+   "value": "-0.5%",
+   "dir": "down"
   },
   {
    "label": "Gold",
-   "value": "-1.0%",
+   "value": "-0.9%",
    "dir": "down"
   },
   {
    "label": "Bitcoin",
-   "value": "+0.9%",
-   "dir": "up"
+   "value": "-1.0%",
+   "dir": "down"
   },
   {
    "label": "VIX",
-   "value": "n/a",
-   "dir": "flat"
+   "value": "18.3",
+   "dir": "up"
   }
  ],
  "sections": [
   {
-   "id": "close",
-   "surf": "The Final Set",
-   "title": "Closing Bell",
+   "id": "swell",
+   "surf": "The Swell",
+   "title": "Futures & Overnight",
    "items": [
-    "S&P 500 closed at 7,619.38, up 98.45 points or 1.3%.",
-    "Nasdaq Composite rose 1.6% to 25,466.19; the Dow gained 0.5% to 52,486.49; the Russell 2000 added 0.9% to 2,846.26.",
-    "AI and chip stocks rebounded after Tuesday's sell-off, led by CoreWeave's beat-and-raise quarter.",
-    "Tech led early with energy and industrials; health care, staples and financials lagged. The S&P hit day highs around midday and held gains.",
-    "Apple closed at a record high near $355, worth about $5.2 trillion."
+    "S&P 500 futures are down about 0.3% and Nasdaq-100 futures about 0.7% as of roughly 5 AM CT; Dow futures are up about 0.1% and Russell 2000 futures are flat.",
+    "Wednesday's close was strong: S&P 500 up 1.3% to 7,619, Nasdaq Composite up 1.6%, Dow up 0.5%, led by chip stocks after CoreWeave's results.",
+    "The 10-year Treasury yield is near 4.99%, and the dollar index is flat around 102.8.",
+    "WTI crude is down about 0.5% near $86, gold is off about 0.9%, and bitcoin is down about 1% near $74,000.",
+    "The VIX is ticking up to around 18 after falling 10% on Wednesday.",
+    "Asia was mostly lower, with the Hang Seng down 1.3% and the Nikkei down 0.7%; chipmakers Samsung and SK Hynix slipped.",
+    "Europe is higher, with the STOXX 600 up 0.5% and the DAX up 0.9%, helped by strong results from Adecco and Siemens."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Fed",
+   "title": "Macro & Economic Calendar",
    "items": [
-    "Veterans Day: stocks traded normally but the cash bond market was closed. The 10-year last closed near 4.99% on Tuesday.",
-    "No major US economic data today. The NRF retail monitor showed October retail sales up 0.2% from September.",
-    "Futures price roughly a 90% chance of a Fed rate hike in December after Tuesday's hot CPI; Goldman now sees hikes in December and March.",
-    "WTI crude rose to about $87 on fading Iran diplomacy and Strait of Hormuz tanker attacks.",
-    "Gold fell about 1% to roughly $3,991; bitcoin rose about 0.9% to near $74,400."
-   ]
-  },
-  {
-   "id": "lineup",
-   "surf": "The Lineup",
-   "title": "Biggest Movers",
-   "items": [
-    "CRWV (CoreWeave): +24% — Q3 revenue up 168% and 2026 revenue outlook raised to $13.0–13.3 billion.",
-    "SNDK (SanDisk): +13% — memory and chip stocks rallied.",
-    "MU (Micron): +12% — semiconductors recovered from last week's losses.",
-    "DELL (Dell): +12% — AI hardware names rebounded.",
-    "ORCL (Oracle): +9% — joined the AI infrastructure rally.",
-    "NVDA (Nvidia): about +3% — rebound after a two-day slide tied to downgrades and a board investigation.",
-    "MSFT (Microsoft): -2.3% and META (Meta): -2.0% — megacaps lagged the chip rally.",
-    "LULU (Lululemon): about -4% — slowing revenue and repeated outlook cuts."
+    "Weekly jobless claims are due at 7:30 AM CT; the prior week was 189,000. A consensus figure was not available in our sources.",
+    "October existing home sales and weekly oil inventories are also on today's calendar.",
+    "Fed speakers include Hammack, Goolsbee, Daly, Williams and Barr; markets are listening for any openness to a larger December rate hike after Wednesday's hot inflation report.",
+    "Money markets still see only outside odds of a 50 basis point December move, according to Newsquawk.",
+    "October producer prices (PPI) come out Friday."
    ]
   },
   {
    "id": "tide",
    "surf": "Tide Chart",
-   "title": "Earnings Today & Tonight",
+   "title": "Earnings",
    "items": [
-    "CoreWeave (reported Tuesday night) beat on profit guidance and finished up 24%.",
-    "Fossil, Gevo and Azenta jumped more than 20% after upbeat results or outlooks.",
-    "Grocery Outlet, BrightView and Boyd Group fell after results and guidance disappointed.",
-    "After the close: Corteva, Franco-Nevada and Tetra Tech were scheduled to report.",
-    "Reports said Nvidia shares slipped more than 3% after hours."
+    "Sonos beat on earnings and revenue for its fiscal fourth quarter; shares rose about 13% after hours.",
+    "Mercury Systems beat estimates with adjusted EPS of $0.52 versus $0.28 expected; shares rose about 13%.",
+    "ICL Group missed on earnings; shares fell about 2%.",
+    "Nebius is due to report today; its shares jumped more than 15% Wednesday after CoreWeave raised its outlook.",
+    "Applied Materials reports after today's close, and Cisco also reports today; both are key reads on AI and chip spending.",
+    "Also on today's calendar: Brookfield, Nu Holdings, Cerebras, QXO, Dillard's and Intuitive Machines."
+   ]
+  },
+  {
+   "id": "lineup",
+   "surf": "The Lineup",
+   "title": "Stocks in the News",
+   "items": [
+    "NVDA (Nvidia): -5.5% — reports say the board is weighing CEO Jensen Huang's future over allegations about his personal conduct; nothing has been confirmed by the company.",
+    "AMD (Advanced Micro Devices): +4% — seen by traders as a relative winner amid Nvidia's leadership uncertainty.",
+    "AVGO (Broadcom): +3.6% — also bid as an alternative AI chip play.",
+    "CRWV (CoreWeave): about -6% — gives back some of Wednesday's near-25% jump as Nvidia, a key partner, slides.",
+    "SONO (Sonos): +13% — quarterly beat on revenue and earnings.",
+    "MRCY (Mercury Systems): +13% — strong earnings beat.",
+    "MSTR (Strategy): lower — MSCI is removing the stock from its global indexes.",
+    "BABA (Alibaba): down more than 6% in Hong Kong as reports tie its access to Nvidia compute to the Nvidia story."
    ]
   },
   {
@@ -119,66 +121,60 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Marvell made an all-stock offer for Lumentum (4.5 Marvell shares per Lumentum share); Lumentum rallied.",
-    "Hims & Hers will sell Lilly GLP-1 drugs at $149 a month and stop compounded copies.",
-    "OpenAI reportedly acquired startup Odessia; Airbnb shares dipped on the report.",
-    "Nvidia's board opened an investigation into reports about CEO Jensen Huang.",
-    "Gulf damage estimates from the Iran conflict topped $200 billion, per Allianz Trade."
+    "Axios reports President Trump authorized a crackdown on companies suspected of diverting Nvidia AI chips to China; the curbs are not yet in place.",
+    "China urged Washington not to use the Nvidia allegations as grounds for tighter chip export limits, according to Bloomberg.",
+    "Alphabet launched a bond sale in Asia, the latest in a run of big tech borrowing to fund AI buildouts.",
+    "Exxon is assessing seven areas in Venezuela, Reuters reports.",
+    "Oil traders are watching reports that Vice President Vance may hold talks with a senior Iranian official, and Iranian reports of explosions on two tankers in the Strait of Hormuz."
    ]
   },
   {
-   "id": "tomorrow",
-   "surf": "Tomorrow's Forecast",
-   "title": "On Deck",
+   "id": "watch",
+   "surf": "Sets to Watch",
+   "title": "What to Watch Today",
    "items": [
-    "7:30 AM CT: weekly jobless claims.",
-    "9:00 AM CT: October existing home sales.",
-    "Fed speakers: Hammack, Barr, Goolsbee, Daly and Schmid.",
-    "After the close: Cisco and Applied Materials report earnings.",
-    "Friday: producer price index (PPI)."
+    "7:30 AM CT: weekly jobless claims, plus any Fed speaker comments on a larger December hike.",
+    "Nvidia headlines: any board statement on its CEO could swing chip stocks and the Nasdaq.",
+    "After the close: Applied Materials results, a read on chip equipment demand; the 10-year yield near 5% is a key level."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, November eleventh, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding down over the water, the last set is rolling in, and it was a good one. My co-anchor has been guarding the cooler all afternoon. Gus the wonder dog, give the Trade Wind surfers a sunset hello! The Final Set. After Tuesday's wipeout, the swell came right back. The S and P five hundred closed up one point three percent at seven thousand six hundred nineteen. The Nasdaq hung ten, up one point six percent to twenty five thousand four hundred sixty six. The Dow added half a percent to fifty two thousand four hundred eighty six. The Russell two thousand rose about nine tenths of a percent. Tech led the paddle out, as A I stocks bounced back from a two day slide. Apple closed at a fresh record high. Wind and Weather. It's Veterans Day, so the bond market was closed. The ten year yield sat near five percent from Tuesday, after a hot inflation report. Fed futures now price about a ninety percent chance of a rate hike in December. Oil rose to around eighty seven dollars on tension near the Strait of Hormuz. Gold slipped about one percent to just under four thousand dollars. Bitcoin edged up near seventy four thousand. No major U S data came out today. The Lineup. CoreWeave was the big Kahuna, up about twenty four percent after strong results and a raised outlook. Now that's a wave worth riding. Gus, that one earns a biscuit! Here you go, buddy! SanDisk jumped thirteen percent. Micron and Dell gained about twelve percent each, and Arm climbed twelve percent too. Oracle added nearly nine percent. Nvidia bounced about three percent, but it's still been a gnarly ride there, with analyst downgrades and a board review of reports about its chief executive. On the down side, Microsoft fell about two percent, Meta dropped two percent, and Lululemon slid nearly four percent on slowing sales. Tide Chart. CoreWeave reported Tuesday night and rode it all session. Fossil, Gevo and Azenta surged on upbeat results, while Grocery Outlet and BrightView wiped out. After the close, Corteva, Franco-Nevada and Tetra Tech are on the schedule. Reports say Nvidia slipped further after hours. Beach Talk. Marvell has made an all stock offer for Lumentum, and Lumentum shares rallied. Hims and Hers will offer Lilly weight loss drugs at one hundred forty nine dollars a month and stop selling compounded copies. Reports say OpenAI bought a startup called Odessia, and Airbnb dipped on the news. Tomorrow's Forecast. Weekly jobless claims land at seven thirty A M Central. Existing home sales follow at nine A M Central. A busy lineup of Fed speakers paddles out, including Hammack, Barr, Goolsbee, Daly and Schmid. After the close, Cisco and Applied Materials report. And producer prices arrive Friday. So wax your board and catch the Dawn Patrol tomorrow morning. Want a read on any stock, E T F or futures contract? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Thursday, November twelfth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the dawn patrol, as always, is my co-anchor, Gus the wonder dog. Give 'em a holler, Gus! Alright, let's check the swell. Conditions are poor this morning, with a choppy break in tech. S and P five hundred futures are down about three tenths of a percent. Nasdaq one hundred futures are off about seven tenths of a percent. Dow futures are just about flat, up a tenth, and small caps are flat too. The ten year Treasury yield sits near four point nine nine percent. Crude is down about half a percent, near eighty six dollars. Gold is off nearly one percent. Bitcoin is down about one percent, near seventy four thousand dollars. The fear gauge, the VIX, is creeping up toward eighteen. Now the gnarly part. Nvidia is down about five and a half percent before the bell. Reports say its board is weighing the future of chief executive Jensen Huang over allegations about his personal conduct. None of it has been confirmed by the company, and traders are paddling over to rivals. A M D is up about four percent, and Broadcom is up more than three percent. CoreWeave is giving back about six percent after its huge run yesterday. Over on the tide chart, Sonos beat on sales and profit, and the stock is up about thirteen percent. Now that's a hang ten move. That calls for a treat, Gus! Here you go, buddy! Mercury Systems also beat, and it's up about thirteen percent too. After the close, Applied Materials reports, and Cisco is on deck today as well. For wind and weather, weekly jobless claims hit at seven thirty A M Central. Yesterday's inflation report ran hot, so we've got a crowd of Fed speakers today. Traders want to know if a bigger December rate hike is on the table. In beach talk, reports say the White House okayed a crackdown on chips being diverted to China. Sets to watch: jobless claims, any Nvidia board news, and that ten year yield near five percent. Soul surfers, stay stoked and don't let one gnarly set knock you off your board. Got a stock, an E T F or a futures contract on your mind? Type it into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "TheStreet",
-   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+   "title": "Yahoo Finance: Stock market today, Nov 12 (live)",
+   "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
   },
   {
-   "title": "AP via KRMG",
-   "url": "https://krmg.com/2026/11/11/how-major-us-stock-indexes-fared-wednesday-11-11-2026/"
+   "title": "TipRanks: Stock Market Today, Nov. 12",
+   "url": "https://www.tipranks.com/news/stock-market-today-nov-12-u-s-tech-stocks-fall-on-nvidia-ceo-uncertainty"
   },
   {
-   "title": "Motley Fool",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-stock-market-today-nov-11-nasdaq-surges-as-coreweave-s-25-rally-reignites-the-ai-trade/"
+   "title": "Seeking Alpha: Stock futures lower on Nvidia uncertainty",
+   "url": "https://seekingalpha.com/news/4671223-sp500-nasdaq-dow-jones-outlook-stock-market"
   },
   {
-   "title": "24/7 Wall St.",
-   "url": "https://247wallst.com/cards/tech-did-the-heavy-lifting-again-the-nasdaq-s-1-55-close-m-gspc-market-bell-01m766s5wqxj8egm37q8ks13gp"
+   "title": "Newsquawk: Daily US Opening News, Nov 12",
+   "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---12th-november-2026"
   },
   {
-   "title": "Stock Titan",
-   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
+   "title": "Yahoo Finance (Stocktwits): Futures mixed as tech rebounds",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-031512683.html"
   },
   {
-   "title": "Saxo Market Quick Take",
-   "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---us-treasury-yields-rip-higher---11-november-2026-11112026"
+   "title": "Yahoo Finance (Zacks): Stock Market News for Nov 12",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html"
   },
   {
-   "title": "Rio Times",
-   "url": "https://riotimesonline.com/global-economy-briefing-november-11-2026"
+   "title": "Yahoo Finance: US stock futures decline on Nvidia reports",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-decline-nvidia-100323595.html"
   },
   {
-   "title": "TechFlow calendar preview",
-   "url": "https://www.techflowpost.com/en-US/newsletter/144210"
-  },
-  {
-   "title": "Everhint",
-   "url": "https://www.everhint.com/global-business-news-november-11-2026-after-hours-last-12-hours-pacific-time/"
+   "title": "Investing.com: Jobless claims, existing home sales due Thursday",
+   "url": "https://www.investing.com/news/stock-market-news/jobless-claims-existing-home-sales-and-oil-inventories-due-thursday-93CH-5019721"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, November eleventh, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding down over the water, the last set is rolling in, and it was a good one.\n\nMy co-anchor has been guarding the cooler all afternoon. Gus the wonder dog, give the Trade Wind surfers a sunset hello! [BARK]\n\nThe Final Set. After Tuesday's wipeout, the swell came right back. The S and P five hundred closed up one point three percent at seven thousand six hundred nineteen. The Nasdaq hung ten, up one point six percent to twenty five thousand four hundred sixty six. The Dow added half a percent to fifty two thousand four hundred eighty six. The Russell two thousand rose about nine tenths of a percent. Tech led the paddle out, as A I stocks bounced back from a two day slide. Apple closed at a fresh record high.\n\nWind and Weather. It's Veterans Day, so the bond market was closed. The ten year yield sat near five percent from Tuesday, after a hot inflation report. Fed futures now price about a ninety percent chance of a rate hike in December. Oil rose to around eighty seven dollars on tension near the Strait of Hormuz. Gold slipped about one percent to just under four thousand dollars. Bitcoin edged up near seventy four thousand. No major U S data came out today.\n\nThe Lineup. CoreWeave was the big Kahuna, up about twenty four percent after strong results and a raised outlook. Now that's a wave worth riding. Gus, that one earns a biscuit! Here you go, buddy! [SNACK] SanDisk jumped thirteen percent. Micron and Dell gained about twelve percent each, and Arm climbed twelve percent too. Oracle added nearly nine percent. Nvidia bounced about three percent, but it's still been a gnarly ride there, with analyst downgrades and a board review of reports about its chief executive. On the down side, Microsoft fell about two percent, Meta dropped two percent, and Lululemon slid nearly four percent on slowing sales.\n\nTide Chart. CoreWeave reported Tuesday night and rode it all session. Fossil, Gevo and Azenta surged on upbeat results, while Grocery Outlet and BrightView wiped out. After the close, Corteva, Franco-Nevada and Tetra Tech are on the schedule. Reports say Nvidia slipped further after hours.\n\nBeach Talk. Marvell has made an all stock offer for Lumentum, and Lumentum shares rallied. Hims and Hers will offer Lilly weight loss drugs at one hundred forty nine dollars a month and stop selling compounded copies. Reports say OpenAI bought a startup called Odessia, and Airbnb dipped on the news.\n\nTomorrow's Forecast. Weekly jobless claims land at seven thirty A M Central. Existing home sales follow at nine A M Central. A busy lineup of Fed speakers paddles out, including Hammack, Barr, Goolsbee, Daly and Schmid. After the close, Cisco and Applied Materials report. And producer prices arrive Friday.\n\nSo wax your board and catch the Dawn Patrol tomorrow morning. Want a read on any stock, E T F or futures contract? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you.\n\nThis is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Thursday, November twelfth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the dawn patrol, as always, is my co-anchor, Gus the wonder dog. Give 'em a holler, Gus! [BARK] Alright, let's check the swell. Conditions are poor this morning, with a choppy break in tech. S and P five hundred futures are down about three tenths of a percent. Nasdaq one hundred futures are off about seven tenths of a percent. Dow futures are just about flat, up a tenth, and small caps are flat too. The ten year Treasury yield sits near four point nine nine percent. Crude is down about half a percent, near eighty six dollars. Gold is off nearly one percent. Bitcoin is down about one percent, near seventy four thousand dollars. The fear gauge, the VIX, is creeping up toward eighteen. Now the gnarly part. Nvidia is down about five and a half percent before the bell. Reports say its board is weighing the future of chief executive Jensen Huang over allegations about his personal conduct. None of it has been confirmed by the company, and traders are paddling over to rivals. A M D is up about four percent, and Broadcom is up more than three percent. CoreWeave is giving back about six percent after its huge run yesterday. Over on the tide chart, Sonos beat on sales and profit, and the stock is up about thirteen percent. Now that's a hang ten move. That calls for a treat, Gus! Here you go, buddy! [SNACK] Mercury Systems also beat, and it's up about thirteen percent too. After the close, Applied Materials reports, and Cisco is on deck today as well. For wind and weather, weekly jobless claims hit at seven thirty A M Central. Yesterday's inflation report ran hot, so we've got a crowd of Fed speakers today. Traders want to know if a bigger December rate hike is on the table. In beach talk, reports say the White House okayed a crackdown on chips being diverted to China. Sets to watch: jobless claims, any Nvidia board news, and that ten year yield near five percent. Soul surfers, stay stoked and don't let one gnarly set knock you off your board. Got a stock, an E T F or a futures contract on your mind? Type it into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -195,313 +191,223 @@
   },
   {
    "start": 11.57,
-   "end": 19.8,
-   "text": "It's Wednesday, November eleventh, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
+   "end": 17.61,
+   "text": "It's Thursday, November twelfth, twenty twenty-six, and this is your Market Surf Report.",
    "speaker": "surf"
   },
   {
-   "start": 20.08,
-   "end": 26.38,
-   "text": "The sun is sliding down over the water, the last set is rolling in, and it was a good one.",
+   "start": 17.89,
+   "end": 24.2,
+   "text": "Riding shotgun on the dawn patrol, as always, is my co-anchor, Gus the wonder dog.",
    "speaker": "surf"
   },
   {
-   "start": 26.66,
-   "end": 30.28,
-   "text": "My co-anchor has been guarding the cooler all afternoon.",
+   "start": 24.48,
+   "end": 26.19,
+   "text": "Give 'em a holler, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 30.56,
-   "end": 35.09,
-   "text": "Gus the wonder dog, give the Trade Wind surfers a sunset hello!",
-   "speaker": "surf"
-  },
-  {
-   "start": 35.37,
-   "end": 35.92,
+   "start": 26.47,
+   "end": 27.02,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 36.2,
-   "end": 37.56,
-   "text": "The Final Set.",
+   "start": 27.3,
+   "end": 29.34,
+   "text": "Alright, let's check the swell.",
    "speaker": "surf"
   },
   {
-   "start": 37.84,
-   "end": 41.32,
-   "text": "After Tuesday's wipeout, the swell came right back.",
+   "start": 29.62,
+   "end": 33.66,
+   "text": "Conditions are poor this morning, with a choppy break in tech.",
    "speaker": "surf"
   },
   {
-   "start": 41.6,
-   "end": 48.77,
-   "text": "The S and P five hundred closed up one point three percent at seven thousand six hundred nineteen.",
+   "start": 33.94,
+   "end": 39.23,
+   "text": "S and P five hundred futures are down about three tenths of a percent.",
    "speaker": "surf"
   },
   {
-   "start": 49.05,
-   "end": 56.0,
-   "text": "The Nasdaq hung ten, up one point six percent to twenty five thousand four hundred sixty six.",
+   "start": 39.51,
+   "end": 44.41,
+   "text": "Nasdaq one hundred futures are off about seven tenths of a percent.",
    "speaker": "surf"
   },
   {
-   "start": 56.28,
-   "end": 61.17,
-   "text": "The Dow added half a percent to fifty two thousand four hundred eighty six.",
+   "start": 44.69,
+   "end": 50.26,
+   "text": "Dow futures are just about flat, up a tenth, and small caps are flat too.",
    "speaker": "surf"
   },
   {
-   "start": 61.45,
-   "end": 65.69,
-   "text": "The Russell two thousand rose about nine tenths of a percent.",
+   "start": 50.54,
+   "end": 55.09,
+   "text": "The ten year Treasury yield sits near four point nine nine percent.",
    "speaker": "surf"
   },
   {
-   "start": 65.97,
-   "end": 70.79,
-   "text": "Tech led the paddle out, as A I stocks bounced back from a two day slide.",
+   "start": 55.37,
+   "end": 59.59,
+   "text": "Crude is down about half a percent, near eighty six dollars.",
    "speaker": "surf"
   },
   {
-   "start": 71.07,
-   "end": 73.55,
-   "text": "Apple closed at a fresh record high.",
+   "start": 59.87,
+   "end": 62.05,
+   "text": "Gold is off nearly one percent.",
    "speaker": "surf"
   },
   {
-   "start": 73.83,
-   "end": 75.28,
-   "text": "Wind and Weather.",
+   "start": 62.33,
+   "end": 67.34,
+   "text": "Bitcoin is down about one percent, near seventy four thousand dollars.",
    "speaker": "surf"
   },
   {
-   "start": 75.56,
-   "end": 79.08,
-   "text": "It's Veterans Day, so the bond market was closed.",
+   "start": 67.62,
+   "end": 71.29,
+   "text": "The fear gauge, the VIX, is creeping up toward eighteen.",
    "speaker": "surf"
   },
   {
-   "start": 79.36,
-   "end": 85.4,
-   "text": "The ten year yield sat near five percent from Tuesday, after a hot inflation report.",
+   "start": 71.57,
+   "end": 73.32,
+   "text": "Now the gnarly part.",
    "speaker": "surf"
   },
   {
-   "start": 85.68,
-   "end": 91.63,
-   "text": "Fed futures now price about a ninety percent chance of a rate hike in December.",
+   "start": 73.6,
+   "end": 77.8,
+   "text": "Nvidia is down about five and a half percent before the bell.",
    "speaker": "surf"
   },
   {
-   "start": 91.91,
-   "end": 97.37,
-   "text": "Oil rose to around eighty seven dollars on tension near the Strait of Hormuz.",
+   "start": 78.08,
+   "end": 86.72,
+   "text": "Reports say its board is weighing the future of chief executive Jensen Huang over allegations about his personal conduct.",
    "speaker": "surf"
   },
   {
-   "start": 97.65,
-   "end": 102.19,
-   "text": "Gold slipped about one percent to just under four thousand dollars.",
+   "start": 87.0,
+   "end": 92.8,
+   "text": "None of it has been confirmed by the company, and traders are paddling over to rivals.",
    "speaker": "surf"
   },
   {
-   "start": 102.47,
-   "end": 105.48,
-   "text": "Bitcoin edged up near seventy four thousand.",
+   "start": 93.08,
+   "end": 98.59,
+   "text": "A M D is up about four percent, and Broadcom is up more than three percent.",
    "speaker": "surf"
   },
   {
-   "start": 105.76,
-   "end": 108.64,
-   "text": "No major U S data came out today.",
+   "start": 98.87,
+   "end": 104.03,
+   "text": "CoreWeave is giving back about six percent after its huge run yesterday.",
    "speaker": "surf"
   },
   {
-   "start": 108.92,
-   "end": 109.97,
-   "text": "The Lineup.",
+   "start": 104.31,
+   "end": 111.88,
+   "text": "Over on the tide chart, Sonos beat on sales and profit, and the stock is up about thirteen percent.",
    "speaker": "surf"
   },
   {
-   "start": 110.25,
-   "end": 117.56,
-   "text": "CoreWeave was the big Kahuna, up about twenty four percent after strong results and a raised outlook.",
+   "start": 112.16,
+   "end": 114.0,
+   "text": "Now that's a hang ten move.",
    "speaker": "surf"
   },
   {
-   "start": 117.84,
-   "end": 120.13,
-   "text": "Now that's a wave worth riding.",
+   "start": 114.28,
+   "end": 116.22,
+   "text": "That calls for a treat, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 120.41,
-   "end": 122.5,
-   "text": "Gus, that one earns a biscuit!",
-   "speaker": "surf"
-  },
-  {
-   "start": 122.78,
-   "end": 124.23,
+   "start": 116.5,
+   "end": 117.95,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 124.51,
-   "end": 126.48,
+   "start": 118.23,
+   "end": 120.2,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 126.76,
-   "end": 129.08,
-   "text": "SanDisk jumped thirteen percent.",
+   "start": 120.48,
+   "end": 125.37,
+   "text": "Mercury Systems also beat, and it's up about thirteen percent too.",
    "speaker": "surf"
   },
   {
-   "start": 129.36,
-   "end": 135.17,
-   "text": "Micron and Dell gained about twelve percent each, and Arm climbed twelve percent too.",
+   "start": 125.65,
+   "end": 131.68,
+   "text": "After the close, Applied Materials reports, and Cisco is on deck today as well.",
    "speaker": "surf"
   },
   {
-   "start": 135.45,
-   "end": 137.96,
-   "text": "Oracle added nearly nine percent.",
+   "start": 131.96,
+   "end": 137.38,
+   "text": "For wind and weather, weekly jobless claims hit at seven thirty A M Central.",
    "speaker": "surf"
   },
   {
-   "start": 138.24,
-   "end": 149.59,
-   "text": "Nvidia bounced about three percent, but it's still been a gnarly ride there, with analyst downgrades and a board review of reports about its chief executive.",
+   "start": 137.66,
+   "end": 143.53,
+   "text": "Yesterday's inflation report ran hot, so we've got a crowd of Fed speakers today.",
    "speaker": "surf"
   },
   {
-   "start": 149.87,
-   "end": 159.96,
-   "text": "On the down side, Microsoft fell about two percent, Meta dropped two percent, and Lululemon slid nearly four percent on slowing sales.",
+   "start": 143.81,
+   "end": 148.33,
+   "text": "Traders want to know if a bigger December rate hike is on the table.",
    "speaker": "surf"
   },
   {
-   "start": 160.24,
-   "end": 161.48,
-   "text": "Tide Chart.",
+   "start": 148.61,
+   "end": 155.29,
+   "text": "In beach talk, reports say the White House okayed a crackdown on chips being diverted to China.",
    "speaker": "surf"
   },
   {
-   "start": 161.76,
-   "end": 165.58,
-   "text": "CoreWeave reported Tuesday night and rode it all session.",
+   "start": 155.57,
+   "end": 163.06,
+   "text": "Sets to watch: jobless claims, any Nvidia board news, and that ten year yield near five percent.",
    "speaker": "surf"
   },
   {
-   "start": 165.86,
-   "end": 173.35,
-   "text": "Fossil, Gevo and Azenta surged on upbeat results, while Grocery Outlet and BrightView wiped out.",
+   "start": 163.34,
+   "end": 169.12,
+   "text": "Soul surfers, stay stoked and don't let one gnarly set knock you off your board.",
    "speaker": "surf"
   },
   {
-   "start": 173.63,
-   "end": 179.32,
-   "text": "After the close, Corteva, Franco-Nevada and Tetra Tech are on the schedule.",
+   "start": 169.4,
+   "end": 173.9,
+   "text": "Got a stock, an E T F or a futures contract on your mind?",
    "speaker": "surf"
   },
   {
-   "start": 179.6,
-   "end": 183.02,
-   "text": "Reports say Nvidia slipped further after hours.",
+   "start": 174.18,
+   "end": 180.09,
+   "text": "Type it into the Check a Wave box on the page, and Surf Daddy will call it for you.",
    "speaker": "surf"
   },
   {
-   "start": 183.3,
-   "end": 184.47,
-   "text": "Beach Talk.",
-   "speaker": "surf"
-  },
-  {
-   "start": 184.75,
-   "end": 190.21,
-   "text": "Marvell has made an all stock offer for Lumentum, and Lumentum shares rallied.",
-   "speaker": "surf"
-  },
-  {
-   "start": 190.49,
-   "end": 199.34,
-   "text": "Hims and Hers will offer Lilly weight loss drugs at one hundred forty nine dollars a month and stop selling compounded copies.",
-   "speaker": "surf"
-  },
-  {
-   "start": 199.62,
-   "end": 205.81,
-   "text": "Reports say OpenAI bought a startup called Odessia, and Airbnb dipped on the news.",
-   "speaker": "surf"
-  },
-  {
-   "start": 206.09,
-   "end": 207.8,
-   "text": "Tomorrow's Forecast.",
-   "speaker": "surf"
-  },
-  {
-   "start": 208.08,
-   "end": 212.09,
-   "text": "Weekly jobless claims land at seven thirty A M Central.",
-   "speaker": "surf"
-  },
-  {
-   "start": 212.37,
-   "end": 215.91,
-   "text": "Existing home sales follow at nine A M Central.",
-   "speaker": "surf"
-  },
-  {
-   "start": 216.19,
-   "end": 222.87,
-   "text": "A busy lineup of Fed speakers paddles out, including Hammack, Barr, Goolsbee, Daly and Schmid.",
-   "speaker": "surf"
-  },
-  {
-   "start": 223.15,
-   "end": 227.16,
-   "text": "After the close, Cisco and Applied Materials report.",
-   "speaker": "surf"
-  },
-  {
-   "start": 227.44,
-   "end": 230.23,
-   "text": "And producer prices arrive Friday.",
-   "speaker": "surf"
-  },
-  {
-   "start": 230.51,
-   "end": 234.71,
-   "text": "So wax your board and catch the Dawn Patrol tomorrow morning.",
-   "speaker": "surf"
-  },
-  {
-   "start": 234.99,
-   "end": 239.28,
-   "text": "Want a read on any stock, E T F or futures contract?",
-   "speaker": "surf"
-  },
-  {
-   "start": 239.56,
-   "end": 245.15,
-   "text": "Type it in the Check a Wave box on the page, and Surf Daddy will call it for you.",
-   "speaker": "surf"
-  },
-  {
-   "start": 245.43,
-   "end": 248.03,
+   "start": 180.37,
+   "end": 182.97,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 248.31,
-   "end": 253.52,
+   "start": 183.25,
+   "end": 188.46,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
