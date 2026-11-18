@@ -1,120 +1,117 @@
 {
  "date": "2026-11-18",
- "title": "Market Surf Report",
- "edition": "Dawn Patrol Edition",
+ "slot": "evening",
+ "title": "Sunset Session",
+ "edition": "Sunset Session",
  "is_sample": false,
- "updated": "Nov 18, 5:55 AM CT",
+ "updated": "Nov 18, 4:55 PM CT",
  "conditions": {
-  "rating": "Good",
-  "headline": "Nvidia Sends a Clean Set After Tuesday's Wipeout",
-  "summary": "Stock futures are bouncing after Tuesday's sharp selloff, led by tech after Nvidia's strong results and outlook. Treasury yields above five percent, falling gold and oil, and the FOMC minutes this afternoon keep the water choppy."
+  "rating": "Fair",
+  "headline": "Split Peaks: Dow Wipes Out, Nasdaq Catches a Ride",
+  "summary": "The Dow fell 1.1% as managed care and energy sank and hawkish Fed minutes weighed, while the Nasdaq rose 0.4% to end a four-day skid. The S&P 500 slipped 0.2% for a fifth straight loss."
  },
  "tape": [
   {
-   "label": "S&P fut",
-   "value": "+0.6%",
-   "dir": "up"
-  },
-  {
-   "label": "Nasdaq fut",
-   "value": "+1.2%",
-   "dir": "up"
-  },
-  {
-   "label": "Dow fut",
-   "value": "+0.3%",
-   "dir": "up"
-  },
-  {
-   "label": "Russell fut",
-   "value": "+0.2%",
-   "dir": "up"
-  },
-  {
-   "label": "10-yr",
-   "value": "5.10%",
-   "dir": "down"
-  },
-  {
-   "label": "Dollar",
+   "label": "S&P 500",
    "value": "-0.2%",
    "dir": "down"
   },
   {
+   "label": "Nasdaq",
+   "value": "+0.4%",
+   "dir": "up"
+  },
+  {
+   "label": "Dow",
+   "value": "-1.1%",
+   "dir": "down"
+  },
+  {
+   "label": "Russell 2000",
+   "value": "+0.5%",
+   "dir": "up"
+  },
+  {
+   "label": "10-yr",
+   "value": "5.07%",
+   "dir": "down"
+  },
+  {
+   "label": "Dollar",
+   "value": "19-mo high",
+   "dir": "up"
+  },
+  {
    "label": "Crude",
-   "value": "$83.77 (-1.0%)",
+   "value": "-3.2%",
    "dir": "down"
   },
   {
    "label": "Gold",
-   "value": "$3,766 (-2.5%)",
+   "value": "-3.2%",
    "dir": "down"
   },
   {
    "label": "Bitcoin",
-   "value": "$64,117 (-1.3%)",
+   "value": "-2.8%",
    "dir": "down"
   },
   {
    "label": "VIX",
-   "value": "24.0",
+   "value": "24.49",
    "dir": "down"
   }
  ],
  "sections": [
   {
-   "id": "swell",
-   "surf": "The Swell",
-   "title": "Futures & Overnight",
+   "id": "close",
+   "surf": "The Final Set",
+   "title": "Closing Bell",
    "items": [
-    "S&P 500 futures were up about 0.6% and Nasdaq-100 futures about 1.2% shortly before 5 AM ET; Dow futures rose about 0.3% and Russell 2000 futures about 0.2%.",
-    "The bounce follows a rough Tuesday: the S&P 500 fell about 1%, the Dow lost more than 800 points (-1.6%) and the Nasdaq slipped 0.7%.",
-    "The 10-year Treasury yield eased about 3 basis points to roughly 5.10%, still above the 5% line it crossed last week.",
-    "The dollar dipped about 0.2% after touching a 19-month high Tuesday; WTI crude fell about 1% to near $84, and gold dropped about 2.5% to a 14-month low near $3,766.",
-    "Bitcoin traded near $64,000, slightly lower, and the VIX eased to about 24 from Tuesday's higher levels.",
-    "Asia: MSCI Asia-Pacific ex-Japan slipped 0.1% for a fifth straight loss and the Nikkei fell 0.3% after giving up early gains.",
-    "Europe: after Tuesday's worst session since March (Stoxx 600 -1.8%, DAX -2.1%), markets were steadier early Wednesday."
+    "Dow fell 561 points (-1.1%) to 50,198; S&P 500 slipped 0.2% to 7,324; Nasdaq rose 0.4% to 24,430; Russell 2000 gained about 0.5%.",
+    "The S&P 500 posted its fifth straight loss, its longest losing streak since June, while the Nasdaq ended a four-day skid.",
+    "The Dow was down more than 600 points at its lows before trimming losses late.",
+    "Hawkish Fed minutes, a second day of managed-care selling and an energy slide weighed; cybersecurity and some tech names held up.",
+    "Energy was the weakest sector, and health insurers were the Dow's biggest drag; small caps outperformed."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Economic Calendar",
+   "title": "Macro & Fed",
    "items": [
-    "7:30 AM CT: October housing starts and building permits.",
-    "9:00 AM CT: October pending home sales.",
-    "12:00 PM CT: 20-year Treasury bond auction, closely watched with yields above 5%.",
-    "1:00 PM CT: Minutes of the Fed's October 27-28 meeting, where rates held at 3.75%-4.00% and two officials dissented in favor of a hike.",
-    "Fed speakers: Governor Barr at 12:35 PM CT, New York Fed President Williams at 1:30 PM CT and Minneapolis Fed President Kashkari at 3:15 PM CT.",
-    "Main story: markets price a December rate hike as nearly certain, and a high-rate backdrop is weighing on gold, bitcoin and oil at the same time as AI stocks try to steady."
-   ]
-  },
-  {
-   "id": "tide",
-   "surf": "Tide Chart",
-   "title": "Earnings",
-   "items": [
-    "Nvidia (after Tuesday's close): fiscal Q3 revenue of about $115.8 billion, up 103% from a year ago, and adjusted EPS of $2.68 both topped estimates.",
-    "Nvidia guided Q4 revenue to about $130 billion, above the roughly $125 billion analysts expected, and approved another $150 billion for buybacks; shares rose about 3% pre-market.",
-    "Interim CEO Colette Kress said chip demand remains strong; the board said it does not plan to bring back Jensen Huang, who resigned last week.",
-    "Klarna: Q3 revenue of about $1.01 billion beat, but its adjusted loss per share was wider than expected; shares were little changed.",
-    "Before the open today: Target, TJX and Lowe's; early indications were thin at publication time.",
-    "After the close: Palo Alto Networks, expected to earn $0.97 per share on about $3.31 billion in revenue."
+    "October FOMC minutes: almost all officials saw further rate hikes as likely appropriate; a couple were open to a half-point move in December.",
+    "Fed Governor Waller said a half-point hike is probably needed at the Dec. 8-9 meeting; futures lean toward a quarter-point hike.",
+    "October housing starts rose 9.9% to 1.309 million, beating 1.23 million expected; permits fell to 1.295 million vs. 1.378 million expected.",
+    "Pending home sales fell 4.7% in October vs. -2.0% expected, to a record-low index level.",
+    "10-year yield eased about 4 basis points to 5.07%; the dollar touched a 19-month high; WTI fell 3.2% to $83.26 after a 3.4M-barrel crude build; gold fell about 3% to near $3,740; bitcoin dropped to about $62,450."
    ]
   },
   {
    "id": "lineup",
    "surf": "The Lineup",
-   "title": "Stocks in the News",
+   "title": "Biggest Movers",
    "items": [
-    "NVDA (Nvidia): +3% — beat-and-raise quarter with a Q4 outlook above estimates.",
-    "NBIS (Nebius): +8% — AI cloud names rallied on the Nvidia report.",
-    "CRWV (CoreWeave): +6.5% — same AI cloud read-through from Nvidia.",
-    "MRVL (Marvell): +4.4% — chip stocks followed Nvidia higher; AMD, Micron and Broadcom also gained 2.5% to 3.4%.",
-    "CAPR (Capricor): +5% — ahead of Sunday's FDA decision date for its Duchenne muscular dystrophy therapy.",
-    "ASTS (AST SpaceMobile): +4% — bouncing after hitting a 52-week low Tuesday amid concerns over its rocket costs and timeline.",
-    "AAOI (Applied Optoelectronics): -4.7% — filed to sell up to $550 million of common stock.",
-    "INTC (Intel): +1.8% — on reports of fresh layoffs."
+    "PANW (Palo Alto Networks): +9.9% — cybersecurity rally ahead of results; SentinelOne and CrowdStrike also jumped.",
+    "BRBR (BellRing Brands): +24.1% — quarterly sales up 7% and upbeat fiscal 2027 guidance.",
+    "TTWO (Take-Two Interactive): +8.4% — rally ahead of Thursday's GTA VI launch.",
+    "TJX (TJX Companies): +8.0% — comparable sales up 4% and solid holiday guidance.",
+    "UNH (UnitedHealth): -10.2% — managed-care selloff over a proposed Medicare Advantage audit crackdown.",
+    "HUM (Humana): -13.0% — same Medicare Advantage pressure on insurers.",
+    "JMIA (Jumia): -40.6% — cut its full-year outlook on weak Black Friday sales.",
+    "NVDA (Nvidia): -2.9% — gave up early gains despite revenue doubling to $115.8 billion."
+   ]
+  },
+  {
+   "id": "tide",
+   "surf": "Tide Chart",
+   "title": "Earnings Today & Tonight",
+   "items": [
+    "Target (before open): comparable sales up 5.6% and a raised sales outlook; shares rose about 4%.",
+    "TJX (before open): comps up 4%, EPS of $1.39; shares rose 8%.",
+    "Lowe's (before open): topped estimates and kept its outlook, but shares were weaker.",
+    "Palo Alto Networks (after close): revenue up 39% to $3.44 billion, raised full-year guidance and agreed to buy Applied Compute for $4.5 billion in stock; shares up about 6.5% after hours.",
+    "Nvidia (reported Tuesday): Q3 revenue rose 103% to $115.8 billion with a roughly $130 billion Q4 outlook, but the stock fell 2.9%."
    ]
   },
   {
@@ -122,63 +119,54 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Anthropic is set to price its IPO this evening, seeking a valuation of up to about $1.4 trillion, with trading expected Thursday; it is seen as a test of investor appetite for AI.",
-    "Nvidia's leadership remains in focus after Jensen Huang's resignation last week; the board says it has no plans to reinstate him despite a campaign for his return.",
-    "Alibaba is under scrutiny over a controversy involving Nvidia chips and Megaspeed; its shares were roughly flat pre-market.",
-    "In Europe, Italian rocket maker Avio jumped Tuesday on a takeover offer from satellite company Iceye, while SAP and ASML each fell more than 5%."
+    "Anthropic's IPO is expected to price tonight and begin trading Thursday on Nasdaq under ANT, with reports of demand above the $70-$78 range.",
+    "Textron agreed to sell its industrial unit to Kingswood Capital for $1.2 billion in cash.",
+    "Pfizer struck a licensing deal with Starna including $330 million upfront.",
+    "Federal regulators' proposed Medicare Advantage audit rule kept pressure on health insurers for a second day.",
+    "Nvidia is operating under interim CEO Colette Kress after Jensen Huang's departure."
    ]
   },
   {
-   "id": "watch",
-   "surf": "Sets to Watch",
-   "title": "What to Watch Today",
+   "id": "tomorrow",
+   "surf": "Tomorrow's Forecast",
+   "title": "On Deck",
    "items": [
-    "Whether the Nvidia-led bounce in futures holds through the 8:30 AM CT open after Tuesday's 800-point Dow drop.",
-    "The 20-year auction at noon CT and the FOMC minutes at 1:00 PM CT, with the 10-year yield sitting near 5.10%.",
-    "Palo Alto Networks after the close and Anthropic's IPO pricing tonight."
+    "7:30 AM CT: weekly jobless claims and the Philadelphia Fed manufacturing index.",
+    "9:00 AM CT: Census advance Q3 services report.",
+    "Before the open: Walmart, Alibaba and Williams-Sonoma report earnings.",
+    "Anthropic (ANT) is expected to make its Nasdaq debut; GTA VI launches.",
+    "The Fed's next decision comes at the Dec. 8-9 meeting."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, November eighteenth, twenty twenty-six, and this is your Market Surf Report. My trusty co-anchor Gus the wonder dog is sitting on the cabana deck with his ears up. Let them hear you, Gus! Alright, let's check the swell. Yesterday was a gnarly wipeout. The Dow dropped more than eight hundred points, and the S and P five hundred fell about one percent. But this morning on Dawn Patrol, the water looks better. S and P futures are up about six tenths of a percent. Nasdaq futures are up about one point two percent. Dow futures are up about three tenths, and the Russell is up a touch. The ten year Treasury yield eased about three basis points, to around five point one percent. Gold fell about two and a half percent to a fourteen month low. Crude slipped about one percent, to near eighty four dollars. Bitcoin is near sixty four thousand dollars. Over in Asia, stocks drifted a little lower. Europe is steadier after its worst day since March. Now, wind and weather. Housing starts come out at seven thirty A M Central. Pending home sales follow at nine. A twenty year Treasury auction hits at noon. Then the big one, the Fed minutes at one P M Central. Traders see a December rate hike as nearly locked in. Fed speakers Barr, Williams and Kashkari also paddle out this afternoon. On the tide chart, Nvidia was the big Kahuna last night. Revenue more than doubled to about one hundred sixteen billion dollars, and the outlook topped estimates. Nvidia is up about three percent before the bell. That calls for a treat, Gus! Here you go, buddy! Target, T J X and Lowe's report before the open, and Palo Alto Networks reports after the close. In the lineup, A I cloud names are hanging ten. Nebius is up eight percent, and CoreWeave is up about six and a half. Marvell, A M D, Micron and Broadcom are riding the same wave. Capricor is up five percent ahead of an F D A decision. AST SpaceMobile bounced four percent off a yearly low. Applied Optoelectronics dropped nearly five percent on a stock sale. And Intel is up almost two percent on layoff reports. On beach talk, Anthropic is set to price its I P O tonight, at a value of up to one point four trillion dollars. Everybody will be watching that big swell. Sets to watch: whether this bounce holds at the open, the Fed minutes at one P M Central, and that I P O tonight. Want my read on a wave? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, November eighteenth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. Gus the wonder dog spent the afternoon chasing foam at the shoreline, and he's still dripping. Give the crew a howdy, Gus! The sun is sliding down over the water, and the last set split three ways today. The Dow wiped out, down five hundred sixty-one points, or one point one percent, to fifty thousand one hundred ninety-eight. The S and P five hundred slipped about a quarter percent to seven thousand three hundred twenty-four. That's its fifth straight losing day, the longest slide since June. But the Nasdaq caught a little wave, up four tenths of a percent to twenty-four thousand four hundred thirty, snapping a four-day losing streak. Small caps paddled up too, with the Russell two thousand up about half a percent. Health insurers dragged the Dow, and energy was the weakest sector. Now the wind and weather. The Fed minutes from the October meeting landed this afternoon, and they were gnarly. Almost all officials said more rate hikes are likely, and a couple were open to a half point move in December. Futures still lean toward a quarter point hike at the December eighth and ninth meeting. Housing starts jumped almost ten percent in October, but pending home sales hit a record low. The ten-year yield eased about four basis points to five point zero seven percent. Crude oil slid about three percent to around eighty-three dollars after a big inventory build. Gold fell more than three percent, below thirty-eight hundred dollars. Bitcoin dropped to around sixty-two thousand five hundred, and the VIX eased to about twenty-four and a half. Here's the lineup. Palo Alto Networks ruled the break today, up almost ten percent, with SentinelOne and CrowdStrike riding the same cyber swell. Palo Alto hung ten on that wave all the way to the beach. Gus, that's worth a biscuit! Here you go, buddy! BellRing Brands jumped twenty-four percent on strong sales and guidance. On the wipeout side, UnitedHealth fell ten percent and Humana fell thirteen percent, as a Medicare Advantage crackdown hit managed care. And Nvidia fell almost three percent, even after revenue more than doubled to one hundred fifteen point eight billion dollars. On the tide chart. Before the bell, Target beat and raised its sales outlook, and the stock rose four percent. After the close, Palo Alto posted revenue up thirty-nine percent, raised its full-year outlook, and the stock rose about six and a half percent after hours. Beach talk. Everybody's watching the Anthropic I P O, set to price tonight and debut on Nasdaq tomorrow, with reports of demand well above the range. That's no grommet, my friends. Textron agreed to sell its industrial unit for one point two billion dollars. Tomorrow's forecast. Jobless claims and the Philly Fed index hit at seven thirty A M Central. Walmart, Alibaba and Williams-Sonoma report before the open. And Anthropic's first trades are expected tomorrow. So wax that board for a busy one, and catch the Dawn Patrol in the morning. Want a read on a wave of your own? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Yahoo Finance live blog",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html"
+   "title": "StockTitan: Stock Market Today, Nov 18",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
   },
   {
-   "title": "Stocktwits via Yahoo: Futures climb",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/futures-climb-nvidia-earnings-boost-101949738.html"
+   "title": "Investrade: Market Review Nov 18",
+   "url": "https://investrade.com/market-review-november-18-2026/"
   },
   {
-   "title": "Reuters via WBOW: Nasdaq futures jump",
-   "url": "https://1027wbow.com/2026/11/18/nasdaq-futures-jump-as-nvidia-forecast-lifts-ai-trade-ahead-of-anthropic-pricing/"
+   "title": "Vista P Global: US Stock Market Today Nov 18",
+   "url": "https://vistapglobal.com/u-s-stock-market-today-november-18-2026-dow-falls-561-points-nasdaq-rises-ahead-of-anthropic-ipo-ant-eprx-googl-modd-nvda-ser-tgt/"
   },
   {
-   "title": "Yahoo Finance: AMD, Broadcom, CoreWeave rise",
-   "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html"
+   "title": "24/7 Wall St: Market Bell",
+   "url": "https://247wallst.com/cards/index-level-calm-hid-a-1-4-point-gap-between-the-dow-down-m-gspc-market-bell-01m7r7j2mmcaxksfnvzjsdd34p"
   },
   {
-   "title": "KuCoin/Benzinga: Ahead of FOMC minutes",
-   "url": "https://www.kucoin.com/news/flash/stock-market-rises-ahead-of-fomc-minutes-nvidia-applied-optoelectronics-and-palo-alto-networks-in-focus"
+   "title": "EconCurrents: Nov 18 Market Close",
+   "url": "https://econcurrents.substack.com/p/18-november-2026-market-close-and"
   },
   {
-   "title": "Saxo Market Quick Take",
-   "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nvidia-tries-to-stabilize-after-strong-earnings---18-november-2026-18112026"
-  },
-  {
-   "title": "Saxo Asia Market Quick Take",
-   "url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--18-november-2026-18112026"
-  },
-  {
-   "title": "Seoul Economic Daily",
-   "url": "https://en.sedaily.com/economy/2026/11/18/bitcoin-gold-and-oil-fall-together-on-high-rates-ai-doubts"
-  },
-  {
-   "title": "Admirals: FOMC minutes preview",
-   "url": "https://admiralmarkets.com/analytics/traders-blog/fomc-minutes-november-2026"
+   "title": "Investing.com: Jobless claims and Philly Fed due Thursday",
+   "url": "https://www.investing.com/news/stock-market-news/jobless-claims-and-philadelphia-fed-index-due-thursday-93CH-5036849"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, November eighteenth, twenty twenty-six, and this is your Market Surf Report. My trusty co-anchor Gus the wonder dog is sitting on the cabana deck with his ears up. Let them hear you, Gus! [BARK] Alright, let's check the swell. Yesterday was a gnarly wipeout. The Dow dropped more than eight hundred points, and the S and P five hundred fell about one percent. But this morning on Dawn Patrol, the water looks better. S and P futures are up about six tenths of a percent. Nasdaq futures are up about one point two percent. Dow futures are up about three tenths, and the Russell is up a touch. The ten year Treasury yield eased about three basis points, to around five point one percent. Gold fell about two and a half percent to a fourteen month low. Crude slipped about one percent, to near eighty four dollars. Bitcoin is near sixty four thousand dollars. Over in Asia, stocks drifted a little lower. Europe is steadier after its worst day since March. Now, wind and weather. Housing starts come out at seven thirty A M Central. Pending home sales follow at nine. A twenty year Treasury auction hits at noon. Then the big one, the Fed minutes at one P M Central. Traders see a December rate hike as nearly locked in. Fed speakers Barr, Williams and Kashkari also paddle out this afternoon. On the tide chart, Nvidia was the big Kahuna last night. Revenue more than doubled to about one hundred sixteen billion dollars, and the outlook topped estimates. Nvidia is up about three percent before the bell. That calls for a treat, Gus! Here you go, buddy! [SNACK] Target, T J X and Lowe's report before the open, and Palo Alto Networks reports after the close. In the lineup, A I cloud names are hanging ten. Nebius is up eight percent, and CoreWeave is up about six and a half. Marvell, A M D, Micron and Broadcom are riding the same wave. Capricor is up five percent ahead of an F D A decision. AST SpaceMobile bounced four percent off a yearly low. Applied Optoelectronics dropped nearly five percent on a stock sale. And Intel is up almost two percent on layoff reports. On beach talk, Anthropic is set to price its I P O tonight, at a value of up to one point four trillion dollars. Everybody will be watching that big swell. Sets to watch: whether this bounce holds at the open, the Fed minutes at one P M Central, and that I P O tonight. Want my read on a wave? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, November eighteenth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. Gus the wonder dog spent the afternoon chasing foam at the shoreline, and he's still dripping. Give the crew a howdy, Gus! [BARK]\n\nThe sun is sliding down over the water, and the last set split three ways today. The Dow wiped out, down five hundred sixty-one points, or one point one percent, to fifty thousand one hundred ninety-eight. The S and P five hundred slipped about a quarter percent to seven thousand three hundred twenty-four. That's its fifth straight losing day, the longest slide since June. But the Nasdaq caught a little wave, up four tenths of a percent to twenty-four thousand four hundred thirty, snapping a four-day losing streak. Small caps paddled up too, with the Russell two thousand up about half a percent. Health insurers dragged the Dow, and energy was the weakest sector.\n\nNow the wind and weather. The Fed minutes from the October meeting landed this afternoon, and they were gnarly. Almost all officials said more rate hikes are likely, and a couple were open to a half point move in December. Futures still lean toward a quarter point hike at the December eighth and ninth meeting. Housing starts jumped almost ten percent in October, but pending home sales hit a record low. The ten-year yield eased about four basis points to five point zero seven percent. Crude oil slid about three percent to around eighty-three dollars after a big inventory build. Gold fell more than three percent, below thirty-eight hundred dollars. Bitcoin dropped to around sixty-two thousand five hundred, and the VIX eased to about twenty-four and a half.\n\nHere's the lineup. Palo Alto Networks ruled the break today, up almost ten percent, with SentinelOne and CrowdStrike riding the same cyber swell. Palo Alto hung ten on that wave all the way to the beach. Gus, that's worth a biscuit! Here you go, buddy! [SNACK] BellRing Brands jumped twenty-four percent on strong sales and guidance. On the wipeout side, UnitedHealth fell ten percent and Humana fell thirteen percent, as a Medicare Advantage crackdown hit managed care. And Nvidia fell almost three percent, even after revenue more than doubled to one hundred fifteen point eight billion dollars.\n\nOn the tide chart. Before the bell, Target beat and raised its sales outlook, and the stock rose four percent. After the close, Palo Alto posted revenue up thirty-nine percent, raised its full-year outlook, and the stock rose about six and a half percent after hours.\n\nBeach talk. Everybody's watching the Anthropic I P O, set to price tonight and debut on Nasdaq tomorrow, with reports of demand well above the range. That's no grommet, my friends. Textron agreed to sell its industrial unit for one point two billion dollars.\n\nTomorrow's forecast. Jobless claims and the Philly Fed index hit at seven thirty A M Central. Walmart, Alibaba and Williams-Sonoma report before the open. And Anthropic's first trades are expected tomorrow. So wax that board for a busy one, and catch the Dawn Patrol in the morning. Want a read on a wave of your own? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you.\n\nThis is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -195,271 +183,271 @@
   },
   {
    "start": 11.57,
-   "end": 17.99,
-   "text": "It's Wednesday, November eighteenth, twenty twenty-six, and this is your Market Surf Report.",
+   "end": 19.82,
+   "text": "It's Wednesday, November eighteenth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
    "speaker": "surf"
   },
   {
-   "start": 18.27,
-   "end": 24.52,
-   "text": "My trusty co-anchor Gus the wonder dog is sitting on the cabana deck with his ears up.",
+   "start": 20.1,
+   "end": 26.21,
+   "text": "Gus the wonder dog spent the afternoon chasing foam at the shoreline, and he's still dripping.",
    "speaker": "surf"
   },
   {
-   "start": 24.8,
-   "end": 26.42,
-   "text": "Let them hear you, Gus!",
+   "start": 26.49,
+   "end": 28.34,
+   "text": "Give the crew a howdy, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 26.7,
-   "end": 27.25,
+   "start": 28.62,
+   "end": 29.17,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 27.53,
-   "end": 29.58,
-   "text": "Alright, let's check the swell.",
+   "start": 29.45,
+   "end": 34.87,
+   "text": "The sun is sliding down over the water, and the last set split three ways today.",
    "speaker": "surf"
   },
   {
-   "start": 29.86,
-   "end": 32.23,
-   "text": "Yesterday was a gnarly wipeout.",
+   "start": 35.15,
+   "end": 43.94,
+   "text": "The Dow wiped out, down five hundred sixty-one points, or one point one percent, to fifty thousand one hundred ninety-eight.",
    "speaker": "surf"
   },
   {
-   "start": 32.51,
-   "end": 39.21,
-   "text": "The Dow dropped more than eight hundred points, and the S and P five hundred fell about one percent.",
+   "start": 44.22,
+   "end": 50.88,
+   "text": "The S and P five hundred slipped about a quarter percent to seven thousand three hundred twenty-four.",
    "speaker": "surf"
   },
   {
-   "start": 39.49,
-   "end": 43.2,
-   "text": "But this morning on Dawn Patrol, the water looks better.",
+   "start": 51.16,
+   "end": 55.38,
+   "text": "That's its fifth straight losing day, the longest slide since June.",
    "speaker": "surf"
   },
   {
-   "start": 43.48,
-   "end": 47.55,
-   "text": "S and P futures are up about six tenths of a percent.",
+   "start": 55.66,
+   "end": 65.11,
+   "text": "But the Nasdaq caught a little wave, up four tenths of a percent to twenty-four thousand four hundred thirty, snapping a four-day losing streak.",
    "speaker": "surf"
   },
   {
-   "start": 47.83,
-   "end": 51.65,
-   "text": "Nasdaq futures are up about one point two percent.",
+   "start": 65.39,
+   "end": 70.83,
+   "text": "Small caps paddled up too, with the Russell two thousand up about half a percent.",
    "speaker": "surf"
   },
   {
-   "start": 51.93,
-   "end": 56.67,
-   "text": "Dow futures are up about three tenths, and the Russell is up a touch.",
+   "start": 71.11,
+   "end": 75.7,
+   "text": "Health insurers dragged the Dow, and energy was the weakest sector.",
    "speaker": "surf"
   },
   {
-   "start": 56.95,
-   "end": 63.3,
-   "text": "The ten year Treasury yield eased about three basis points, to around five point one percent.",
+   "start": 75.98,
+   "end": 77.75,
+   "text": "Now the wind and weather.",
    "speaker": "surf"
   },
   {
-   "start": 63.58,
-   "end": 67.64,
-   "text": "Gold fell about two and a half percent to a fourteen month low.",
+   "start": 78.03,
+   "end": 83.28,
+   "text": "The Fed minutes from the October meeting landed this afternoon, and they were gnarly.",
    "speaker": "surf"
   },
   {
-   "start": 67.92,
-   "end": 72.06,
-   "text": "Crude slipped about one percent, to near eighty four dollars.",
+   "start": 83.56,
+   "end": 90.89,
+   "text": "Almost all officials said more rate hikes are likely, and a couple were open to a half point move in December.",
    "speaker": "surf"
   },
   {
-   "start": 72.34,
-   "end": 75.58,
-   "text": "Bitcoin is near sixty four thousand dollars.",
+   "start": 91.17,
+   "end": 96.66,
+   "text": "Futures still lean toward a quarter point hike at the December eighth and ninth meeting.",
    "speaker": "surf"
   },
   {
-   "start": 75.86,
-   "end": 78.95,
-   "text": "Over in Asia, stocks drifted a little lower.",
+   "start": 96.94,
+   "end": 103.49,
+   "text": "Housing starts jumped almost ten percent in October, but pending home sales hit a record low.",
    "speaker": "surf"
   },
   {
-   "start": 79.23,
-   "end": 82.6,
-   "text": "Europe is steadier after its worst day since March.",
+   "start": 103.77,
+   "end": 109.59,
+   "text": "The ten-year yield eased about four basis points to five point zero seven percent.",
    "speaker": "surf"
   },
   {
-   "start": 82.88,
-   "end": 84.61,
-   "text": "Now, wind and weather.",
+   "start": 109.87,
+   "end": 116.42,
+   "text": "Crude oil slid about three percent to around eighty-three dollars after a big inventory build.",
    "speaker": "surf"
   },
   {
-   "start": 84.89,
-   "end": 88.58,
-   "text": "Housing starts come out at seven thirty A M Central.",
+   "start": 116.7,
+   "end": 121.35,
+   "text": "Gold fell more than three percent, below thirty-eight hundred dollars.",
    "speaker": "surf"
   },
   {
-   "start": 88.86,
-   "end": 91.42,
-   "text": "Pending home sales follow at nine.",
+   "start": 121.63,
+   "end": 129.03,
+   "text": "Bitcoin dropped to around sixty-two thousand five hundred, and the VIX eased to about twenty-four and a half.",
    "speaker": "surf"
   },
   {
-   "start": 91.7,
-   "end": 94.5,
-   "text": "A twenty year Treasury auction hits at noon.",
+   "start": 129.31,
+   "end": 130.7,
+   "text": "Here's the lineup.",
    "speaker": "surf"
   },
   {
-   "start": 94.78,
-   "end": 98.53,
-   "text": "Then the big one, the Fed minutes at one P M Central.",
+   "start": 130.98,
+   "end": 140.6,
+   "text": "Palo Alto Networks ruled the break today, up almost ten percent, with SentinelOne and CrowdStrike riding the same cyber swell.",
    "speaker": "surf"
   },
   {
-   "start": 98.81,
-   "end": 102.57,
-   "text": "Traders see a December rate hike as nearly locked in.",
+   "start": 140.88,
+   "end": 144.74,
+   "text": "Palo Alto hung ten on that wave all the way to the beach.",
    "speaker": "surf"
   },
   {
-   "start": 102.85,
-   "end": 108.29,
-   "text": "Fed speakers Barr, Williams and Kashkari also paddle out this afternoon.",
+   "start": 145.02,
+   "end": 146.77,
+   "text": "Gus, that's worth a biscuit!",
    "speaker": "surf"
   },
   {
-   "start": 108.57,
-   "end": 112.81,
-   "text": "On the tide chart, Nvidia was the big Kahuna last night.",
-   "speaker": "surf"
-  },
-  {
-   "start": 113.09,
-   "end": 120.2,
-   "text": "Revenue more than doubled to about one hundred sixteen billion dollars, and the outlook topped estimates.",
-   "speaker": "surf"
-  },
-  {
-   "start": 120.48,
-   "end": 124.0,
-   "text": "Nvidia is up about three percent before the bell.",
-   "speaker": "surf"
-  },
-  {
-   "start": 124.28,
-   "end": 126.22,
-   "text": "That calls for a treat, Gus!",
-   "speaker": "surf"
-  },
-  {
-   "start": 126.5,
-   "end": 127.95,
+   "start": 147.05,
+   "end": 148.5,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 128.23,
-   "end": 130.2,
+   "start": 148.78,
+   "end": 150.75,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 130.48,
-   "end": 138.03,
-   "text": "Target, T J X and Lowe's report before the open, and Palo Alto Networks reports after the close.",
+   "start": 151.03,
+   "end": 155.83,
+   "text": "BellRing Brands jumped twenty-four percent on strong sales and guidance.",
    "speaker": "surf"
   },
   {
-   "start": 138.31,
-   "end": 141.57,
-   "text": "In the lineup, A I cloud names are hanging ten.",
+   "start": 156.11,
+   "end": 166.78,
+   "text": "On the wipeout side, UnitedHealth fell ten percent and Humana fell thirteen percent, as a Medicare Advantage crackdown hit managed care.",
    "speaker": "surf"
   },
   {
-   "start": 141.85,
-   "end": 146.74,
-   "text": "Nebius is up eight percent, and CoreWeave is up about six and a half.",
+   "start": 167.06,
+   "end": 175.63,
+   "text": "And Nvidia fell almost three percent, even after revenue more than doubled to one hundred fifteen point eight billion dollars.",
    "speaker": "surf"
   },
   {
-   "start": 147.02,
-   "end": 152.12,
-   "text": "Marvell, A M D, Micron and Broadcom are riding the same wave.",
+   "start": 175.91,
+   "end": 177.47,
+   "text": "On the tide chart.",
    "speaker": "surf"
   },
   {
-   "start": 152.4,
-   "end": 156.41,
-   "text": "Capricor is up five percent ahead of an F D A decision.",
+   "start": 177.75,
+   "end": 184.15,
+   "text": "Before the bell, Target beat and raised its sales outlook, and the stock rose four percent.",
    "speaker": "surf"
   },
   {
-   "start": 156.69,
-   "end": 160.81,
-   "text": "AST SpaceMobile bounced four percent off a yearly low.",
+   "start": 184.43,
+   "end": 196.42,
+   "text": "After the close, Palo Alto posted revenue up thirty-nine percent, raised its full-year outlook, and the stock rose about six and a half percent after hours.",
    "speaker": "surf"
   },
   {
-   "start": 161.09,
-   "end": 166.03,
-   "text": "Applied Optoelectronics dropped nearly five percent on a stock sale.",
+   "start": 196.7,
+   "end": 197.87,
+   "text": "Beach talk.",
    "speaker": "surf"
   },
   {
-   "start": 166.31,
-   "end": 170.18,
-   "text": "And Intel is up almost two percent on layoff reports.",
+   "start": 198.15,
+   "end": 209.06,
+   "text": "Everybody's watching the Anthropic I P O, set to price tonight and debut on Nasdaq tomorrow, with reports of demand well above the range.",
    "speaker": "surf"
   },
   {
-   "start": 170.46,
-   "end": 179.25,
-   "text": "On beach talk, Anthropic is set to price its I P O tonight, at a value of up to one point four trillion dollars.",
+   "start": 209.34,
+   "end": 211.41,
+   "text": "That's no grommet, my friends.",
    "speaker": "surf"
   },
   {
-   "start": 179.53,
-   "end": 182.38,
-   "text": "Everybody will be watching that big swell.",
+   "start": 211.69,
+   "end": 217.27,
+   "text": "Textron agreed to sell its industrial unit for one point two billion dollars.",
    "speaker": "surf"
   },
   {
-   "start": 182.66,
-   "end": 191.13,
-   "text": "Sets to watch: whether this bounce holds at the open, the Fed minutes at one P M Central, and that I P O tonight.",
+   "start": 217.55,
+   "end": 219.26,
+   "text": "Tomorrow's forecast.",
    "speaker": "surf"
   },
   {
-   "start": 191.41,
-   "end": 193.27,
-   "text": "Want my read on a wave?",
+   "start": 219.54,
+   "end": 224.94,
+   "text": "Jobless claims and the Philly Fed index hit at seven thirty A M Central.",
    "speaker": "surf"
   },
   {
-   "start": 193.55,
-   "end": 203.06,
+   "start": 225.22,
+   "end": 230.13,
+   "text": "Walmart, Alibaba and Williams-Sonoma report before the open.",
+   "speaker": "surf"
+  },
+  {
+   "start": 230.41,
+   "end": 233.95,
+   "text": "And Anthropic's first trades are expected tomorrow.",
+   "speaker": "surf"
+  },
+  {
+   "start": 234.23,
+   "end": 239.41,
+   "text": "So wax that board for a busy one, and catch the Dawn Patrol in the morning.",
+   "speaker": "surf"
+  },
+  {
+   "start": 239.69,
+   "end": 242.04,
+   "text": "Want a read on a wave of your own?",
+   "speaker": "surf"
+  },
+  {
+   "start": 242.32,
+   "end": 251.83,
    "text": "Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you.",
    "speaker": "surf"
   },
   {
-   "start": 203.34,
-   "end": 205.95,
+   "start": 252.11,
+   "end": 254.71,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 206.23,
-   "end": 211.43,
+   "start": 254.99,
+   "end": 260.2,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
