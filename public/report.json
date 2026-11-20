@@ -1,119 +1,117 @@
 {
  "date": "2026-11-20",
- "title": "Market Surf Report",
- "edition": "Dawn Patrol Edition",
+ "slot": "evening",
+ "title": "Sunset Session",
+ "edition": "Sunset Session",
  "is_sample": false,
- "updated": "Nov 20, 6:05 AM CT",
+ "updated": "Nov 20, 5:10 PM CT",
  "conditions": {
   "rating": "Poor",
-  "headline": "Choppy, Closed-Out Sets After a Six-Day Wipeout",
-  "summary": "Nasdaq futures lead a mixed open lower after the S&P 500's sixth straight loss, as doubts over AI spending, Treasury yields above 5% and Fed hike talk keep the tide running out. Asia sold off hard overnight."
+  "headline": "Gnarly Wipeout: Nvidia Sinks 14%, Nasdaq Drops 5.3%",
+  "summary": "An AI and chip selloff turned into a rout, with Nvidia down 14% on a reported SEC accounting probe. The S&P 500 fell 3.7% and joined the Dow in correction territory, while the Nasdaq erased its 2026 gain."
  },
  "tape": [
   {
-   "label": "S&P fut",
-   "value": "-0.4%",
+   "label": "S&P 500",
+   "value": "-3.7%",
    "dir": "down"
   },
   {
-   "label": "Nasdaq fut",
-   "value": "-1.1%",
+   "label": "Nasdaq",
+   "value": "-5.3%",
    "dir": "down"
   },
   {
-   "label": "Dow fut",
-   "value": "+0.2%",
-   "dir": "up"
+   "label": "Dow",
+   "value": "-1.9%",
+   "dir": "down"
   },
   {
-   "label": "Russell fut",
-   "value": "0.0%",
-   "dir": "flat"
+   "label": "Russell 2000",
+   "value": "-2.8%",
+   "dir": "down"
   },
   {
    "label": "10-yr",
-   "value": "5.05%",
-   "dir": "flat"
-  },
-  {
-   "label": "Dollar",
-   "value": "103.9",
-   "dir": "up"
-  },
-  {
-   "label": "Crude",
-   "value": "$81.41 -1.3%",
+   "value": "4.91%",
    "dir": "down"
   },
   {
+   "label": "Dollar",
+   "value": "~flat",
+   "dir": "flat"
+  },
+  {
+   "label": "Crude",
+   "value": "+1.6%",
+   "dir": "up"
+  },
+  {
    "label": "Gold",
-   "value": "$3,590 -2.6%",
+   "value": "-4.5%",
    "dir": "down"
   },
   {
    "label": "Bitcoin",
-   "value": "$61.9K -3.0%",
+   "value": "-4.7%",
    "dir": "down"
   },
   {
    "label": "VIX",
-   "value": "28.7",
+   "value": "35.9",
    "dir": "up"
   }
  ],
  "sections": [
   {
-   "id": "swell",
-   "surf": "The Swell",
-   "title": "Futures & Overnight",
+   "id": "close",
+   "surf": "The Final Set",
+   "title": "Closing Bell",
    "items": [
-    "Nasdaq-100 futures were down about 1.1% and S&P 500 futures about 0.4% early Friday; Dow futures edged up 0.2% and Russell futures were flat. Early quotes; sources differed by timestamp.",
-    "Thursday the S&P 500 fell 2.0% to about 7,176 for a sixth straight loss, the Dow lost 2.2% and closed under 50,000 for the first time since June, and the Nasdaq Composite fell 2.3%.",
-    "Stocks had rallied early Thursday before reversing once Anthropic began trading; the Dow is down about 6% this week and the S&P 500 and Nasdaq about 5%.",
-    "The 10-year Treasury yield sits near 5.05%, the dollar index is near a 19-month high around 103.9, and the VIX is near 29, its highest since March.",
-    "Gold fell about 2.6% to roughly $3,590 and is down about 8% on the week; bitcoin slipped below $62,000, its lowest since July; WTI crude was near $81 in early trade, though quotes were mixed.",
-    "Asia: Japan's Nikkei fell nearly 5% and Korea's Kospi more than 4%, with Samsung and SK Hynix each down over 6%; Hong Kong lost about 2%.",
-    "Europe: the Stoxx 600 fell 0.9% Thursday and is headed for its steepest weekly drop since March."
+    "The S&P 500 fell 3.7% to 6,910, its seventh straight loss, and joined the Dow in correction territory.",
+    "The Nasdaq Composite sank 5.3% to 22,618, wiping out its gain for 2026; the Dow lost 1.9% to 48,147 and the Russell 2000 fell 2.8%.",
+    "Stocks opened only modestly lower, then the selling built all day as chip and AI names were dumped.",
+    "A Reuters report that SEC staff are examining Nvidia's accounting added to doubts about AI spending and Fed rate-hike worries.",
+    "For the week, the Nasdaq fell about 10%, the S&P 500 8.6% and the Dow 8%.",
+    "Semiconductors were the worst group by far; decliners swamped advancers."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Economic Calendar",
+   "title": "Macro & Fed",
    "items": [
-    "7:25 AM CT: Fed Governor Christopher Waller speaks.",
-    "9:00 AM CT: Final November University of Michigan consumer sentiment; forecasts cluster around 51, with inflation expectations in focus.",
-    "11:15 AM CT: Fed Governor Michael Barr speaks; President Trump is also scheduled to speak around 11:00 AM CT.",
-    "Markets now price a quarter-point Fed rate hike in December, with the funds rate at 3.75% to 4%.",
-    "Thursday's data was soft: the Philadelphia Fed index sank to 6.3 from 20.9, and jobless claims rose to 203,000, above forecasts."
-   ]
-  },
-  {
-   "id": "tide",
-   "surf": "Tide Chart",
-   "title": "Earnings",
-   "items": [
-    "Intuit fell about 10% after hours following its quarterly report and a deal to sell Mailchimp to Bending Spoons.",
-    "Ross Stores dropped about 5% after hours despite higher third-quarter sales and a raised full-year profit outlook.",
-    "Gap rose about 3.6% after hours; third-quarter sales grew 2% to $4.0 billion and earnings beat, but it trimmed its full-year sales outlook to about flat.",
-    "Keysight beat fourth-quarter estimates and its shares rose after hours.",
-    "Thursday: Walmart slipped 1% despite raising its outlook; Williams-Sonoma fell 15%; PDD jumped 11%.",
-    "Few notable companies report after today's close."
+    "University of Michigan sentiment rose to 51.5 from 48.0, and one-year inflation expectations eased to 3.7% from 4.7%.",
+    "Fed Governor Lisa Cook said waiting too long to raise rates risks falling behind the curve; she had favored a hike in October.",
+    "Futures point to a quarter-point Fed rate hike in December being very likely.",
+    "Treasuries rallied as investors hunted for safety, pulling the 10-year yield to about 4.91%.",
+    "The VIX fear gauge jumped about 26% to near 36; gold fell 4.5% to about $3,518 and bitcoin slid below $59,000, while WTI crude rose about 1.6% to $83.73."
    ]
   },
   {
    "id": "lineup",
    "surf": "The Lineup",
-   "title": "Stocks in the News",
+   "title": "Biggest Movers",
    "items": [
-    "ANT (Anthropic): -6.5% — second-day slide after Thursday's debut closed at $97.17, still above the $83 IPO price.",
-    "INTU (Intuit): about -10% — quarterly results plus agreement to sell Mailchimp.",
-    "ROST (Ross Stores): about -5% — results failed to impress despite a higher profit outlook.",
-    "GAP (Gap): about +3.6% — earnings beat and a rebound after hours despite a softer sales outlook.",
-    "NVDA (Nvidia): about -2% — AI-spending worries extend a six-day losing streak.",
-    "AMD (AMD): fell 7.7% Thursday after a short-seller report questioned its China exposure.",
-    "PANW (Palo Alto Networks): rose 6.4% Thursday after lifting its revenue forecast.",
-    "Pre-market quotes are early and thin; moves can change by the open."
+    "NVDA (Nvidia): -14% — reported SEC accounting probe on top of the AI selloff; its worst day since the DeepSeek shock.",
+    "AMD (Advanced Micro Devices): -13% — swept up in the chip rout.",
+    "AVGO (Broadcom): -12% — chip selling deepened into the close.",
+    "ANT (Anthropic): about -9% — the new IPO gave back more of its debut pop, closing near $89.",
+    "INTU (Intuit): about -9% or more — revenue outlook cut and slower Credit Karma growth outweighed a quarterly beat.",
+    "TSLA (Tesla): -7.6% and META (Meta Platforms): -5.9% — megacaps dragged down with tech.",
+    "ZS (Zscaler): up about 20% — report that CrowdStrike is in talks to acquire it.",
+    "GAP (Gap): up about 12% midday — profit beat even as it trimmed its full-year sales outlook."
+   ]
+  },
+  {
+   "id": "tide",
+   "surf": "Tide Chart",
+   "title": "Earnings Today & Tonight",
+   "items": [
+    "BJ's Wholesale reported before the open: comparable club sales up 13.5% and a raised profit outlook, yet the stock slipped about 3% midday.",
+    "Gap reported after Thursday's close and rallied about 12% by midday on its profit beat.",
+    "Intuit reported after Thursday's close and slumped on its revenue outlook; it also agreed to sell Mailchimp for about $3.7 billion.",
+    "No major companies reported after Friday's close."
    ]
   },
   {
@@ -121,64 +119,65 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Anthropic's IPO priced at $83 and raised about $81 billion; the stock briefly valued the company near $2 trillion before pulling back.",
-    "Intuit agreed to sell Mailchimp to Bending Spoons.",
-    "Palo Alto Networks agreed to buy Applied Compute in an all-stock deal.",
-    "BASF ended takeover talks with Evonik, sending Evonik shares down 16% in Europe.",
-    "Texas resumed reviewing data center permits, an AI power story worth watching."
+    "Anthropic completed its IPO at $83 a share, raising about $93.5 billion gross, plus a $26 billion private placement from big tech and chip partners.",
+    "Reuters reported SEC enforcement staff are examining potential accounting issues at Nvidia; the SEC declined to comment.",
+    "Asian chip stocks crashed overnight, with Taiwan's market suffering its steepest weekly drop since 1997.",
+    "Take-Two said GTA VI racked up about $3.79 billion in first-day retail sales.",
+    "BILL traded below the cash price in its agreed takeover by TPG and Corpay."
    ]
   },
   {
-   "id": "watch",
-   "surf": "Sets to Watch",
-   "title": "What to Watch Today",
+   "id": "tomorrow",
+   "surf": "Tomorrow's Forecast",
+   "title": "On Deck",
    "items": [
-    "Whether the S&P 500 can snap a six-day losing streak, with Thursday's close near 7,176 the line in the sand.",
-    "The 9:00 AM CT Michigan sentiment and inflation expectations, plus Fed speakers Waller at 7:25 AM CT and Barr at 11:15 AM CT, for clues on a December hike.",
-    "Anthropic and the chip stocks as the gauge of AI sentiment, with the VIX near 29."
+    "Weekend break; next session Monday, Nov 23, with Hewlett Packard Enterprise and Zoom reporting after the close.",
+    "Tuesday: November consumer confidence; Best Buy, Dick's, Dollar Tree, Medtronic and Analog Devices before the open, Dell, Workday and Autodesk after.",
+    "Wednesday morning: Q3 GDP revision, October PCE inflation and durable goods, then the Fed's Beige Book; Deere reports.",
+    "Thursday: markets closed for Thanksgiving; Friday: stocks close early at noon Central."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November twentieth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the cabana deck is Gus the wonder dog, who hasn't missed a Dawn Patrol all week. Give the folks a holler, Gus! Alright, let's check the swell. It's been a gnarly week, friends. The S and P five hundred fell two percent yesterday for a sixth straight loss. The Dow dropped about two percent and closed under fifty thousand for the first time since June. The Nasdaq lost more than two percent. This morning Nasdaq futures are down about one percent, S and P futures are off about four tenths of a percent, and Dow futures are up a hair. These are early quotes, so stay loose. The ten year Treasury yield sits near five point oh five percent. The dollar is near a nineteen month high. Gold fell more than two percent, and bitcoin slipped under sixty two thousand dollars. The fear gauge, the VIX, is near twenty nine. Overseas, Japan's Nikkei dropped nearly five percent and Korea fell more than four. Now the wind and weather. Traders now expect a Fed rate hike in December. Fed Governor Waller speaks at seven twenty five A M Central. The final Michigan consumer sentiment reading lands at nine A M Central. Governor Barr speaks at eleven fifteen. Over on the tide chart, Intuit fell about ten percent after hours on its report and a deal to sell Mailchimp. Ross Stores slid about five percent. But Gap beat on earnings and rose more than three percent after hours. That calls for a treat, Gus! Here you go, buddy! Keysight also beat and moved higher. Checking the lineup, Anthropic is down about six percent in its second day of trading, but it's still above its eighty three dollar I P O price. Nvidia is off about two percent as the A I trade keeps wiping out. A M D fell almost eight percent yesterday on a short seller report. Palo Alto Networks bucked the trend, up six percent on a higher forecast. Beach talk: Anthropic's I P O raised about eighty one billion dollars. Palo Alto agreed to buy Applied Compute. And Texas is back to reviewing data center permits. Sets to watch today: can the S and P snap its losing streak, what does the Michigan survey say about inflation, and how do the A I names hold up. Soul surfers, these closed-out days pass. No need to paddle out like a kook into heavy water. Want a read on a particular break? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November twentieth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding into the water, and folks, that last set of the week was gnarly. Gus the wonder dog spent the whole afternoon hiding under the cabana deck from these waves. Come on out and say good evening, Gus! Okay, here's the final set. The S and P five hundred fell three point seven percent to about six thousand nine hundred ten. That's seven losses in a row, and it puts the index in correction territory, right next to the Dow. The Nasdaq got hit hardest, down five point three percent to about twenty-two thousand six hundred eighteen. That wipes out its whole gain for the year. The Dow dropped one point nine percent, and the Russell two thousand lost almost three percent. For the week, the Nasdaq is down about ten percent. That's a wipeout. The morning started calm, but the selling built all day in chips and A I stocks. The big riptide was Nvidia. A Reuters report said S E C staff are looking at its accounting, and the stock plunged fourteen percent. The old Kahuna of the A I trade had its worst day since the DeepSeek scare. A M D fell thirteen percent, and Broadcom dropped twelve. Anthropic, the grommet of the lineup after this week's giant I P O, slid about nine percent to near eighty-nine dollars. Intuit sank about nine percent on a softer revenue outlook. Now the wind and weather. The fear gauge, the VIX, jumped to nearly thirty-six. Investors ran to Treasuries, and the ten-year yield fell to about four point nine one percent. Gold dropped four and a half percent, and bitcoin slipped below fifty-nine thousand dollars. Crude oil bucked the tide, up about one and a half percent. On the data side, consumer sentiment from the University of Michigan rose to fifty-one point five, and inflation expectations cooled. But Fed Governor Lisa Cook said waiting too long to raise rates risks falling behind the curve. Markets see a December rate hike as very likely. Not every board went under, though. Zscaler jumped about twenty percent on a report that CrowdStrike is in talks to buy it. Zscaler caught the one clean wave of the day and rode it to the beach. Gus, that's worth a biscuit! Here you go, buddy! Gap also hung ten, up about twelve percent midday after a profit beat. In beach talk, Anthropic closed its I P O, raising about ninety-three billion dollars. And Take-Two said Grand Theft Auto six sold almost three point eight billion dollars on day one. Tomorrow's forecast: it's the weekend, so we wax the boards. Monday, Hewlett Packard Enterprise and Zoom report after the close. Tuesday brings consumer confidence plus Best Buy, Dell and Workday. Wednesday morning has G D P, P C E inflation and durable goods. Thursday the market is closed for Thanksgiving, and Friday closes early at noon Central. Soul surfers, days like this test your stance, so stay steady. Want a read on a ride? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. And catch the Dawn Patrol Monday morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Yahoo Finance live blog",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-volatility-092827348.html"
+   "title": "FINChannel (AP closing figures)",
+   "url": "https://finchannel.com/nasdaq-falls-5-3-as-sp-500-and-dow-enter-corrections/142573/american-business-trends/stock-prices/2026/11/"
   },
   {
-   "title": "IC Markets: futures fall",
-   "url": "https://www.ic.com/blog/stock-futures-fall-as-global-markets-extend-losses-20-november-ic/"
+   "title": "Motley Fool: Stock Market Today, Nov. 20",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/"
   },
   {
-   "title": "Saxo Market Quick Take",
-   "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---asian-stocks-tumble-after-wall-streets-sixth-straight-decline---20-november-2026-20112026"
+   "title": "Motley Fool: Crypto Market Today, Nov. 20",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/crypto-market-today-nov-20-bitcoin-plunges-below-usd60-000-as-wall-street-s-sell-off-spreads-to-crypto/"
   },
   {
-   "title": "Saxo Options Brief",
-   "url": "https://www.home.saxo/content/articles/options/stocks-fall-together-as-near-term-volatility-jumps---options-brief---20-november-2026-20112026"
+   "title": "VistaP Global weekly summary",
+   "url": "https://vistapglobal.com/weekly-stock-market-summary-november-20-2026-nasdaq-sinks-as-ai-concerns-deepen-consumer-sentiment-improves-aapl-amzn-ant-crwd-eprx-gap-googl-kymr-modd-msft-nvda-ser-spcx-ttwo-vi/"
   },
   {
-   "title": "StockTitan market recap Nov 19",
-   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
+   "title": "StockTitan live blog",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
   },
   {
-   "title": "XTB economic calendar",
-   "url": "https://www.xtb.com/en/market-analysis/economic-calendar-final-us-consumer-sentiment-data-and-speeches-by-fed-officials"
+   "title": "Schwab market update",
+   "url": "https://www.schwab.com/learn/story/stock-market-update-open"
   },
   {
-   "title": "Rio Times global briefing",
-   "url": "https://www.riotimesonline.com/global-economy-briefing-november-20-2026/"
+   "title": "Seeking Alpha: biggest movers Friday",
+   "url": "https://seekingalpha.com/news/4675063-biggest-stock-movers-friday-ant-intu-and-more"
   },
   {
-   "title": "Investing.com: Keysight earnings",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-keysight-beats-q4-2026-estimates-shares-rise-after-hours-93CH-5040253"
+   "title": "MarketAlleys closing tape",
+   "url": "https://www.marketalleys.com/post/marketalleys-closing-tape-2026-11-20"
   },
   {
-   "title": "Investing.com: Gap earnings",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-gap-beats-q3-eps-forecast-shares-rebound-afterhours-93CH-5040296"
+   "title": "24/7 Wall St",
+   "url": "https://247wallst.com/investing/2026/11/20/the-sp-500-just-had-its-biggest-reversal-since-march-2020/"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November twentieth, twenty twenty-six, and this is your Market Surf Report. Riding shotgun on the cabana deck is Gus the wonder dog, who hasn't missed a Dawn Patrol all week. Give the folks a holler, Gus! [BARK] Alright, let's check the swell. It's been a gnarly week, friends. The S and P five hundred fell two percent yesterday for a sixth straight loss. The Dow dropped about two percent and closed under fifty thousand for the first time since June. The Nasdaq lost more than two percent. This morning Nasdaq futures are down about one percent, S and P futures are off about four tenths of a percent, and Dow futures are up a hair. These are early quotes, so stay loose. The ten year Treasury yield sits near five point oh five percent. The dollar is near a nineteen month high. Gold fell more than two percent, and bitcoin slipped under sixty two thousand dollars. The fear gauge, the VIX, is near twenty nine. Overseas, Japan's Nikkei dropped nearly five percent and Korea fell more than four. Now the wind and weather. Traders now expect a Fed rate hike in December. Fed Governor Waller speaks at seven twenty five A M Central. The final Michigan consumer sentiment reading lands at nine A M Central. Governor Barr speaks at eleven fifteen. Over on the tide chart, Intuit fell about ten percent after hours on its report and a deal to sell Mailchimp. Ross Stores slid about five percent. But Gap beat on earnings and rose more than three percent after hours. That calls for a treat, Gus! Here you go, buddy! [SNACK] Keysight also beat and moved higher. Checking the lineup, Anthropic is down about six percent in its second day of trading, but it's still above its eighty three dollar I P O price. Nvidia is off about two percent as the A I trade keeps wiping out. A M D fell almost eight percent yesterday on a short seller report. Palo Alto Networks bucked the trend, up six percent on a higher forecast. Beach talk: Anthropic's I P O raised about eighty one billion dollars. Palo Alto agreed to buy Applied Compute. And Texas is back to reviewing data center permits. Sets to watch today: can the S and P snap its losing streak, what does the Michigan survey say about inflation, and how do the A I names hold up. Soul surfers, these closed-out days pass. No need to paddle out like a kook into heavy water. Want a read on a particular break? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November twentieth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding into the water, and folks, that last set of the week was gnarly. Gus the wonder dog spent the whole afternoon hiding under the cabana deck from these waves. Come on out and say good evening, Gus! [BARK] Okay, here's the final set. The S and P five hundred fell three point seven percent to about six thousand nine hundred ten. That's seven losses in a row, and it puts the index in correction territory, right next to the Dow. The Nasdaq got hit hardest, down five point three percent to about twenty-two thousand six hundred eighteen. That wipes out its whole gain for the year. The Dow dropped one point nine percent, and the Russell two thousand lost almost three percent. For the week, the Nasdaq is down about ten percent. That's a wipeout. The morning started calm, but the selling built all day in chips and A I stocks. The big riptide was Nvidia. A Reuters report said S E C staff are looking at its accounting, and the stock plunged fourteen percent. The old Kahuna of the A I trade had its worst day since the DeepSeek scare. A M D fell thirteen percent, and Broadcom dropped twelve. Anthropic, the grommet of the lineup after this week's giant I P O, slid about nine percent to near eighty-nine dollars. Intuit sank about nine percent on a softer revenue outlook. Now the wind and weather. The fear gauge, the VIX, jumped to nearly thirty-six. Investors ran to Treasuries, and the ten-year yield fell to about four point nine one percent. Gold dropped four and a half percent, and bitcoin slipped below fifty-nine thousand dollars. Crude oil bucked the tide, up about one and a half percent. On the data side, consumer sentiment from the University of Michigan rose to fifty-one point five, and inflation expectations cooled. But Fed Governor Lisa Cook said waiting too long to raise rates risks falling behind the curve. Markets see a December rate hike as very likely. Not every board went under, though. Zscaler jumped about twenty percent on a report that CrowdStrike is in talks to buy it. Zscaler caught the one clean wave of the day and rode it to the beach. Gus, that's worth a biscuit! Here you go, buddy! [SNACK] Gap also hung ten, up about twelve percent midday after a profit beat. In beach talk, Anthropic closed its I P O, raising about ninety-three billion dollars. And Take-Two said Grand Theft Auto six sold almost three point eight billion dollars on day one. Tomorrow's forecast: it's the weekend, so we wax the boards. Monday, Hewlett Packard Enterprise and Zoom report after the close. Tuesday brings consumer confidence plus Best Buy, Dell and Workday. Wednesday morning has G D P, P C E inflation and durable goods. Thursday the market is closed for Thanksgiving, and Friday closes early at noon Central. Soul surfers, days like this test your stance, so stay steady. Want a read on a ride? Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you. And catch the Dawn Patrol Monday morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -195,253 +194,289 @@
   },
   {
    "start": 11.57,
-   "end": 17.82,
-   "text": "It's Friday, November twentieth, twenty twenty-six, and this is your Market Surf Report.",
+   "end": 19.65,
+   "text": "It's Friday, November twentieth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
    "speaker": "surf"
   },
   {
-   "start": 18.1,
-   "end": 25.61,
-   "text": "Riding shotgun on the cabana deck is Gus the wonder dog, who hasn't missed a Dawn Patrol all week.",
+   "start": 19.93,
+   "end": 25.67,
+   "text": "The sun is sliding into the water, and folks, that last set of the week was gnarly.",
    "speaker": "surf"
   },
   {
-   "start": 25.89,
-   "end": 27.87,
-   "text": "Give the folks a holler, Gus!",
+   "start": 25.95,
+   "end": 32.22,
+   "text": "Gus the wonder dog spent the whole afternoon hiding under the cabana deck from these waves.",
    "speaker": "surf"
   },
   {
-   "start": 28.15,
-   "end": 28.7,
+   "start": 32.5,
+   "end": 34.96,
+   "text": "Come on out and say good evening, Gus!",
+   "speaker": "surf"
+  },
+  {
+   "start": 35.24,
+   "end": 35.79,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 28.98,
-   "end": 31.03,
-   "text": "Alright, let's check the swell.",
+   "start": 36.07,
+   "end": 38.14,
+   "text": "Okay, here's the final set.",
    "speaker": "surf"
   },
   {
-   "start": 31.31,
-   "end": 33.59,
-   "text": "It's been a gnarly week, friends.",
+   "start": 38.42,
+   "end": 45.24,
+   "text": "The S and P five hundred fell three point seven percent to about six thousand nine hundred ten.",
    "speaker": "surf"
   },
   {
-   "start": 33.87,
-   "end": 39.14,
-   "text": "The S and P five hundred fell two percent yesterday for a sixth straight loss.",
+   "start": 45.52,
+   "end": 52.44,
+   "text": "That's seven losses in a row, and it puts the index in correction territory, right next to the Dow.",
    "speaker": "surf"
   },
   {
-   "start": 39.42,
-   "end": 45.74,
-   "text": "The Dow dropped about two percent and closed under fifty thousand for the first time since June.",
+   "start": 52.72,
+   "end": 60.22,
+   "text": "The Nasdaq got hit hardest, down five point three percent to about twenty-two thousand six hundred eighteen.",
    "speaker": "surf"
   },
   {
-   "start": 46.02,
-   "end": 48.68,
-   "text": "The Nasdaq lost more than two percent.",
+   "start": 60.5,
+   "end": 63.02,
+   "text": "That wipes out its whole gain for the year.",
    "speaker": "surf"
   },
   {
-   "start": 48.96,
-   "end": 59.72,
-   "text": "This morning Nasdaq futures are down about one percent, S and P futures are off about four tenths of a percent, and Dow futures are up a hair.",
+   "start": 63.3,
+   "end": 69.51,
+   "text": "The Dow dropped one point nine percent, and the Russell two thousand lost almost three percent.",
    "speaker": "surf"
   },
   {
-   "start": 60.0,
-   "end": 62.43,
-   "text": "These are early quotes, so stay loose.",
+   "start": 69.79,
+   "end": 73.27,
+   "text": "For the week, the Nasdaq is down about ten percent.",
    "speaker": "surf"
   },
   {
-   "start": 62.71,
-   "end": 67.25,
-   "text": "The ten year Treasury yield sits near five point oh five percent.",
+   "start": 73.55,
+   "end": 74.98,
+   "text": "That's a wipeout.",
    "speaker": "surf"
   },
   {
-   "start": 67.53,
-   "end": 70.16,
-   "text": "The dollar is near a nineteen month high.",
+   "start": 75.26,
+   "end": 80.68,
+   "text": "The morning started calm, but the selling built all day in chips and A I stocks.",
    "speaker": "surf"
   },
   {
-   "start": 70.44,
-   "end": 76.13,
-   "text": "Gold fell more than two percent, and bitcoin slipped under sixty two thousand dollars.",
+   "start": 80.96,
+   "end": 82.98,
+   "text": "The big riptide was Nvidia.",
    "speaker": "surf"
   },
   {
-   "start": 76.41,
-   "end": 79.55,
-   "text": "The fear gauge, the VIX, is near twenty nine.",
+   "start": 83.26,
+   "end": 90.69,
+   "text": "A Reuters report said S E C staff are looking at its accounting, and the stock plunged fourteen percent.",
    "speaker": "surf"
   },
   {
-   "start": 79.83,
-   "end": 86.18,
-   "text": "Overseas, Japan's Nikkei dropped nearly five percent and Korea fell more than four.",
+   "start": 90.97,
+   "end": 96.19,
+   "text": "The old Kahuna of the A I trade had its worst day since the DeepSeek scare.",
    "speaker": "surf"
   },
   {
-   "start": 86.46,
-   "end": 88.24,
+   "start": 96.47,
+   "end": 100.55,
+   "text": "A M D fell thirteen percent, and Broadcom dropped twelve.",
+   "speaker": "surf"
+  },
+  {
+   "start": 100.83,
+   "end": 109.7,
+   "text": "Anthropic, the grommet of the lineup after this week's giant I P O, slid about nine percent to near eighty-nine dollars.",
+   "speaker": "surf"
+  },
+  {
+   "start": 109.98,
+   "end": 114.55,
+   "text": "Intuit sank about nine percent on a softer revenue outlook.",
+   "speaker": "surf"
+  },
+  {
+   "start": 114.83,
+   "end": 116.6,
    "text": "Now the wind and weather.",
    "speaker": "surf"
   },
   {
-   "start": 88.52,
-   "end": 91.72,
-   "text": "Traders now expect a Fed rate hike in December.",
+   "start": 116.88,
+   "end": 120.65,
+   "text": "The fear gauge, the VIX, jumped to nearly thirty-six.",
    "speaker": "surf"
   },
   {
-   "start": 92.0,
-   "end": 96.11,
-   "text": "Fed Governor Waller speaks at seven twenty five A M Central.",
+   "start": 120.93,
+   "end": 127.59,
+   "text": "Investors ran to Treasuries, and the ten-year yield fell to about four point nine one percent.",
    "speaker": "surf"
   },
   {
-   "start": 96.39,
-   "end": 101.51,
-   "text": "The final Michigan consumer sentiment reading lands at nine A M Central.",
+   "start": 127.87,
+   "end": 133.95,
+   "text": "Gold dropped four and a half percent, and bitcoin slipped below fifty-nine thousand dollars.",
    "speaker": "surf"
   },
   {
-   "start": 101.79,
-   "end": 104.4,
-   "text": "Governor Barr speaks at eleven fifteen.",
+   "start": 134.23,
+   "end": 138.24,
+   "text": "Crude oil bucked the tide, up about one and a half percent.",
    "speaker": "surf"
   },
   {
-   "start": 104.68,
-   "end": 112.7,
-   "text": "Over on the tide chart, Intuit fell about ten percent after hours on its report and a deal to sell Mailchimp.",
+   "start": 138.52,
+   "end": 148.91,
+   "text": "On the data side, consumer sentiment from the University of Michigan rose to fifty-one point five, and inflation expectations cooled.",
    "speaker": "surf"
   },
   {
-   "start": 112.98,
-   "end": 115.45,
-   "text": "Ross Stores slid about five percent.",
+   "start": 149.19,
+   "end": 155.57,
+   "text": "But Fed Governor Lisa Cook said waiting too long to raise rates risks falling behind the curve.",
    "speaker": "surf"
   },
   {
-   "start": 115.73,
-   "end": 120.34,
-   "text": "But Gap beat on earnings and rose more than three percent after hours.",
+   "start": 155.85,
+   "end": 159.2,
+   "text": "Markets see a December rate hike as very likely.",
    "speaker": "surf"
   },
   {
-   "start": 120.62,
-   "end": 122.56,
-   "text": "That calls for a treat, Gus!",
+   "start": 159.48,
+   "end": 161.65,
+   "text": "Not every board went under, though.",
    "speaker": "surf"
   },
   {
-   "start": 122.84,
-   "end": 124.29,
+   "start": 161.93,
+   "end": 168.16,
+   "text": "Zscaler jumped about twenty percent on a report that CrowdStrike is in talks to buy it.",
+   "speaker": "surf"
+  },
+  {
+   "start": 168.44,
+   "end": 173.14,
+   "text": "Zscaler caught the one clean wave of the day and rode it to the beach.",
+   "speaker": "surf"
+  },
+  {
+   "start": 173.42,
+   "end": 175.17,
+   "text": "Gus, that's worth a biscuit!",
+   "speaker": "surf"
+  },
+  {
+   "start": 175.45,
+   "end": 176.9,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 124.57,
-   "end": 126.54,
+   "start": 177.18,
+   "end": 179.15,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 126.82,
-   "end": 129.45,
-   "text": "Keysight also beat and moved higher.",
+   "start": 179.43,
+   "end": 184.74,
+   "text": "Gap also hung ten, up about twelve percent midday after a profit beat.",
    "speaker": "surf"
   },
   {
-   "start": 129.73,
-   "end": 140.09,
-   "text": "Checking the lineup, Anthropic is down about six percent in its second day of trading, but it's still above its eighty three dollar I P O price.",
+   "start": 185.02,
+   "end": 192.08,
+   "text": "In beach talk, Anthropic closed its I P O, raising about ninety-three billion dollars.",
    "speaker": "surf"
   },
   {
-   "start": 140.37,
-   "end": 145.47,
-   "text": "Nvidia is off about two percent as the A I trade keeps wiping out.",
+   "start": 192.36,
+   "end": 199.25,
+   "text": "And Take-Two said Grand Theft Auto six sold almost three point eight billion dollars on day one.",
    "speaker": "surf"
   },
   {
-   "start": 145.75,
-   "end": 150.53,
-   "text": "A M D fell almost eight percent yesterday on a short seller report.",
+   "start": 199.53,
+   "end": 203.8,
+   "text": "Tomorrow's forecast: it's the weekend, so we wax the boards.",
    "speaker": "surf"
   },
   {
-   "start": 150.81,
-   "end": 156.17,
-   "text": "Palo Alto Networks bucked the trend, up six percent on a higher forecast.",
+   "start": 204.08,
+   "end": 208.79,
+   "text": "Monday, Hewlett Packard Enterprise and Zoom report after the close.",
    "speaker": "surf"
   },
   {
-   "start": 156.45,
-   "end": 161.78,
-   "text": "Beach talk: Anthropic's I P O raised about eighty one billion dollars.",
+   "start": 209.07,
+   "end": 213.72,
+   "text": "Tuesday brings consumer confidence plus Best Buy, Dell and Workday.",
    "speaker": "surf"
   },
   {
-   "start": 162.06,
-   "end": 165.17,
-   "text": "Palo Alto agreed to buy Applied Compute.",
+   "start": 214.0,
+   "end": 219.57,
+   "text": "Wednesday morning has G D P, P C E inflation and durable goods.",
    "speaker": "surf"
   },
   {
-   "start": 165.45,
-   "end": 169.02,
-   "text": "And Texas is back to reviewing data center permits.",
+   "start": 219.85,
+   "end": 225.93,
+   "text": "Thursday the market is closed for Thanksgiving, and Friday closes early at noon Central.",
    "speaker": "surf"
   },
   {
-   "start": 169.3,
-   "end": 180.35,
-   "text": "Sets to watch today: can the S and P snap its losing streak, what does the Michigan survey say about inflation, and how do the A I names hold up.",
+   "start": 226.21,
+   "end": 230.5,
+   "text": "Soul surfers, days like this test your stance, so stay steady.",
    "speaker": "surf"
   },
   {
-   "start": 180.63,
-   "end": 183.78,
-   "text": "Soul surfers, these closed-out days pass.",
+   "start": 230.78,
+   "end": 232.51,
+   "text": "Want a read on a ride?",
    "speaker": "surf"
   },
   {
-   "start": 184.06,
-   "end": 187.78,
-   "text": "No need to paddle out like a kook into heavy water.",
-   "speaker": "surf"
-  },
-  {
-   "start": 188.06,
-   "end": 190.4,
-   "text": "Want a read on a particular break?",
-   "speaker": "surf"
-  },
-  {
-   "start": 190.68,
-   "end": 200.24,
+   "start": 232.79,
+   "end": 242.34,
    "text": "Type any stock, E T F or futures contract into the Check a Wave box on the page, and Surf Daddy will call it for you.",
    "speaker": "surf"
   },
   {
-   "start": 200.52,
-   "end": 203.12,
+   "start": 242.62,
+   "end": 245.53,
+   "text": "And catch the Dawn Patrol Monday morning.",
+   "speaker": "surf"
+  },
+  {
+   "start": 245.81,
+   "end": 248.41,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 203.4,
-   "end": 208.61,
+   "start": 248.69,
+   "end": 253.89,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
