@@ -1,118 +1,117 @@
 {
- "date": "2026-11-23",
- "slot": "evening",
- "title": "Sunset Session",
- "edition": "Sunset Session",
+ "date": "2026-11-24",
+ "title": "Market Surf Report",
+ "edition": "Dawn Patrol Edition",
  "is_sample": false,
- "updated": "Nov 23, 5:10 PM CT",
+ "updated": "Nov 24, 5:50 AM CT",
  "conditions": {
-  "rating": "Epic",
-  "headline": "Huang Paddles Back Out and the Whole Beach Rides the Wave",
-  "summary": "Stocks posted their best day since April 2025 after Nvidia reinstated Jensen Huang as CEO, snapping the S&P 500's seven-day losing streak. The Nasdaq jumped 6.5 percent and fear gauge VIX dropped about 25 percent."
+  "rating": "Poor",
+  "headline": "Monster Monday Swell Backs Off; Chips Paddle Back In",
+  "summary": "Futures slip as chip stocks give back part of Monday's huge Nvidia-led rally, with the Nasdaq hit hardest. VIX is up and traders are bracing for Wednesday's PCE inflation report, with a December Fed hike now priced in."
  },
  "tape": [
   {
-   "label": "S&P 500",
-   "value": "+4.7%",
-   "dir": "up"
+   "label": "S&P fut",
+   "value": "-0.5%",
+   "dir": "down"
   },
   {
-   "label": "Nasdaq",
-   "value": "+6.5%",
-   "dir": "up"
+   "label": "Nasdaq fut",
+   "value": "-1.2%",
+   "dir": "down"
   },
   {
-   "label": "Dow",
-   "value": "+3.0%",
-   "dir": "up"
+   "label": "Dow fut",
+   "value": "-0.1%",
+   "dir": "down"
   },
   {
-   "label": "Russell 2000",
-   "value": "+3.4%",
-   "dir": "up"
+   "label": "Russell fut",
+   "value": "-0.5%",
+   "dir": "down"
   },
   {
    "label": "10-yr",
-   "value": "4.93%",
-   "dir": "down"
+   "value": "4.92%",
+   "dir": "up"
   },
   {
    "label": "Dollar",
-   "value": "+0.5%",
-   "dir": "up"
+   "value": "n/a",
+   "dir": "flat"
   },
   {
    "label": "Crude",
-   "value": "-3.9%",
-   "dir": "down"
+   "value": "$80.16 (0.0%)",
+   "dir": "flat"
   },
   {
    "label": "Gold",
-   "value": "+3.0%",
-   "dir": "up"
+   "value": "-0.6%",
+   "dir": "down"
   },
   {
    "label": "Bitcoin",
-   "value": "+0.3%",
-   "dir": "up"
+   "value": "-2.5%",
+   "dir": "down"
   },
   {
    "label": "VIX",
-   "value": "-24.6%",
-   "dir": "down"
+   "value": "29.1 (+9%)",
+   "dir": "up"
   }
  ],
  "sections": [
   {
-   "id": "close",
-   "surf": "The Final Set",
-   "title": "Closing Bell",
+   "id": "swell",
+   "surf": "The Swell",
+   "title": "Futures & Overnight",
    "items": [
-    "The S&P 500 rose 4.7% to 7,237, its best day since April 2025, ending a seven-session losing streak that had pushed it into a correction.",
-    "The Nasdaq Composite surged 6.5% to 24,090 and the Dow gained 3.0% (about 1,448 points) to 49,595; the Russell 2000 added about 3.4%.",
-    "The spark: Nvidia's board reinstated Jensen Huang as president and CEO, effective immediately, after he stepped down on November 12; Nvidia closed up about 31%.",
-    "Nasdaq 100 fund QQQ opened nearly 8% higher, its biggest opening gain since 1999, and the market held most of the gain into the close.",
-    "Nine of 11 S&P sectors rose; technology led with a 9% gain and communication services rose 5%, while energy (-1.3%) and consumer staples (-0.1%) slipped.",
-    "Some strategists said part of the move was mechanical, driven by short covering and options-dealer hedging."
+    "S&P 500 futures were down about 0.5%, Nasdaq-100 futures down about 1.2% and Dow futures down about 0.1% as of roughly 5:30 AM ET; earlier quotes were weaker, so readings are still moving.",
+    "Russell 2000 futures were down about 0.5% in an early, untimed quote.",
+    "Monday was huge: the Nasdaq Composite jumped 6.5%, the S&P 500 4.7% and the Dow 3%, the best day since April 2025, after Nvidia's board reinstated Jensen Huang as CEO.",
+    "The 10-year Treasury yield is near 4.92%; WTI crude is flat around $80; gold is off 0.6%; bitcoin is down about 2.5% near $59,800.",
+    "The VIX is up about 9% to around 29, a sign traders still expect choppy water.",
+    "Asia rallied: Japan's Nikkei rose nearly 4% and South Korea's Kospi more than 6%, while Hong Kong's Hang Seng slipped 0.7%.",
+    "Europe is mixed and pausing as the tech rally fades; Sanofi is a notable gainer.",
+    "No US dollar index reading was available in sources checked this morning."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Fed",
+   "title": "Macro & Economic Calendar",
    "items": [
-    "The S&P Global flash manufacturing PMI came in at 54.5, matching forecasts; the services PMI slipped to 54.7 versus 55.6 expected. Markets barely reacted.",
-    "The 10-year Treasury yield settled near 4.93%, roughly 2 basis points lower, while the 2-year rose about 2 basis points to 4.67%.",
-    "The dollar index climbed about 0.5% to roughly 104.3, a 19-month high.",
-    "WTI crude fell about 3.9% to settle near $80.17 a barrel, a three-month low, as Libya's Sharara pipeline reopened.",
-    "Futures still price a strong chance of a Fed rate hike at the December 9 meeting; this week is the last stretch of Fed commentary before the blackout.",
-    "The VIX fell about 25% to 27.05 from 35.89 on Friday."
-   ]
-  },
-  {
-   "id": "lineup",
-   "surf": "The Lineup",
-   "title": "Biggest Movers",
-   "items": [
-    "NVDA (Nvidia): +31.5% — Jensen Huang reinstated as CEO, adding more than $1 trillion in market value.",
-    "CRWV (CoreWeave): +22.3% — AI infrastructure names rebounded alongside Nvidia.",
-    "DELL (Dell): +20.5% — AI server maker bounced ahead of its earnings report Tuesday.",
-    "MU (Micron): +19.0% — memory chip stocks surged in the semiconductor rebound.",
-    "ZS (Zscaler): +17.7% — CrowdStrike agreed to buy it in an all-stock deal worth about $44 billion.",
-    "TSLA (Tesla): +11.5% — joined the broad megacap tech rally.",
-    "CRWD (CrowdStrike): -8.9% — fell on the cost of the Zscaler deal despite beating estimates and raising its outlook.",
-    "CAPR (Capricor Therapeutics): down more than 70% — the FDA declined to approve its Duchenne cell therapy deramiocel."
+    "8:00 AM CT: Case-Shiller home prices for September; consensus +0.2% m/m.",
+    "9:00 AM CT: Conference Board consumer confidence for November; consensus about 92.2, versus 91.7 last month.",
+    "Also today: Richmond Fed manufacturing index, FHFA home prices and a $70 billion 5-year note auction.",
+    "The Fed is in its blackout period before the December 9 meeting; futures now price a 25 basis point rate hike in December, with a small chance of 50.",
+    "Main event this week is Wednesday's 7:30 AM CT data dump: October PCE inflation (core seen +0.3% m/m, 3.4% y/y), Q3 GDP revision, durable goods and jobless claims, plus the Beige Book at 1:00 PM CT.",
+    "Markets are closed Thursday for Thanksgiving."
    ]
   },
   {
    "id": "tide",
    "surf": "Tide Chart",
-   "title": "Earnings Today & Tonight",
+   "title": "Earnings",
    "items": [
-    "CrowdStrike reported fiscal third-quarter revenue up 28% to $1.58 billion and raised its full-year outlook, but the stock fell about 9% on the Zscaler deal.",
-    "Zscaler reported first-quarter revenue up 20% and withdrew its outlook because of the pending merger; shares rose about 18%.",
-    "After the close, Zoom posted a third-quarter beat on both earnings and revenue and lifted its full-year outlook.",
-    "Hewlett Packard Enterprise, Agilent, Jacobs, Symbotic and Semtech also reported after the bell; their after-hours moves were not yet confirmed at press time."
+    "Hewlett Packard Enterprise reported fiscal Q4 results after Monday's close; shares are down about 11% pre-market.",
+    "Before today's open: Medtronic, Analog Devices, Best Buy, Dollar Tree, Kohl's and Bilibili are due; Best Buy is expected to earn about $1.49 a share.",
+    "After today's close: Dell (expected $6.62 a share on about $49 billion in revenue, with a big AI server backlog in focus), HP Inc., Autodesk, Workday and CleanSpark.",
+    "Deere reports Wednesday morning."
+   ]
+  },
+  {
+   "id": "lineup",
+   "surf": "The Lineup",
+   "title": "Stocks in the News",
+   "items": [
+    "HPE (Hewlett Packard Enterprise): -11% — falling after its fourth-quarter results.",
+    "NVDA (Nvidia): about -4% to -5% — giving back part of Monday's 31% surge on Jensen Huang's return as CEO.",
+    "MU, AMD, MRVL (Micron, AMD, Marvell): -3% to -4% — chip stocks cooling after Monday's rally.",
+    "CRWV (CoreWeave): -5% — AI cloud names giving back Monday's surge.",
+    "NBIS (Nebius): -4% — same neocloud pullback; IREN is also down more than 4%.",
+    "Anthropic: about -4% — heading for a third straight decline since its market debut last week."
    ]
   },
   {
@@ -120,73 +119,64 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Nvidia's board said it voted unanimously to bring back Huang after consulting senior US officials; independent directors will finish their investigation, and Huang faces a public hearing December 3.",
-    "CrowdStrike will buy Zscaler in an all-stock deal valued at about $43.9 billion, a 34% premium, targeting $1 billion in annual revenue synergies.",
-    "Texas Pacific Land agreed to buy EagleRock Land for about $3 billion in stock, and CD&R is in talks to acquire Ashland for about $3.4 billion in cash.",
-    "Enphase Energy said it will cut 12% of its workforce.",
-    "President Trump said he expects China to buy another 250 Boeing aircraft."
+    "Nvidia's board unanimously reinstated Jensen Huang as CEO about 11 days after he resigned; it is creating a national security and export controls committee and will hire a chief compliance officer, while an internal review continues.",
+    "Amazon is reported to be close to, or to have agreed to, a roughly $7.5 billion deal for AI startup Decart, whose software helps AI models run more efficiently on chips.",
+    "Oregon and Virginia sued SpaceX and related companies over sexualized images made by the Grok chatbot, seeking penalties and court orders.",
+    "The US added Singapore-based Megaspeed to its trade blacklist over alleged Nvidia chip exports to China; the company denies wrongdoing.",
+    "The New York Times reports SpaceX is selling computing capacity to AI rivals including Anthropic and Google."
    ]
   },
   {
-   "id": "tomorrow",
-   "surf": "Tomorrow's Forecast",
-   "title": "On Deck",
+   "id": "watch",
+   "surf": "Sets to Watch",
+   "title": "What to Watch Today",
    "items": [
-    "Tuesday data: home prices at 8:00 AM CT, then Conference Board consumer confidence (forecast 92.1) and the Richmond Fed manufacturing index at 9:00 AM CT.",
-    "Before the open: Analog Devices, Medtronic, Best Buy, Dollar Tree, Dick's Sporting Goods, Burlington and J.M. Smucker.",
-    "After the close: Dell, Workday, Autodesk, HP and Nutanix.",
-    "Wednesday at 7:30 AM CT brings the PCE inflation report, the second estimate of third-quarter GDP, durable goods and jobless claims; markets are closed Thursday for Thanksgiving."
+    "9:00 AM CT consumer confidence: a read on holiday-season spending mood.",
+    "Whether chip stocks hold most of Monday's gains; Nvidia's pullback sets the tone for the Nasdaq.",
+    "Dell after the close: its AI server backlog is a key test for AI demand heading into Wednesday's PCE report."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Monday, November twenty third, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sinking into the water, the sky is pink and gold, and after a week of wipeouts, today was one gnarly comeback. Gus the wonder dog spent all afternoon chasing the swell up and down the sand, and he is one happy pup tonight. Give the Trade Wind surfers a good evening howl, Gus! Here's the final set. The S and P five hundred jumped four point seven percent to about seven thousand two hundred thirty seven. That's its best day since April of last year, and it snapped a seven day losing streak. The Nasdaq Composite surged six and a half percent to about twenty four thousand ninety. The Dow gained three percent, or about one thousand four hundred fifty points, to about forty nine thousand five hundred ninety five. Small caps in the Russell two thousand rose about three point four percent. The big swell came from Nvidia. Its board brought back Jensen Huang as chief executive, effective right away, after he stepped down on November twelfth. Nvidia rode that wave all the way to the beach, up about thirty one percent, adding more than a trillion dollars in value. Now that's a true Kahuna. Gus, that one's worth a biscuit! Here you go, buddy! Technology stocks led, up about nine percent as a group. Nine of eleven sectors rose, while energy and consumer staples slipped. Some pros say part of this was short covering, so don't expect glassy water every day. Wind and weather now. The fear gauge, the V I X, dropped about twenty five percent to around twenty seven. The ten year Treasury yield settled near four point nine three percent, down about two basis points. The dollar rose about half a percent to a nineteen month high. Crude oil fell almost four percent to around eighty dollars a barrel, and gold rose about three percent. Bitcoin barely moved. A survey of service businesses came in a bit softer than expected, but nobody cared today. Traders still see a good chance the Fed raises rates on December ninth. In the lineup, CoreWeave climbed twenty two percent, Dell twenty percent, and Micron nineteen percent. Zscaler rose about eighteen percent after CrowdStrike agreed to buy it in an all stock deal worth about forty four billion dollars. CrowdStrike beat estimates and raised its outlook, but it still wiped out, down about nine percent. Tesla hung ten, up about eleven and a half percent. And Capricor Therapeutics sank more than seventy percent after the F D A declined to approve its Duchenne therapy. On the tide chart tonight, Zoom posted a beat on earnings and revenue and raised its outlook. Hewlett Packard Enterprise, Agilent, Jacobs and Symbotic also reported after the bell. Beach talk: Texas Pacific Land is buying EagleRock Land for about three billion dollars, Enphase is cutting twelve percent of its workforce, and the President said he expects China to buy two hundred fifty more Boeing jets. Tomorrow's forecast. Consumer confidence and the Richmond Fed survey land at nine A M Central. Before the bell, Analog Devices, Medtronic, Best Buy and Dollar Tree report. After the close, Dell, Workday, Autodesk and H P. Then Wednesday at seven thirty A M Central brings the big P C E inflation report before Thanksgiving. So wax that board and catch the Dawn Patrol tomorrow morning. And hey, want me to call a wave for you? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will tell you how it's breaking. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Tuesday, November twenty-fourth, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog is curled up on his beach towel, but I think he's awake. Give the lineup a holler, Gus! Thanks, buddy. Conditions this Dawn Patrol are poor, after a truly gnarly Monday swell. Yesterday the Nasdaq jumped six and a half percent and the S and P five hundred gained almost five percent, the best day since April of last year. Nvidia rocketed thirty-one percent after its board brought back Jensen Huang as chief executive. This morning the wave is backing off. S and P futures are down about half a percent. Nasdaq futures are down about one point two percent. Dow futures are down only slightly. Early quotes are still moving, so stay loose. The ten-year Treasury yield sits near four point nine percent. Crude is flat around eighty dollars. Gold is down a little, bitcoin is off about two and a half percent, and the VIX fear gauge is up near twenty-nine. Over in Asia, South Korea's Kospi jumped more than six percent and Japan's Nikkei rose almost four percent. Now that's a set worth riding. Gus, that calls for a treat! Here you go, buddy! Europe is mixed. On the weather map, Case-Shiller home prices land at eight A M Central, and consumer confidence at nine A M Central, expected near ninety-two. The Fed is quiet ahead of its December meeting, and traders now price in a quarter point rate hike. The big storm is Wednesday at seven thirty A M Central, with October P C E inflation, a G D P update and jobless claims. Markets are closed Thursday for Thanksgiving. On the tide chart, Hewlett Packard Enterprise is down about eleven percent after its results. Best Buy, Medtronic, Analog Devices and Dollar Tree report this morning. Dell, H P, Autodesk and Workday report after the close. In the lineup, Nvidia is giving back four to five percent. Micron, A M D and Marvell are down three to four percent. CoreWeave and Nebius are down four to five percent. And Anthropic is off about four percent, heading for a third straight drop since its debut. Beach talk: Amazon is reported to be buying A I startup Decart for about seven and a half billion dollars. Two states sued SpaceX over Grok images. And Washington blacklisted Singapore's Megaspeed over alleged chip exports to China. Sets to watch today: consumer confidence at nine, whether chip stocks hold Monday's gains, and Dell tonight. Soul surfers know a monster swell usually comes with some wipeouts, so no need to panic. Want my read on a wave? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Motley Fool: Stock Market Today, Nov. 23",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+   "title": "Yahoo Finance live: Stock market today, Nov 24",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
   },
   {
-   "title": "24/7 Wall St. closing bell",
-   "url": "https://247wallst.com/cards/anyone-who-sat-out-today-missed-the-kind-of-session-that-res-gspc-market-bell-01m853j2rdb4zqsc9g1xm1nzmw"
+   "title": "Reuters via WBOW: Wall St futures dip as chip stocks cool",
+   "url": "https://1027wbow.com/2026/11/24/wall-st-futures-dip-as-chip-stocks-cool-after-nvidia-fueled-rally/"
   },
   {
-   "title": "Newsquawk US Market Wrap",
-   "url": "https://www.newsquawk.com/headlines/newsquawk-us-market-wrap---stocks-surge-as-nvda-reinstates-huang-as-ceo"
+   "title": "TipRanks: Stock Market Today, Nov 24",
+   "url": "https://www.tipranks.com/news/stock-market-today-nov-24-markets-turn-jittery-even-as-huang-returns-to-nvidia"
   },
   {
-   "title": "Reuters Trading Day via Investing.com",
-   "url": "https://www.investing.com/news/economy-news/trading-day-market-euphoria-as-huang-returns-to-nvidia-5046578"
+   "title": "Seeking Alpha: Stock futures after Nvidia-led rally",
+   "url": "https://seekingalpha.com/news/4676026-sp500-nasdaq-dow-jones-outlook-stock-market"
   },
   {
-   "title": "JournalArta market close",
-   "url": "https://journalarta.com/en/2026/11/24/stock-market-today-sp-500-closes-4-73-higher-nasdaq-jumps-6-51-as-vix-plunges/"
+   "title": "Zacks via Yahoo: Stock Market News for Nov 24",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-24-080800306.html"
   },
   {
-   "title": "StockTitan live market coverage",
-   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-23-2026"
+   "title": "ZeroHedge: Key events this holiday-shortened week",
+   "url": "https://www.zerohedge.com/markets/key-events-holiday-shortened-week-all-about-pce"
   },
   {
-   "title": "Beinsure: Nasdaq surges as Nvidia jumps",
-   "url": "https://beinsure.com/news/us-stock-market-today-nasdaq-composite-surges-as-nvidia-jumps/"
+   "title": "TipRanks: Stocks reporting earnings today",
+   "url": "https://www.tipranks.com/news/these-are-the-stocks-reporting-earnings-today-november-24-2026"
   },
   {
-   "title": "Seeking Alpha: Biggest stock movers Monday",
-   "url": "https://seekingalpha.com/news/4675480-biggest-stock-movers-monday-magnificent-seven-and-more"
+   "title": "PYMNTS: Amazon nears $7.5B deal for Decart",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/"
   },
   {
-   "title": "Benzinga: Zoom Q3 double beat",
-   "url": "https://www.benzinga.com/markets/earnings/26/11/63563841/zoom-posts-q3-double-beat-lifts-2026-outlook"
-  },
-  {
-   "title": "StockTitan earnings calendar",
-   "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-23-2026"
-  },
-  {
-   "title": "FXEmpire: The Week Ahead",
-   "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337"
+   "title": "The Neuron: AI news, Nov 24",
+   "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Monday, November twenty third, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sinking into the water, the sky is pink and gold, and after a week of wipeouts, today was one gnarly comeback. Gus the wonder dog spent all afternoon chasing the swell up and down the sand, and he is one happy pup tonight. Give the Trade Wind surfers a good evening howl, Gus! [BARK] Here's the final set. The S and P five hundred jumped four point seven percent to about seven thousand two hundred thirty seven. That's its best day since April of last year, and it snapped a seven day losing streak. The Nasdaq Composite surged six and a half percent to about twenty four thousand ninety. The Dow gained three percent, or about one thousand four hundred fifty points, to about forty nine thousand five hundred ninety five. Small caps in the Russell two thousand rose about three point four percent. The big swell came from Nvidia. Its board brought back Jensen Huang as chief executive, effective right away, after he stepped down on November twelfth. Nvidia rode that wave all the way to the beach, up about thirty one percent, adding more than a trillion dollars in value. Now that's a true Kahuna. Gus, that one's worth a biscuit! Here you go, buddy! [SNACK] Technology stocks led, up about nine percent as a group. Nine of eleven sectors rose, while energy and consumer staples slipped. Some pros say part of this was short covering, so don't expect glassy water every day. Wind and weather now. The fear gauge, the V I X, dropped about twenty five percent to around twenty seven. The ten year Treasury yield settled near four point nine three percent, down about two basis points. The dollar rose about half a percent to a nineteen month high. Crude oil fell almost four percent to around eighty dollars a barrel, and gold rose about three percent. Bitcoin barely moved. A survey of service businesses came in a bit softer than expected, but nobody cared today. Traders still see a good chance the Fed raises rates on December ninth. In the lineup, CoreWeave climbed twenty two percent, Dell twenty percent, and Micron nineteen percent. Zscaler rose about eighteen percent after CrowdStrike agreed to buy it in an all stock deal worth about forty four billion dollars. CrowdStrike beat estimates and raised its outlook, but it still wiped out, down about nine percent. Tesla hung ten, up about eleven and a half percent. And Capricor Therapeutics sank more than seventy percent after the F D A declined to approve its Duchenne therapy. On the tide chart tonight, Zoom posted a beat on earnings and revenue and raised its outlook. Hewlett Packard Enterprise, Agilent, Jacobs and Symbotic also reported after the bell. Beach talk: Texas Pacific Land is buying EagleRock Land for about three billion dollars, Enphase is cutting twelve percent of its workforce, and the President said he expects China to buy two hundred fifty more Boeing jets. Tomorrow's forecast. Consumer confidence and the Richmond Fed survey land at nine A M Central. Before the bell, Analog Devices, Medtronic, Best Buy and Dollar Tree report. After the close, Dell, Workday, Autodesk and H P. Then Wednesday at seven thirty A M Central brings the big P C E inflation report before Thanksgiving. So wax that board and catch the Dawn Patrol tomorrow morning. And hey, want me to call a wave for you? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will tell you how it's breaking. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Tuesday, November twenty-fourth, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog is curled up on his beach towel, but I think he's awake. Give the lineup a holler, Gus! [BARK] Thanks, buddy. Conditions this Dawn Patrol are poor, after a truly gnarly Monday swell. Yesterday the Nasdaq jumped six and a half percent and the S and P five hundred gained almost five percent, the best day since April of last year. Nvidia rocketed thirty-one percent after its board brought back Jensen Huang as chief executive. This morning the wave is backing off. S and P futures are down about half a percent. Nasdaq futures are down about one point two percent. Dow futures are down only slightly. Early quotes are still moving, so stay loose. The ten-year Treasury yield sits near four point nine percent. Crude is flat around eighty dollars. Gold is down a little, bitcoin is off about two and a half percent, and the VIX fear gauge is up near twenty-nine. Over in Asia, South Korea's Kospi jumped more than six percent and Japan's Nikkei rose almost four percent. Now that's a set worth riding. Gus, that calls for a treat! Here you go, buddy! [SNACK] Europe is mixed. On the weather map, Case-Shiller home prices land at eight A M Central, and consumer confidence at nine A M Central, expected near ninety-two. The Fed is quiet ahead of its December meeting, and traders now price in a quarter point rate hike. The big storm is Wednesday at seven thirty A M Central, with October P C E inflation, a G D P update and jobless claims. Markets are closed Thursday for Thanksgiving. On the tide chart, Hewlett Packard Enterprise is down about eleven percent after its results. Best Buy, Medtronic, Analog Devices and Dollar Tree report this morning. Dell, H P, Autodesk and Workday report after the close. In the lineup, Nvidia is giving back four to five percent. Micron, A M D and Marvell are down three to four percent. CoreWeave and Nebius are down four to five percent. And Anthropic is off about four percent, heading for a third straight drop since its debut. Beach talk: Amazon is reported to be buying A I startup Decart for about seven and a half billion dollars. Two states sued SpaceX over Grok images. And Washington blacklisted Singapore's Megaspeed over alleged chip exports to China. Sets to watch today: consumer confidence at nine, whether chip stocks hold Monday's gains, and Dell tonight. Soul surfers know a monster swell usually comes with some wipeouts, so no need to panic. Want my read on a wave? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -203,283 +193,253 @@
   },
   {
    "start": 11.57,
-   "end": 19.85,
-   "text": "It's Monday, November twenty third, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
+   "end": 18.22,
+   "text": "It's Tuesday, November twenty-fourth, twenty twenty-six, and this is your Market Surf Report.",
    "speaker": "surf"
   },
   {
-   "start": 20.13,
-   "end": 29.0,
-   "text": "The sun is sinking into the water, the sky is pink and gold, and after a week of wipeouts, today was one gnarly comeback.",
+   "start": 18.5,
+   "end": 23.5,
+   "text": "Gus the wonder dog is curled up on his beach towel, but I think he's awake.",
    "speaker": "surf"
   },
   {
-   "start": 29.28,
-   "end": 36.77,
-   "text": "Gus the wonder dog spent all afternoon chasing the swell up and down the sand, and he is one happy pup tonight.",
+   "start": 23.78,
+   "end": 25.85,
+   "text": "Give the lineup a holler, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 37.05,
-   "end": 40.57,
-   "text": "Give the Trade Wind surfers a good evening howl, Gus!",
-   "speaker": "surf"
-  },
-  {
-   "start": 40.85,
-   "end": 41.4,
+   "start": 26.13,
+   "end": 26.68,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 41.68,
-   "end": 43.38,
-   "text": "Here's the final set.",
+   "start": 26.96,
+   "end": 28.15,
+   "text": "Thanks, buddy.",
    "speaker": "surf"
   },
   {
-   "start": 43.66,
-   "end": 51.79,
-   "text": "The S and P five hundred jumped four point seven percent to about seven thousand two hundred thirty seven.",
+   "start": 28.43,
+   "end": 33.68,
+   "text": "Conditions this Dawn Patrol are poor, after a truly gnarly Monday swell.",
    "speaker": "surf"
   },
   {
-   "start": 52.07,
-   "end": 57.7,
-   "text": "That's its best day since April of last year, and it snapped a seven day losing streak.",
+   "start": 33.96,
+   "end": 44.73,
+   "text": "Yesterday the Nasdaq jumped six and a half percent and the S and P five hundred gained almost five percent, the best day since April of last year.",
    "speaker": "surf"
   },
   {
-   "start": 57.98,
-   "end": 64.13,
-   "text": "The Nasdaq Composite surged six and a half percent to about twenty four thousand ninety.",
+   "start": 45.01,
+   "end": 52.39,
+   "text": "Nvidia rocketed thirty-one percent after its board brought back Jensen Huang as chief executive.",
    "speaker": "surf"
   },
   {
-   "start": 64.41,
-   "end": 73.69,
-   "text": "The Dow gained three percent, or about one thousand four hundred fifty points, to about forty nine thousand five hundred ninety five.",
+   "start": 52.67,
+   "end": 55.17,
+   "text": "This morning the wave is backing off.",
    "speaker": "surf"
   },
   {
-   "start": 73.97,
-   "end": 79.3,
-   "text": "Small caps in the Russell two thousand rose about three point four percent.",
+   "start": 55.45,
+   "end": 59.08,
+   "text": "S and P futures are down about half a percent.",
    "speaker": "surf"
   },
   {
-   "start": 79.58,
-   "end": 81.74,
-   "text": "The big swell came from Nvidia.",
+   "start": 59.36,
+   "end": 63.17,
+   "text": "Nasdaq futures are down about one point two percent.",
    "speaker": "surf"
   },
   {
-   "start": 82.02,
-   "end": 90.53,
-   "text": "Its board brought back Jensen Huang as chief executive, effective right away, after he stepped down on November twelfth.",
+   "start": 63.45,
+   "end": 66.16,
+   "text": "Dow futures are down only slightly.",
    "speaker": "surf"
   },
   {
-   "start": 90.81,
-   "end": 99.79,
-   "text": "Nvidia rode that wave all the way to the beach, up about thirty one percent, adding more than a trillion dollars in value.",
+   "start": 66.44,
+   "end": 69.41,
+   "text": "Early quotes are still moving, so stay loose.",
    "speaker": "surf"
   },
   {
-   "start": 100.07,
-   "end": 101.99,
-   "text": "Now that's a true Kahuna.",
+   "start": 69.69,
+   "end": 73.91,
+   "text": "The ten-year Treasury yield sits near four point nine percent.",
    "speaker": "surf"
   },
   {
-   "start": 102.27,
-   "end": 104.36,
-   "text": "Gus, that one's worth a biscuit!",
+   "start": 74.19,
+   "end": 76.67,
+   "text": "Crude is flat around eighty dollars.",
    "speaker": "surf"
   },
   {
-   "start": 104.64,
-   "end": 106.09,
+   "start": 76.95,
+   "end": 85.25,
+   "text": "Gold is down a little, bitcoin is off about two and a half percent, and the VIX fear gauge is up near twenty-nine.",
+   "speaker": "surf"
+  },
+  {
+   "start": 85.53,
+   "end": 93.78,
+   "text": "Over in Asia, South Korea's Kospi jumped more than six percent and Japan's Nikkei rose almost four percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 94.06,
+   "end": 96.24,
+   "text": "Now that's a set worth riding.",
+   "speaker": "surf"
+  },
+  {
+   "start": 96.52,
+   "end": 98.48,
+   "text": "Gus, that calls for a treat!",
+   "speaker": "surf"
+  },
+  {
+   "start": 98.76,
+   "end": 100.21,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 106.37,
-   "end": 108.34,
+   "start": 100.49,
+   "end": 102.46,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 108.62,
-   "end": 112.97,
-   "text": "Technology stocks led, up about nine percent as a group.",
+   "start": 102.74,
+   "end": 104.19,
+   "text": "Europe is mixed.",
    "speaker": "surf"
   },
   {
-   "start": 113.25,
-   "end": 118.44,
-   "text": "Nine of eleven sectors rose, while energy and consumer staples slipped.",
+   "start": 104.47,
+   "end": 115.22,
+   "text": "On the weather map, Case-Shiller home prices land at eight A M Central, and consumer confidence at nine A M Central, expected near ninety-two.",
    "speaker": "surf"
   },
   {
-   "start": 118.72,
-   "end": 124.58,
-   "text": "Some pros say part of this was short covering, so don't expect glassy water every day.",
+   "start": 115.5,
+   "end": 121.97,
+   "text": "The Fed is quiet ahead of its December meeting, and traders now price in a quarter point rate hike.",
    "speaker": "surf"
   },
   {
-   "start": 124.86,
-   "end": 126.51,
-   "text": "Wind and weather now.",
+   "start": 122.25,
+   "end": 132.45,
+   "text": "The big storm is Wednesday at seven thirty A M Central, with October P C E inflation, a G D P update and jobless claims.",
    "speaker": "surf"
   },
   {
-   "start": 126.79,
-   "end": 133.06,
-   "text": "The fear gauge, the V I X, dropped about twenty five percent to around twenty seven.",
+   "start": 132.73,
+   "end": 135.5,
+   "text": "Markets are closed Thursday for Thanksgiving.",
    "speaker": "surf"
   },
   {
-   "start": 133.34,
-   "end": 140.14,
-   "text": "The ten year Treasury yield settled near four point nine three percent, down about two basis points.",
+   "start": 135.78,
+   "end": 142.35,
+   "text": "On the tide chart, Hewlett Packard Enterprise is down about eleven percent after its results.",
    "speaker": "surf"
   },
   {
-   "start": 140.42,
-   "end": 144.46,
-   "text": "The dollar rose about half a percent to a nineteen month high.",
+   "start": 142.63,
+   "end": 148.33,
+   "text": "Best Buy, Medtronic, Analog Devices and Dollar Tree report this morning.",
    "speaker": "surf"
   },
   {
-   "start": 144.74,
-   "end": 151.93,
-   "text": "Crude oil fell almost four percent to around eighty dollars a barrel, and gold rose about three percent.",
+   "start": 148.61,
+   "end": 153.09,
+   "text": "Dell, H P, Autodesk and Workday report after the close.",
    "speaker": "surf"
   },
   {
-   "start": 152.21,
-   "end": 153.78,
-   "text": "Bitcoin barely moved.",
+   "start": 153.37,
+   "end": 157.42,
+   "text": "In the lineup, Nvidia is giving back four to five percent.",
    "speaker": "surf"
   },
   {
-   "start": 154.06,
-   "end": 160.27,
-   "text": "A survey of service businesses came in a bit softer than expected, but nobody cared today.",
+   "start": 157.7,
+   "end": 161.92,
+   "text": "Micron, A M D and Marvell are down three to four percent.",
    "speaker": "surf"
   },
   {
-   "start": 160.55,
-   "end": 165.57,
-   "text": "Traders still see a good chance the Fed raises rates on December ninth.",
+   "start": 162.2,
+   "end": 165.87,
+   "text": "CoreWeave and Nebius are down four to five percent.",
    "speaker": "surf"
   },
   {
-   "start": 165.85,
-   "end": 172.99,
-   "text": "In the lineup, CoreWeave climbed twenty two percent, Dell twenty percent, and Micron nineteen percent.",
+   "start": 166.15,
+   "end": 172.42,
+   "text": "And Anthropic is off about four percent, heading for a third straight drop since its debut.",
    "speaker": "surf"
   },
   {
-   "start": 173.27,
-   "end": 183.36,
-   "text": "Zscaler rose about eighteen percent after CrowdStrike agreed to buy it in an all stock deal worth about forty four billion dollars.",
+   "start": 172.7,
+   "end": 180.51,
+   "text": "Beach talk: Amazon is reported to be buying A I startup Decart for about seven and a half billion dollars.",
    "speaker": "surf"
   },
   {
-   "start": 183.64,
-   "end": 190.6,
-   "text": "CrowdStrike beat estimates and raised its outlook, but it still wiped out, down about nine percent.",
+   "start": 180.79,
+   "end": 184.08,
+   "text": "Two states sued SpaceX over Grok images.",
    "speaker": "surf"
   },
   {
-   "start": 190.88,
-   "end": 194.44,
-   "text": "Tesla hung ten, up about eleven and a half percent.",
+   "start": 184.36,
+   "end": 190.39,
+   "text": "And Washington blacklisted Singapore's Megaspeed over alleged chip exports to China.",
    "speaker": "surf"
   },
   {
-   "start": 194.72,
-   "end": 203.02,
-   "text": "And Capricor Therapeutics sank more than seventy percent after the F D A declined to approve its Duchenne therapy.",
+   "start": 190.67,
+   "end": 198.55,
+   "text": "Sets to watch today: consumer confidence at nine, whether chip stocks hold Monday's gains, and Dell tonight.",
    "speaker": "surf"
   },
   {
-   "start": 203.3,
-   "end": 209.93,
-   "text": "On the tide chart tonight, Zoom posted a beat on earnings and revenue and raised its outlook.",
+   "start": 198.83,
+   "end": 205.14,
+   "text": "Soul surfers know a monster swell usually comes with some wipeouts, so no need to panic.",
    "speaker": "surf"
   },
   {
-   "start": 210.21,
-   "end": 217.13,
-   "text": "Hewlett Packard Enterprise, Agilent, Jacobs and Symbotic also reported after the bell.",
+   "start": 205.42,
+   "end": 207.28,
+   "text": "Want my read on a wave?",
    "speaker": "surf"
   },
   {
-   "start": 217.41,
-   "end": 233.47,
-   "text": "Beach talk: Texas Pacific Land is buying EagleRock Land for about three billion dollars, Enphase is cutting twelve percent of its workforce, and the President said he expects China to buy two hundred fifty more Boeing jets.",
+   "start": 207.56,
+   "end": 217.07,
+   "text": "Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you.",
    "speaker": "surf"
   },
   {
-   "start": 233.75,
-   "end": 235.46,
-   "text": "Tomorrow's forecast.",
-   "speaker": "surf"
-  },
-  {
-   "start": 235.74,
-   "end": 241.3,
-   "text": "Consumer confidence and the Richmond Fed survey land at nine A M Central.",
-   "speaker": "surf"
-  },
-  {
-   "start": 241.58,
-   "end": 247.64,
-   "text": "Before the bell, Analog Devices, Medtronic, Best Buy and Dollar Tree report.",
-   "speaker": "surf"
-  },
-  {
-   "start": 247.92,
-   "end": 251.74,
-   "text": "After the close, Dell, Workday, Autodesk and H P.",
-   "speaker": "surf"
-  },
-  {
-   "start": 252.02,
-   "end": 259.81,
-   "text": "Then Wednesday at seven thirty A M Central brings the big P C E inflation report before Thanksgiving.",
-   "speaker": "surf"
-  },
-  {
-   "start": 260.09,
-   "end": 264.42,
-   "text": "So wax that board and catch the Dawn Patrol tomorrow morning.",
-   "speaker": "surf"
-  },
-  {
-   "start": 264.7,
-   "end": 267.3,
-   "text": "And hey, want me to call a wave for you?",
-   "speaker": "surf"
-  },
-  {
-   "start": 267.58,
-   "end": 277.8,
-   "text": "Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will tell you how it's breaking.",
-   "speaker": "surf"
-  },
-  {
-   "start": 278.08,
-   "end": 280.68,
+   "start": 217.35,
+   "end": 219.95,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 280.96,
-   "end": 286.17,
+   "start": 220.23,
+   "end": 225.44,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
