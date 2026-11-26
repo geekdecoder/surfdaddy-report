@@ -1,120 +1,99 @@
 {
- "date": "2026-11-25",
- "slot": "evening",
- "title": "Sunset Session",
- "edition": "Sunset Session",
+ "date": "2026-11-26",
+ "title": "Market Surf Report",
+ "edition": "Dawn Patrol Edition",
  "is_sample": false,
- "updated": "Nov 25, 4:55 PM CT",
+ "updated": "Nov 26, 5:50 AM CT",
  "conditions": {
-  "rating": "Fair",
-  "headline": "Gnarly Wipeout, Then a Paddle Back to the Lineup",
-  "summary": "A hot inflation read, new tariff proposals and a chip selloff knocked the S&P 500 down as much as 3.2 percent, but falling Treasury yields fueled a late comeback. The Dow and small caps finished green while the Nasdaq slipped 0.6 percent ahead of the Thanksgiving break."
+  "rating": "Flat",
+  "headline": "Beach Closed for Thanksgiving",
+  "summary": "US stock markets are closed today for Thanksgiving. Trading resumes Friday with a shortened session that ends at noon Central."
  },
  "tape": [
   {
-   "label": "S&P 500",
-   "value": "-0.25%",
-   "dir": "down"
+   "label": "S&P fut",
+   "value": "Holiday",
+   "dir": "flat"
   },
   {
-   "label": "Nasdaq",
-   "value": "-0.62%",
-   "dir": "down"
+   "label": "Nasdaq fut",
+   "value": "Holiday",
+   "dir": "flat"
   },
   {
-   "label": "Dow",
-   "value": "+0.33%",
-   "dir": "up"
+   "label": "Dow fut",
+   "value": "Holiday",
+   "dir": "flat"
   },
   {
-   "label": "Russell 2000",
-   "value": "+0.7%",
-   "dir": "up"
+   "label": "Russell fut",
+   "value": "Holiday",
+   "dir": "flat"
   },
   {
    "label": "10-yr",
-   "value": "4.85%",
-   "dir": "down"
+   "value": "Closed",
+   "dir": "flat"
   },
   {
    "label": "Dollar",
-   "value": "-0.1%",
+   "value": "Holiday",
    "dir": "flat"
   },
   {
    "label": "Crude",
-   "value": "+2.5%",
-   "dir": "up"
+   "value": "Holiday",
+   "dir": "flat"
   },
   {
    "label": "Gold",
-   "value": "+0.3%",
-   "dir": "up"
+   "value": "Holiday",
+   "dir": "flat"
   },
   {
    "label": "Bitcoin",
-   "value": "+0.5%",
-   "dir": "up"
+   "value": "24/7",
+   "dir": "flat"
   },
   {
    "label": "VIX",
-   "value": "+6.2%",
-   "dir": "up"
+   "value": "Closed",
+   "dir": "flat"
   }
  ],
  "sections": [
   {
-   "id": "close",
-   "surf": "The Final Set",
-   "title": "Closing Bell",
+   "id": "swell",
+   "surf": "The Swell",
+   "title": "Futures & Overnight",
    "items": [
-    "S&P 500 closed at 7,182.78, down 18.31 points or 0.25%, after being down as much as 3.2% earlier in the day.",
-    "The Nasdaq Composite fell 147.73 points, or 0.62%, to 23,585.80 as chip stocks extended their pullback.",
-    "The Dow rose 164.25 points, or 0.33%, to 50,182.95 after erasing an intraday drop of more than 1,100 points.",
-    "The Russell 2000 gained 0.7% to 2,704.06 as small caps led and large-cap tech lagged.",
-    "Falling Treasury yields powered the afternoon recovery; energy led the sectors while technology and consumer discretionary lagged.",
-    "Even with today's dip, all four major indexes are up roughly 4% or more for the holiday-shortened week."
+    "US stock exchanges are closed for Thanksgiving, so there is no regular session today.",
+    "Holiday trading in futures and overseas markets is typically thin, so any moves today carry less signal than usual."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Fed",
+   "title": "Macro & Economic Calendar",
    "items": [
-    "October PCE inflation ran at 3.8% year over year, in line with forecasts; core PCE came in at 3.3%, a tenth above expectations.",
-    "Third-quarter GDP was revised up to a 4.3% annual growth rate from 3.4%.",
-    "Initial jobless claims fell to 189,000, below the 200,000 expected and near multi-decade lows.",
-    "Personal income jumped 0.7% versus 0.4% expected, while spending rose 0.3%.",
-    "Futures markets fully price a quarter-point Fed rate hike at the December 8-9 meeting.",
-    "The administration proposed new Section 301 tariffs on 14 trading partners, including 15% on the EU and Japan; chips, autos and metals are excluded and duties aren't expected before January.",
-    "The 10-year Treasury yield fell about 6 basis points to roughly 4.85%; WTI crude rose 2.5% to $84.11 and the VIX climbed 6% to near 28."
-   ]
-  },
-  {
-   "id": "lineup",
-   "surf": "The Lineup",
-   "title": "Biggest Movers",
-   "items": [
-    "HPQ (HP Inc.): +11.5% — better-than-expected quarterly results and an encouraging fiscal 2027 outlook.",
-    "LI (Li Auto): +11.0% — third-quarter revenue grew and fourth-quarter delivery guidance pleased investors.",
-    "DE (Deere): +4.4% — rebounded from a premarket dip after issuing fiscal 2027 profit guidance.",
-    "META (Meta Platforms): +3.4% — bucked the tech selloff.",
-    "NVDA (Nvidia): -3.9% — chip selloff continued and S&P Global placed its credit rating on watch, citing governance after the CEO reinstatement.",
-    "MU (Micron): -4.5% — memory and chip names extended their slide.",
-    "AMBA (Ambarella): -19.8% — guided next-quarter revenue sharply lower, citing memory prices hitting customers.",
-    "NTNX (Nutanix): -15.2% — CEO Rajiv Ramaswami will step down despite 15% revenue growth."
+    "No US economic releases are scheduled for the holiday.",
+    "Friday brings a shortened session, with stocks closing at noon Central."
    ]
   },
   {
    "id": "tide",
    "surf": "Tide Chart",
-   "title": "Earnings Today & Tonight",
+   "title": "Earnings",
    "items": [
-    "Deere reported before the bell; it opened lower but finished up 4.4%.",
-    "Li Auto and Kanzhun reported overnight and both closed up more than 11% and 12% respectively.",
-    "Polestar fell 12.4% after its third-quarter revenue dropped 14% and it posted a $403 million loss.",
-    "Tuesday-night reporters moved today: HP surged, while Nutanix, Ambarella, GoodRx and Urban Outfitters fell sharply.",
-    "Dell, which reported a record quarter on Tuesday night, closed up 0.6%; no major companies reported after today's close."
+    "No notable earnings are scheduled for the holiday."
+   ]
+  },
+  {
+   "id": "lineup",
+   "surf": "The Lineup",
+   "title": "Stocks in the News",
+   "items": [
+    "No pre-market session today; the lineup is empty until Friday."
    ]
   },
   {
@@ -122,49 +101,33 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "SpaceX and Tesla formed special committees to explore an all-stock merger that would value the combined company at $3.2 trillion to $3.5 trillion.",
-    "The FCC authorized SpaceX to deploy up to 1 million data-center satellites.",
-    "Nvidia's surprise reinstatement of Jensen Huang as CEO earlier this week continues to whipsaw chip stocks.",
-    "Anthropic shares closed at $82.79, just under their $83 IPO price.",
-    "Gold touched its lowest level in more than a year after the inflation data before edging higher into the close."
+    "Black Friday kicks off the holiday shopping season, and retail sales headlines often drive Friday's half-day session.",
+    "Cyber Monday follows next week, putting online retailers in focus."
    ]
   },
   {
-   "id": "tomorrow",
-   "surf": "Tomorrow's Forecast",
-   "title": "On Deck",
+   "id": "watch",
+   "surf": "Sets to Watch",
+   "title": "What to Watch Today",
    "items": [
-    "Thursday, November 26: US stock markets are closed for Thanksgiving.",
-    "Friday, November 27: markets reopen for a shortened session, closing early at 12:00 PM Central.",
-    "Traders will keep watching tariff headlines; public comments on the proposed tariffs are due January 5.",
-    "Next big event: the Fed's December 8-9 meeting, where a quarter-point hike is fully priced in."
+    "Markets closed today for Thanksgiving.",
+    "Friday: stocks open at 8:30 AM CT and close early at 12:00 PM CT.",
+    "Early Black Friday shopping reports heading into Friday's short session."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, November twenty-fifth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is dropping low over the water, the sky is going orange, and we are paddling in from the last set before the Thanksgiving break. Gus the wonder dog has been sniffing around the kitchen all afternoon, dreaming about turkey. Say happy Thanksgiving eve, Gus! Alright, let's talk about the final set. This was one gnarly ride. A hot inflation report, new tariff plans and another chip selloff pulled the S and P five hundred down as much as three point two percent this morning. But falling Treasury yields brought the swell back in the afternoon. The S and P five hundred closed at seven thousand one hundred eighty-three, down a quarter of a percent. The Nasdaq slipped six tenths of a percent to twenty-three thousand five hundred eighty-six. The Dow erased an eleven hundred point drop and finished up a third of a percent at fifty thousand one hundred eighty-three. Cowabunga, that is a comeback! Small caps led the way, with the Russell two thousand up seven tenths of a percent. Energy was the best sector, while tech and consumer names lagged. Now for wind and weather. October P C E inflation came in at three point eight percent from a year ago, right on forecast. But core P C E was three point three percent, a tenth hotter than expected. Third quarter growth was revised up to a strong four point three percent. Jobless claims dropped to one hundred eighty-nine thousand, better than expected. Traders now fully expect a quarter point Fed rate hike at the December meeting. The administration also proposed new tariffs on fourteen trading partners, including fifteen percent on Europe and Japan, though not before January. The ten year Treasury yield fell about six basis points to around four point eight five percent. Crude oil rose two and a half percent to eighty-four dollars, gold edged higher, bitcoin held near sixty thousand dollars, and the fear gauge, the VIX, climbed to almost twenty-eight. Let's check the lineup. HP caught the best wave of the big names, up eleven and a half percent on strong results and a bright outlook. Gus, that's worth a biscuit! Here you go, buddy! Li Auto jumped eleven percent, and Deere hung ten, flipping a morning dip into a four percent gain. Meta rose more than three percent. On the wipeout side, Nvidia fell almost four percent and Micron dropped four and a half percent. Ambarella sank about twenty percent on a weak forecast, and Nutanix fell fifteen percent after its C E O said he will step down. On the tide chart, Polestar dropped twelve percent after a big quarterly loss, while Dell edged up after its record quarter. No major companies reported after today's close. In beach talk, SpaceX and Tesla are exploring an all stock merger worth up to three and a half trillion dollars. That's a lot of sand. Anthropic shares closed just under their I P O price. Tomorrow's forecast is easy. The beach is closed for Thanksgiving. Markets reopen Friday for a short session that ends at twelve noon Central. So wax your board, enjoy the feast, and be a soul surfer this holiday. Want me to call a wave for you? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you. Catch the Dawn Patrol on Friday morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Thursday, November twenty-sixth, twenty twenty-six, and this is your Market Surf Report. Sitting next to me in a little pilgrim hat is my co-anchor, Gus the wonder dog. Happy Thanksgiving, Gus! Okay, here's the surf check. The beach is closed today, dudes. US stock markets are shut for Thanksgiving, so conditions are flat and glassy, with no swell at all. There's no regular session, no economic reports, and no big earnings on the calendar. Any holiday moves in futures or overseas tend to be thin, so don't read too much into them. The whole market caught a nice long wave this year, and that's worth being thankful for. That calls for a treat, Gus! Here you go, buddy, a little turkey! Now, the Dawn Patrol paddles back out tomorrow. Friday is a short session. Stocks open at eight thirty A M Central and close early at noon Central. Black Friday kicks off the holiday shopping season, so keep an eye on the early shopping reports. Retail headlines can make some waves in a quiet half day. Light volume can also make things a little gnarly, so no kook moves. Soul Surfers, this is a great day to step off the board, enjoy your family, and be stoked about the year. If you want to check a wave before tomorrow, type any stock, E T F or futures contract into the Check a Wave box on the page, and I'll call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Associated Press via WRAL",
-   "url": "https://www.wral.com/news/ap/94fdb-how-major-us-stock-indexes-fared-wednesday-11-25-2026/"
+   "title": "Kiplinger: Stock Market Holidays in 2026",
+   "url": "https://www.kiplinger.com/investing/602100/is-the-stock-market-open-on-inauguration-day-2021"
   },
   {
-   "title": "Motley Fool",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
-  },
-  {
-   "title": "Vista Partners",
-   "url": "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/"
-  },
-  {
-   "title": "StockTitan",
-   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026"
-  },
-  {
-   "title": "MarketAlleys Closing Tape",
-   "url": "https://www.marketalleys.com/post/marketalleys-closing-tape-2026-11-25"
+   "title": "Fidelity: Stock market holidays",
+   "url": "https://www.fidelity.com/learning-center/smart-money/stock-market-holidays"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Wednesday, November twenty-fifth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is dropping low over the water, the sky is going orange, and we are paddling in from the last set before the Thanksgiving break. Gus the wonder dog has been sniffing around the kitchen all afternoon, dreaming about turkey. Say happy Thanksgiving eve, Gus! [BARK] Alright, let's talk about the final set. This was one gnarly ride. A hot inflation report, new tariff plans and another chip selloff pulled the S and P five hundred down as much as three point two percent this morning. But falling Treasury yields brought the swell back in the afternoon. The S and P five hundred closed at seven thousand one hundred eighty-three, down a quarter of a percent. The Nasdaq slipped six tenths of a percent to twenty-three thousand five hundred eighty-six. The Dow erased an eleven hundred point drop and finished up a third of a percent at fifty thousand one hundred eighty-three. Cowabunga, that is a comeback! Small caps led the way, with the Russell two thousand up seven tenths of a percent. Energy was the best sector, while tech and consumer names lagged. Now for wind and weather. October P C E inflation came in at three point eight percent from a year ago, right on forecast. But core P C E was three point three percent, a tenth hotter than expected. Third quarter growth was revised up to a strong four point three percent. Jobless claims dropped to one hundred eighty-nine thousand, better than expected. Traders now fully expect a quarter point Fed rate hike at the December meeting. The administration also proposed new tariffs on fourteen trading partners, including fifteen percent on Europe and Japan, though not before January. The ten year Treasury yield fell about six basis points to around four point eight five percent. Crude oil rose two and a half percent to eighty-four dollars, gold edged higher, bitcoin held near sixty thousand dollars, and the fear gauge, the VIX, climbed to almost twenty-eight. Let's check the lineup. HP caught the best wave of the big names, up eleven and a half percent on strong results and a bright outlook. Gus, that's worth a biscuit! Here you go, buddy! [SNACK] Li Auto jumped eleven percent, and Deere hung ten, flipping a morning dip into a four percent gain. Meta rose more than three percent. On the wipeout side, Nvidia fell almost four percent and Micron dropped four and a half percent. Ambarella sank about twenty percent on a weak forecast, and Nutanix fell fifteen percent after its C E O said he will step down. On the tide chart, Polestar dropped twelve percent after a big quarterly loss, while Dell edged up after its record quarter. No major companies reported after today's close. In beach talk, SpaceX and Tesla are exploring an all stock merger worth up to three and a half trillion dollars. That's a lot of sand. Anthropic shares closed just under their I P O price. Tomorrow's forecast is easy. The beach is closed for Thanksgiving. Markets reopen Friday for a short session that ends at twelve noon Central. So wax your board, enjoy the feast, and be a soul surfer this holiday. Want me to call a wave for you? Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you. Catch the Dawn Patrol on Friday morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Thursday, November twenty-sixth, twenty twenty-six, and this is your Market Surf Report. Sitting next to me in a little pilgrim hat is my co-anchor, Gus the wonder dog. Happy Thanksgiving, Gus! [BARK] Okay, here's the surf check. The beach is closed today, dudes. US stock markets are shut for Thanksgiving, so conditions are flat and glassy, with no swell at all. There's no regular session, no economic reports, and no big earnings on the calendar. Any holiday moves in futures or overseas tend to be thin, so don't read too much into them. The whole market caught a nice long wave this year, and that's worth being thankful for. That calls for a treat, Gus! Here you go, buddy, a little turkey! [SNACK] Now, the Dawn Patrol paddles back out tomorrow. Friday is a short session. Stocks open at eight thirty A M Central and close early at noon Central. Black Friday kicks off the holiday shopping season, so keep an eye on the early shopping reports. Retail headlines can make some waves in a quiet half day. Light volume can also make things a little gnarly, so no kook moves. Soul Surfers, this is a great day to step off the board, enjoy your family, and be stoked about the year. If you want to check a wave before tomorrow, type any stock, E T F or futures contract into the Check a Wave box on the page, and I'll call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -181,283 +144,139 @@
   },
   {
    "start": 11.57,
-   "end": 19.95,
-   "text": "It's Wednesday, November twenty-fifth, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
+   "end": 18.01,
+   "text": "It's Thursday, November twenty-sixth, twenty twenty-six, and this is your Market Surf Report.",
    "speaker": "surf"
   },
   {
-   "start": 20.23,
-   "end": 29.55,
-   "text": "The sun is dropping low over the water, the sky is going orange, and we are paddling in from the last set before the Thanksgiving break.",
+   "start": 18.29,
+   "end": 23.56,
+   "text": "Sitting next to me in a little pilgrim hat is my co-anchor, Gus the wonder dog.",
    "speaker": "surf"
   },
   {
-   "start": 29.83,
-   "end": 36.23,
-   "text": "Gus the wonder dog has been sniffing around the kitchen all afternoon, dreaming about turkey.",
+   "start": 23.84,
+   "end": 25.67,
+   "text": "Happy Thanksgiving, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 36.51,
-   "end": 38.75,
-   "text": "Say happy Thanksgiving eve, Gus!",
-   "speaker": "surf"
-  },
-  {
-   "start": 39.03,
-   "end": 39.58,
+   "start": 25.95,
+   "end": 26.5,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 39.86,
-   "end": 42.62,
-   "text": "Alright, let's talk about the final set.",
+   "start": 26.78,
+   "end": 28.81,
+   "text": "Okay, here's the surf check.",
    "speaker": "surf"
   },
   {
-   "start": 42.9,
-   "end": 44.84,
-   "text": "This was one gnarly ride.",
+   "start": 29.09,
+   "end": 31.46,
+   "text": "The beach is closed today, dudes.",
    "speaker": "surf"
   },
   {
-   "start": 45.12,
-   "end": 56.04,
-   "text": "A hot inflation report, new tariff plans and another chip selloff pulled the S and P five hundred down as much as three point two percent this morning.",
+   "start": 31.74,
+   "end": 38.99,
+   "text": "US stock markets are shut for Thanksgiving, so conditions are flat and glassy, with no swell at all.",
    "speaker": "surf"
   },
   {
-   "start": 56.32,
-   "end": 60.44,
-   "text": "But falling Treasury yields brought the swell back in the afternoon.",
+   "start": 39.27,
+   "end": 45.35,
+   "text": "There's no regular session, no economic reports, and no big earnings on the calendar.",
    "speaker": "surf"
   },
   {
-   "start": 60.72,
-   "end": 68.01,
-   "text": "The S and P five hundred closed at seven thousand one hundred eighty-three, down a quarter of a percent.",
+   "start": 45.63,
+   "end": 52.2,
+   "text": "Any holiday moves in futures or overseas tend to be thin, so don't read too much into them.",
    "speaker": "surf"
   },
   {
-   "start": 68.29,
-   "end": 74.01,
-   "text": "The Nasdaq slipped six tenths of a percent to twenty-three thousand five hundred eighty-six.",
+   "start": 52.48,
+   "end": 58.01,
+   "text": "The whole market caught a nice long wave this year, and that's worth being thankful for.",
    "speaker": "surf"
   },
   {
-   "start": 74.29,
-   "end": 82.42,
-   "text": "The Dow erased an eleven hundred point drop and finished up a third of a percent at fifty thousand one hundred eighty-three.",
+   "start": 58.29,
+   "end": 60.23,
+   "text": "That calls for a treat, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 82.7,
-   "end": 84.83,
-   "text": "Cowabunga, that is a comeback!",
+   "start": 60.51,
+   "end": 62.84,
+   "text": "Here you go, buddy, a little turkey!",
    "speaker": "surf"
   },
   {
-   "start": 85.11,
-   "end": 90.55,
-   "text": "Small caps led the way, with the Russell two thousand up seven tenths of a percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 90.83,
-   "end": 95.23,
-   "text": "Energy was the best sector, while tech and consumer names lagged.",
-   "speaker": "surf"
-  },
-  {
-   "start": 95.51,
-   "end": 97.47,
-   "text": "Now for wind and weather.",
-   "speaker": "surf"
-  },
-  {
-   "start": 97.75,
-   "end": 104.94,
-   "text": "October P C E inflation came in at three point eight percent from a year ago, right on forecast.",
-   "speaker": "surf"
-  },
-  {
-   "start": 105.22,
-   "end": 110.66,
-   "text": "But core P C E was three point three percent, a tenth hotter than expected.",
-   "speaker": "surf"
-  },
-  {
-   "start": 110.94,
-   "end": 115.74,
-   "text": "Third quarter growth was revised up to a strong four point three percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 116.02,
-   "end": 121.22,
-   "text": "Jobless claims dropped to one hundred eighty-nine thousand, better than expected.",
-   "speaker": "surf"
-  },
-  {
-   "start": 121.5,
-   "end": 126.73,
-   "text": "Traders now fully expect a quarter point Fed rate hike at the December meeting.",
-   "speaker": "surf"
-  },
-  {
-   "start": 127.01,
-   "end": 137.91,
-   "text": "The administration also proposed new tariffs on fourteen trading partners, including fifteen percent on Europe and Japan, though not before January.",
-   "speaker": "surf"
-  },
-  {
-   "start": 138.19,
-   "end": 144.53,
-   "text": "The ten year Treasury yield fell about six basis points to around four point eight five percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 144.81,
-   "end": 158.01,
-   "text": "Crude oil rose two and a half percent to eighty-four dollars, gold edged higher, bitcoin held near sixty thousand dollars, and the fear gauge, the VIX, climbed to almost twenty-eight.",
-   "speaker": "surf"
-  },
-  {
-   "start": 158.29,
-   "end": 159.92,
-   "text": "Let's check the lineup.",
-   "speaker": "surf"
-  },
-  {
-   "start": 160.2,
-   "end": 168.09,
-   "text": "HP caught the best wave of the big names, up eleven and a half percent on strong results and a bright outlook.",
-   "speaker": "surf"
-  },
-  {
-   "start": 168.37,
-   "end": 170.12,
-   "text": "Gus, that's worth a biscuit!",
-   "speaker": "surf"
-  },
-  {
-   "start": 170.4,
-   "end": 171.85,
-   "text": "Here you go, buddy!",
-   "speaker": "surf"
-  },
-  {
-   "start": 172.13,
-   "end": 174.1,
+   "start": 63.12,
+   "end": 65.09,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 174.38,
-   "end": 181.87,
-   "text": "Li Auto jumped eleven percent, and Deere hung ten, flipping a morning dip into a four percent gain.",
+   "start": 65.37,
+   "end": 68.63,
+   "text": "Now, the Dawn Patrol paddles back out tomorrow.",
    "speaker": "surf"
   },
   {
-   "start": 182.15,
-   "end": 184.3,
-   "text": "Meta rose more than three percent.",
+   "start": 68.91,
+   "end": 70.85,
+   "text": "Friday is a short session.",
    "speaker": "surf"
   },
   {
-   "start": 184.58,
-   "end": 191.64,
-   "text": "On the wipeout side, Nvidia fell almost four percent and Micron dropped four and a half percent.",
+   "start": 71.13,
+   "end": 76.21,
+   "text": "Stocks open at eight thirty A M Central and close early at noon Central.",
    "speaker": "surf"
   },
   {
-   "start": 191.92,
-   "end": 201.63,
-   "text": "Ambarella sank about twenty percent on a weak forecast, and Nutanix fell fifteen percent after its C E O said he will step down.",
+   "start": 76.49,
+   "end": 83.04,
+   "text": "Black Friday kicks off the holiday shopping season, so keep an eye on the early shopping reports.",
    "speaker": "surf"
   },
   {
-   "start": 201.91,
-   "end": 210.74,
-   "text": "On the tide chart, Polestar dropped twelve percent after a big quarterly loss, while Dell edged up after its record quarter.",
+   "start": 83.32,
+   "end": 87.52,
+   "text": "Retail headlines can make some waves in a quiet half day.",
    "speaker": "surf"
   },
   {
-   "start": 211.02,
-   "end": 214.67,
-   "text": "No major companies reported after today's close.",
+   "start": 87.8,
+   "end": 92.75,
+   "text": "Light volume can also make things a little gnarly, so no kook moves.",
    "speaker": "surf"
   },
   {
-   "start": 214.95,
-   "end": 223.06,
-   "text": "In beach talk, SpaceX and Tesla are exploring an all stock merger worth up to three and a half trillion dollars.",
+   "start": 93.03,
+   "end": 100.37,
+   "text": "Soul Surfers, this is a great day to step off the board, enjoy your family, and be stoked about the year.",
    "speaker": "surf"
   },
   {
-   "start": 223.34,
-   "end": 224.98,
-   "text": "That's a lot of sand.",
+   "start": 100.65,
+   "end": 112.47,
+   "text": "If you want to check a wave before tomorrow, type any stock, E T F or futures contract into the Check a Wave box on the page, and I'll call it for you.",
    "speaker": "surf"
   },
   {
-   "start": 225.26,
-   "end": 229.12,
-   "text": "Anthropic shares closed just under their I P O price.",
-   "speaker": "surf"
-  },
-  {
-   "start": 229.4,
-   "end": 231.6,
-   "text": "Tomorrow's forecast is easy.",
-   "speaker": "surf"
-  },
-  {
-   "start": 231.88,
-   "end": 234.2,
-   "text": "The beach is closed for Thanksgiving.",
-   "speaker": "surf"
-  },
-  {
-   "start": 234.48,
-   "end": 239.5,
-   "text": "Markets reopen Friday for a short session that ends at twelve noon Central.",
-   "speaker": "surf"
-  },
-  {
-   "start": 239.78,
-   "end": 244.79,
-   "text": "So wax your board, enjoy the feast, and be a soul surfer this holiday.",
-   "speaker": "surf"
-  },
-  {
-   "start": 245.07,
-   "end": 247.07,
-   "text": "Want me to call a wave for you?",
-   "speaker": "surf"
-  },
-  {
-   "start": 247.35,
-   "end": 256.87,
-   "text": "Look up any stock, E T F or futures contract in the Check a Wave box on the page, and Surf Daddy will call it for you.",
-   "speaker": "surf"
-  },
-  {
-   "start": 257.15,
-   "end": 260.18,
-   "text": "Catch the Dawn Patrol on Friday morning.",
-   "speaker": "surf"
-  },
-  {
-   "start": 260.46,
-   "end": 263.06,
+   "start": 112.75,
+   "end": 115.35,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 263.34,
-   "end": 268.55,
+   "start": 115.63,
+   "end": 120.83,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
