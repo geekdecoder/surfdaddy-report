@@ -1,64 +1,64 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "title": "Market Surf Report",
  "edition": "Dawn Patrol Edition",
  "is_sample": false,
- "updated": "Nov 26, 5:50 AM CT",
+ "updated": "Nov 27, 5:55 AM CT",
  "conditions": {
-  "rating": "Flat",
-  "headline": "Beach Closed for Thanksgiving",
-  "summary": "US stock markets are closed today for Thanksgiving. Trading resumes Friday with a shortened session that ends at noon Central."
+  "rating": "Good",
+  "headline": "Chip stocks ride a Black Friday swell",
+  "summary": "Futures are up firmly as beaten-down AI and chip stocks rebound after a big rally in Asia. It is a holiday half-day with thin volume, and a likely December Fed rate hike still hangs over the lineup."
  },
  "tape": [
   {
    "label": "S&P fut",
-   "value": "Holiday",
-   "dir": "flat"
+   "value": "+1.7%",
+   "dir": "up"
   },
   {
    "label": "Nasdaq fut",
-   "value": "Holiday",
-   "dir": "flat"
+   "value": "+2.3%",
+   "dir": "up"
   },
   {
    "label": "Dow fut",
-   "value": "Holiday",
-   "dir": "flat"
+   "value": "+1.3%",
+   "dir": "up"
   },
   {
    "label": "Russell fut",
-   "value": "Holiday",
-   "dir": "flat"
+   "value": "+1.4%",
+   "dir": "up"
   },
   {
    "label": "10-yr",
-   "value": "Closed",
+   "value": "4.85%",
    "dir": "flat"
   },
   {
    "label": "Dollar",
-   "value": "Holiday",
+   "value": "103.8",
    "dir": "flat"
   },
   {
    "label": "Crude",
-   "value": "Holiday",
-   "dir": "flat"
+   "value": "$85.41 +2.1%",
+   "dir": "up"
   },
   {
    "label": "Gold",
-   "value": "Holiday",
-   "dir": "flat"
+   "value": "+3%",
+   "dir": "up"
   },
   {
    "label": "Bitcoin",
-   "value": "24/7",
-   "dir": "flat"
+   "value": "+1.7%",
+   "dir": "up"
   },
   {
    "label": "VIX",
-   "value": "Closed",
-   "dir": "flat"
+   "value": "25.0",
+   "dir": "down"
   }
  ],
  "sections": [
@@ -67,8 +67,14 @@
    "surf": "The Swell",
    "title": "Futures & Overnight",
    "items": [
-    "US stock exchanges are closed for Thanksgiving, so there is no regular session today.",
-    "Holiday trading in futures and overseas markets is typically thin, so any moves today carry less signal than usual."
+    "Around 6:45 AM ET, S&P 500 futures were up about 1.7%, Nasdaq-100 futures up about 2.3% and Russell 2000 futures up about 1.4%; Dow futures were up about 1.3% earlier in the morning.",
+    "Holiday trading is thin, so early quotes may swing; stocks close early at 12 PM CT and bonds at 1 PM CT.",
+    "The 10-year Treasury yield is near 4.85%; the dollar index is little changed near 103.8, close to its highest level in well over a year.",
+    "WTI crude is up about 2% near $85 after attacks on Saudi energy sites and ships near the Strait of Hormuz; OPEC+ meets Sunday.",
+    "Gold is rebounding from a one-year low, up roughly 3% to near $3,660–3,700 (sources differ); bitcoin is up about 1.7% near $61,500.",
+    "The VIX is easing to around 25, though readings vary across sources this early.",
+    "Asia: China, Japan and Korea rallied hard, with Shanghai up more than 3% and the Kospi up about 4%, after Beijing pledged steps to support its stock market.",
+    "Europe: stocks are higher, with the Euro Stoxx 50 up about 1.3% and the DAX and FTSE 100 up about 0.8%."
    ]
   },
   {
@@ -76,8 +82,11 @@
    "surf": "Wind & Weather",
    "title": "Macro & Economic Calendar",
    "items": [
-    "No US economic releases are scheduled for the holiday.",
-    "Friday brings a shortened session, with stocks closing at noon Central."
+    "No major US economic releases are scheduled today; markets reopen after Thanksgiving for a shortened session.",
+    "Futures price a near-certain Fed rate hike at the December 8–9 meeting after October core PCE inflation came in at 3.3% year over year, above forecasts.",
+    "Third-quarter GDP was revised up to 4.3% growth, and weekly jobless claims were a low 189,000.",
+    "The US trade office proposed new Section 301 tariffs on 14 trading partners, including China and the EU; servers, chips and chipmaking tools were left out.",
+    "Black Friday: Adobe expects US online spending of about $12.9 billion today, up about 9% from last year."
    ]
   },
   {
@@ -85,7 +94,11 @@
    "surf": "Tide Chart",
    "title": "Earnings",
    "items": [
-    "No notable earnings are scheduled for the holiday."
+    "No major companies report before today's open or after today's early close.",
+    "This week: HP jumped about 11% Wednesday after a profit beat and an upbeat outlook for next year.",
+    "Deere rose about 4.5% Wednesday even though its profit forecast for next year came in below estimates.",
+    "Dell reported Tuesday and has swung sharply since; it is up about 6% pre-market with other AI hardware names.",
+    "Toyota's global sales fell 6.3% in October, but it raised its full-year operating profit forecast."
    ]
   },
   {
@@ -93,7 +106,14 @@
    "surf": "The Lineup",
    "title": "Stocks in the News",
    "items": [
-    "No pre-market session today; the lineup is empty until Friday."
+    "SNDK (SanDisk): about +10% — memory and storage stocks lead the chip rebound.",
+    "MRVL (Marvell): about +8% — AI networking chips bounce with Asian semiconductors.",
+    "MU (Micron): about +7% — memory names rally after a 4.5% drop Wednesday.",
+    "NVDA (Nvidia): about +4% — rebounding after two down days that followed Jensen Huang's return as CEO.",
+    "KNTK (Kinetik): about +7% — Bloomberg reports Targa Resources is in talks to buy it; Targa is down 2–3%.",
+    "VERA (Vera Therapeutics): about +16% and VRTX (Vertex): about −8% — the FDA extended its review of Vertex's kidney drug to late February.",
+    "PANW (Palo Alto Networks): about −4% — a former executive sued, alleging improper sales counting; the company denies it.",
+    "LRCX (Lam Research): about +5.7% — recovering after a nearly 6% drop on a proposed bill to tighten chip-equipment sales to China."
    ]
   },
   {
@@ -101,8 +121,11 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Black Friday kicks off the holiday shopping season, and retail sales headlines often drive Friday's half-day session.",
-    "Cyber Monday follows next week, putting online retailers in focus."
+    "Targa Resources is reportedly in talks to buy pipeline company Kinetik in a deal valued around $8.9 billion.",
+    "Altria said it is considering a takeover offer for Imperial Brands, sending Imperial up about 13% in London.",
+    "SAP reportedly plans to cut at least 10,000 jobs, about 9% of its workforce.",
+    "Nvidia has reportedly barred partners from shipping servers with its chips to several Southeast Asian countries under new export rules.",
+    "The NRF expects holiday sales to grow about 4% to just over $1 trillion."
    ]
   },
   {
@@ -110,24 +133,52 @@
    "surf": "Sets to Watch",
    "title": "What to Watch Today",
    "items": [
-    "Markets closed today for Thanksgiving.",
-    "Friday: stocks open at 8:30 AM CT and close early at 12:00 PM CT.",
-    "Early Black Friday shopping reports heading into Friday's short session."
+    "8:30 AM CT open to 12 PM CT close: whether the chip rebound holds in a thin holiday session.",
+    "Oil near $85 ahead of Sunday's OPEC+ meeting and amid Middle East supply risks.",
+    "Month-end positioning: the Nasdaq-100 is still on track for its worst month since 2022 despite this week's gains."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Thursday, November twenty-sixth, twenty twenty-six, and this is your Market Surf Report. Sitting next to me in a little pilgrim hat is my co-anchor, Gus the wonder dog. Happy Thanksgiving, Gus! Okay, here's the surf check. The beach is closed today, dudes. US stock markets are shut for Thanksgiving, so conditions are flat and glassy, with no swell at all. There's no regular session, no economic reports, and no big earnings on the calendar. Any holiday moves in futures or overseas tend to be thin, so don't read too much into them. The whole market caught a nice long wave this year, and that's worth being thankful for. That calls for a treat, Gus! Here you go, buddy, a little turkey! Now, the Dawn Patrol paddles back out tomorrow. Friday is a short session. Stocks open at eight thirty A M Central and close early at noon Central. Black Friday kicks off the holiday shopping season, so keep an eye on the early shopping reports. Retail headlines can make some waves in a quiet half day. Light volume can also make things a little gnarly, so no kook moves. Soul Surfers, this is a great day to step off the board, enjoy your family, and be stoked about the year. If you want to check a wave before tomorrow, type any stock, E T F or futures contract into the Check a Wave box on the page, and I'll call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November twenty-seventh, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog slept off his turkey and he's back on the boards. Give us a holiday howdy, Gus! Alright, let's check the swell. It's Black Friday, so stocks close early, at noon Central. As of early this morning, S and P 500 futures were up about one point seven percent. Nasdaq one hundred futures were up about two point three percent. Dow futures were up about one point three percent, and the Russell two thousand about one point four percent. Volume is thin, so these early waves can shift. The ten year Treasury yield sits near four point eight five percent. Crude oil is up about two percent near eighty five dollars. Gold is bouncing about three percent off a one year low. Bitcoin is up almost two percent. And the fear gauge, the VIX, is easing to around twenty five. Overnight, Asia was gnarly in a good way, with Chinese stocks up more than three percent after Beijing pledged support. Europe is up about one percent. Now the wind and weather. No big US economic reports today. But the Fed meets December eighth and ninth, and markets see a rate hike as nearly certain after hot inflation numbers. On the tide chart, no major earnings today. Now the lineup. Chip stocks are hanging ten. SanDisk is up about ten percent before the bell. That calls for a treat, Gus! Here you go, buddy! Marvell is up about eight percent, Micron about seven, and Nvidia about four. Kinetik is up about seven percent on a report that Targa Resources wants to buy it. Vera Therapeutics jumped about sixteen percent, while Vertex fell about eight percent after the F D A delayed a decision on Vertex's kidney drug. On the beach talk, Altria is weighing a bid for Imperial Brands, and S A P reportedly plans to cut about ten thousand jobs. Sets to watch: whether the chip rebound holds through the half day, oil ahead of Sunday's OPEC plus meeting, and month end moves. Soul surfers, stay steady and don't drop in on a hodad rally. Got a stock, E T F or futures contract on your mind? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Kiplinger: Stock Market Holidays in 2026",
-   "url": "https://www.kiplinger.com/investing/602100/is-the-stock-market-open-on-inauguration-day-2021"
+   "title": "Raspberry Trades – Stock Market Today (Nov 27)",
+   "url": "https://raspberrytrades.com/stock-market-today"
   },
   {
-   "title": "Fidelity: Stock market holidays",
-   "url": "https://www.fidelity.com/learning-center/smart-money/stock-market-holidays"
+   "title": "TipRanks – Markets reopen for shortened Black Friday trading",
+   "url": "https://www.tipranks.com/news/stock-market-today-nov-27-markets-reopen-for-shortened-black-friday-trading"
+  },
+  {
+   "title": "TipRanks – Futures ahead of shortened session",
+   "url": "https://www.tipranks.com/news/u-s-stock-futures-in-focus-ahead-of-a-shortened-black-friday-session"
+  },
+  {
+   "title": "Saxo – Market Quick Take, 27 Nov 2026",
+   "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---brent-tops-usd-97-and-asian-stocks-extend-rebound---27-november-2026-27112026"
+  },
+  {
+   "title": "Techi – AI hardware stocks pre-market",
+   "url": "https://www.techi.com/premarket-ai-hardware-stocks-friday-half-day-nvidia-november/"
+  },
+  {
+   "title": "Longbridge – US Stock Preview",
+   "url": "https://longbridge.com/en/news/307019592"
+  },
+  {
+   "title": "Oninvest – Morning in New York",
+   "url": "https://en.oninvest.com/article/morning-in-new-york-the-focus-is-on-the-u-s-stock-market-s-recovery"
+  },
+  {
+   "title": "The Private Banker – Nasdaq futures jump",
+   "url": "https://leprivatebanker.com/2026/11/27/nasdaq-futures-jump-over-2-as-battered-ai-stocks-rebound-but-nasdaq-100-is-still-heading-for-its-worst-month-since-2022/"
+  },
+  {
+   "title": "NordFX – Market Pulse",
+   "url": "https://nordfx.com/market-news/market-pulse-november-27-2026"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Thursday, November twenty-sixth, twenty twenty-six, and this is your Market Surf Report. Sitting next to me in a little pilgrim hat is my co-anchor, Gus the wonder dog. Happy Thanksgiving, Gus! [BARK] Okay, here's the surf check. The beach is closed today, dudes. US stock markets are shut for Thanksgiving, so conditions are flat and glassy, with no swell at all. There's no regular session, no economic reports, and no big earnings on the calendar. Any holiday moves in futures or overseas tend to be thin, so don't read too much into them. The whole market caught a nice long wave this year, and that's worth being thankful for. That calls for a treat, Gus! Here you go, buddy, a little turkey! [SNACK] Now, the Dawn Patrol paddles back out tomorrow. Friday is a short session. Stocks open at eight thirty A M Central and close early at noon Central. Black Friday kicks off the holiday shopping season, so keep an eye on the early shopping reports. Retail headlines can make some waves in a quiet half day. Light volume can also make things a little gnarly, so no kook moves. Soul Surfers, this is a great day to step off the board, enjoy your family, and be stoked about the year. If you want to check a wave before tomorrow, type any stock, E T F or futures contract into the Check a Wave box on the page, and I'll call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November twenty-seventh, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog slept off his turkey and he's back on the boards. Give us a holiday howdy, Gus! [BARK] Alright, let's check the swell. It's Black Friday, so stocks close early, at noon Central. As of early this morning, S and P 500 futures were up about one point seven percent. Nasdaq one hundred futures were up about two point three percent. Dow futures were up about one point three percent, and the Russell two thousand about one point four percent. Volume is thin, so these early waves can shift. The ten year Treasury yield sits near four point eight five percent. Crude oil is up about two percent near eighty five dollars. Gold is bouncing about three percent off a one year low. Bitcoin is up almost two percent. And the fear gauge, the VIX, is easing to around twenty five. Overnight, Asia was gnarly in a good way, with Chinese stocks up more than three percent after Beijing pledged support. Europe is up about one percent. Now the wind and weather. No big US economic reports today. But the Fed meets December eighth and ninth, and markets see a rate hike as nearly certain after hot inflation numbers. On the tide chart, no major earnings today. Now the lineup. Chip stocks are hanging ten. SanDisk is up about ten percent before the bell. That calls for a treat, Gus! Here you go, buddy! [SNACK] Marvell is up about eight percent, Micron about seven, and Nvidia about four. Kinetik is up about seven percent on a report that Targa Resources wants to buy it. Vera Therapeutics jumped about sixteen percent, while Vertex fell about eight percent after the F D A delayed a decision on Vertex's kidney drug. On the beach talk, Altria is weighing a bid for Imperial Brands, and S A P reportedly plans to cut about ten thousand jobs. Sets to watch: whether the chip rebound holds through the half day, oil ahead of Sunday's OPEC plus meeting, and month end moves. Soul surfers, stay steady and don't drop in on a hodad rally. Got a stock, E T F or futures contract on your mind? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -144,139 +195,223 @@
   },
   {
    "start": 11.57,
-   "end": 18.01,
-   "text": "It's Thursday, November twenty-sixth, twenty twenty-six, and this is your Market Surf Report.",
+   "end": 18.16,
+   "text": "It's Friday, November twenty-seventh, twenty twenty-six, and this is your Market Surf Report.",
    "speaker": "surf"
   },
   {
-   "start": 18.29,
-   "end": 23.56,
-   "text": "Sitting next to me in a little pilgrim hat is my co-anchor, Gus the wonder dog.",
+   "start": 18.44,
+   "end": 23.03,
+   "text": "Gus the wonder dog slept off his turkey and he's back on the boards.",
    "speaker": "surf"
   },
   {
-   "start": 23.84,
-   "end": 25.67,
-   "text": "Happy Thanksgiving, Gus!",
+   "start": 23.31,
+   "end": 25.42,
+   "text": "Give us a holiday howdy, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 25.95,
-   "end": 26.5,
+   "start": 25.7,
+   "end": 26.25,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 26.78,
-   "end": 28.81,
-   "text": "Okay, here's the surf check.",
+   "start": 26.53,
+   "end": 28.58,
+   "text": "Alright, let's check the swell.",
    "speaker": "surf"
   },
   {
-   "start": 29.09,
-   "end": 31.46,
-   "text": "The beach is closed today, dudes.",
+   "start": 28.86,
+   "end": 32.95,
+   "text": "It's Black Friday, so stocks close early, at noon Central.",
    "speaker": "surf"
   },
   {
-   "start": 31.74,
-   "end": 38.99,
-   "text": "US stock markets are shut for Thanksgiving, so conditions are flat and glassy, with no swell at all.",
+   "start": 33.23,
+   "end": 40.51,
+   "text": "As of early this morning, S and P 500 futures were up about one point seven percent.",
    "speaker": "surf"
   },
   {
-   "start": 39.27,
-   "end": 45.35,
-   "text": "There's no regular session, no economic reports, and no big earnings on the calendar.",
+   "start": 40.79,
+   "end": 45.42,
+   "text": "Nasdaq one hundred futures were up about two point three percent.",
    "speaker": "surf"
   },
   {
-   "start": 45.63,
-   "end": 52.2,
-   "text": "Any holiday moves in futures or overseas tend to be thin, so don't read too much into them.",
+   "start": 45.7,
+   "end": 53.5,
+   "text": "Dow futures were up about one point three percent, and the Russell two thousand about one point four percent.",
    "speaker": "surf"
   },
   {
-   "start": 52.48,
-   "end": 58.01,
-   "text": "The whole market caught a nice long wave this year, and that's worth being thankful for.",
+   "start": 53.78,
+   "end": 57.22,
+   "text": "Volume is thin, so these early waves can shift.",
    "speaker": "surf"
   },
   {
-   "start": 58.29,
-   "end": 60.23,
+   "start": 57.5,
+   "end": 62.13,
+   "text": "The ten year Treasury yield sits near four point eight five percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 62.41,
+   "end": 66.36,
+   "text": "Crude oil is up about two percent near eighty five dollars.",
+   "speaker": "surf"
+  },
+  {
+   "start": 66.64,
+   "end": 70.26,
+   "text": "Gold is bouncing about three percent off a one year low.",
+   "speaker": "surf"
+  },
+  {
+   "start": 70.54,
+   "end": 72.82,
+   "text": "Bitcoin is up almost two percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 73.1,
+   "end": 77.26,
+   "text": "And the fear gauge, the VIX, is easing to around twenty five.",
+   "speaker": "surf"
+  },
+  {
+   "start": 77.54,
+   "end": 85.78,
+   "text": "Overnight, Asia was gnarly in a good way, with Chinese stocks up more than three percent after Beijing pledged support.",
+   "speaker": "surf"
+  },
+  {
+   "start": 86.06,
+   "end": 88.41,
+   "text": "Europe is up about one percent.",
+   "speaker": "surf"
+  },
+  {
+   "start": 88.69,
+   "end": 90.46,
+   "text": "Now the wind and weather.",
+   "speaker": "surf"
+  },
+  {
+   "start": 90.74,
+   "end": 93.74,
+   "text": "No big US economic reports today.",
+   "speaker": "surf"
+  },
+  {
+   "start": 94.02,
+   "end": 102.09,
+   "text": "But the Fed meets December eighth and ninth, and markets see a rate hike as nearly certain after hot inflation numbers.",
+   "speaker": "surf"
+  },
+  {
+   "start": 102.37,
+   "end": 105.76,
+   "text": "On the tide chart, no major earnings today.",
+   "speaker": "surf"
+  },
+  {
+   "start": 106.04,
+   "end": 107.41,
+   "text": "Now the lineup.",
+   "speaker": "surf"
+  },
+  {
+   "start": 107.69,
+   "end": 109.67,
+   "text": "Chip stocks are hanging ten.",
+   "speaker": "surf"
+  },
+  {
+   "start": 109.95,
+   "end": 113.28,
+   "text": "SanDisk is up about ten percent before the bell.",
+   "speaker": "surf"
+  },
+  {
+   "start": 113.56,
+   "end": 115.5,
    "text": "That calls for a treat, Gus!",
    "speaker": "surf"
   },
   {
-   "start": 60.51,
-   "end": 62.84,
-   "text": "Here you go, buddy, a little turkey!",
+   "start": 115.78,
+   "end": 117.23,
+   "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 63.12,
-   "end": 65.09,
+   "start": 117.51,
+   "end": 119.48,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 65.37,
-   "end": 68.63,
-   "text": "Now, the Dawn Patrol paddles back out tomorrow.",
+   "start": 119.76,
+   "end": 125.71,
+   "text": "Marvell is up about eight percent, Micron about seven, and Nvidia about four.",
    "speaker": "surf"
   },
   {
-   "start": 68.91,
-   "end": 70.85,
-   "text": "Friday is a short session.",
+   "start": 125.99,
+   "end": 132.05,
+   "text": "Kinetik is up about seven percent on a report that Targa Resources wants to buy it.",
    "speaker": "surf"
   },
   {
-   "start": 71.13,
-   "end": 76.21,
-   "text": "Stocks open at eight thirty A M Central and close early at noon Central.",
+   "start": 132.33,
+   "end": 143.15,
+   "text": "Vera Therapeutics jumped about sixteen percent, while Vertex fell about eight percent after the F D A delayed a decision on Vertex's kidney drug.",
    "speaker": "surf"
   },
   {
-   "start": 76.49,
-   "end": 83.04,
-   "text": "Black Friday kicks off the holiday shopping season, so keep an eye on the early shopping reports.",
+   "start": 143.43,
+   "end": 152.83,
+   "text": "On the beach talk, Altria is weighing a bid for Imperial Brands, and S A P reportedly plans to cut about ten thousand jobs.",
    "speaker": "surf"
   },
   {
-   "start": 83.32,
-   "end": 87.52,
-   "text": "Retail headlines can make some waves in a quiet half day.",
+   "start": 153.11,
+   "end": 162.07,
+   "text": "Sets to watch: whether the chip rebound holds through the half day, oil ahead of Sunday's OPEC plus meeting, and month end moves.",
    "speaker": "surf"
   },
   {
-   "start": 87.8,
-   "end": 92.75,
-   "text": "Light volume can also make things a little gnarly, so no kook moves.",
+   "start": 162.35,
+   "end": 166.86,
+   "text": "Soul surfers, stay steady and don't drop in on a hodad rally.",
    "speaker": "surf"
   },
   {
-   "start": 93.03,
-   "end": 100.37,
-   "text": "Soul Surfers, this is a great day to step off the board, enjoy your family, and be stoked about the year.",
+   "start": 167.14,
+   "end": 171.38,
+   "text": "Got a stock, E T F or futures contract on your mind?",
    "speaker": "surf"
   },
   {
-   "start": 100.65,
-   "end": 112.47,
-   "text": "If you want to check a wave before tomorrow, type any stock, E T F or futures contract into the Check a Wave box on the page, and I'll call it for you.",
+   "start": 171.66,
+   "end": 177.25,
+   "text": "Type it in the Check a Wave box on the page, and Surf Daddy will call it for you.",
    "speaker": "surf"
   },
   {
-   "start": 112.75,
-   "end": 115.35,
+   "start": 177.53,
+   "end": 180.13,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 115.63,
-   "end": 120.83,
+   "start": 180.41,
+   "end": 185.62,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
