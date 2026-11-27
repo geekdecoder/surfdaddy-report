@@ -1,119 +1,116 @@
 {
  "date": "2026-11-27",
- "title": "Market Surf Report",
- "edition": "Dawn Patrol Edition",
+ "slot": "evening",
+ "title": "Sunset Session",
+ "edition": "Sunset Session",
  "is_sample": false,
- "updated": "Nov 27, 5:55 AM CT",
+ "updated": "Nov 27, 5:00 PM CT",
  "conditions": {
-  "rating": "Good",
-  "headline": "Chip stocks ride a Black Friday swell",
-  "summary": "Futures are up firmly as beaten-down AI and chip stocks rebound after a big rally in Asia. It is a holiday half-day with thin volume, and a likely December Fed rate hike still hangs over the lineup."
+  "rating": "Epic",
+  "headline": "Black Friday Barrel: Chips Charge Back as Stocks Cap Their Best Week in 19 Months",
+  "summary": "Stocks rallied across the board in a shortened post-Thanksgiving session, led by a rebound in AI and memory chip names. The S&P 500 rose 1.6 percent and the Nasdaq 2.3 percent, though both are still down for November."
  },
  "tape": [
   {
-   "label": "S&P fut",
-   "value": "+1.7%",
+   "label": "S&P 500",
+   "value": "+1.6%",
    "dir": "up"
   },
   {
-   "label": "Nasdaq fut",
+   "label": "Nasdaq",
    "value": "+2.3%",
    "dir": "up"
   },
   {
-   "label": "Dow fut",
-   "value": "+1.3%",
+   "label": "Dow",
+   "value": "+1.2%",
    "dir": "up"
   },
   {
-   "label": "Russell fut",
-   "value": "+1.4%",
-   "dir": "up"
-  },
-  {
-   "label": "10-yr",
-   "value": "4.85%",
-   "dir": "flat"
-  },
-  {
-   "label": "Dollar",
-   "value": "103.8",
-   "dir": "flat"
-  },
-  {
-   "label": "Crude",
-   "value": "$85.41 +2.1%",
-   "dir": "up"
-  },
-  {
-   "label": "Gold",
-   "value": "+3%",
-   "dir": "up"
-  },
-  {
-   "label": "Bitcoin",
+   "label": "Russell 2000",
    "value": "+1.7%",
    "dir": "up"
   },
   {
+   "label": "10-yr",
+   "value": "~4.9%",
+   "dir": "flat"
+  },
+  {
+   "label": "Dollar",
+   "value": "n/a",
+   "dir": "flat"
+  },
+  {
+   "label": "Crude",
+   "value": "-0.8%",
+   "dir": "down"
+  },
+  {
+   "label": "Gold",
+   "value": "+3.8%",
+   "dir": "up"
+  },
+  {
+   "label": "Bitcoin",
+   "value": "-1.7%",
+   "dir": "down"
+  },
+  {
    "label": "VIX",
-   "value": "25.0",
+   "value": "24.0",
    "dir": "down"
   }
  ],
  "sections": [
   {
-   "id": "swell",
-   "surf": "The Swell",
-   "title": "Futures & Overnight",
+   "id": "close",
+   "surf": "The Final Set",
+   "title": "Closing Bell",
    "items": [
-    "Around 6:45 AM ET, S&P 500 futures were up about 1.7%, Nasdaq-100 futures up about 2.3% and Russell 2000 futures up about 1.4%; Dow futures were up about 1.3% earlier in the morning.",
-    "Holiday trading is thin, so early quotes may swing; stocks close early at 12 PM CT and bonds at 1 PM CT.",
-    "The 10-year Treasury yield is near 4.85%; the dollar index is little changed near 103.8, close to its highest level in well over a year.",
-    "WTI crude is up about 2% near $85 after attacks on Saudi energy sites and ships near the Strait of Hormuz; OPEC+ meets Sunday.",
-    "Gold is rebounding from a one-year low, up roughly 3% to near $3,660–3,700 (sources differ); bitcoin is up about 1.7% near $61,500.",
-    "The VIX is easing to around 25, though readings vary across sources this early.",
-    "Asia: China, Japan and Korea rallied hard, with Shanghai up more than 3% and the Kospi up about 4%, after Beijing pledged steps to support its stock market.",
-    "Europe: stocks are higher, with the Euro Stoxx 50 up about 1.3% and the DAX and FTSE 100 up about 0.8%."
+    "The S&P 500 rose 1.6% to 7,297.49 in a half-day session that ended at noon Central.",
+    "The Nasdaq Composite jumped 2.3% to 24,129.50, the Dow added 1.2% to 50,774.94 and the Russell 2000 gained 1.7% to 2,750.30.",
+    "AI and semiconductor stocks led a rebound after their recent sell-off, giving the S&P 500 its best week in about 19 months.",
+    "Consumer discretionary led the sectors on Black Friday shopping optimism, while utilities and communication services lagged; every sector finished higher.",
+    "Even after the bounce, the S&P 500 is down about 3.7% for November and roughly 6.7% below its October record."
    ]
   },
   {
    "id": "wind",
    "surf": "Wind & Weather",
-   "title": "Macro & Economic Calendar",
+   "title": "Macro & Fed",
    "items": [
-    "No major US economic releases are scheduled today; markets reopen after Thanksgiving for a shortened session.",
-    "Futures price a near-certain Fed rate hike at the December 8–9 meeting after October core PCE inflation came in at 3.3% year over year, above forecasts.",
-    "Third-quarter GDP was revised up to 4.3% growth, and weekly jobless claims were a low 189,000.",
-    "The US trade office proposed new Section 301 tariffs on 14 trading partners, including China and the EU; servers, chips and chipmaking tools were left out.",
-    "Black Friday: Adobe expects US online spending of about $12.9 billion today, up about 9% from last year."
-   ]
-  },
-  {
-   "id": "tide",
-   "surf": "Tide Chart",
-   "title": "Earnings",
-   "items": [
-    "No major companies report before today's open or after today's early close.",
-    "This week: HP jumped about 11% Wednesday after a profit beat and an upbeat outlook for next year.",
-    "Deere rose about 4.5% Wednesday even though its profit forecast for next year came in below estimates.",
-    "Dell reported Tuesday and has swung sharply since; it is up about 6% pre-market with other AI hardware names.",
-    "Toyota's global sales fell 6.3% in October, but it raised its full-year operating profit forecast."
+    "No major US economic reports were scheduled for the holiday-shortened session.",
+    "The VIX fear gauge eased to about 24 from just over 28 on Wednesday, well below its 35.89 reading on November 20.",
+    "The 10-year Treasury yield sat near 4.9%; sources differed on the day's direction, and the bond market closed early at 1 PM Central.",
+    "Gold jumped nearly 4% to around $3,670 an ounce, bouncing off a 14-month low; WTI crude slipped about 0.8% to roughly $83 and bitcoin dipped below $60,000.",
+    "The Fed's next policy meeting is December 8 and 9, with no Fed speakers on today's calendar."
    ]
   },
   {
    "id": "lineup",
    "surf": "The Lineup",
-   "title": "Stocks in the News",
+   "title": "Biggest Movers",
    "items": [
-    "SNDK (SanDisk): about +10% — memory and storage stocks lead the chip rebound.",
-    "MRVL (Marvell): about +8% — AI networking chips bounce with Asian semiconductors.",
-    "MU (Micron): about +7% — memory names rally after a 4.5% drop Wednesday.",
-    "NVDA (Nvidia): about +4% — rebounding after two down days that followed Jensen Huang's return as CEO.",
-    "KNTK (Kinetik): about +7% — Bloomberg reports Targa Resources is in talks to buy it; Targa is down 2–3%.",
-    "VERA (Vera Therapeutics): about +16% and VRTX (Vertex): about −8% — the FDA extended its review of Vertex's kidney drug to late February.",
-    "PANW (Palo Alto Networks): about −4% — a former executive sued, alleging improper sales counting; the company denies it.",
-    "LRCX (Lam Research): about +5.7% — recovering after a nearly 6% drop on a proposed bill to tighten chip-equipment sales to China."
+    "SNDK (SanDisk): +16.0% — memory chip makers led the semiconductor rebound.",
+    "BBD (Bradesco): +15.2% — Brazil's president reportedly tapped Bradesco's chairman as finance minister, sparking a rally in Brazilian stocks.",
+    "ANT (Anthropic): +11.0% — the newly listed AI company climbed back above its $83 IPO price to $91.88.",
+    "KNTK (Kinetik Holdings): +9.3% — reports of a potential acquisition.",
+    "MU (Micron): +7.6% — memory and chip names bounced back.",
+    "TSLA (Tesla): +5.2% — closed at $400 as growth stocks rallied.",
+    "AMZN (Amazon): +4.0% — Black Friday shopping data and AI optimism.",
+    "VRTX (Vertex Pharmaceuticals): -5.2% — the FDA extended its review of povetacicept to February 2027.",
+    "ALVO (Alvotech): -12.4% — a US court granted Janssen a preliminary injunction against its Simponi biosimilar."
+   ]
+  },
+  {
+   "id": "tide",
+   "surf": "Tide Chart",
+   "title": "Earnings Today & Tonight",
+   "items": [
+    "It was a quiet holiday session with no major earnings reports before the open or after the close.",
+    "Earnings pick back up Monday with Chagee before the open and Rubrik after the close.",
+    "Next week's big names include Marvell on Tuesday, Salesforce and Snowflake on Wednesday, and Kroger, Dollar General and Ulta Beauty on Thursday."
    ]
   },
   {
@@ -121,64 +118,54 @@
    "surf": "Beach Talk",
    "title": "Business News",
    "items": [
-    "Targa Resources is reportedly in talks to buy pipeline company Kinetik in a deal valued around $8.9 billion.",
-    "Altria said it is considering a takeover offer for Imperial Brands, sending Imperial up about 13% in London.",
-    "SAP reportedly plans to cut at least 10,000 jobs, about 9% of its workforce.",
-    "Nvidia has reportedly barred partners from shipping servers with its chips to several Southeast Asian countries under new export rules.",
-    "The NRF expects holiday sales to grow about 4% to just over $1 trillion."
+    "Nvidia rose modestly but remains well below Monday's close, after a week that began with Jensen Huang reinstated as CEO.",
+    "Reports said Nvidia Blackwell chips barred from export to China were installed at a Shanghai data center, adding to scrutiny of chip export controls.",
+    "Brazilian markets surged after reports that Bradesco chairman Luiz Carlos Trabuco Cappi will become finance minister starting in 2027.",
+    "Chinese chip stocks posted their biggest one-day gain on record.",
+    "Altria said it is considering a cash offer for Imperial Brands, and its shares slipped in early trading."
    ]
   },
   {
-   "id": "watch",
-   "surf": "Sets to Watch",
-   "title": "What to Watch Today",
+   "id": "tomorrow",
+   "surf": "Tomorrow's Forecast",
+   "title": "On Deck",
    "items": [
-    "8:30 AM CT open to 12 PM CT close: whether the chip rebound holds in a thin holiday session.",
-    "Oil near $85 ahead of Sunday's OPEC+ meeting and amid Middle East supply risks.",
-    "Month-end positioning: the Nasdaq-100 is still on track for its worst month since 2022 despite this week's gains."
+    "Monday is next up after the weekend: Chicago PMI at 8:45 AM CT and the Dallas Fed manufacturing index at 9:30 AM CT.",
+    "Earnings Monday: Chagee before the open and Rubrik after the close.",
+    "Tuesday brings ISM manufacturing and JOLTS job openings at 9:00 AM CT, plus Marvell after the close.",
+    "Salesforce reports Wednesday after the close, and the November jobs report lands Friday at 7:30 AM CT.",
+    "No Fed speakers are scheduled for Monday; the Fed meets December 8 and 9."
    ]
   }
  ],
- "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November twenty-seventh, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog slept off his turkey and he's back on the boards. Give us a holiday howdy, Gus! Alright, let's check the swell. It's Black Friday, so stocks close early, at noon Central. As of early this morning, S and P 500 futures were up about one point seven percent. Nasdaq one hundred futures were up about two point three percent. Dow futures were up about one point three percent, and the Russell two thousand about one point four percent. Volume is thin, so these early waves can shift. The ten year Treasury yield sits near four point eight five percent. Crude oil is up about two percent near eighty five dollars. Gold is bouncing about three percent off a one year low. Bitcoin is up almost two percent. And the fear gauge, the VIX, is easing to around twenty five. Overnight, Asia was gnarly in a good way, with Chinese stocks up more than three percent after Beijing pledged support. Europe is up about one percent. Now the wind and weather. No big US economic reports today. But the Fed meets December eighth and ninth, and markets see a rate hike as nearly certain after hot inflation numbers. On the tide chart, no major earnings today. Now the lineup. Chip stocks are hanging ten. SanDisk is up about ten percent before the bell. That calls for a treat, Gus! Here you go, buddy! Marvell is up about eight percent, Micron about seven, and Nvidia about four. Kinetik is up about seven percent on a report that Targa Resources wants to buy it. Vera Therapeutics jumped about sixteen percent, while Vertex fell about eight percent after the F D A delayed a decision on Vertex's kidney drug. On the beach talk, Altria is weighing a bid for Imperial Brands, and S A P reportedly plans to cut about ten thousand jobs. Sets to watch: whether the chip rebound holds through the half day, oil ahead of Sunday's OPEC plus meeting, and month end moves. Soul surfers, stay steady and don't drop in on a hodad rally. Got a stock, E T F or futures contract on your mind? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November twenty-seventh, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding down over the water, the turkey leftovers are in the cooler, and we just rode the last set of a short Black Friday session. Gus the wonder dog slept through Thanksgiving dinner, but he is wide awake for the closing bell. Say good evening, Gus! Alright, the final set. The market closed early today, at noon Central, and it was a beauty. The S and P five hundred rose one point six percent to about seven thousand two hundred ninety-seven. The Nasdaq jumped two point three percent to about twenty-four thousand one hundred thirty. The Dow added one point two percent to about fifty thousand seven hundred seventy-five. And the Russell two thousand small caps gained one point seven percent. AI and chip stocks led the charge back after a gnarly sell-off, and every sector finished higher. That gave the S and P its best week in about nineteen months. Consumer stocks led on Black Friday shopping hopes, while utilities lagged. One reality check, though. Even after this swell, the S and P is still down almost four percent for November. Now the wind and weather. There was no big economic data today. The fear gauge, the VIX, eased to about twenty-four, down from just over twenty-eight on Wednesday. The ten year Treasury yield sat near four point nine percent. Gold jumped nearly four percent to around three thousand six hundred seventy dollars an ounce. Crude oil slipped under one percent to about eighty-three dollars, and bitcoin dipped just under sixty thousand. Now let's check the lineup. SanDisk hung ten all the way to the beach, up sixteen percent as memory chips came roaring back. Gus, that's worth a biscuit! Here you go, buddy! Micron rode the same wave, up seven point six percent. Brazilian bank Bradesco surged fifteen percent after reports its chairman will become Brazil's finance minister. Anthropic, the big new grom on the block, climbed eleven percent and is back above its IPO price. Kinetik Holdings rose nine percent on buyout reports. Tesla gained five percent to four hundred dollars, and Amazon rose four percent on holiday shopping cheer. On the wipeout side, Vertex fell five percent after the FDA extended a drug review. And Alvotech dropped twelve percent after a court ruling went against it. Tide chart is quiet tonight, with no big earnings in the holiday session. Over on the beach, Nvidia bounced a little but is still below Monday's close, and reports of its banned chips turning up in Shanghai are raising questions. Chinese chip stocks had their biggest one day gain on record. And Altria says it may make a cash offer for Imperial Brands. Tomorrow's forecast, which is really Monday after the weekend. We get the Chicago P M I at eight forty-five A M Central, and Rubrik reports after the close. Tuesday brings the I S M manufacturing report and job openings, then Salesforce reports Wednesday, and the big jobs report lands Friday at seven thirty A M Central. Got a stock, an E T F or a futures contract on your mind? Type it into the Check a Wave box on the page, and Surf Daddy will call it for you. Wax that board for next week, Trade Wind surfers, and catch the Dawn Patrol on Monday morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "sources": [
   {
-   "title": "Raspberry Trades – Stock Market Today (Nov 27)",
-   "url": "https://raspberrytrades.com/stock-market-today"
+   "title": "Motley Fool: Stock Market Today, Nov. 27",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-s-and-p-500-posts-best-week-in-19-months-as-ai-stocks-rebound/"
   },
   {
-   "title": "TipRanks – Markets reopen for shortened Black Friday trading",
-   "url": "https://www.tipranks.com/news/stock-market-today-nov-27-markets-reopen-for-shortened-black-friday-trading"
+   "title": "The Company Chronicle: Stocks close",
+   "url": "https://thecompanychronicle.com/story/stocks-close-sp500-up-1-6-percent-nasdaq-up-2-3-percent-vix-24-half-day-november-27-2026"
   },
   {
-   "title": "TipRanks – Futures ahead of shortened session",
-   "url": "https://www.tipranks.com/news/u-s-stock-futures-in-focus-ahead-of-a-shortened-black-friday-session"
+   "title": "StockTitan: Stock Market Today, Nov. 27",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026"
   },
   {
-   "title": "Saxo – Market Quick Take, 27 Nov 2026",
-   "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---brent-tops-usd-97-and-asian-stocks-extend-rebound---27-november-2026-27112026"
+   "title": "Yahoo Finance: Markets News, Nov. 27",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html"
   },
   {
-   "title": "Techi – AI hardware stocks pre-market",
-   "url": "https://www.techi.com/premarket-ai-hardware-stocks-friday-half-day-nvidia-november/"
+   "title": "eOption: Weekly Event Calendar",
+   "url": "https://www.eoption.com/weekly-event-calendar-11-30-2026-12-04-2026/"
   },
   {
-   "title": "Longbridge – US Stock Preview",
-   "url": "https://longbridge.com/en/news/307019592"
-  },
-  {
-   "title": "Oninvest – Morning in New York",
-   "url": "https://en.oninvest.com/article/morning-in-new-york-the-focus-is-on-the-u-s-stock-market-s-recovery"
-  },
-  {
-   "title": "The Private Banker – Nasdaq futures jump",
-   "url": "https://leprivatebanker.com/2026/11/27/nasdaq-futures-jump-over-2-as-battered-ai-stocks-rebound-but-nasdaq-100-is-still-heading-for-its-worst-month-since-2022/"
-  },
-  {
-   "title": "NordFX – Market Pulse",
-   "url": "https://nordfx.com/market-news/market-pulse-november-27-2026"
+   "title": "StockTitan: Earnings Calendar Week of Nov. 30",
+   "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-30-2026"
   }
  ],
- "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November twenty-seventh, twenty twenty-six, and this is your Market Surf Report. Gus the wonder dog slept off his turkey and he's back on the boards. Give us a holiday howdy, Gus! [BARK] Alright, let's check the swell. It's Black Friday, so stocks close early, at noon Central. As of early this morning, S and P 500 futures were up about one point seven percent. Nasdaq one hundred futures were up about two point three percent. Dow futures were up about one point three percent, and the Russell two thousand about one point four percent. Volume is thin, so these early waves can shift. The ten year Treasury yield sits near four point eight five percent. Crude oil is up about two percent near eighty five dollars. Gold is bouncing about three percent off a one year low. Bitcoin is up almost two percent. And the fear gauge, the VIX, is easing to around twenty five. Overnight, Asia was gnarly in a good way, with Chinese stocks up more than three percent after Beijing pledged support. Europe is up about one percent. Now the wind and weather. No big US economic reports today. But the Fed meets December eighth and ninth, and markets see a rate hike as nearly certain after hot inflation numbers. On the tide chart, no major earnings today. Now the lineup. Chip stocks are hanging ten. SanDisk is up about ten percent before the bell. That calls for a treat, Gus! Here you go, buddy! [SNACK] Marvell is up about eight percent, Micron about seven, and Nvidia about four. Kinetik is up about seven percent on a report that Targa Resources wants to buy it. Vera Therapeutics jumped about sixteen percent, while Vertex fell about eight percent after the F D A delayed a decision on Vertex's kidney drug. On the beach talk, Altria is weighing a bid for Imperial Brands, and S A P reportedly plans to cut about ten thousand jobs. Sets to watch: whether the chip rebound holds through the half day, oil ahead of Sunday's OPEC plus meeting, and month end moves. Soul surfers, stay steady and don't drop in on a hodad rally. Got a stock, E T F or futures contract on your mind? Type it in the Check a Wave box on the page, and Surf Daddy will call it for you. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
+ "script_source": "Cowabunga! This is Surf Daddy, your local Kahuna, live from Surfside USA to all you Trade Wind surfers from the Gulf Coast to the North Shore. It's Friday, November twenty-seventh, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market. The sun is sliding down over the water, the turkey leftovers are in the cooler, and we just rode the last set of a short Black Friday session. Gus the wonder dog slept through Thanksgiving dinner, but he is wide awake for the closing bell. Say good evening, Gus! [BARK] Alright, the final set. The market closed early today, at noon Central, and it was a beauty. The S and P five hundred rose one point six percent to about seven thousand two hundred ninety-seven. The Nasdaq jumped two point three percent to about twenty-four thousand one hundred thirty. The Dow added one point two percent to about fifty thousand seven hundred seventy-five. And the Russell two thousand small caps gained one point seven percent. AI and chip stocks led the charge back after a gnarly sell-off, and every sector finished higher. That gave the S and P its best week in about nineteen months. Consumer stocks led on Black Friday shopping hopes, while utilities lagged. One reality check, though. Even after this swell, the S and P is still down almost four percent for November. Now the wind and weather. There was no big economic data today. The fear gauge, the VIX, eased to about twenty-four, down from just over twenty-eight on Wednesday. The ten year Treasury yield sat near four point nine percent. Gold jumped nearly four percent to around three thousand six hundred seventy dollars an ounce. Crude oil slipped under one percent to about eighty-three dollars, and bitcoin dipped just under sixty thousand. Now let's check the lineup. SanDisk hung ten all the way to the beach, up sixteen percent as memory chips came roaring back. Gus, that's worth a biscuit! Here you go, buddy! [SNACK] Micron rode the same wave, up seven point six percent. Brazilian bank Bradesco surged fifteen percent after reports its chairman will become Brazil's finance minister. Anthropic, the big new grom on the block, climbed eleven percent and is back above its IPO price. Kinetik Holdings rose nine percent on buyout reports. Tesla gained five percent to four hundred dollars, and Amazon rose four percent on holiday shopping cheer. On the wipeout side, Vertex fell five percent after the FDA extended a drug review. And Alvotech dropped twelve percent after a court ruling went against it. Tide chart is quiet tonight, with no big earnings in the holiday session. Over on the beach, Nvidia bounced a little but is still below Monday's close, and reports of its banned chips turning up in Shanghai are raising questions. Chinese chip stocks had their biggest one day gain on record. And Altria says it may make a cash offer for Imperial Brands. Tomorrow's forecast, which is really Monday after the weekend. We get the Chicago P M I at eight forty-five A M Central, and Rubrik reports after the close. Tuesday brings the I S M manufacturing report and job openings, then Salesforce reports Wednesday, and the big jobs report lands Friday at seven thirty A M Central. Got a stock, an E T F or a futures contract on your mind? Type it into the Check a Wave box on the page, and Surf Daddy will call it for you. Wax that board for next week, Trade Wind surfers, and catch the Dawn Patrol on Monday morning. This is information, not advice. This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
  "audio": "report.mp3",
  "captions": [
   {
@@ -195,223 +182,277 @@
   },
   {
    "start": 11.57,
-   "end": 18.16,
-   "text": "It's Friday, November twenty-seventh, twenty twenty-six, and this is your Market Surf Report.",
+   "end": 20.02,
+   "text": "It's Friday, November twenty-seventh, twenty twenty-six, and this is your Sunset Session, the full wrap of today's market.",
    "speaker": "surf"
   },
   {
-   "start": 18.44,
-   "end": 23.03,
-   "text": "Gus the wonder dog slept off his turkey and he's back on the boards.",
+   "start": 20.3,
+   "end": 30.11,
+   "text": "The sun is sliding down over the water, the turkey leftovers are in the cooler, and we just rode the last set of a short Black Friday session.",
    "speaker": "surf"
   },
   {
-   "start": 23.31,
-   "end": 25.42,
-   "text": "Give us a holiday howdy, Gus!",
+   "start": 30.39,
+   "end": 36.38,
+   "text": "Gus the wonder dog slept through Thanksgiving dinner, but he is wide awake for the closing bell.",
    "speaker": "surf"
   },
   {
-   "start": 25.7,
-   "end": 26.25,
+   "start": 36.66,
+   "end": 38.33,
+   "text": "Say good evening, Gus!",
+   "speaker": "surf"
+  },
+  {
+   "start": 38.61,
+   "end": 39.16,
    "text": "Woof! Woof!",
    "speaker": "gus"
   },
   {
-   "start": 26.53,
-   "end": 28.58,
-   "text": "Alright, let's check the swell.",
+   "start": 39.44,
+   "end": 41.29,
+   "text": "Alright, the final set.",
    "speaker": "surf"
   },
   {
-   "start": 28.86,
-   "end": 32.95,
-   "text": "It's Black Friday, so stocks close early, at noon Central.",
+   "start": 41.57,
+   "end": 46.2,
+   "text": "The market closed early today, at noon Central, and it was a beauty.",
    "speaker": "surf"
   },
   {
-   "start": 33.23,
-   "end": 40.51,
-   "text": "As of early this morning, S and P 500 futures were up about one point seven percent.",
+   "start": 46.48,
+   "end": 54.44,
+   "text": "The S and P five hundred rose one point six percent to about seven thousand two hundred ninety-seven.",
    "speaker": "surf"
   },
   {
-   "start": 40.79,
-   "end": 45.42,
-   "text": "Nasdaq one hundred futures were up about two point three percent.",
+   "start": 54.72,
+   "end": 60.82,
+   "text": "The Nasdaq jumped two point three percent to about twenty-four thousand one hundred thirty.",
    "speaker": "surf"
   },
   {
-   "start": 45.7,
-   "end": 53.5,
-   "text": "Dow futures were up about one point three percent, and the Russell two thousand about one point four percent.",
+   "start": 61.1,
+   "end": 67.12,
+   "text": "The Dow added one point two percent to about fifty thousand seven hundred seventy-five.",
    "speaker": "surf"
   },
   {
-   "start": 53.78,
-   "end": 57.22,
-   "text": "Volume is thin, so these early waves can shift.",
+   "start": 67.4,
+   "end": 72.18,
+   "text": "And the Russell two thousand small caps gained one point seven percent.",
    "speaker": "surf"
   },
   {
-   "start": 57.5,
-   "end": 62.13,
-   "text": "The ten year Treasury yield sits near four point eight five percent.",
+   "start": 72.46,
+   "end": 79.35,
+   "text": "AI and chip stocks led the charge back after a gnarly sell-off, and every sector finished higher.",
    "speaker": "surf"
   },
   {
-   "start": 62.41,
-   "end": 66.36,
-   "text": "Crude oil is up about two percent near eighty five dollars.",
+   "start": 79.63,
+   "end": 83.87,
+   "text": "That gave the S and P its best week in about nineteen months.",
    "speaker": "surf"
   },
   {
-   "start": 66.64,
-   "end": 70.26,
-   "text": "Gold is bouncing about three percent off a one year low.",
+   "start": 84.15,
+   "end": 89.36,
+   "text": "Consumer stocks led on Black Friday shopping hopes, while utilities lagged.",
    "speaker": "surf"
   },
   {
-   "start": 70.54,
-   "end": 72.82,
-   "text": "Bitcoin is up almost two percent.",
+   "start": 89.64,
+   "end": 91.47,
+   "text": "One reality check, though.",
    "speaker": "surf"
   },
   {
-   "start": 73.1,
-   "end": 77.26,
-   "text": "And the fear gauge, the VIX, is easing to around twenty five.",
+   "start": 91.75,
+   "end": 97.6,
+   "text": "Even after this swell, the S and P is still down almost four percent for November.",
    "speaker": "surf"
   },
   {
-   "start": 77.54,
-   "end": 85.78,
-   "text": "Overnight, Asia was gnarly in a good way, with Chinese stocks up more than three percent after Beijing pledged support.",
-   "speaker": "surf"
-  },
-  {
-   "start": 86.06,
-   "end": 88.41,
-   "text": "Europe is up about one percent.",
-   "speaker": "surf"
-  },
-  {
-   "start": 88.69,
-   "end": 90.46,
+   "start": 97.88,
+   "end": 99.65,
    "text": "Now the wind and weather.",
    "speaker": "surf"
   },
   {
-   "start": 90.74,
-   "end": 93.74,
-   "text": "No big US economic reports today.",
+   "start": 99.93,
+   "end": 102.94,
+   "text": "There was no big economic data today.",
    "speaker": "surf"
   },
   {
-   "start": 94.02,
-   "end": 102.09,
-   "text": "But the Fed meets December eighth and ninth, and markets see a rate hike as nearly certain after hot inflation numbers.",
+   "start": 103.22,
+   "end": 110.3,
+   "text": "The fear gauge, the VIX, eased to about twenty-four, down from just over twenty-eight on Wednesday.",
    "speaker": "surf"
   },
   {
-   "start": 102.37,
-   "end": 105.76,
-   "text": "On the tide chart, no major earnings today.",
+   "start": 110.58,
+   "end": 114.44,
+   "text": "The ten year Treasury yield sat near four point nine percent.",
    "speaker": "surf"
   },
   {
-   "start": 106.04,
-   "end": 107.41,
-   "text": "Now the lineup.",
+   "start": 114.72,
+   "end": 121.04,
+   "text": "Gold jumped nearly four percent to around three thousand six hundred seventy dollars an ounce.",
    "speaker": "surf"
   },
   {
-   "start": 107.69,
-   "end": 109.67,
-   "text": "Chip stocks are hanging ten.",
+   "start": 121.32,
+   "end": 128.61,
+   "text": "Crude oil slipped under one percent to about eighty-three dollars, and bitcoin dipped just under sixty thousand.",
    "speaker": "surf"
   },
   {
-   "start": 109.95,
-   "end": 113.28,
-   "text": "SanDisk is up about ten percent before the bell.",
+   "start": 128.89,
+   "end": 130.81,
+   "text": "Now let's check the lineup.",
    "speaker": "surf"
   },
   {
-   "start": 113.56,
-   "end": 115.5,
-   "text": "That calls for a treat, Gus!",
+   "start": 131.09,
+   "end": 138.07,
+   "text": "SanDisk hung ten all the way to the beach, up sixteen percent as memory chips came roaring back.",
    "speaker": "surf"
   },
   {
-   "start": 115.78,
-   "end": 117.23,
+   "start": 138.35,
+   "end": 140.1,
+   "text": "Gus, that's worth a biscuit!",
+   "speaker": "surf"
+  },
+  {
+   "start": 140.38,
+   "end": 141.83,
    "text": "Here you go, buddy!",
    "speaker": "surf"
   },
   {
-   "start": 117.51,
-   "end": 119.48,
+   "start": 142.11,
+   "end": 144.08,
    "text": "Woof! Crunch, crunch, crunch.",
    "speaker": "snack"
   },
   {
-   "start": 119.76,
-   "end": 125.71,
-   "text": "Marvell is up about eight percent, Micron about seven, and Nvidia about four.",
+   "start": 144.36,
+   "end": 148.6,
+   "text": "Micron rode the same wave, up seven point six percent.",
    "speaker": "surf"
   },
   {
-   "start": 125.99,
-   "end": 132.05,
-   "text": "Kinetik is up about seven percent on a report that Targa Resources wants to buy it.",
+   "start": 148.88,
+   "end": 157.27,
+   "text": "Brazilian bank Bradesco surged fifteen percent after reports its chairman will become Brazil's finance minister.",
    "speaker": "surf"
   },
   {
-   "start": 132.33,
-   "end": 143.15,
-   "text": "Vera Therapeutics jumped about sixteen percent, while Vertex fell about eight percent after the F D A delayed a decision on Vertex's kidney drug.",
+   "start": 157.55,
+   "end": 164.91,
+   "text": "Anthropic, the big new grom on the block, climbed eleven percent and is back above its IPO price.",
    "speaker": "surf"
   },
   {
-   "start": 143.43,
-   "end": 152.83,
-   "text": "On the beach talk, Altria is weighing a bid for Imperial Brands, and S A P reportedly plans to cut about ten thousand jobs.",
+   "start": 165.19,
+   "end": 169.22,
+   "text": "Kinetik Holdings rose nine percent on buyout reports.",
    "speaker": "surf"
   },
   {
-   "start": 153.11,
-   "end": 162.07,
-   "text": "Sets to watch: whether the chip rebound holds through the half day, oil ahead of Sunday's OPEC plus meeting, and month end moves.",
+   "start": 169.5,
+   "end": 177.16,
+   "text": "Tesla gained five percent to four hundred dollars, and Amazon rose four percent on holiday shopping cheer.",
    "speaker": "surf"
   },
   {
-   "start": 162.35,
-   "end": 166.86,
-   "text": "Soul surfers, stay steady and don't drop in on a hodad rally.",
+   "start": 177.44,
+   "end": 183.9,
+   "text": "On the wipeout side, Vertex fell five percent after the FDA extended a drug review.",
    "speaker": "surf"
   },
   {
-   "start": 167.14,
-   "end": 171.38,
-   "text": "Got a stock, E T F or futures contract on your mind?",
+   "start": 184.18,
+   "end": 188.75,
+   "text": "And Alvotech dropped twelve percent after a court ruling went against it.",
    "speaker": "surf"
   },
   {
-   "start": 171.66,
-   "end": 177.25,
-   "text": "Type it in the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "start": 189.03,
+   "end": 194.02,
+   "text": "Tide chart is quiet tonight, with no big earnings in the holiday session.",
    "speaker": "surf"
   },
   {
-   "start": 177.53,
-   "end": 180.13,
+   "start": 194.3,
+   "end": 204.9,
+   "text": "Over on the beach, Nvidia bounced a little but is still below Monday's close, and reports of its banned chips turning up in Shanghai are raising questions.",
+   "speaker": "surf"
+  },
+  {
+   "start": 205.18,
+   "end": 209.23,
+   "text": "Chinese chip stocks had their biggest one day gain on record.",
+   "speaker": "surf"
+  },
+  {
+   "start": 209.51,
+   "end": 213.65,
+   "text": "And Altria says it may make a cash offer for Imperial Brands.",
+   "speaker": "surf"
+  },
+  {
+   "start": 213.93,
+   "end": 218.26,
+   "text": "Tomorrow's forecast, which is really Monday after the weekend.",
+   "speaker": "surf"
+  },
+  {
+   "start": 218.54,
+   "end": 226.03,
+   "text": "We get the Chicago P M I at eight forty-five A M Central, and Rubrik reports after the close.",
+   "speaker": "surf"
+  },
+  {
+   "start": 226.31,
+   "end": 239.33,
+   "text": "Tuesday brings the I S M manufacturing report and job openings, then Salesforce reports Wednesday, and the big jobs report lands Friday at seven thirty A M Central.",
+   "speaker": "surf"
+  },
+  {
+   "start": 239.61,
+   "end": 244.11,
+   "text": "Got a stock, an E T F or a futures contract on your mind?",
+   "speaker": "surf"
+  },
+  {
+   "start": 244.39,
+   "end": 250.3,
+   "text": "Type it into the Check a Wave box on the page, and Surf Daddy will call it for you.",
+   "speaker": "surf"
+  },
+  {
+   "start": 250.58,
+   "end": 257.23,
+   "text": "Wax that board for next week, Trade Wind surfers, and catch the Dawn Patrol on Monday morning.",
+   "speaker": "surf"
+  },
+  {
+   "start": 257.51,
+   "end": 260.11,
    "text": "This is information, not advice.",
    "speaker": "surf"
   },
   {
-   "start": 180.41,
-   "end": 185.62,
+   "start": 260.39,
+   "end": 265.6,
    "text": "This is Surf Daddy and Gus the wonder dog saying, if in doubt, paddle out!",
    "speaker": "surf"
   }
